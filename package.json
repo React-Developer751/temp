@@ -1,0 +1,36 @@
+{
+  "name": "pure-retry",
+  "version": "0.2.0",
+  "description": "Zero-dependency retry with exponential backoff and jitter for Node.js",
+  "type": "module",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "default": "./src/index.js"
+    }
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "prepublishOnly": "npm test"
+  },
+  "keywords": [
+    "retry",
+    "backoff",
+    "exponential-backoff",
+    "jitter",
+    "zero-dependency"
+  ],
+  "license": "MIT"
+}
