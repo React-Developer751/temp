@@ -1,0 +1,180 @@
+{
+  "brand": "Dental Clinic, Kolkata",
+  "niche": "care",
+  "kind": "health",
+  "profile": "dental",
+  "business_type": "dental",
+  "type_label": "Dental Clinic",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "calm",
+  "keywords": [
+    "care"
+  ],
+  "eyebrow": "Dental Clinic · Kolkata",
+  "location": "Kolkata",
+  "audience": "",
+  "hero_heading": "Dental Clinic in Kolkata",
+  "tagline": "Message first if you prefer.",
+  "about_title": "About us",
+  "about": [
+    "Small questions are welcome too.",
+    "You will find us in Kolkata. Feel free to ask us anything before you make up your mind."
+  ],
+  "features_title": "How we can help you",
+  "features": [
+    {
+      "title": "Crowns",
+      "text": "A cap that covers and protects a weak or damaged tooth. Not sure about Crowns? Start with a short conversation."
+    },
+    {
+      "title": "Dentures",
+      "text": "Feel free to ask us how Dentures works and what to expect."
+    },
+    {
+      "title": "Braces",
+      "text": "Curious about Braces? Ask us anything."
+    },
+    {
+      "title": "Implants",
+      "text": "We'll explain Implants in plain words."
+    },
+    {
+      "title": "Aligners",
+      "text": "Let us know what you need from Aligners and we'll suggest where to start."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Clear explanations",
+      "text": "Every step explained before it begins."
+    },
+    {
+      "title": "Details explained",
+      "text": "Before anything begins."
+    },
+    {
+      "title": "No hard sell",
+      "text": "Take your time."
+    }
+  ],
+  "stats_title": "At a glance",
+  "stats": [
+    {
+      "value": "Kolkata",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "How it works",
+  "steps": [
+    {
+      "title": "Book a visit",
+      "text": "Call or message us to book, and let us know what you'd like help with."
+    },
+    {
+      "title": "Agree the plan",
+      "text": "We confirm what happens and when."
+    },
+    {
+      "title": "Follow up",
+      "text": "We check in afterwards."
+    }
+  ],
+  "faq_title": "Before you ask",
+  "faq": [
+    {
+      "q": "Will you explain the treatment before starting?",
+      "a": "We talk through the options first, so you can decide."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Kolkata; reach out for directions."
+    },
+    {
+      "q": "Do you reply to messages?",
+      "a": "Yes; use the contact information on this page and we will reply."
+    },
+    {
+      "q": "Is there anything I should prepare?",
+      "a": "We will tell you what to bring or prepare when you get in touch."
+    }
+  ],
+  "blog_title": "Notes and guides",
+  "blog": [
+    {
+      "title": "Small things that make a difference",
+      "excerpt": "Notes from everyday experience."
+    },
+    {
+      "title": "What to bring when you get in touch",
+      "excerpt": "A short list that saves a second message."
+    },
+    {
+      "title": "What to expect at your first visit",
+      "excerpt": "A walk through the consultation, from the first question to the plan."
+    }
+  ],
+  "contact": {
+    "place": "Kolkata"
+  },
+  "cta_primary": "Book an appointment",
+  "cta_secondary": "Call the clinic",
+  "cta_text": "Ready when you are: book an appointment.",
+  "cta_title": "Start with a conversation",
+  "footer": "© Dental Clinic, Kolkata. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Kolkata",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "dental (confidence high)",
+    "items_from_prompt": [],
+    "place": "Kolkata",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "dental",
+    "kind": "health"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Dental Clinic, Kolkata' (not a name). Add your business name to replace it.",
+    "Typical dental clinic offerings were used for: Crowns, Dentures, Braces, Implants, Aligners. List your real services (3 or more) to replace them."
+  ]
+}

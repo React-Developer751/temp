@@ -1,0 +1,106 @@
+{
+  "niche": "saas",
+  "requested_niche": "saas",
+  "fallback": false,
+  "reason": "business type software",
+  "mood": "dark",
+  "accent": "#1f70db",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Zenith SaaS Software Company analytics startup bangalore dashboards api Dashboards API Automation Reporting Integrations",
+    "niche": "saas",
+    "title": "SaaS / software company",
+    "fallback": false,
+    "mood": "dark",
+    "accent": "#1f70db",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 18,
+    "palette_family": 0.932,
+    "text_zone": "left",
+    "hero_contrast": 7.08,
+    "seconds": 7.08,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.932
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 33879,
+      "alt": "Illustration for Zenith SaaS: SaaS / software company",
+      "text_color": "#ffffff",
+      "contrast": 7.08,
+      "role": "hero",
+      "seed": 2
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 27344,
+      "alt": "About Zenith SaaS: SaaS / software company",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1015
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 20905,
+        "alt": "Zenith SaaS gallery picture: SaaS / software company",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2028
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 20569,
+        "alt": "Zenith SaaS gallery picture: SaaS / software company",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3041
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 19617,
+        "alt": "Zenith SaaS gallery picture: SaaS / software company",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4054
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 21676,
+        "alt": "Zenith SaaS gallery picture: SaaS / software company",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5067
+      }
+    ]
+  }
+}

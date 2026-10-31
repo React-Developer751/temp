@@ -1,0 +1,429 @@
+[
+ {
+  "n": 1,
+  "cat": "Healthcare / food",
+  "prompt": "dental clinic with friendly dentist",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "hospital",
+   "doctor"
+  ],
+  "ignored": [
+   "friendly"
+  ]
+ },
+ {
+  "n": 2,
+  "cat": "Healthcare / food",
+  "prompt": "italian pasta restaurant interior",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "plate",
+   "restaurant"
+  ],
+  "ignored": [
+   "italian",
+   "interior"
+  ]
+ },
+ {
+  "n": 3,
+  "cat": "Healthcare / food",
+  "prompt": "pharmacy medicine",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "doctor",
+   "medicalcross",
+   "doctor",
+   "medicalcross"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 4,
+  "cat": "Healthcare / food",
+  "prompt": "freshly baked croissants and coffee",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "3 croissant",
+   "coffee_cup"
+  ],
+  "ignored": [
+   "freshly",
+   "baked"
+  ]
+ },
+ {
+  "n": 5,
+  "cat": "Tech / education",
+  "prompt": "online learning platform on laptop",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "monitor",
+   "laptop",
+   "student",
+   "book",
+   "certificate",
+   "laptop"
+  ],
+  "ignored": [
+   "platform"
+  ]
+ },
+ {
+  "n": 6,
+  "cat": "Tech / education",
+  "prompt": "mobile app on smartphone",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "phone",
+   "phone"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 7,
+  "cat": "Tech / education",
+  "prompt": "digital marketing analytics report",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "monitor",
+   "laptop",
+   "chart",
+   "laptop",
+   "chart",
+   "laptop",
+   "document"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 8,
+  "cat": "Tech / education",
+  "prompt": "security shield insurance",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "shield",
+   "shield",
+   "shield"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 9,
+  "cat": "Retail / events",
+  "prompt": "luxury watch product shot",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "watch"
+  ],
+  "ignored": [
+   "luxury",
+   "product",
+   "shot"
+  ]
+ },
+ {
+  "n": 10,
+  "cat": "Retail / events",
+  "prompt": "ecommerce shopping cart",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "cart",
+   "cart"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 11,
+  "cat": "Retail / events",
+  "prompt": "birthday party cake and balloons",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "balloons",
+   "cake",
+   "giftbox",
+   "cake",
+   "3 balloons"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 12,
+  "cat": "Retail / events",
+  "prompt": "flower shop bouquet",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "flower",
+   "shop",
+   "bouquet"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 13,
+  "cat": "Fitness / wellness / legal",
+  "prompt": "gym with dumbbells",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "dumbbell",
+   "3 dumbbell"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 14,
+  "cat": "Fitness / wellness / legal",
+  "prompt": "spa lotus candles relaxation",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "lotus",
+   "candle",
+   "plant",
+   "lotus",
+   "3 candle",
+   "yogi"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 15,
+  "cat": "Fitness / wellness / legal",
+  "prompt": "law firm documents and lawyer",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "businessman",
+   "document",
+   "shield",
+   "3 document",
+   "businessman",
+   "document",
+   "shield"
+  ],
+  "ignored": [
+   "firm"
+  ]
+ },
+ {
+  "n": 16,
+  "cat": "Fitness / wellness / legal",
+  "prompt": "customer reviews five stars",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "review",
+   "5 star"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 17,
+  "cat": "Travel / transport",
+  "prompt": "school bus on the road",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "bus",
+   "road"
+  ],
+  "ignored": [
+   "school"
+  ]
+ },
+ {
+  "n": 18,
+  "cat": "Travel / transport",
+  "prompt": "travel agency airplane tickets",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "airplane",
+   "suitcase",
+   "globe",
+   "airplane",
+   "3 airplane"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 19,
+  "cat": "Travel / transport",
+  "prompt": "car dealership red car",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "car",
+   "car",
+   "dc/26/26 car"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 20,
+  "cat": "Travel / transport",
+  "prompt": "bicycle shop",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "bicycle",
+   "shop"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 21,
+  "cat": "Property / outdoors",
+  "prompt": "real estate villa with swimming pool",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "villa",
+   "villa"
+  ],
+  "ignored": [
+   "swimming",
+   "pool"
+  ]
+ },
+ {
+  "n": 22,
+  "cat": "Property / outdoors",
+  "prompt": "mountain hiking adventure with tent",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "mountain",
+   "tent",
+   "tent"
+  ],
+  "ignored": [
+   "adventure"
+  ]
+ },
+ {
+  "n": 23,
+  "cat": "Property / outdoors",
+  "prompt": "wedding photography",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "weddingcouple",
+   "bouquet",
+   "camera"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 24,
+  "cat": "Property / outdoors",
+  "prompt": "kids playground",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "3 person"
+  ],
+  "ignored": [
+   "playground"
+  ]
+ },
+ {
+  "n": 25,
+  "cat": "Deliberately unsupported",
+  "prompt": "pet shop with dogs",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "shop"
+  ],
+  "ignored": [
+   "pet",
+   "dogs"
+  ]
+ },
+ {
+  "n": 26,
+  "cat": "Deliberately unsupported",
+  "prompt": "farm tractor in wheat field",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "grass"
+  ],
+  "ignored": [
+   "farm",
+   "tractor",
+   "wheat"
+  ]
+ },
+ {
+  "n": 27,
+  "cat": "Deliberately unsupported",
+  "prompt": "plumber fixing pipes",
+  "mode": "abstract",
+  "time": null,
+  "flags": [],
+  "recognised": [],
+  "ignored": [
+   "plumber",
+   "fixing",
+   "pipes"
+  ]
+ },
+ {
+  "n": 28,
+  "cat": "Deliberately unsupported",
+  "prompt": "tailor shop sewing machine",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "shop"
+  ],
+  "ignored": [
+   "tailor",
+   "sewing",
+   "machine"
+  ]
+ }
+]

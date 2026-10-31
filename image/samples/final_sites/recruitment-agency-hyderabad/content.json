@@ -1,0 +1,180 @@
+{
+  "brand": "Recruitment Agency, Hyderabad",
+  "niche": "pro",
+  "kind": "pro",
+  "profile": "",
+  "business_type": "recruitment",
+  "type_label": "Recruitment Agency",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "calm",
+  "keywords": [
+    "pro"
+  ],
+  "eyebrow": "Recruitment Agency · Hyderabad",
+  "location": "Hyderabad",
+  "audience": "",
+  "hero_heading": "Recruitment Agency in Hyderabad",
+  "tagline": "Book a consultation and let us know what you need.",
+  "about_title": "About us",
+  "about": [
+    "Bring your documents; we will tell you what's missing.",
+    "You will find us in Hyderabad. Tell us if the matter is urgent."
+  ],
+  "features_title": "Services",
+  "features": [
+    {
+      "title": "Shortlists",
+      "text": "Ask for a written summary of Shortlists."
+    },
+    {
+      "title": "Roles",
+      "text": "Message us about Roles; we reply to every enquiry."
+    },
+    {
+      "title": "Interviews",
+      "text": "Tell us what you need from Interviews and we'll suggest where to start."
+    },
+    {
+      "title": "Contracts",
+      "text": "We will explain Contracts in plain words."
+    },
+    {
+      "title": "Openings",
+      "text": "Feel free to ask us about Openings; we will explain the steps in plain words."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "A real person replies",
+      "text": "Not a form that goes nowhere."
+    },
+    {
+      "title": "Easy to reach",
+      "text": "Message or call."
+    },
+    {
+      "title": "Written summaries",
+      "text": "Ask and we'll send one."
+    }
+  ],
+  "stats_title": "In short",
+  "stats": [
+    {
+      "value": "Hyderabad",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "How it works",
+  "steps": [
+    {
+      "title": "Share your question",
+      "text": "A few lines is enough."
+    },
+    {
+      "title": "Get a clear plan",
+      "text": "We explain the steps for and what they cost."
+    },
+    {
+      "title": "Decide and proceed",
+      "text": "Only when you're ready."
+    }
+  ],
+  "faq_title": "Before you ask",
+  "faq": [
+    {
+      "q": "Will my information stay private?",
+      "a": "Feel free to ask us how we handle confidential information; we'll answer directly."
+    },
+    {
+      "q": "Where are you based?",
+      "a": "We're in Hyderabad; reach out."
+    },
+    {
+      "q": "Can I change my plans?",
+      "a": "Let us know as early as you can and we will look at what's possible."
+    },
+    {
+      "q": "Do you reply to messages?",
+      "a": "Send a message and you will hear from us."
+    }
+  ],
+  "blog_title": "Worth reading",
+  "blog": [
+    {
+      "title": "How to choose a good recruitment agency",
+      "excerpt": "Five questions worth asking before you decide."
+    },
+    {
+      "title": "Deadlines that matter",
+      "excerpt": "How to plan backwards."
+    },
+    {
+      "title": "Notes on getting started",
+      "excerpt": "The first steps, without the jargon."
+    }
+  ],
+  "contact": {
+    "place": "Hyderabad"
+  },
+  "cta_primary": "Book a consultation",
+  "cta_secondary": "Call the office",
+  "cta_text": "Ask how our fees work.",
+  "cta_title": "Come and see for yourself",
+  "footer": "© Recruitment Agency, Hyderabad. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Hyderabad",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "recruitment (confidence high)",
+    "items_from_prompt": [],
+    "place": "Hyderabad",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "pro"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Recruitment Agency, Hyderabad' (not a name). Add your business name to replace it.",
+    "Typical recruitment agency offerings were used for: Shortlists, Roles, Interviews, Contracts, Openings. List your real services (3 or more) to replace them."
+  ]
+}

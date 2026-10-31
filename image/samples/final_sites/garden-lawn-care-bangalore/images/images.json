@@ -1,0 +1,106 @@
+{
+  "niche": "landscape",
+  "requested_niche": "landscape",
+  "fallback": false,
+  "reason": "business type landscape",
+  "mood": "light",
+  "accent": "#239cae",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Garden & Lawn Care, Bangalore Garden & Lawn Care landscaping Lawns Gardens Installations Maintenance Plans Plants",
+    "niche": "landscape",
+    "title": "Garden and lawn care",
+    "fallback": false,
+    "mood": "light",
+    "accent": "#239cae",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 24,
+    "palette_family": 0.795,
+    "text_zone": "left",
+    "hero_contrast": 4.81,
+    "seconds": 7.55,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.795
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 45193,
+      "alt": "Illustration for Garden & Lawn Care, Bangalore: Garden and lawn care",
+      "text_color": "#0d0d14",
+      "contrast": 4.81,
+      "role": "hero",
+      "seed": 5
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 30480,
+      "alt": "About Garden & Lawn Care, Bangalore: Garden and lawn care",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1018
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 22934,
+        "alt": "Garden & Lawn Care, Bangalore gallery picture: Garden and lawn care",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2031
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 22352,
+        "alt": "Garden & Lawn Care, Bangalore gallery picture: Garden and lawn care",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3044
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 22682,
+        "alt": "Garden & Lawn Care, Bangalore gallery picture: Garden and lawn care",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4057
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 21361,
+        "alt": "Garden & Lawn Care, Bangalore gallery picture: Garden and lawn care",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5070
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "brand": "Yoga Studio, Mysore",
+  "niche": "fitness",
+  "kind": "fitness",
+  "profile": "yoga",
+  "business_type": "yoga",
+  "type_label": "Yoga Studio",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "friendly",
+  "keywords": [
+    "fitness"
+  ],
+  "eyebrow": "Yoga Studio · Mysore",
+  "location": "Mysore",
+  "audience": "",
+  "hero_heading": "Yoga Studio in Mysore",
+  "tagline": "Tell us what matters most to you.",
+  "about_title": "About us",
+  "about": [
+    "Message first if you prefer.",
+    "You will find us in Mysore. Ask us anything before you decide."
+  ],
+  "features_title": "Classes and training",
+  "features": [
+    {
+      "title": "Stretches",
+      "text": "Curious about Stretches? Come for a class and see."
+    },
+    {
+      "title": "Routines",
+      "text": "New to Routines? Tell the teacher and they'll guide you."
+    },
+    {
+      "title": "Sessions",
+      "text": "We will explain Sessions in plain words."
+    },
+    {
+      "title": "Meditations",
+      "text": "Sitting practice to quiet and focus the mind. Meditations is for every level; the teacher adjusts as you go."
+    },
+    {
+      "title": "Programs",
+      "text": "We'll explain Programs before you begin and adjust it as you go."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Practise together",
+      "text": "Bring a friend."
+    },
+    {
+      "title": "Teacher-led",
+      "text": "Someone is watching your alignment."
+    },
+    {
+      "title": "Clear next steps",
+      "text": "You will know what comes next."
+    }
+  ],
+  "stats_title": "In short",
+  "stats": [
+    {
+      "value": "Mysore",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "How it works",
+  "steps": [
+    {
+      "title": "Get in touch",
+      "text": "Send a message or call and let us know what you need."
+    },
+    {
+      "title": "Meet your teacher",
+      "text": "We will talk about your experience and any injuries."
+    },
+    {
+      "title": "Build the habit",
+      "text": "Come back; practice is built class by class."
+    }
+  ],
+  "faq_title": "Frequently asked questions",
+  "faq": [
+    {
+      "q": "What should I wear and bring?",
+      "a": "Wear what you can stretch in; bring water."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Mysore; reach out for directions."
+    },
+    {
+      "q": "Can I change my plans?",
+      "a": "Tell us as early as you can and we will look at what's possible."
+    },
+    {
+      "q": "How do I pay?",
+      "a": "Feel free to ask us at the time of booking and we'll explain the options."
+    }
+  ],
+  "blog_title": "From the journal",
+  "blog": [
+    {
+      "title": "Notes on getting started",
+      "excerpt": "The first steps, without the jargon."
+    },
+    {
+      "title": "When to ask for a second opinion",
+      "excerpt": "And how to do it politely."
+    },
+    {
+      "title": "What to bring when you get in touch",
+      "excerpt": "A short list that saves a second message."
+    }
+  ],
+  "contact": {
+    "place": "Mysore"
+  },
+  "cta_primary": "Start a free class",
+  "cta_secondary": "Book a class",
+  "cta_text": "Ask which class suits a beginner.",
+  "cta_title": "Tell us what you need",
+  "footer": "© Yoga Studio, Mysore. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Mysore",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "yoga (confidence high)",
+    "items_from_prompt": [],
+    "place": "Mysore",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "yoga",
+    "kind": "fitness"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Yoga Studio, Mysore' (not a name). Add your business name to replace it.",
+    "Typical yoga studio offerings were used for: Stretches, Routines, Sessions, Meditations, Programs. List your real services (3 or more) to replace them."
+  ]
+}

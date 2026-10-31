@@ -1,0 +1,180 @@
+{
+  "brand": "Pet Shop, Mumbai",
+  "niche": "store",
+  "kind": "retail",
+  "profile": "",
+  "business_type": "petshop",
+  "type_label": "Pet Shop",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "friendly",
+  "keywords": [
+    "store"
+  ],
+  "eyebrow": "Pet Shop · Mumbai",
+  "location": "Mumbai",
+  "audience": "",
+  "hero_heading": "Pet Shop in Mumbai",
+  "tagline": "Take your time looking around.",
+  "about_title": "About us",
+  "about": [
+    "Tell us what you need and we will point you to it.",
+    "You'll find us in Mumbai. Message us if you can't see what you need."
+  ],
+  "features_title": "Browse the range",
+  "features": [
+    {
+      "title": "Leashes",
+      "text": "We will explain Leashes in plain words."
+    },
+    {
+      "title": "Beds",
+      "text": "Looking for Beds? Ask us what's in stock and what suits you."
+    },
+    {
+      "title": "Cages",
+      "text": "Message us about Cages; we reply to every enquiry."
+    },
+    {
+      "title": "Collars",
+      "text": "Collars: tell us what you need it for and we will suggest options."
+    },
+    {
+      "title": "Supplies",
+      "text": "Bring your questions about Supplies."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Straight answers",
+      "text": "Ask and we'll say it plainly."
+    },
+    {
+      "title": "Compare in person",
+      "text": "See and handle before you make up your mind."
+    },
+    {
+      "title": "A real person replies",
+      "text": "Not a form that goes nowhere."
+    }
+  ],
+  "stats_title": "In short",
+  "stats": [
+    {
+      "value": "Mumbai",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "What happens next",
+  "steps": [
+    {
+      "title": "Get in touch",
+      "text": "Send a message or call and tell us what you need."
+    },
+    {
+      "title": "Ask questions",
+      "text": "Sizes, models, care: we're happy to explain."
+    },
+    {
+      "title": "Take it home",
+      "text": "Message us to ask about stock, and we'll confirm how to receive it."
+    }
+  ],
+  "faq_title": "Quick answers",
+  "faq": [
+    {
+      "q": "Is cash on delivery available?",
+      "a": "Message us and we'll explain how payment works."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Mumbai; reach out for directions."
+    },
+    {
+      "q": "Can I change my plans?",
+      "a": "Tell us as early as you can and we'll look at what's possible."
+    },
+    {
+      "q": "Do you reply to messages?",
+      "a": "Send a message and you will hear from us."
+    }
+  ],
+  "blog_title": "Short guides",
+  "blog": [
+    {
+      "title": "Planning ahead",
+      "excerpt": "How to give yourself time."
+    },
+    {
+      "title": "What a good first conversation covers",
+      "excerpt": "And what to expect afterwards."
+    },
+    {
+      "title": "Questions to ask before you book",
+      "excerpt": "Plain answers beat long brochures."
+    }
+  ],
+  "contact": {
+    "place": "Mumbai"
+  },
+  "cta_primary": "Shop now",
+  "cta_secondary": "Visit the store",
+  "cta_text": "A message is all it takes.",
+  "cta_title": "Start with a conversation",
+  "footer": "© Pet Shop, Mumbai. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Mumbai",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "petshop (confidence high)",
+    "items_from_prompt": [],
+    "place": "Mumbai",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "retail"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Pet Shop, Mumbai' (not a name). Add your business name to replace it.",
+    "Typical pet shop offerings were used for: Leashes, Beds, Cages, Collars, Supplies. List your real services (3 or more) to replace them."
+  ]
+}

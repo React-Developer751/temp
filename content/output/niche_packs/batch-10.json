@@ -1,0 +1,2136 @@
+[
+  {
+    "id": "ngo_charity",
+    "label": "NGO and charity",
+    "theme": "nonprofit",
+    "keywords": [
+      "ngo",
+      "charity",
+      "donate online",
+      "social work",
+      "foundation donation",
+      "orphanage support",
+      "volunteer with us",
+      "एनजीओ",
+      "दान करें"
+    ],
+    "heroTitles": [
+      "Join Us In Education Support",
+      "Education Support And Food Drives With Heart",
+      "NGO And Charity Built On Care"
+    ],
+    "heroSubtitles": [
+      "{brand} works on education support, food drives and health camps. Learn how we work, see how you can help and get in touch.",
+      "Care about NGO and charity? {brand} explains its work openly and shows simple ways to give time, items or support.",
+      "From education support to food drives, {brand} keeps its work simple and transparent, and welcomes every kind of help."
+    ],
+    "button": "Donate Or Volunteer",
+    "featureTitle": "Our NGO And Charity Work",
+    "features": [
+      {
+        "title": "Education Support",
+        "text": "Ask about education support; we describe the need simply and show ways to help."
+      },
+      {
+        "title": "Food Drives",
+        "text": "For food drives, we work with the community and keep our methods open and clear."
+      },
+      {
+        "title": "Health Camps",
+        "text": "Health Camps supported by volunteers and donors, with updates you can ask for any time."
+      },
+      {
+        "title": "Care For Children",
+        "text": "Questions about care for children? Message us and we will answer openly."
+      },
+      {
+        "title": "Women Skill Training",
+        "text": "We explain how women skill training works, what is needed and how you can take part."
+      },
+      {
+        "title": "Volunteer Programs",
+        "text": "Volunteer Programs carried out with care, and we share plain updates on what is done."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Simple",
+        "label": "Ways to help"
+      },
+      {
+        "value": "Local",
+        "label": "Community focus"
+      },
+      {
+        "value": "Plain",
+        "label": "Reports on request"
+      }
+    ],
+    "steps": {
+      "title": "How You Can Help",
+      "items": [
+        {
+          "title": "Get In Touch",
+          "text": "Message or call to ask how you can help with NGO and charity and what is needed now."
+        },
+        {
+          "title": "Choose How To Help",
+          "text": "Give time, items or funds for education support, whichever suits you."
+        },
+        {
+          "title": "Take Part",
+          "text": "Join an activity for food drives or send your support, and we will guide you through it."
+        },
+        {
+          "title": "See The Result",
+          "text": "We share simple updates on health camps so you can see what your help made possible."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How is support for NGO and charity used?",
+        "a": "We tell you plainly what the support is used for and share updates when you ask. That goes for health camps and care for children too."
+      },
+      {
+        "q": "Can I donate items for health camps?",
+        "a": "Ask us what is needed right now and we will explain how to send or hand it over. Ask us about women skill training or volunteer programs and the answer is the same."
+      },
+      {
+        "q": "Can I visit and see education support first?",
+        "a": "Message us and we will arrange a time when it is convenient to visit. The same approach applies to education support and volunteer programs."
+      },
+      {
+        "q": "How do I stay informed about care for children?",
+        "a": "Tell us how you prefer to hear from us and we will keep you updated. This applies to education support, food drives and the rest of our NGO and charity work."
+      },
+      {
+        "q": "Can a group support NGO and charity?",
+        "a": "Yes. Schools, offices and families are welcome; tell us your group and plans. It is the same for food drives as it is for education support."
+      }
+    ],
+    "cta": {
+      "title": "Want To Support Education Support?",
+      "button": "Donate Or Volunteer"
+    },
+    "about": {
+      "title": "About Our Work",
+      "paragraphs": [
+        "{brand} is a local effort for NGO and charity. We work openly, listen to the community and welcome every kind of help.",
+        "We focus on education support, food drives and health camps, and we are glad to talk through how you can take part."
+      ],
+      "points": [
+        "Community Focus",
+        "Friendly Team",
+        "Simple Ways To Give"
+      ]
+    },
+    "pricing": {
+      "title": "Ways To Give To NGO And Charity",
+      "plans": [
+        {
+          "name": "Small Gift",
+          "price": "$2",
+          "period": "/month donation",
+          "perks": [
+            "A Gift Towards Education Support",
+            "Plain Update",
+            "Thank You Note"
+          ]
+        },
+        {
+          "name": "Regular Gift",
+          "price": "$10",
+          "period": "/month donation",
+          "perks": [
+            "Education Support And Food Drives",
+            "Regular Updates",
+            "Invitation To Events"
+          ]
+        },
+        {
+          "name": "Major Gift",
+          "price": "$30",
+          "period": "/month donation",
+          "perks": [
+            "Education Support Plus Food Drives And Health Camps",
+            "Personal Briefing",
+            "Visit Our Work"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Moments From NGO And Charity",
+      "captions": [
+        "Education Support",
+        "Food Drives",
+        "Health Camps",
+        "Care For Children",
+        "Women Skill Training",
+        "Volunteer Programs"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Programme Lead",
+        "Volunteer Coordinator",
+        "Donor Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "I asked how education support works and they answered openly and kindly.",
+        "role": "Volunteer"
+      },
+      {
+        "quote": "Easy to take part in food drives, and the team guided me through it.",
+        "role": "Supporter"
+      },
+      {
+        "quote": "They shared a simple update on health camps without being asked twice.",
+        "role": "Donor"
+      }
+    ],
+    "blog": {
+      "title": "NGO And Charity Stories And Updates",
+      "posts": [
+        {
+          "tag": "Story",
+          "title": "How Education Support Began"
+        },
+        {
+          "tag": "Update",
+          "title": "What Support For Food Drives Makes Possible"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Volunteer For Health Camps"
+        }
+      ]
+    },
+    "marquee": [
+      "Education",
+      "Food Drives",
+      "Health Camps",
+      "Care",
+      "Women Skill",
+      "Volunteer",
+      "Give Time",
+      "Plain Updates"
+    ],
+    "contactText": "Message {brand} to ask about education support or food drives, or to offer your help. We reply with what is needed and how to take part."
+  },
+  {
+    "id": "recruitment_agency",
+    "label": "Recruitment agency",
+    "theme": "professional_services",
+    "keywords": [
+      "recruitment agency",
+      "hr consultancy",
+      "staffing agency",
+      "placement agency",
+      "job consultancy",
+      "manpower consultancy",
+      "bulk hiring",
+      "भर्ती एजेंसी",
+      "प्लेसमेंट कंसल्टेंसी"
+    ],
+    "heroTitles": [
+      "Recruitment Agency That Starts With Listening",
+      "Straight Answers On Permanent Hiring",
+      "Recruitment Agency In Plain Words"
+    ],
+    "heroSubtitles": [
+      "{brand} handles permanent hiring and job seeker support. We explain what is needed, what it costs and how long it takes.",
+      "Need help with permanent hiring or walk in drives? {brand} will say what applies to you and what to prepare first.",
+      "Looking for help with recruitment agency? {brand} listens first, explains the options in plain words and tells you the cost upfront."
+    ],
+    "button": "Share A Requirement",
+    "featureTitle": "Recruitment Agency Services We Offer",
+    "features": [
+      {
+        "title": "Permanent Hiring",
+        "text": "Permanent Hiring handled with care, with a clear next step after every conversation."
+      },
+      {
+        "title": "Bulk And Contract Staffing",
+        "text": "Ask about bulk and contract staffing; we describe the options simply and let you decide at your own pace."
+      },
+      {
+        "title": "Candidate Screening",
+        "text": "For candidate screening, we start by listening to your situation and then outline a clear plan."
+      },
+      {
+        "title": "Job Seeker Support",
+        "text": "Job Seeker Support explained without jargon, so you know what applies to you and why."
+      },
+      {
+        "title": "Walk In Drives",
+        "text": "Questions about walk in drives? Message us and we will answer before you commit."
+      },
+      {
+        "title": "HR Documentation",
+        "text": "We explain HR documentation in plain words, with the steps, the papers needed and the cost upfront."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First conversation"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Clear",
+        "label": "Fees told upfront"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us Your Situation",
+          "text": "Share your recruitment agency question by call or message, with any papers you have."
+        },
+        {
+          "title": "We Explain The Options",
+          "text": "You hear what permanent hiring involves, what it costs and how long it takes."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We confirm the steps for bulk and contract staffing and what we need from you."
+        },
+        {
+          "title": "We Handle And Update",
+          "text": "We take care of candidate screening and keep you updated until it is complete."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How long does job seeker support take?",
+        "a": "It depends on the case; we give an honest estimate and update you if anything changes. This applies to permanent hiring, bulk and contract staffing and the rest of our recruitment agency work."
+      },
+      {
+        "q": "Do you help small cases in recruitment agency?",
+        "a": "Yes. Every case gets the same clear explanation and the same careful handling. It is the same for bulk and contract staffing as it is for permanent hiring."
+      },
+      {
+        "q": "Can I get updates on walk in drives?",
+        "a": "Yes. Tell us how you prefer to be updated and we will keep to it. That goes for candidate screening and job seeker support too."
+      },
+      {
+        "q": "How do I start with permanent hiring?",
+        "a": "Call or message us with a short description of your situation and we will reply with the next step. Ask us about walk in drives or HR documentation and the answer is the same."
+      },
+      {
+        "q": "What documents do I need for bulk and contract staffing?",
+        "a": "We tell you the exact list once we know your case, so you only gather what is needed. The same approach applies to permanent hiring and HR documentation."
+      }
+    ],
+    "cta": {
+      "title": "Want A Clear Answer On Bulk And Contract Staffing?",
+      "button": "Share A Requirement"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local recruitment agency practice. We listen to your situation, explain the options plainly and handle the work step by step.",
+        "We help with permanent hiring, bulk and contract staffing and candidate screening, and we are glad to talk it through before you decide on anything."
+      ],
+      "points": [
+        "Clear Next Steps",
+        "Friendly Team",
+        "Honest Advice"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Recruitment Agency",
+      "plans": [
+        {
+          "name": "First Step",
+          "price": "$0",
+          "period": "/employer enquiry",
+          "perks": [
+            "Permanent Hiring Discussion",
+            "Written Next Steps",
+            "Fees Explained"
+          ]
+        },
+        {
+          "name": "Standard Help",
+          "price": "$120",
+          "period": "/hire",
+          "perks": [
+            "Permanent Hiring And Bulk And Contract Staffing",
+            "Progress Updates",
+            "Document Checklist"
+          ]
+        },
+        {
+          "name": "Full Support",
+          "price": "$300",
+          "period": "/senior hire",
+          "perks": [
+            "Permanent Hiring Plus Bulk And Contract Staffing And Candidate Screening",
+            "Extended Support",
+            "Priority Replies"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Our Recruitment Agency Office",
+      "captions": [
+        "Permanent Hiring",
+        "Bulk And Contract Staffing",
+        "Candidate Screening",
+        "Job Seeker Support",
+        "Walk In Drives",
+        "HR Documentation"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Recruitment Agency Advisor",
+        "Permanent Hiring Specialist",
+        "Client Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Friendly team, and the recruitment agency advice was easy to follow.",
+        "role": "Client"
+      },
+      {
+        "quote": "I liked that permanent hiring was broken into simple steps with a clear list.",
+        "role": "Family client"
+      },
+      {
+        "quote": "Quick reply about job seeker support and a straight answer.",
+        "role": "Client"
+      }
+    ],
+    "blog": {
+      "title": "Recruitment Agency Notes And Guides",
+      "posts": [
+        {
+          "tag": "Documents",
+          "title": "Papers To Gather For Bulk And Contract Staffing"
+        },
+        {
+          "tag": "Questions",
+          "title": "Questions To Ask About Candidate Screening"
+        },
+        {
+          "tag": "Planning",
+          "title": "Planning Ahead For Job Seeker Support"
+        }
+      ]
+    },
+    "marquee": [
+      "Permanent Hiring",
+      "Bulk",
+      "Candidate",
+      "Job Seeker",
+      "Walk",
+      "Plain Advice",
+      "Fees Upfront",
+      "Private"
+    ],
+    "contactText": "Tell {brand} your situation: permanent hiring, candidate screening or something close. We will answer with a clear plan and the fee."
+  },
+  {
+    "id": "logistics_courier",
+    "label": "Courier and logistics",
+    "theme": "automotive",
+    "keywords": [
+      "courier service",
+      "parcel delivery",
+      "logistics company",
+      "cargo service",
+      "transport company",
+      "domestic courier",
+      "international courier",
+      "कूरियर सर्विस",
+      "पार्सल डिलीवरी"
+    ],
+    "heroTitles": [
+      "Simple Courier And Logistics For Every Day",
+      "Document Courier And Parcel Delivery Made Easy",
+      "Courier And Logistics You Can Rely On"
+    ],
+    "heroSubtitles": [
+      "From document courier to international courier, {brand} keeps it simple: a short chat, a clear price and a booking that fits your day.",
+      "{brand} takes care of document courier and parcel delivery, tells you what is needed and what is not, and keeps you updated.",
+      "Need document courier? {brand} will say what it involves, how long it takes and what it costs before you commit."
+    ],
+    "button": "Get A Courier Quote",
+    "featureTitle": "Our Courier And Logistics Services",
+    "features": [
+      {
+        "title": "Document Courier",
+        "text": "We tell you what document courier involves, how long it takes and the cost before we start."
+      },
+      {
+        "title": "Parcel Delivery",
+        "text": "Parcel Delivery with the price and timing agreed up front, so there are no surprises."
+      },
+      {
+        "title": "Cargo And Freight",
+        "text": "Ask about cargo and freight; we explain the options in plain words and let you decide."
+      },
+      {
+        "title": "International Courier",
+        "text": "For international courier, we check the basics first and suggest only what is actually needed."
+      },
+      {
+        "title": "Business Shipping",
+        "text": "Business Shipping booked at a time that suits you, with an update when it is done."
+      },
+      {
+        "title": "Tracking And Support",
+        "text": "Questions about tracking and support? Message us and we will answer before you book."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Price before work"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Free",
+        "label": "Quote on request"
+      }
+    ],
+    "steps": {
+      "title": "How Booking Works",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Share the courier and logistics requirement by call or message, with the vehicle details."
+        },
+        {
+          "title": "Get A Clear Price",
+          "text": "We explain document courier and the options, and tell you the cost before we begin."
+        },
+        {
+          "title": "Pick A Time",
+          "text": "Choose a slot that suits you and we confirm it, so the parcel delivery work fits your day."
+        },
+        {
+          "title": "Collect And Review",
+          "text": "We go through what was done on cargo and freight and answer any questions afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What if I need more than document courier?",
+        "a": "Tell us at booking or on the day; we will say what else is worth doing and what can wait. The same approach applies to document courier and tracking and support."
+      },
+      {
+        "q": "How do I book document courier?",
+        "a": "Call or message with your vehicle details and the day you prefer, and we will confirm a slot. This applies to document courier, parcel delivery and the rest of our courier and logistics work."
+      },
+      {
+        "q": "Do you tell me the cost of parcel delivery first?",
+        "a": "Yes. We explain what is needed and what it costs before any work begins. It is the same for parcel delivery as it is for document courier."
+      },
+      {
+        "q": "Can I ask about cargo and freight before booking?",
+        "a": "Of course. Message us your questions and we will answer plainly, with no pressure. That goes for cargo and freight and international courier too."
+      },
+      {
+        "q": "What details do you need for courier and logistics?",
+        "a": "The vehicle type, what you need done and a day that suits you; we will ask for anything else. Ask us about business shipping or tracking and support and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Want A Clear Price For Document Courier?",
+      "button": "Get A Courier Quote"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} a good courier and logistics experience starts with a clear conversation, and the work follows from what we agreed.",
+        "Our work includes document courier and parcel delivery. Ask about international courier or business shipping too and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Price Before Work",
+        "Plain Explanations",
+        "Slots That Fit You"
+      ]
+    },
+    "pricing": {
+      "title": "Courier And Logistics Pricing",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "$3",
+          "period": "/parcel",
+          "perks": [
+            "Document Courier Only",
+            "Price Told First",
+            "Slot You Choose"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$12",
+          "period": "/bulk parcel",
+          "perks": [
+            "Document Courier And Parcel Delivery",
+            "Update When Done",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$60",
+          "period": "/pallet",
+          "perks": [
+            "Document Courier Plus Parcel Delivery And Cargo And Freight",
+            "Follow-Up Check",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Courier And Logistics At Work",
+      "captions": [
+        "Document Courier",
+        "Parcel Delivery",
+        "Cargo And Freight",
+        "International Courier",
+        "Business Shipping",
+        "Tracking And Support"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Courier And Logistics Specialist",
+        "Document Courier Lead",
+        "Courier And Logistics Support Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Friendly people and a clear explanation of international courier.",
+        "role": "Customer"
+      },
+      {
+        "quote": "Document Courier was explained first, priced clearly and finished when promised.",
+        "role": "Car owner"
+      },
+      {
+        "quote": "Easy to book, and they told me what parcel delivery really needed.",
+        "role": "Bike owner"
+      }
+    ],
+    "blog": {
+      "title": "From The Courier And Logistics Desk",
+      "posts": [
+        {
+          "tag": "Planning",
+          "title": "Getting Ready For Cargo And Freight"
+        },
+        {
+          "tag": "Advice",
+          "title": "Small Signs You Need International Courier"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Business Shipping"
+        }
+      ]
+    },
+    "marquee": [
+      "Document Courier",
+      "Parcel Delivery",
+      "Cargo",
+      "International",
+      "Business",
+      "Free Quote",
+      "Clear Pricing",
+      "Local Team"
+    ],
+    "contactText": "Tell {brand} what you need: document courier, cargo and freight or something close. We will answer with the next step and a clear price."
+  },
+  {
+    "id": "fitness_martial_arts_dance",
+    "label": "Martial arts and dance fitness",
+    "theme": "bold_fitness",
+    "keywords": [
+      "martial arts classes",
+      "karate classes",
+      "taekwondo classes",
+      "zumba classes",
+      "aerobics classes",
+      "kickboxing classes",
+      "self defence classes",
+      "कराटे क्लास",
+      "मार्शल आर्ट"
+    ],
+    "heroTitles": [
+      "Martial Arts And Dance Fitness Planned Around You",
+      "Feel Good With Martial Arts And Dance Fitness",
+      "Karate, Taekwondo And Kickboxing"
+    ],
+    "heroSubtitles": [
+      "From karate to taekwondo, {brand} helps you feel looked after, with time to talk through what you want.",
+      "{brand} provides karate and zumba. Tell us your preferences and we will plan a session around them.",
+      "Want karate or aerobics? {brand} will explain the options, the time needed and what to bring."
+    ],
+    "button": "Book A Trial Class",
+    "featureTitle": "Martial Arts And Dance Fitness Sessions We Offer",
+    "features": [
+      {
+        "title": "Karate",
+        "text": "For karate, we listen to your preferences and plan the session around them."
+      },
+      {
+        "title": "Taekwondo",
+        "text": "Taekwondo delivered with care, with tips on how to keep the results going."
+      },
+      {
+        "title": "Kickboxing",
+        "text": "Questions about kickboxing? Message us and we will answer before you book."
+      },
+      {
+        "title": "Zumba",
+        "text": "We talk through zumba first, so the session matches what you want and what suits you."
+      },
+      {
+        "title": "Aerobics",
+        "text": "Aerobics booked at a time that works for you, in a friendly space and without any rush."
+      },
+      {
+        "title": "Self Defence For Women",
+        "text": "Ask about self defence for women; we explain the options simply and let you choose."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Booked",
+        "label": "Time that suits you"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Friendly",
+        "label": "Welcome for everyone"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Pick A Time",
+          "text": "Message or call to book your martial arts and dance fitness session and tell us what you would like."
+        },
+        {
+          "title": "Talk It Through",
+          "text": "We discuss karate with you, so the plan matches your preferences."
+        },
+        {
+          "title": "Enjoy The Session",
+          "text": "Relax while we take care of taekwondo, with time for your questions."
+        },
+        {
+          "title": "Keep It Going",
+          "text": "We share simple tips for kickboxing and help you plan the next session."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I bring a friend to aerobics?",
+        "a": "Tell us when you book and we will make room, where the session allows. It is the same for taekwondo as it is for karate."
+      },
+      {
+        "q": "How do I book karate?",
+        "a": "Message or call, tell us what you would like and choose a time that suits you. That goes for kickboxing and zumba too."
+      },
+      {
+        "q": "Can I ask about taekwondo before booking?",
+        "a": "Of course. Message us and we will explain what is involved and how long it takes. Ask us about aerobics or self defence for women and the answer is the same."
+      },
+      {
+        "q": "What should I bring to a martial arts and dance fitness session?",
+        "a": "Comfortable clothes and any questions you have; we will tell you if anything else is useful. The same approach applies to karate and self defence for women."
+      },
+      {
+        "q": "Can I change my time for kickboxing?",
+        "a": "Yes. Tell us as early as you can and we will offer the nearest free slot. This applies to karate, taekwondo and the rest of our martial arts and dance fitness work."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Try Karate?",
+      "button": "Book A Trial Class"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a friendly martial arts and dance fitness space. We listen first, plan the session around you and keep things relaxed from start to finish.",
+        "We offer karate, taekwondo and kickboxing, and we are happy to talk through your preferences before you decide."
+      ],
+      "points": [
+        "Plain Advice",
+        "Friendly Team",
+        "Booking That Fits"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Martial Arts And Dance Fitness",
+      "plans": [
+        {
+          "name": "Single Session",
+          "price": "$12",
+          "period": "/month",
+          "perks": [
+            "Karate Session",
+            "Time You Choose",
+            "Tips To Take Home"
+          ]
+        },
+        {
+          "name": "Regular Sessions",
+          "price": "$30",
+          "period": "/quarter",
+          "perks": [
+            "Karate And Taekwondo",
+            "Flexible Timing",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Programme",
+          "price": "$100",
+          "period": "/year",
+          "perks": [
+            "Karate Plus Taekwondo And Kickboxing",
+            "Extended Support",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Our Martial Arts And Dance Fitness Space",
+      "captions": [
+        "Karate Work",
+        "Taekwondo Work",
+        "Kickboxing Work",
+        "Zumba Work",
+        "Aerobics Work",
+        "Self Defence For Women"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Martial Arts And Dance Fitness Specialist",
+        "Karate Expert",
+        "Welcome Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Friendly space, and the martial arts and dance fitness session never felt rushed.",
+        "role": "Customer"
+      },
+      {
+        "quote": "I liked that karate was planned around me with no pressure.",
+        "role": "Customer"
+      },
+      {
+        "quote": "Quick reply about zumba and a time that suited me.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "Martial Arts And Dance Fitness Tips And Ideas",
+      "posts": [
+        {
+          "tag": "Prepare",
+          "title": "How To Prepare For Taekwondo"
+        },
+        {
+          "tag": "Care",
+          "title": "Looking After Yourself After Kickboxing"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Simple Ways To Enjoy Zumba"
+        }
+      ]
+    },
+    "marquee": [
+      "Karate",
+      "Taekwondo",
+      "Kickboxing",
+      "Zumba",
+      "Aerobics",
+      "Warm Welcome",
+      "Easy Booking",
+      "Plain Advice"
+    ],
+    "contactText": "Tell {brand} what you would like: karate, kickboxing or something close. We will answer with options and a time."
+  },
+  {
+    "id": "tea_house",
+    "label": "Tea house",
+    "theme": "organic_nature",
+    "keywords": [
+      "tea cafe",
+      "tea house",
+      "tea shop",
+      "tea lounge",
+      "tea room",
+      "chai cafe",
+      "chai lounge",
+      "bubble tea",
+      "loose leaf tea",
+      "चाय कैफे",
+      "टी हाउस"
+    ],
+    "heroTitles": [
+      "Tea House The Way It Should Taste",
+      "Simple Tea House Done Well",
+      "Green And White Teas And Masala Chai Made Fresh"
+    ],
+    "heroSubtitles": [
+      "{brand} offers green and white teas and teas by the pot. Order, reserve a table or just drop in and see what is fresh today.",
+      "Craving green and white teas or tea tastings? {brand} will tell you what is ready, what pairs well and how to order.",
+      "{brand} serves green and white teas, masala chai and herbal infusions. Come in, take your time and ask what is good today."
+    ],
+    "button": "Reserve A Table",
+    "featureTitle": "Tea House Favourites",
+    "features": [
+      {
+        "title": "Green And White Teas",
+        "text": "Questions about green and white teas? Ask us about ingredients or any dietary need before you order."
+      },
+      {
+        "title": "Masala Chai",
+        "text": "Ask about masala chai and we will tell you what goes into it and how it is best enjoyed."
+      },
+      {
+        "title": "Herbal Infusions",
+        "text": "Herbal Infusions prepared fresh, with the team happy to explain the details."
+      },
+      {
+        "title": "Teas By The Pot",
+        "text": "Craving teas by the pot? Order ahead or drop in and we will point you to what suits your mood."
+      },
+      {
+        "title": "Tea Tastings",
+        "text": "For tea tastings, we keep the flavours honest and let the ingredients do the work."
+      },
+      {
+        "title": "Leaves To Take Home",
+        "text": "Leaves To Take Home on offer today; message us to check what is ready before you come."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Warm",
+        "label": "Welcome for all"
+      },
+      {
+        "value": "Clear",
+        "label": "Menu without surprises"
+      },
+      {
+        "value": "Easy",
+        "label": "Ordering by message"
+      }
+    ],
+    "steps": {
+      "title": "How Ordering Works",
+      "items": [
+        {
+          "title": "Pick What You Like",
+          "text": "Browse the tea house menu and choose green and white teas or anything that catches your eye."
+        },
+        {
+          "title": "Tell Us How",
+          "text": "Order by message, reserve a table or just walk in for masala chai."
+        },
+        {
+          "title": "We Prepare It Fresh",
+          "text": "The kitchen prepares herbal infusions when you order, so it reaches you at its best."
+        },
+        {
+          "title": "Enjoy And Tell Us",
+          "text": "Enjoy your teas by the pot and tell us what you liked, so we can keep improving."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I order green and white teas?",
+        "a": "Message us, call or walk in, and tell us what you would like; we will confirm and get it ready. It is the same for masala chai as it is for green and white teas."
+      },
+      {
+        "q": "Can I reserve a table for tea house?",
+        "a": "Yes. Tell us the day, the time and how many are coming, and we will confirm. That goes for herbal infusions and teas by the pot too."
+      },
+      {
+        "q": "Do you cater to dietary needs for masala chai?",
+        "a": "Tell us your needs before you order and the team will explain what is possible. Ask us about tea tastings or leaves to take home and the answer is the same."
+      },
+      {
+        "q": "What goes into herbal infusions?",
+        "a": "Ask us when you order. The team is happy to describe ingredients and how it is made. The same approach applies to green and white teas and leaves to take home."
+      },
+      {
+        "q": "Can I take green and white teas away?",
+        "a": "Yes. Ask about takeaway when you order and we will pack it carefully. This applies to green and white teas, masala chai and the rest of our tea house work."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Order Green And White Teas?",
+      "button": "Reserve A Table"
+    },
+    "about": {
+      "title": "About Our Kitchen",
+      "paragraphs": [
+        "At {brand} good tea house means fresh food, a clear menu and a team that is happy to answer questions.",
+        "Our table includes green and white teas and masala chai. Ask about teas by the pot or tea tastings too and we will tell you what is ready today."
+      ],
+      "points": [
+        "Fresh Every Day",
+        "Honest Menu",
+        "Warm Welcome"
+      ]
+    },
+    "pricing": {
+      "title": "Tea House Price Guide",
+      "plans": [
+        {
+          "name": "Single Order",
+          "price": "$2",
+          "period": "/pot",
+          "perks": [
+            "Green And White Teas Portion",
+            "Prepared Fresh",
+            "Takeaway Or Dine In"
+          ]
+        },
+        {
+          "name": "Popular Combo",
+          "price": "$5",
+          "period": "/tea flight",
+          "perks": [
+            "Green And White Teas And Masala Chai",
+            "Prepared Fresh",
+            "Takeaway Or Dine In"
+          ]
+        },
+        {
+          "name": "Family Table",
+          "price": "$12",
+          "period": "/high tea",
+          "perks": [
+            "Green And White Teas Plus Masala Chai And Herbal Infusions",
+            "Shared Portions",
+            "Table Held For Green And White Teas"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "A Taste Of Tea House",
+      "captions": [
+        "Green And White Teas",
+        "Masala Chai",
+        "Herbal Infusions",
+        "Teas By The Pot",
+        "Tea Tastings",
+        "Leaves To Take Home"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Head Cook",
+        "Green And White Teas Specialist",
+        "Guest Host"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "The green and white teas tasted fresh and the team explained what was in it.",
+        "role": "Regular guest"
+      },
+      {
+        "quote": "Easy to order masala chai by message, and it was ready when they said.",
+        "role": "Office lunch group"
+      },
+      {
+        "quote": "Warm welcome and a clear menu; herbal infusions was a good choice.",
+        "role": "First time visitor"
+      }
+    ],
+    "blog": {
+      "title": "From The Tea House Kitchen",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "How To Choose Green And White Teas"
+        },
+        {
+          "tag": "Menu",
+          "title": "What To Try First With Masala Chai"
+        },
+        {
+          "tag": "Pairing",
+          "title": "Good Company For Herbal Infusions"
+        }
+      ]
+    },
+    "marquee": [
+      "White Teas",
+      "Masala Chai",
+      "Herbal Infusions",
+      "Teas By",
+      "Tea Tastings",
+      "Fresh Daily",
+      "Takeaway",
+      "Warm Welcome"
+    ],
+    "contactText": "Message {brand} to order green and white teas or masala chai, or to reserve a table. We reply with what is ready and when to come.",
+    "menu": {
+      "title": "On The Menu",
+      "lead": "Loose leaf teas brewed properly, with small bites on the side. Ask us to suggest a tea for your mood.",
+      "categories": [
+        {
+          "name": "Teas",
+          "items": [
+            "Darjeeling | light and floral",
+            "Assam | malty and strong",
+            "Earl grey",
+            "Green jasmine",
+            "Masala chai",
+            "Chamomile"
+          ]
+        },
+        {
+          "name": "Bites",
+          "items": [
+            "Scones with jam",
+            "Cucumber sandwiches",
+            "Butter cookies",
+            "Cake slice",
+            "Cheese toast",
+            "Samosa"
+          ]
+        },
+        {
+          "name": "Cold And Sweet",
+          "items": [
+            "Iced tea",
+            "Bubble tea",
+            "Lemonade",
+            "Mint cooler",
+            "Honey lemon tea"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "german_cafe",
+    "label": "German cafe",
+    "theme": "food_dining",
+    "keywords": [
+      "german cafe",
+      "german bakery",
+      "german coffee house",
+      "kaffeehaus",
+      "kaffee und kuchen",
+      "pretzel cafe",
+      "brezel",
+      "german style cafe",
+      "जर्मन कैफे",
+      "जर्मन बेकरी"
+    ],
+    "heroTitles": [
+      "Fresh Pretzels And Black Forest Cake Made Fresh",
+      "German Cafe For Every Appetite",
+      "A Warm German Cafe Welcome, Good Food"
+    ],
+    "heroSubtitles": [
+      "{brand} offers fresh pretzels and bratwurst and mustard. Order, reserve a table or just drop in and see what is fresh today.",
+      "Craving fresh pretzels or filter coffee? {brand} will tell you what is ready, what pairs well and how to order.",
+      "{brand} serves fresh pretzels, black forest cake and apple strudel. Come in, take your time and ask what is good today."
+    ],
+    "button": "Order Or Reserve",
+    "featureTitle": "German Cafe Favourites",
+    "features": [
+      {
+        "title": "Fresh Pretzels",
+        "text": "For fresh pretzels, we keep the flavours honest and let the ingredients do the work."
+      },
+      {
+        "title": "Black Forest Cake",
+        "text": "Black Forest Cake on offer today; message us to check what is ready before you come."
+      },
+      {
+        "title": "Apple Strudel",
+        "text": "Questions about apple strudel? Ask us about ingredients or any dietary need before you order."
+      },
+      {
+        "title": "Bratwurst And Mustard",
+        "text": "Ask about bratwurst and mustard and we will tell you what goes into it and how it is best enjoyed."
+      },
+      {
+        "title": "Filter Coffee",
+        "text": "Filter Coffee prepared fresh, with the team happy to explain the details."
+      },
+      {
+        "title": "Kaffee Und Kuchen",
+        "text": "Craving kaffee und kuchen? Order ahead or drop in and we will point you to what suits your mood."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Warm",
+        "label": "Welcome for all"
+      },
+      {
+        "value": "Clear",
+        "label": "Menu without surprises"
+      },
+      {
+        "value": "Easy",
+        "label": "Ordering by message"
+      }
+    ],
+    "steps": {
+      "title": "How Ordering Works",
+      "items": [
+        {
+          "title": "Pick What You Like",
+          "text": "Browse the german cafe menu and choose fresh pretzels or anything that catches your eye."
+        },
+        {
+          "title": "Tell Us How",
+          "text": "Order by message, reserve a table or just walk in for black forest cake."
+        },
+        {
+          "title": "We Prepare It Fresh",
+          "text": "The kitchen prepares apple strudel when you order, so it reaches you at its best."
+        },
+        {
+          "title": "Enjoy And Tell Us",
+          "text": "Enjoy your bratwurst and mustard and tell us what you liked, so we can keep improving."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Do you cater to dietary needs for black forest cake?",
+        "a": "Tell us your needs before you order and the team will explain what is possible. Ask us about filter coffee or kaffee und kuchen and the answer is the same."
+      },
+      {
+        "q": "What goes into apple strudel?",
+        "a": "Ask us when you order. The team is happy to describe ingredients and how it is made. The same approach applies to fresh pretzels and kaffee und kuchen."
+      },
+      {
+        "q": "Can I take fresh pretzels away?",
+        "a": "Yes. Ask about takeaway when you order and we will pack it carefully. This applies to fresh pretzels, black forest cake and the rest of our german cafe work."
+      },
+      {
+        "q": "Do you take large orders for bratwurst and mustard?",
+        "a": "Yes. Tell us the date and numbers and we will say what we can do. It is the same for black forest cake as it is for fresh pretzels."
+      },
+      {
+        "q": "How fresh is the german cafe food?",
+        "a": "We prepare it each day and tell you honestly if something is not available. That goes for apple strudel and bratwurst and mustard too."
+      }
+    ],
+    "cta": {
+      "title": "Hungry For German Cafe?",
+      "button": "Order Or Reserve"
+    },
+    "about": {
+      "title": "About Our Kitchen",
+      "paragraphs": [
+        "At {brand} good german cafe means fresh food, a clear menu and a team that is happy to answer questions.",
+        "Our table includes fresh pretzels and black forest cake. Ask about bratwurst and mustard or filter coffee too and we will tell you what is ready today."
+      ],
+      "points": [
+        "Fresh Every Day",
+        "Honest Menu",
+        "Warm Welcome"
+      ]
+    },
+    "pricing": {
+      "title": "German Cafe Price Guide",
+      "plans": [
+        {
+          "name": "Single Order",
+          "price": "$3",
+          "period": "/coffee and cake",
+          "perks": [
+            "Fresh Pretzels Portion",
+            "Prepared Fresh",
+            "Takeaway Or Dine In"
+          ]
+        },
+        {
+          "name": "Popular Combo",
+          "price": "$7",
+          "period": "/breakfast",
+          "perks": [
+            "Fresh Pretzels And Black Forest Cake",
+            "Prepared Fresh",
+            "Takeaway Or Dine In"
+          ]
+        },
+        {
+          "name": "Family Table",
+          "price": "$15",
+          "period": "/sharing platter",
+          "perks": [
+            "Fresh Pretzels Plus Black Forest Cake And Apple Strudel",
+            "Shared Portions",
+            "Table Held For Fresh Pretzels"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "A Taste Of German Cafe",
+      "captions": [
+        "Fresh Pretzels",
+        "Black Forest Cake",
+        "Apple Strudel",
+        "Bratwurst And Mustard",
+        "Filter Coffee",
+        "Kaffee Und Kuchen"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Head Cook",
+        "Fresh Pretzels Specialist",
+        "Guest Host"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "The fresh pretzels tasted fresh and the team explained what was in it.",
+        "role": "Regular guest"
+      },
+      {
+        "quote": "Easy to order black forest cake by message, and it was ready when they said.",
+        "role": "Office lunch group"
+      },
+      {
+        "quote": "Warm welcome and a clear menu; apple strudel was a good choice.",
+        "role": "First time visitor"
+      }
+    ],
+    "blog": {
+      "title": "From The German Cafe Kitchen",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "How To Choose Fresh Pretzels"
+        },
+        {
+          "tag": "Menu",
+          "title": "What To Try First With Black Forest Cake"
+        },
+        {
+          "tag": "Pairing",
+          "title": "Good Company For Apple Strudel"
+        }
+      ]
+    },
+    "marquee": [
+      "Fresh Pretzels",
+      "Black Forest",
+      "Apple Strudel",
+      "Bratwurst",
+      "Filter Coffee",
+      "Fresh Daily",
+      "Takeaway",
+      "Warm Welcome"
+    ],
+    "contactText": "Message {brand} to order fresh pretzels or black forest cake, or to reserve a table. We reply with what is ready and when to come.",
+    "menu": {
+      "title": "On The Menu",
+      "lead": "German style coffee, cakes and bakes in a calm room. Ask us what came out of the oven today.",
+      "categories": [
+        {
+          "name": "Coffee And Tea",
+          "items": [
+            "Kaffee crema",
+            "Milchkaffee | large and milky",
+            "Flat white",
+            "Hot chocolate",
+            "Fruit tea",
+            "Herbal tea"
+          ]
+        },
+        {
+          "name": "Cakes",
+          "items": [
+            "Black forest cake | cherries and cream",
+            "Apple strudel | warm with cream",
+            "German cheesecake | light and creamy",
+            "Poppy seed cake",
+            "Linzer torte | jam and almond"
+          ]
+        },
+        {
+          "name": "Bakes",
+          "items": [
+            "Soft pretzel | fresh and salted",
+            "Pretzel with butter",
+            "Bread rolls",
+            "Rye bread",
+            "Sourdough loaf",
+            "Croissant"
+          ]
+        },
+        {
+          "name": "Savoury",
+          "items": [
+            "Cheese pretzel",
+            "Veg sandwich",
+            "Potato salad",
+            "Soup of the day",
+            "Pretzel sandwich"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "animal_welfare",
+    "label": "Animal welfare and rescue",
+    "theme": "nonprofit",
+    "keywords": [
+      "stray dogs",
+      "street dogs",
+      "stray animals",
+      "animal shelter",
+      "animal rescue",
+      "dog rescue",
+      "stray cats",
+      "animal welfare",
+      "pet adoption",
+      "आवारा कुत्ते",
+      "जानवरों की मदद"
+    ],
+    "heroTitles": [
+      "Join Us In Rescue And Ambulance",
+      "Rescue And Ambulance And Treatment And Surgery With Heart",
+      "Animal Welfare And Rescue Built On Care"
+    ],
+    "heroSubtitles": [
+      "From rescue and ambulance to treatment and surgery, {brand} keeps its work simple and transparent, and welcomes every kind of help.",
+      "{brand} focuses on rescue and ambulance and feeding drives. Ask us how to volunteer, donate or spread the word.",
+      "Want to help with rescue and ambulance or adoption? {brand} will tell you plainly what is needed and how to take part."
+    ],
+    "button": "Help An Animal",
+    "featureTitle": "Our Animal Welfare And Rescue Work",
+    "features": [
+      {
+        "title": "Rescue And Ambulance",
+        "text": "For rescue and ambulance, we work with the community and keep our methods open and clear."
+      },
+      {
+        "title": "Treatment And Surgery",
+        "text": "Treatment And Surgery supported by volunteers and donors, with updates you can ask for any time."
+      },
+      {
+        "title": "Vaccination And Sterilisation",
+        "text": "Questions about vaccination and sterilisation? Message us and we will answer openly."
+      },
+      {
+        "title": "Feeding Drives",
+        "text": "We explain how feeding drives works, what is needed and how you can take part."
+      },
+      {
+        "title": "Adoption",
+        "text": "Adoption carried out with care, and we share plain updates on what is done."
+      },
+      {
+        "title": "Volunteer Walks",
+        "text": "Ask about volunteer walks; we describe the need simply and show ways to help."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Open",
+        "label": "Doors for volunteers"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Clear",
+        "label": "Updates on our work"
+      }
+    ],
+    "steps": {
+      "title": "How To Take Part",
+      "items": [
+        {
+          "title": "Get In Touch",
+          "text": "Message or call to ask how you can help with animal welfare and rescue and what is needed now."
+        },
+        {
+          "title": "Choose How To Help",
+          "text": "Give time, items or funds for rescue and ambulance, whichever suits you."
+        },
+        {
+          "title": "Take Part",
+          "text": "Join an activity for treatment and surgery or send your support, and we will guide you through it."
+        },
+        {
+          "title": "See The Result",
+          "text": "We share simple updates on vaccination and sterilisation so you can see what your help made possible."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I donate items for vaccination and sterilisation?",
+        "a": "Ask us what is needed right now and we will explain how to send or hand it over. Ask us about adoption or volunteer walks and the answer is the same."
+      },
+      {
+        "q": "Can I visit and see rescue and ambulance first?",
+        "a": "Message us and we will arrange a time when it is convenient to visit. The same approach applies to rescue and ambulance and volunteer walks."
+      },
+      {
+        "q": "How do I stay informed about feeding drives?",
+        "a": "Tell us how you prefer to hear from us and we will keep you updated. This applies to rescue and ambulance, treatment and surgery and the rest of our animal welfare and rescue work."
+      },
+      {
+        "q": "Can a group support animal welfare and rescue?",
+        "a": "Yes. Schools, offices and families are welcome; tell us your group and plans. It is the same for treatment and surgery as it is for rescue and ambulance."
+      },
+      {
+        "q": "Who do I contact about adoption?",
+        "a": "Message us on this page and a team member will reply. That goes for vaccination and sterilisation and feeding drives too."
+      }
+    ],
+    "cta": {
+      "title": "Want To Support Rescue And Ambulance?",
+      "button": "Help An Animal"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good animal welfare and rescue work starts with listening. You can ask us anything about how we work and how support is used.",
+        "Our work includes rescue and ambulance and treatment and surgery. Ask about feeding drives or adoption too and we will say plainly what is needed."
+      ],
+      "points": [
+        "Open About Our Work",
+        "Every Help Welcome",
+        "Plain Updates"
+      ]
+    },
+    "pricing": {
+      "title": "Animal Welfare And Rescue Giving Options",
+      "plans": [
+        {
+          "name": "Small Gift",
+          "price": "$2",
+          "period": "/month feeding",
+          "perks": [
+            "A Gift Towards Rescue And Ambulance",
+            "Plain Update",
+            "Thank You Note"
+          ]
+        },
+        {
+          "name": "Regular Gift",
+          "price": "$10",
+          "period": "/month sponsor",
+          "perks": [
+            "Rescue And Ambulance And Treatment And Surgery",
+            "Regular Updates",
+            "Invitation To Events"
+          ]
+        },
+        {
+          "name": "Major Gift",
+          "price": "$40",
+          "period": "/rescue support",
+          "perks": [
+            "Rescue And Ambulance Plus Treatment And Surgery And Vaccination And Sterilisation",
+            "Personal Briefing",
+            "Visit Our Work"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Moments From Animal Welfare And Rescue",
+      "captions": [
+        "Rescue And Ambulance",
+        "Treatment And Surgery",
+        "Vaccination And Sterilisation",
+        "Feeding Drives",
+        "Adoption Work",
+        "Volunteer Walks"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Rescue Lead",
+        "Volunteer Coordinator",
+        "Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Quick reply about feeding drives and a clear answer.",
+        "role": "Supporter"
+      },
+      {
+        "quote": "I asked how rescue and ambulance works and they answered openly and kindly.",
+        "role": "Volunteer"
+      },
+      {
+        "quote": "Easy to take part in treatment and surgery, and the team guided me through it.",
+        "role": "Supporter"
+      }
+    ],
+    "blog": {
+      "title": "From The Animal Welfare And Rescue Team",
+      "posts": [
+        {
+          "tag": "Thanks",
+          "title": "A Thank You For Volunteer Walks"
+        },
+        {
+          "tag": "Story",
+          "title": "How Rescue And Ambulance Began"
+        },
+        {
+          "tag": "Update",
+          "title": "What Support For Treatment And Surgery Makes Possible"
+        }
+      ]
+    },
+    "marquee": [
+      "Rescue",
+      "Treatment",
+      "Vaccination",
+      "Feeding Drives",
+      "Adoption",
+      "Volunteer",
+      "Give Time",
+      "Plain Updates"
+    ],
+    "contactText": "Tell {brand} how you would like to help: rescue and ambulance, vaccination and sterilisation or something else. We will answer with the next step."
+  },
+  {
+    "id": "toy_store",
+    "label": "Toy store",
+    "theme": "playful_vibrant",
+    "keywords": [
+      "toy store",
+      "toy shop",
+      "kids toy store",
+      "kids toys",
+      "toys for kids",
+      "baby toys",
+      "educational toys",
+      "board games shop",
+      "खिलौनों की दुकान",
+      "टॉय स्टोर"
+    ],
+    "heroTitles": [
+      "Toy Store With Honest Advice",
+      "Find Building Blocks And Sets And More",
+      "Toy Store That Is Easy To Shop"
+    ],
+    "heroSubtitles": [
+      "{brand} offers building blocks and sets and educational toys. Tell us what you need and we will show you the options and the prices.",
+      "Need building blocks and sets or outdoor and ride-ons? {brand} will tell you what is in stock, what it costs and how to get it.",
+      "Looking for help with toy store? {brand} keeps things simple: honest advice, clear prices and help choosing what fits."
+    ],
+    "button": "Find A Toy",
+    "featureTitle": "Toy Store Range We Offer",
+    "features": [
+      {
+        "title": "Building Blocks And Sets",
+        "text": "Looking for building blocks and sets? Tell us your budget and we will suggest options that fit."
+      },
+      {
+        "title": "Dolls And Soft Toys",
+        "text": "For dolls and soft toys, we explain the differences simply so you can pick with confidence."
+      },
+      {
+        "title": "Board Games And Puzzles",
+        "text": "Board Games And Puzzles available to see in store or ask about by message before you come."
+      },
+      {
+        "title": "Educational Toys",
+        "text": "Questions about educational toys? Message us and we will check availability for you."
+      },
+      {
+        "title": "Outdoor And Ride-ons",
+        "text": "Ask about outdoor and ride-ons and we will show what is available, with prices told clearly."
+      },
+      {
+        "title": "Gift Wrapping",
+        "text": "Gift Wrapping chosen with care, with honest advice on what suits your need."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Prices told upfront"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Easy",
+        "label": "Help choosing"
+      }
+    ],
+    "steps": {
+      "title": "How Ordering Works",
+      "items": [
+        {
+          "title": "Tell Us What You Want",
+          "text": "Message or visit with the toy store item you are looking for and your budget."
+        },
+        {
+          "title": "See The Options",
+          "text": "We show what is available in building blocks and sets, with prices and simple advice."
+        },
+        {
+          "title": "Choose And Confirm",
+          "text": "Pick what suits you and we confirm the order for dolls and soft toys, with the total told clearly."
+        },
+        {
+          "title": "Collect Or Receive",
+          "text": "Take your board games and puzzles from the store, or ask how delivery works for your area."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Do you take special requests for outdoor and ride-ons?",
+        "a": "Tell us what you are looking for; if we cannot get it, we will say so honestly. That goes for board games and puzzles and educational toys too."
+      },
+      {
+        "q": "How do I order building blocks and sets?",
+        "a": "Message us the item and your preferences, or visit the store, and we will confirm availability and price. Ask us about outdoor and ride-ons or gift wrapping and the answer is the same."
+      },
+      {
+        "q": "Can you tell me the price of dolls and soft toys first?",
+        "a": "Yes. We always say the price before you decide, so there are no surprises at the till. The same approach applies to building blocks and sets and gift wrapping."
+      },
+      {
+        "q": "Do you help me choose board games and puzzles?",
+        "a": "Of course. Tell us what you need and your budget and we will suggest suitable options. This applies to building blocks and sets, dolls and soft toys and the rest of our toy store work."
+      },
+      {
+        "q": "Can I check toy store stock before I come?",
+        "a": "Yes. Send us a message and we will confirm what is available before you make the trip. It is the same for dolls and soft toys as it is for building blocks and sets."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Find Your Toy Store Pick?",
+      "button": "Find A Toy"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} we believe good toy store service is honest advice and clear prices, so you leave with what suits you.",
+        "Our range includes building blocks and sets and dolls and soft toys. Ask about educational toys or outdoor and ride-ons too and we will say plainly what we can get."
+      ],
+      "points": [
+        "Honest Advice",
+        "Prices Told Upfront",
+        "Help Choosing"
+      ]
+    },
+    "pricing": {
+      "title": "Toy Store Price Guide",
+      "plans": [
+        {
+          "name": "Everyday",
+          "price": "$4",
+          "period": "/toy",
+          "perks": [
+            "Everyday Building Blocks And Sets",
+            "Prices Told First",
+            "Help Choosing"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$15",
+          "period": "/gift set",
+          "perks": [
+            "Building Blocks And Sets And Dolls And Soft Toys",
+            "Priority Help",
+            "Availability Checks"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$40",
+          "period": "/premium set",
+          "perks": [
+            "Building Blocks And Sets Plus Dolls And Soft Toys And Board Games And Puzzles",
+            "Personal Shopping Help",
+            "Early Access To New Building Blocks And Sets"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Toy Store Picks",
+      "captions": [
+        "Building Blocks And Sets",
+        "Dolls And Soft Toys",
+        "Board Games And Puzzles",
+        "Educational Toys",
+        "Outdoor And Ride-ons",
+        "Gift Wrapping"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Toy Store Advisor",
+        "Building Blocks And Sets Specialist",
+        "Toy Store Order Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Quick reply about educational toys and a straight answer.",
+        "role": "Customer"
+      },
+      {
+        "quote": "They showed me the options for building blocks and sets and told me the prices clearly.",
+        "role": "Customer"
+      },
+      {
+        "quote": "Helpful advice on dolls and soft toys, and no pressure to buy.",
+        "role": "Regular shopper"
+      }
+    ],
+    "blog": {
+      "title": "From The Toy Store Shelf",
+      "posts": [
+        {
+          "tag": "Care",
+          "title": "Getting The Most From Educational Toys"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Simple Ideas For Outdoor And Ride-ons"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Gift Wrapping"
+        }
+      ]
+    },
+    "marquee": [
+      "Building Blocks",
+      "Soft Toys",
+      "Board Games",
+      "Educational Toys",
+      "Outdoor",
+      "New Stock",
+      "Clear Prices",
+      "Friendly Advice"
+    ],
+    "contactText": "Tell {brand} what you are looking for: building blocks and sets, board games and puzzles or something close. We will answer with options and prices."
+  },
+  {
+    "id": "chai_tea_stall",
+    "label": "Chai stall",
+    "theme": "food_dining",
+    "keywords": [
+      "chai ki tapri",
+      "chai tapri",
+      "tea stall",
+      "chai stall",
+      "chai shop",
+      "चाय की टपरी",
+      "चाय की दुकान"
+    ],
+    "heroTitles": [
+      "Chai Stall The Way It Should Taste",
+      "Fresh Kadak Masala Chai, Ready When You Are",
+      "Simple Chai Stall Done Well"
+    ],
+    "heroSubtitles": [
+      "From kadak masala chai to bun maska and toast, {brand} makes things with care and takes your order the way a neighbour would.",
+      "{brand} offers kadak masala chai and cutting chai. Order by message or drop in and see what is fresh today.",
+      "Craving kadak masala chai or cold coffee and lemon tea? {brand} will tell you what is ready, what goes well with it and how to order."
+    ],
+    "button": "Order Chai",
+    "featureTitle": "Chai Stall Favourites",
+    "features": [
+      {
+        "title": "Kadak Masala Chai",
+        "text": "Kadak Masala Chai prepared fresh, with the team happy to explain the details."
+      },
+      {
+        "title": "Bun Maska And Toast",
+        "text": "Craving bun maska and toast? Order ahead or drop in and we will point you to what suits your mood."
+      },
+      {
+        "title": "Pakoda And Samosa",
+        "text": "For pakoda and samosa, we keep the flavours honest and let the ingredients do the work."
+      },
+      {
+        "title": "Cutting Chai",
+        "text": "Cutting Chai on offer today; message us to check what is ready before you come."
+      },
+      {
+        "title": "Cold Coffee And Lemon Tea",
+        "text": "Questions about cold coffee and lemon tea? Ask us about ingredients or any dietary need before you order."
+      },
+      {
+        "title": "Takeaway Cups",
+        "text": "Ask about takeaway cups and we will tell you what goes into it and how it is best enjoyed."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Fresh",
+        "label": "Made each day"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Easy",
+        "label": "Ordering by message"
+      }
+    ],
+    "steps": {
+      "title": "How Ordering Works",
+      "items": [
+        {
+          "title": "Pick What You Like",
+          "text": "Browse the chai stall menu and choose kadak masala chai or anything that catches your eye."
+        },
+        {
+          "title": "Place Your Order",
+          "text": "Order by message or call, or walk in, for bun maska and toast and anything alongside it."
+        },
+        {
+          "title": "We Make It Fresh",
+          "text": "The kitchen prepares pakoda and samosa so it reaches you at its best."
+        },
+        {
+          "title": "Collect And Enjoy",
+          "text": "Pick it up, enjoy it, and tell us what you liked so we can keep improving cutting chai."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What goes into pakoda and samosa?",
+        "a": "Ask us when you order. The team is happy to describe ingredients and how it is made. That goes for pakoda and samosa and cutting chai too."
+      },
+      {
+        "q": "Can I take kadak masala chai away?",
+        "a": "Yes. Ask about takeaway when you order and we will pack it carefully. Ask us about cold coffee and lemon tea or takeaway cups and the answer is the same."
+      },
+      {
+        "q": "Do you take large orders for cutting chai?",
+        "a": "Yes. Tell us the date and numbers and we will say what we can do. The same approach applies to kadak masala chai and takeaway cups."
+      },
+      {
+        "q": "How fresh is the chai stall food?",
+        "a": "We make it each day and tell you honestly if something is not available. This applies to kadak masala chai, bun maska and toast and the rest of our chai stall work."
+      },
+      {
+        "q": "Can I ask what is best today in cold coffee and lemon tea?",
+        "a": "Of course. Ask the team and they will point you to what is freshest. It is the same for bun maska and toast as it is for kadak masala chai."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Order Kadak Masala Chai?",
+      "button": "Order Chai"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good chai stall means fresh food, a clear menu and a team that is happy to answer questions.",
+        "Our table includes kadak masala chai and bun maska and toast. Ask about cutting chai or cold coffee and lemon tea too and we will tell you what is ready today."
+      ],
+      "points": [
+        "Fresh Every Day",
+        "Honest Menu",
+        "Warm Welcome"
+      ]
+    },
+    "pricing": {
+      "title": "Chai Stall Price Guide",
+      "plans": [
+        {
+          "name": "Single Order",
+          "price": "$0.25",
+          "period": "/cup",
+          "perks": [
+            "Kadak Masala Chai Portion",
+            "Made Fresh",
+            "Takeaway On Request"
+          ]
+        },
+        {
+          "name": "Popular Combo",
+          "price": "$1",
+          "period": "/chai and snack",
+          "perks": [
+            "Kadak Masala Chai And Bun Maska And Toast",
+            "Made Fresh",
+            "Takeaway On Request"
+          ]
+        },
+        {
+          "name": "Large Order",
+          "price": "$4",
+          "period": "/office order",
+          "perks": [
+            "Kadak Masala Chai Plus Bun Maska And Toast And Pakoda And Samosa",
+            "Shared Portions",
+            "Advance Order Welcome"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "From Our Chai Stall Kitchen",
+      "captions": [
+        "Kadak Masala Chai",
+        "Bun Maska And Toast",
+        "Pakoda And Samosa",
+        "Cutting Chai",
+        "Cold Coffee And Lemon",
+        "Takeaway Cups"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Head Cook",
+        "Kadak Masala Chai Specialist",
+        "Guest Host"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Quick reply about cutting chai and everything was ready on time.",
+        "role": "Customer"
+      },
+      {
+        "quote": "The kadak masala chai tasted fresh and the team explained what was in it.",
+        "role": "Regular guest"
+      },
+      {
+        "quote": "Easy to order bun maska and toast by message, and it was ready when they said.",
+        "role": "Office lunch group"
+      }
+    ],
+    "blog": {
+      "title": "From The Chai Stall Kitchen",
+      "posts": [
+        {
+          "tag": "Menu",
+          "title": "What To Try First With Bun Maska And Toast"
+        },
+        {
+          "tag": "Pairing",
+          "title": "Good Company For Pakoda And Samosa"
+        },
+        {
+          "tag": "Kitchen",
+          "title": "How We Prepare Cutting Chai"
+        }
+      ]
+    },
+    "marquee": [
+      "Kadak Masala",
+      "Bun Maska",
+      "Pakoda",
+      "Cutting Chai",
+      "Cold Coffee",
+      "Fresh Daily",
+      "Takeaway",
+      "Easy Ordering"
+    ],
+    "contactText": "Tell {brand} what you fancy: kadak masala chai, pakoda and samosa or something else. We will answer with what is ready and how to order.",
+    "menu": {
+      "title": "On The Menu",
+      "lead": "Hot chai made fresh all day with simple snacks on the side. Take it away or stand a while.",
+      "categories": [
+        {
+          "name": "Chai",
+          "items": [
+            "Kadak masala chai | strong and spiced",
+            "Cutting chai | half cup",
+            "Adrak chai | with ginger",
+            "Elaichi chai | with cardamom",
+            "Tulsi chai",
+            "Lemon tea"
+          ]
+        },
+        {
+          "name": "Snacks",
+          "items": [
+            "Bun maska | buttered bun",
+            "Toast with butter",
+            "Samosa | crisp and hot",
+            "Pakoda | gram flour fritters",
+            "Biscuits"
+          ]
+        },
+        {
+          "name": "Cold Drinks",
+          "items": [
+            "Cold coffee",
+            "Lemon soda",
+            "Iced tea",
+            "Chaas | spiced buttermilk",
+            "Sugarcane juice"
+          ]
+        }
+      ]
+    }
+  }
+]

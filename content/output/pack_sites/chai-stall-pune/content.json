@@ -1,0 +1,253 @@
+{
+  "brand": "Chai stall, Pune",
+  "niche": "chai_tea_stall",
+  "kind": "pro",
+  "profile": "",
+  "business_type": "chai_tea_stall",
+  "type_label": "Chai stall",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "warm",
+  "keywords": [
+    "chai ki tapri",
+    "chai tapri",
+    "tea stall",
+    "chai stall",
+    "chai shop"
+  ],
+  "eyebrow": "Chai stall · Pune",
+  "location": "Pune",
+  "audience": "",
+  "hero_heading": "Chai Stall The Way It Should Taste",
+  "tagline": "From kadak masala chai to bun maska and toast, Chai stall, Pune makes things with care and takes your order the way a neighbour would in Pune.",
+  "about_title": "About us",
+  "about": [
+    "At Chai stall, Pune good chai stall means fresh food, a clear menu and a team that is happy to answer questions.",
+    "Our table includes kadak masala chai and bun maska and toast. Ask about cutting chai or cold coffee and lemon tea too and we will tell you what is ready today."
+  ],
+  "features_title": "Chai Stall Favourites",
+  "features": [
+    {
+      "title": "Kadak Masala Chai",
+      "text": "Kadak Masala Chai prepared fresh, with the team happy to explain the details."
+    },
+    {
+      "title": "Bun Maska And Toast",
+      "text": "Craving bun maska and toast? Order ahead or drop in and we will point you to what suits your mood."
+    },
+    {
+      "title": "Pakoda And Samosa",
+      "text": "For pakoda and samosa, we keep the flavours honest and let the ingredients do the work."
+    },
+    {
+      "title": "Cutting Chai",
+      "text": "Cutting Chai on offer today; message us to check what is ready before you come."
+    },
+    {
+      "title": "Cold Coffee And Lemon Tea",
+      "text": "Questions about cold coffee and lemon tea? Ask us about ingredients or any dietary need before you order."
+    },
+    {
+      "title": "Takeaway Cups",
+      "text": "Ask about takeaway cups and we will tell you what goes into it and how it is best enjoyed."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Fresh Every Day",
+      "text": "Fresh: Made each day."
+    },
+    {
+      "title": "Honest Menu",
+      "text": "Same day: Replies to messages."
+    },
+    {
+      "title": "Warm Welcome",
+      "text": "Easy: Ordering by message."
+    }
+  ],
+  "stats_title": "At a glance",
+  "stats": [
+    {
+      "value": "Fresh",
+      "label": "Made each day"
+    },
+    {
+      "value": "Same day",
+      "label": "Replies to messages"
+    },
+    {
+      "value": "Easy",
+      "label": "Ordering by message"
+    }
+  ],
+  "steps_title": "How Ordering Works",
+  "steps": [
+    {
+      "title": "Pick What You Like",
+      "text": "Browse the chai stall menu and choose kadak masala chai or anything that catches your eye."
+    },
+    {
+      "title": "Place Your Order",
+      "text": "Order by message or call, or walk in, for bun maska and toast and anything alongside it."
+    },
+    {
+      "title": "We Make It Fresh",
+      "text": "The kitchen prepares pakoda and samosa so it reaches you at its best."
+    },
+    {
+      "title": "Collect And Enjoy",
+      "text": "Pick it up, enjoy it, and tell us what you liked so we can keep improving cutting chai."
+    }
+  ],
+  "faq_title": "Good questions",
+  "faq": [
+    {
+      "q": "What goes into pakoda and samosa?",
+      "a": "Ask us when you order. The team is happy to describe ingredients and how it is made. That goes for pakoda and samosa and cutting chai too."
+    },
+    {
+      "q": "Can I take kadak masala chai away?",
+      "a": "Yes. Ask about takeaway when you order and we will pack it carefully. Ask us about cold coffee and lemon tea or takeaway cups and the answer is the same."
+    },
+    {
+      "q": "Do you take large orders for cutting chai?",
+      "a": "Yes. Tell us the date and numbers and we will say what we can do. The same approach applies to kadak masala chai and takeaway cups."
+    },
+    {
+      "q": "How fresh is the chai stall food?",
+      "a": "We make it each day and tell you honestly if something is not available. This applies to kadak masala chai, bun maska and toast and the rest of our chai stall work."
+    },
+    {
+      "q": "Can I ask what is best today in cold coffee and lemon tea?",
+      "a": "Of course. Ask the team and they will point you to what is freshest. It is the same for bun maska and toast as it is for kadak masala chai."
+    }
+  ],
+  "blog_title": "From The Chai Stall Kitchen",
+  "blog": [
+    {
+      "title": "What To Try First With Bun Maska And Toast",
+      "excerpt": "Menu notes for people looking into chai stall."
+    },
+    {
+      "title": "Good Company For Pakoda And Samosa",
+      "excerpt": "Pairing notes for people looking into chai stall."
+    },
+    {
+      "title": "How We Prepare Cutting Chai",
+      "excerpt": "Kitchen notes for people looking into chai stall."
+    }
+  ],
+  "contact": {
+    "place": "Pune"
+  },
+  "cta_primary": "Order Chai",
+  "cta_secondary": "FAQ",
+  "cta_text": "Tell Chai stall, Pune what you fancy: kadak masala chai, pakoda and samosa or something else. We will answer with what is ready and how to order.",
+  "cta_title": "Ready To Order Kadak Masala Chai?",
+  "footer": "© Chai stall, Pune. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "pricing": [
+    {
+      "name": "Single Order",
+      "price": "Rs 20 /cup"
+    },
+    {
+      "name": "Popular Combo",
+      "price": "Rs 80 /chai and snack"
+    },
+    {
+      "name": "Large Order",
+      "price": "Rs 320 /office order"
+    }
+  ],
+  "facts_used": {},
+  "missing": [
+    "name",
+    "phone",
+    "email",
+    "address",
+    "hours"
+  ],
+  "generated_by": {
+    "business_type": "chai_tea_stall (niche pack)",
+    "items_from_prompt": [
+      "Kadak Masala Chai",
+      "Bun Maska And Toast",
+      "Pakoda And Samosa",
+      "Cutting Chai",
+      "Cold Coffee And Lemon Tea",
+      "Takeaway Cups"
+    ],
+    "place": "Pune",
+    "mode": "niche pack",
+    "copy": "pack text from the training spec"
+  },
+  "needs_review": [
+    "This page uses the chai_tea_stall niche pack. Replace the sample prices (USD x 80) and add your real phone, address and hours before publishing.",
+    "No business name was given, so the heading is 'Chai stall, Pune' (not a name).",
+    "No picture style fits this kind of business (no picture niche for business type 'chai_tea_stall'): the pictures are a neutral abstract in the brand colour, not a wrong scene."
+  ],
+  "menu": {
+    "title": "On The Menu",
+    "lead": "Hot chai made fresh all day with simple snacks on the side. Take it away or stand a while.",
+    "categories": [
+      {
+        "name": "Chai",
+        "items": [
+          "Kadak masala chai | strong and spiced",
+          "Cutting chai | half cup",
+          "Adrak chai | with ginger",
+          "Elaichi chai | with cardamom",
+          "Tulsi chai",
+          "Lemon tea"
+        ]
+      },
+      {
+        "name": "Snacks",
+        "items": [
+          "Bun maska | buttered bun",
+          "Toast with butter",
+          "Samosa | crisp and hot",
+          "Pakoda | gram flour fritters",
+          "Biscuits"
+        ]
+      },
+      {
+        "name": "Cold Drinks",
+        "items": [
+          "Cold coffee",
+          "Lemon soda",
+          "Iced tea",
+          "Chaas | spiced buttermilk",
+          "Sugarcane juice"
+        ]
+      }
+    ]
+  }
+}

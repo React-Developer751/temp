@@ -1,0 +1,189 @@
+{
+  "brand": "Garden & Lawn Care, Bangalore",
+  "niche": "business",
+  "kind": "home",
+  "profile": "",
+  "business_type": "landscape",
+  "type_label": "Garden & Lawn Care",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "friendly",
+  "keywords": [
+    "landscaping"
+  ],
+  "eyebrow": "Garden & Lawn Care · Bangalore",
+  "location": "Bangalore",
+  "audience": "",
+  "hero_heading": "Lawns and gardens, checked when it's done",
+  "tagline": "Let us know what matters most to you.",
+  "about_title": "About us",
+  "about": [
+    "On the list: gardens and lawns. We look after them in Bangalore. Ask if anything is unclear.",
+    "You will find us in Bangalore. Let us know about pets or children so we can plan."
+  ],
+  "features_title": "Our work",
+  "features": [
+    {
+      "title": "Lawns",
+      "text": "Lawns: ask for details before you make up your mind."
+    },
+    {
+      "title": "Gardens",
+      "text": "Let us know about the gardens job and we will explain what's involved."
+    },
+    {
+      "title": "Installations",
+      "text": "Let us know what you need from Installations and we will suggest where to start."
+    },
+    {
+      "title": "Maintenance Plans",
+      "text": "Maintenance Plans: a clear plan first, then the work, then a check with you."
+    },
+    {
+      "title": "Plants",
+      "text": "Not sure what Plants needs? Describe it and we'll advise."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Straight answers",
+      "text": "Ask and we will say it plainly."
+    },
+    {
+      "title": "Details explained",
+      "text": "Before anything begins."
+    },
+    {
+      "title": "No surprises",
+      "text": "Explained before we begin."
+    }
+  ],
+  "stats_title": "Where and when",
+  "stats": [
+    {
+      "value": "Bangalore",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "What happens next",
+  "steps": [
+    {
+      "title": "Get in touch",
+      "text": "Send a message or call and tell us what you need."
+    },
+    {
+      "title": "Get a clear plan",
+      "text": "We explain lawns or gardens and what's involved."
+    },
+    {
+      "title": "Get started",
+      "text": "We begin when you're ready."
+    }
+  ],
+  "faq_title": "Good questions",
+  "faq": [
+    {
+      "q": "Do you cover my area?",
+      "a": "Let us know your area and we'll confirm."
+    },
+    {
+      "q": "Where are you based?",
+      "a": "We're in Bangalore; reach out."
+    },
+    {
+      "q": "Can you do lawns?",
+      "a": "Let us know what lawns involves for you and we'll advise."
+    },
+    {
+      "q": "How do I pay?",
+      "a": "Message us and we'll tell you how payment works."
+    }
+  ],
+  "blog_title": "Worth reading",
+  "blog": [
+    {
+      "title": "Questions to ask before hiring",
+      "excerpt": "Quotes, timing and what's included."
+    },
+    {
+      "title": "What to bring when you get in touch",
+      "excerpt": "A short list that saves a second message."
+    },
+    {
+      "title": "Notes on getting started",
+      "excerpt": "The first steps, without the jargon."
+    }
+  ],
+  "contact": {
+    "place": "Bangalore"
+  },
+  "cta_primary": "Get a quote",
+  "cta_secondary": "Call now",
+  "cta_text": "Ask for a quote today.",
+  "cta_title": "Ready when you are",
+  "footer": "© Garden & Lawn Care, Bangalore. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Bangalore",
+      "source": "prompt"
+    },
+    "services": {
+      "value": [
+        "lawns",
+        "gardens"
+      ],
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "landscape (confidence high)",
+    "items_from_prompt": [
+      "lawns",
+      "gardens"
+    ],
+    "place": "Bangalore",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "home"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Garden & Lawn Care, Bangalore' (not a name). Add your business name to replace it.",
+    "Typical garden & lawn care offerings were used for: Installations, Maintenance Plans, Plants. List your real services (3 or more) to replace them."
+  ]
+}

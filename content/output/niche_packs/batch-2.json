@@ -1,0 +1,2418 @@
+[
+  {
+    "id": "car_rental",
+    "label": "Car rental",
+    "theme": "automotive",
+    "keywords": [
+      "car rental",
+      "car hire",
+      "rent a car",
+      "self drive car",
+      "car on rent",
+      "gaadi kiraye par",
+      "गाड़ी किराये पर",
+      "कार रेंटल"
+    ],
+    "heroTitles": [
+      "Self Drive Rental And Car With Driver Made Easy",
+      "Car Rental You Can Rely On",
+      "Car Rental With Clear Prices"
+    ],
+    "heroSubtitles": [
+      "Need self drive rental? {brand} will say what it involves, how long it takes and what it costs before you commit.",
+      "{brand} offers self drive rental, car with driver and airport pickup and drop. Tell us what you need and get a clear price and a time that suits you.",
+      "Looking for help with car rental? {brand} explains the work and the cost first, then gets on with it."
+    ],
+    "button": "Check Car Availability",
+    "featureTitle": "Car Rental Services We Offer",
+    "features": [
+      {
+        "title": "Self Drive Rental",
+        "text": "Self Drive Rental with the price and timing agreed up front, so there are no surprises."
+      },
+      {
+        "title": "Car With Driver",
+        "text": "Ask about car with driver; we explain the options in plain words and let you decide."
+      },
+      {
+        "title": "Airport Pickup And Drop",
+        "text": "For airport pickup and drop, we check the basics first and suggest only what is actually needed."
+      },
+      {
+        "title": "Wedding And Event Cars",
+        "text": "Wedding And Event Cars booked at a time that suits you, with an update when it is done."
+      },
+      {
+        "title": "Monthly And Corporate Hire",
+        "text": "Questions about monthly and corporate hire? Message us and we will answer before you book."
+      },
+      {
+        "title": "Outstation Tours",
+        "text": "We tell you what outstation tours involves, how long it takes and the cost before we start."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Booked",
+        "label": "Slot that suits you"
+      },
+      {
+        "value": "Plain",
+        "label": "Explanations"
+      },
+      {
+        "value": "Local",
+        "label": "Team near you"
+      }
+    ],
+    "steps": {
+      "title": "How Booking Works",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Share the car rental requirement by call or message, with the vehicle details."
+        },
+        {
+          "title": "Get A Clear Price",
+          "text": "We explain self drive rental and the options, and tell you the cost before we begin."
+        },
+        {
+          "title": "Pick A Time",
+          "text": "Choose a slot that suits you and we confirm it, so the car with driver work fits your day."
+        },
+        {
+          "title": "Collect And Review",
+          "text": "We go through what was done on airport pickup and drop and answer any questions afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I book self drive rental?",
+        "a": "Call or message with your vehicle details and the day you prefer, and we will confirm a slot. That goes for airport pickup and drop and wedding and event cars too."
+      },
+      {
+        "q": "Do you tell me the cost of car with driver first?",
+        "a": "Yes. We explain what is needed and what it costs before any work begins. Ask us about monthly and corporate hire or outstation tours and the answer is the same."
+      },
+      {
+        "q": "Can I ask about airport pickup and drop before booking?",
+        "a": "Of course. Message us your questions and we will answer plainly, with no pressure. The same approach applies to self drive rental and outstation tours."
+      },
+      {
+        "q": "What details do you need for car rental?",
+        "a": "The vehicle type, what you need done and a day that suits you; we will ask for anything else. This applies to self drive rental, car with driver and the rest of our car rental work."
+      },
+      {
+        "q": "Can you work to my timings for self drive rental?",
+        "a": "Tell us what suits you and we will offer the nearest slot that fits. It is the same for car with driver as it is for self drive rental."
+      }
+    ],
+    "cta": {
+      "title": "Want A Clear Price For Self Drive Rental?",
+      "button": "Check Car Availability"
+    },
+    "about": {
+      "title": "About Our Car Rental Team",
+      "paragraphs": [
+        "At {brand} a good car rental experience starts with a clear conversation, and the work follows from what we agreed.",
+        "Our work includes self drive rental and car with driver. Ask about wedding and event cars or monthly and corporate hire too and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Price Before Work",
+        "Plain Explanations",
+        "Slots That Fit You"
+      ]
+    },
+    "pricing": {
+      "title": "Car Rental Pricing",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "$28",
+          "period": "/day",
+          "perks": [
+            "Self Drive Rental Only",
+            "Price Told First",
+            "Slot You Choose"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$70",
+          "period": "/weekend",
+          "perks": [
+            "Self Drive Rental And Car With Driver",
+            "Update When Done",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$160",
+          "period": "/week",
+          "perks": [
+            "Self Drive Rental Plus Car With Driver And Airport Pickup And Drop",
+            "Follow-Up Check",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Car Rental Work",
+      "captions": [
+        "Self Drive Rental",
+        "Car With Driver",
+        "Airport Pickup And Drop",
+        "Wedding And Event Cars",
+        "Monthly And Corporate Hire",
+        "Outstation Tours"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Car Rental Specialist",
+        "Self Drive Rental Lead",
+        "Car Rental Support Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "No pressure, just a straight answer on airport pickup and drop.",
+        "role": "Daily commuter"
+      },
+      {
+        "quote": "The team kept me updated while the car rental work was going on.",
+        "role": "Customer"
+      },
+      {
+        "quote": "I liked that self drive rental came with a price upfront and nothing extra later.",
+        "role": "Business owner"
+      }
+    ],
+    "blog": {
+      "title": "From The Car Rental Desk",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "How To Choose A Car Rental Provider"
+        },
+        {
+          "tag": "Cost",
+          "title": "What Affects The Cost Of Self Drive Rental"
+        },
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask Before Car With Driver"
+        }
+      ]
+    },
+    "marquee": [
+      "Self Drive",
+      "Car",
+      "Airport Pickup",
+      "Event Cars",
+      "Corporate Hire",
+      "Free Quote",
+      "Clear Pricing",
+      "Local Team"
+    ],
+    "contactText": "Call or message {brand} to talk about self drive rental or car with driver. We reply with a clear price and a slot that works for you."
+  },
+  {
+    "id": "driving_school",
+    "label": "Driving school",
+    "theme": "education",
+    "keywords": [
+      "driving school",
+      "driving classes",
+      "learn car driving",
+      "driving lessons",
+      "driving licence",
+      "car training",
+      "gaadi seekhna",
+      "ड्राइविंग स्कूल",
+      "गाड़ी चलाना सीखना"
+    ],
+    "heroTitles": [
+      "Learn Beginner Car Lessons Step By Step",
+      "Driving School With Time For Questions",
+      "Small Steps Towards Beginner Car Lessons"
+    ],
+    "heroSubtitles": [
+      "Want to learn beginner car lessons or licence paperwork help? {brand} will explain how classes run, what to bring and how progress is shared.",
+      "Looking for help with driving school? {brand} keeps learning simple: clear teaching, regular practice and time for doubts.",
+      "From beginner car lessons to city road practice, {brand} helps learners move one step at a time, with feedback they can use."
+    ],
+    "button": "Book A Trial Lesson",
+    "featureTitle": "Our Driving School Programmes",
+    "features": [
+      {
+        "title": "Beginner Car Lessons",
+        "text": "Questions about beginner car lessons? Message us and we will answer before you enrol."
+      },
+      {
+        "title": "City Road Practice",
+        "text": "We explain how city road practice is taught, what to practise and how progress is shared."
+      },
+      {
+        "title": "Parking And Reversing",
+        "text": "Parking And Reversing taught step by step, with time for questions and regular practice."
+      },
+      {
+        "title": "Nervous Driver Support",
+        "text": "Ask about nervous driver support; we describe the batch, the timings and what suits your level."
+      },
+      {
+        "title": "Licence Paperwork Help",
+        "text": "For licence paperwork help, we start from where you are and build up at a comfortable pace."
+      },
+      {
+        "title": "Refresher And Highway Class",
+        "text": "Refresher And Highway Class with simple feedback after each class, so you know what to improve."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "Demo class"
+      },
+      {
+        "value": "Small",
+        "label": "Batches for attention"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Visit A Demo Class",
+          "text": "Message or call to join a driving school demo class and meet the teacher."
+        },
+        {
+          "title": "Choose Your Batch",
+          "text": "We suggest a batch for beginner car lessons that fits your level and your timings."
+        },
+        {
+          "title": "Learn And Practise",
+          "text": "Attend classes for city road practice, practise between sessions and ask questions freely."
+        },
+        {
+          "title": "Review Progress",
+          "text": "We share simple feedback on parking and reversing and plan the next steps with you."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I ask doubts after parking and reversing classes?",
+        "a": "Yes. Doubts are welcome in class and by message afterwards. It is the same for city road practice as it is for beginner car lessons."
+      },
+      {
+        "q": "How do you share progress in beginner car lessons?",
+        "a": "We give simple feedback after classes and talk to you about the next goals. That goes for parking and reversing and nervous driver support too."
+      },
+      {
+        "q": "Are the driving school batches small?",
+        "a": "We keep batches manageable so each learner gets attention; ask us about current timings. Ask us about licence paperwork help or refresher and highway class and the answer is the same."
+      },
+      {
+        "q": "What do I need to bring for nervous driver support?",
+        "a": "We tell you when you enrol, usually a notebook and the materials for that course. The same approach applies to beginner car lessons and refresher and highway class."
+      },
+      {
+        "q": "Can I change my batch for licence paperwork help?",
+        "a": "Tell us as early as you can and we will see what is available. This applies to beginner car lessons, city road practice and the rest of our driving school work."
+      }
+    ],
+    "cta": {
+      "title": "Want To Learn Beginner Car Lessons?",
+      "button": "Book A Trial Lesson"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local driving school centre. We teach step by step, keep batches manageable and leave room for every question.",
+        "We teach beginner car lessons, city road practice and parking and reversing, and we are glad to talk through your goals before you enrol."
+      ],
+      "points": [
+        "Simple Feedback",
+        "Friendly Teachers",
+        "Flexible Batches"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Fees For Driving School",
+      "plans": [
+        {
+          "name": "Trial",
+          "price": "$45",
+          "period": "/15 lessons",
+          "perks": [
+            "Beginner Car Lessons Demo Class",
+            "Meet The Teacher",
+            "Batch Advice"
+          ]
+        },
+        {
+          "name": "Monthly",
+          "price": "$70",
+          "period": "/30 lessons",
+          "perks": [
+            "Beginner Car Lessons And City Road Practice",
+            "Regular Feedback",
+            "Doubt Sessions"
+          ]
+        },
+        {
+          "name": "Full Course",
+          "price": "$110",
+          "period": "/licence package",
+          "perks": [
+            "Beginner Car Lessons Plus City Road Practice And Parking And Reversing",
+            "Extended Practice",
+            "Progress Reviews"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Our Driving School Classes",
+      "captions": [
+        "Beginner Car Lessons",
+        "City Road Practice",
+        "Parking And Reversing",
+        "Nervous Driver Support",
+        "Licence Paperwork Help",
+        "Refresher And Highway Class"
+      ]
+    },
+    "team": {
+      "title": "Meet The Teachers",
+      "roles": [
+        "Driving Instructor",
+        "Safety Coordinator",
+        "Booking Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Easy to join city road practice, and the feedback was simple to follow.",
+        "role": "Student"
+      },
+      {
+        "quote": "A friendly start to parking and reversing with no pressure.",
+        "role": "Learner"
+      },
+      {
+        "quote": "Small batch, and the driving school teaching matched my level.",
+        "role": "Student"
+      }
+    ],
+    "blog": {
+      "title": "Driving School Study Tips",
+      "posts": [
+        {
+          "tag": "Practice",
+          "title": "Simple Ways To Practise City Road Practice"
+        },
+        {
+          "tag": "Habits",
+          "title": "Study Habits That Help With Parking And Reversing"
+        },
+        {
+          "tag": "Planning",
+          "title": "Planning Your Time For Nervous Driver Support"
+        }
+      ]
+    },
+    "marquee": [
+      "Beginner Car",
+      "City Road",
+      "Parking",
+      "Nervous Driver",
+      "Paperwork Help",
+      "Demo Class",
+      "Small Batches",
+      "Doubts Welcome"
+    ],
+    "contactText": "Tell {brand} what you want to learn: beginner car lessons, parking and reversing or something close. We will answer with a batch and a time to visit."
+  },
+  {
+    "id": "mobile_repair",
+    "label": "Mobile phone repair",
+    "theme": "modern_tech",
+    "keywords": [
+      "mobile repair",
+      "phone repair",
+      "screen replacement",
+      "mobile screen repair",
+      "battery replacement",
+      "iphone repair",
+      "phone theek karwana",
+      "मोबाइल रिपेयर",
+      "फोन की स्क्रीन बदलना"
+    ],
+    "heroTitles": [
+      "Screen Replacement And Battery Replacement Done Properly",
+      "Local Mobile Phone Repair You Can Count On",
+      "Mobile Phone Repair With A Clear Quote First"
+    ],
+    "heroSubtitles": [
+      "Need screen replacement or software and data help? {brand} sends a local team, explains each step and keeps you informed until the job is done.",
+      "Looking for help with mobile phone repair? {brand} explains the work, the cost and the timing first, then does the job tidily.",
+      "From screen replacement to battery replacement, {brand} keeps things simple: a short chat, a fair quote and a visit at a time that suits you."
+    ],
+    "button": "Book A Phone Repair",
+    "featureTitle": "What Mobile Phone Repair Covers Here",
+    "features": [
+      {
+        "title": "Screen Replacement",
+        "text": "For screen replacement, we look at the place first, then suggest the simplest fix that lasts."
+      },
+      {
+        "title": "Battery Replacement",
+        "text": "Need battery replacement? Tell us what is wrong and we will say what can be done and when."
+      },
+      {
+        "title": "Charging Port Repair",
+        "text": "Charging Port Repair with a short check at the end, so you know the job is finished properly."
+      },
+      {
+        "title": "Water Damage Treatment",
+        "text": "We explain what water damage treatment involves, the options and the cost before any work begins."
+      },
+      {
+        "title": "Software And Data Help",
+        "text": "Software And Data Help by a local team, with the price and timing agreed with you first."
+      },
+      {
+        "title": "Speaker, Mic And Camera Fix",
+        "text": "Ask about speaker, mic and camera fix and get a clear quote, a time that suits you and a tidy finish."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Price before work"
+      },
+      {
+        "value": "Fixed",
+        "label": "Visit time you choose"
+      },
+      {
+        "value": "Tidy",
+        "label": "Finish every time"
+      }
+    ],
+    "steps": {
+      "title": "How Mobile Phone Repair Works With Us",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Describe the mobile phone repair job by call or message, with a photo if that helps."
+        },
+        {
+          "title": "Get A Clear Quote",
+          "text": "We explain the options for screen replacement and give you the price before anything starts."
+        },
+        {
+          "title": "We Do The Work",
+          "text": "Our team arrives at the agreed time and completes the battery replacement work with care."
+        },
+        {
+          "title": "Check And Follow Up",
+          "text": "We go through the result with you and stay reachable for questions on charging port repair afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I get a quote for screen replacement?",
+        "a": "Send a message or call with a few details and we will reply with a clear price before any work starts. This applies to screen replacement, battery replacement and the rest of our mobile phone repair work."
+      },
+      {
+        "q": "Is there a charge to look at a mobile phone repair job?",
+        "a": "Ask us when you book; any visit charge is told upfront, so there are no surprises later. It is the same for battery replacement as it is for screen replacement."
+      },
+      {
+        "q": "Can you work around my timings for battery replacement?",
+        "a": "Yes. Tell us the days and times that suit you and we will fix a slot within them. That goes for charging port repair and water damage treatment too."
+      },
+      {
+        "q": "What should I prepare before screen replacement?",
+        "a": "A clear path to the work area and a few details about the problem are usually enough; we will tell you if more is needed. Ask us about software and data help or speaker, mic and camera fix and the answer is the same."
+      },
+      {
+        "q": "Do you explain the mobile phone repair work before starting?",
+        "a": "Always. We describe each step, the materials and the cost, and begin only when you are comfortable. The same approach applies to screen replacement and speaker, mic and camera fix."
+      }
+    ],
+    "cta": {
+      "title": "Want A Clear Quote For Screen Replacement?",
+      "button": "Book A Phone Repair"
+    },
+    "about": {
+      "title": "About Our Mobile Phone Repair Team",
+      "paragraphs": [
+        "At {brand} we believe a good mobile phone repair job starts with a clear conversation. You hear the plan and the price first, and the work follows.",
+        "Our services include screen replacement and battery replacement. Ask us about water damage treatment or software and data help too, and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Clear Quote Before Work",
+        "Friendly Local Team",
+        "Tidy Finish"
+      ]
+    },
+    "pricing": {
+      "title": "Mobile Phone Repair Pricing",
+      "plans": [
+        {
+          "name": "Single Visit",
+          "price": "$4",
+          "period": "/check",
+          "perks": [
+            "Screen Replacement Only",
+            "Written Quote First",
+            "Time Slot You Choose"
+          ]
+        },
+        {
+          "name": "Regular Care",
+          "price": "$22",
+          "period": "/repair",
+          "perks": [
+            "Screen Replacement And Battery Replacement",
+            "Follow-Up Check",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Service",
+          "price": "$60",
+          "period": "/premium repair",
+          "perks": [
+            "Screen Replacement Plus Battery Replacement And Charging Port Repair",
+            "Extended Follow-Up",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Mobile Phone Repair Work",
+      "captions": [
+        "Screen Replacement",
+        "Battery Replacement",
+        "Charging Port Repair",
+        "Water Damage Treatment",
+        "Software And Data Help",
+        "Speaker Mic And Camera"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Mobile Phone Repair Technician",
+        "Screen Replacement Lead",
+        "Mobile Phone Repair Support Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "The screen replacement work was explained first and finished on the day we agreed.",
+        "role": "Home owner"
+      },
+      {
+        "quote": "Clear quote for battery replacement, no pressure, and the place was left tidy.",
+        "role": "Shop owner"
+      },
+      {
+        "quote": "They answered every question about charging port repair before starting.",
+        "role": "Flat resident"
+      }
+    ],
+    "blog": {
+      "title": "From The Mobile Phone Repair Desk",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "How To Choose A Mobile Phone Repair Provider"
+        },
+        {
+          "tag": "Cost",
+          "title": "What Affects The Cost Of Screen Replacement"
+        },
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask Before Battery Replacement"
+        }
+      ]
+    },
+    "marquee": [
+      "Screen",
+      "Battery",
+      "Charging Port",
+      "Water Damage",
+      "Data Help",
+      "Free Quote",
+      "Local Team",
+      "Clear Pricing"
+    ],
+    "contactText": "Call or message {brand} to talk about screen replacement or battery replacement. We reply with a clear price and a time that works for you."
+  },
+  {
+    "id": "bike_repair_garage",
+    "label": "Bike and scooter garage",
+    "theme": "automotive",
+    "keywords": [
+      "bike repair",
+      "bike service",
+      "motorcycle garage",
+      "scooter repair",
+      "two wheeler service",
+      "bike mechanic",
+      "gaadi service",
+      "बाइक रिपेयर",
+      "बाइक सर्विस"
+    ],
+    "heroTitles": [
+      "Bike And Scooter Garage Without The Waiting Around",
+      "Simple Bike And Scooter Garage For Every Day",
+      "Bike And Scooter Garage You Can Rely On"
+    ],
+    "heroSubtitles": [
+      "Looking for help with bike and scooter garage? {brand} explains the work and the cost first, then gets on with it.",
+      "From general bike service to tyre and puncture work, {brand} keeps it simple: a short chat, a clear price and a booking that fits your day.",
+      "{brand} takes care of general bike service and engine and clutch repair, tells you what is needed and what is not, and keeps you updated."
+    ],
+    "button": "Book A Bike Slot",
+    "featureTitle": "Our Bike And Scooter Garage Services",
+    "features": [
+      {
+        "title": "General Bike Service",
+        "text": "We tell you what general bike service involves, how long it takes and the cost before we start."
+      },
+      {
+        "title": "Engine And Clutch Repair",
+        "text": "Engine And Clutch Repair with the price and timing agreed up front, so there are no surprises."
+      },
+      {
+        "title": "Brake And Suspension",
+        "text": "Ask about brake and suspension; we explain the options in plain words and let you decide."
+      },
+      {
+        "title": "Tyre And Puncture Work",
+        "text": "For tyre and puncture work, we check the basics first and suggest only what is actually needed."
+      },
+      {
+        "title": "Electrical And Battery",
+        "text": "Electrical And Battery booked at a time that suits you, with an update when it is done."
+      },
+      {
+        "title": "Scooter Care",
+        "text": "Questions about scooter care? Message us and we will answer before you book."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Price before work"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Free",
+        "label": "Quote on request"
+      }
+    ],
+    "steps": {
+      "title": "How Booking Works",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Share the bike and scooter garage requirement by call or message, with the vehicle details."
+        },
+        {
+          "title": "Get A Clear Price",
+          "text": "We explain general bike service and the options, and tell you the cost before we begin."
+        },
+        {
+          "title": "Pick A Time",
+          "text": "Choose a slot that suits you and we confirm it, so the engine and clutch repair work fits your day."
+        },
+        {
+          "title": "Collect And Review",
+          "text": "We go through what was done on brake and suspension and answer any questions afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What if I need more than general bike service?",
+        "a": "Tell us at booking or on the day; we will say what else is worth doing and what can wait. It is the same for engine and clutch repair as it is for general bike service."
+      },
+      {
+        "q": "How do I book general bike service?",
+        "a": "Call or message with your vehicle details and the day you prefer, and we will confirm a slot. That goes for brake and suspension and tyre and puncture work too."
+      },
+      {
+        "q": "Do you tell me the cost of engine and clutch repair first?",
+        "a": "Yes. We explain what is needed and what it costs before any work begins. Ask us about electrical and battery or scooter care and the answer is the same."
+      },
+      {
+        "q": "Can I ask about brake and suspension before booking?",
+        "a": "Of course. Message us your questions and we will answer plainly, with no pressure. The same approach applies to general bike service and scooter care."
+      },
+      {
+        "q": "What details do you need for bike and scooter garage?",
+        "a": "The vehicle type, what you need done and a day that suits you; we will ask for anything else. This applies to general bike service, engine and clutch repair and the rest of our bike and scooter garage work."
+      }
+    ],
+    "cta": {
+      "title": "Want A Clear Price For General Bike Service?",
+      "button": "Book A Bike Slot"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} a good bike and scooter garage experience starts with a clear conversation, and the work follows from what we agreed.",
+        "Our work includes general bike service and engine and clutch repair. Ask about tyre and puncture work or electrical and battery too and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Price Before Work",
+        "Plain Explanations",
+        "Slots That Fit You"
+      ]
+    },
+    "pricing": {
+      "title": "Bike And Scooter Garage Pricing",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "$5",
+          "period": "/check",
+          "perks": [
+            "General Bike Service Only",
+            "Price Told First",
+            "Slot You Choose"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$15",
+          "period": "/service",
+          "perks": [
+            "General Bike Service And Engine And Clutch Repair",
+            "Update When Done",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$45",
+          "period": "/full service",
+          "perks": [
+            "General Bike Service Plus Engine And Clutch Repair And Brake And Suspension",
+            "Follow-Up Check",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Bike And Scooter Garage At Work",
+      "captions": [
+        "General Bike Service",
+        "Engine And Clutch Repair",
+        "Brake And Suspension",
+        "Tyre And Puncture Work",
+        "Electrical And Battery",
+        "Scooter Care"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Bike And Scooter Garage Specialist",
+        "General Bike Service Lead",
+        "Bike And Scooter Garage Support Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "The team kept me updated while the bike and scooter garage work was going on.",
+        "role": "Customer"
+      },
+      {
+        "quote": "I liked that general bike service came with a price upfront and nothing extra later.",
+        "role": "Business owner"
+      },
+      {
+        "quote": "Friendly people and a clear explanation of tyre and puncture work.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "From The Bike And Scooter Garage Desk",
+      "posts": [
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Electrical And Battery"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Choose A Bike And Scooter Garage Provider"
+        },
+        {
+          "tag": "Cost",
+          "title": "What Affects The Cost Of General Bike Service"
+        }
+      ]
+    },
+    "marquee": [
+      "General Bike",
+      "Clutch Repair",
+      "Brake",
+      "Puncture Work",
+      "Electrical",
+      "Free Quote",
+      "Clear Pricing",
+      "Local Team"
+    ],
+    "contactText": "Tell {brand} what you need: general bike service, brake and suspension or something close. We will answer with the next step and a clear price."
+  },
+  {
+    "id": "interior_designer",
+    "label": "Interior designer",
+    "theme": "luxury_minimal",
+    "keywords": [
+      "interior designer",
+      "home interior",
+      "interior design",
+      "modular kitchen design",
+      "false ceiling",
+      "living room design",
+      "ghar ka interior",
+      "इंटीरियर डिजाइनर",
+      "घर का इंटीरियर"
+    ],
+    "heroTitles": [
+      "Interior Designer That Starts With A Brief",
+      "Thoughtful Interior Designer For Your Needs",
+      "Space Planning, 3D Design Views And Modular Kitchen"
+    ],
+    "heroSubtitles": [
+      "{brand} creates space planning and wardrobes and storage. We listen to the idea first, agree the scope and keep you informed along the way.",
+      "Need space planning or false ceiling and lighting? {brand} sets out the scope and the cost first, then delivers in clear stages.",
+      "{brand} offers space planning, 3d design views and modular kitchen. Share your idea and get a clear plan, timeline and price before we begin."
+    ],
+    "button": "Book A Design Chat",
+    "featureTitle": "Interior Designer Work We Offer",
+    "features": [
+      {
+        "title": "Space Planning",
+        "text": "For space planning, we work in clear stages and check each one with you."
+      },
+      {
+        "title": "3D Design Views",
+        "text": "3D Design Views delivered in the format you need, with a final review before handover."
+      },
+      {
+        "title": "Modular Kitchen",
+        "text": "Questions about modular kitchen? Message us and we will walk you through the process."
+      },
+      {
+        "title": "Wardrobes And Storage",
+        "text": "We start wardrobes and storage with a short brief, so the scope, timing and cost are clear from day one."
+      },
+      {
+        "title": "False Ceiling And Lighting",
+        "text": "False Ceiling And Lighting shaped around your idea, with a draft you can comment on before it is final."
+      },
+      {
+        "title": "Turnkey Execution",
+        "text": "Ask about turnkey execution; we explain the options, show examples and agree what is included."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First consultation"
+      },
+      {
+        "value": "Clear",
+        "label": "Scope and timeline"
+      },
+      {
+        "value": "Written",
+        "label": "Quote before work"
+      }
+    ],
+    "steps": {
+      "title": "How A Project Runs",
+      "items": [
+        {
+          "title": "Share Your Brief",
+          "text": "Tell us about your interior designer idea, the purpose and any references you like."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We outline the scope for space planning, the timeline and the cost, and confirm them with you."
+        },
+        {
+          "title": "Review The Draft",
+          "text": "You see the first version of the 3d design views work and tell us what to change."
+        },
+        {
+          "title": "Approve And Deliver",
+          "text": "We finalise modular kitchen, hand it over in the format you need and stay available for questions."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What formats do you deliver space planning in?",
+        "a": "Tell us where it will be used and we will deliver in the formats that suit that purpose. It is the same for 3d design views as it is for space planning."
+      },
+      {
+        "q": "Do you take small interior designer jobs?",
+        "a": "Yes. Small projects follow the same clear steps, with a quote and a plan first. That goes for modular kitchen and wardrobes and storage too."
+      },
+      {
+        "q": "How long does wardrobes and storage take?",
+        "a": "It depends on the scope; we give a timeline with the quote and update you if anything changes. Ask us about false ceiling and lighting or turnkey execution and the answer is the same."
+      },
+      {
+        "q": "How do I start a interior designer project?",
+        "a": "Send us a short brief by message or call, and we will reply with questions and a first outline. The same approach applies to space planning and turnkey execution."
+      },
+      {
+        "q": "Can I see a draft of space planning first?",
+        "a": "Yes. We share a draft at the agreed stage so you can comment before the final version. This applies to space planning, 3d design views and the rest of our interior designer work."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Start Your Interior Designer Project?",
+      "button": "Book A Design Chat"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good interior designer begins with listening. You hear the plan and the cost first, and the work follows in clear stages.",
+        "Our work includes space planning and 3d design views. Ask about wardrobes and storage or false ceiling and lighting too and we will say plainly what is possible."
+      ],
+      "points": [
+        "Brief Before Work",
+        "Drafts You Can Review",
+        "Plain Language"
+      ]
+    },
+    "pricing": {
+      "title": "Interior Designer Pricing",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$0",
+          "period": "/consultation",
+          "perks": [
+            "Space Planning Only",
+            "Written Quote First",
+            "One Round Of Feedback"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$350",
+          "period": "/room",
+          "perks": [
+            "Space Planning And 3D Design Views",
+            "Two Rounds Of Feedback",
+            "Priority Scheduling"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$1500",
+          "period": "/home",
+          "perks": [
+            "Space Planning Plus 3D Design Views And Modular Kitchen",
+            "Extended Feedback",
+            "Handover Support"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Interior Designer Work",
+      "captions": [
+        "Space Planning",
+        "3D Design Views",
+        "Modular Kitchen",
+        "Wardrobes And Storage",
+        "False Ceiling And Lighting",
+        "Turnkey Execution"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Lead Designer",
+        "Site Coordinator",
+        "Client Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Straight answers about wardrobes and storage and no surprises in the final cost.",
+        "role": "Customer"
+      },
+      {
+        "quote": "They listened to the brief for space planning and the first draft was close to what I imagined.",
+        "role": "Small business owner"
+      },
+      {
+        "quote": "Clear quote for 3d design views, with feedback built into the plan.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "From The Interior Designer Desk",
+      "posts": [
+        {
+          "tag": "Cost",
+          "title": "What Affects The Cost Of Space Planning"
+        },
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask Before 3D Design Views"
+        },
+        {
+          "tag": "Planning",
+          "title": "Getting Ready For Modular Kitchen"
+        }
+      ]
+    },
+    "marquee": [
+      "Space Planning",
+      "3D Design",
+      "Modular Kitchen",
+      "Wardrobes",
+      "False Ceiling",
+      "Clear Scope",
+      "Open Feedback",
+      "Plain Quotes"
+    ],
+    "contactText": "Tell {brand} about your idea: space planning, modular kitchen or something close. We will answer with a plan and an honest quote."
+  },
+  {
+    "id": "craft_brewery_bar",
+    "label": "Craft brewery and taproom",
+    "theme": "food_dining",
+    "keywords": [
+      "craft brewery",
+      "microbrewery",
+      "taproom",
+      "craft beer",
+      "brewpub",
+      "beer flight",
+      "brewery tour",
+      "बीयर बार",
+      "क्राफ्ट ब्रूअरी"
+    ],
+    "heroTitles": [
+      "Craft Brewery And Taproom For Every Appetite",
+      "A Warm Craft Brewery And Taproom Welcome, Good Food",
+      "Rotating Tap List, Tasting Flights And Food Pairing Menu"
+    ],
+    "heroSubtitles": [
+      "From rotating tap list to tasting flights, {brand} cooks with care and welcomes you the way a neighbour would.",
+      "{brand} offers rotating tap list and brewery tours. Order, reserve a table or just drop in and see what is fresh today.",
+      "Craving rotating tap list or growlers and cans? {brand} will tell you what is ready, what pairs well and how to order."
+    ],
+    "button": "Order Or Reserve",
+    "featureTitle": "Craft Brewery And Taproom Favourites",
+    "features": [
+      {
+        "title": "Rotating Tap List",
+        "text": "Rotating Tap List on offer today; message us to check what is ready before you come."
+      },
+      {
+        "title": "Tasting Flights",
+        "text": "Questions about tasting flights? Ask us about ingredients or any dietary need before you order."
+      },
+      {
+        "title": "Food Pairing Menu",
+        "text": "Ask about food pairing menu and we will tell you what goes into it and how it is best enjoyed."
+      },
+      {
+        "title": "Brewery Tours",
+        "text": "Brewery Tours prepared fresh, with the team happy to explain the details."
+      },
+      {
+        "title": "Growlers And Cans",
+        "text": "Craving growlers and cans? Order ahead or drop in and we will point you to what suits your mood."
+      },
+      {
+        "title": "Events And Private Hosting",
+        "text": "For events and private hosting, we keep the flavours honest and let the ingredients do the work."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Warm",
+        "label": "Welcome for all"
+      },
+      {
+        "value": "Clear",
+        "label": "Menu without surprises"
+      },
+      {
+        "value": "Easy",
+        "label": "Ordering by message"
+      }
+    ],
+    "steps": {
+      "title": "How Ordering Works",
+      "items": [
+        {
+          "title": "Pick What You Like",
+          "text": "Browse the craft brewery and taproom menu and choose rotating tap list or anything that catches your eye."
+        },
+        {
+          "title": "Tell Us How",
+          "text": "Order by message, reserve a table or just walk in for tasting flights."
+        },
+        {
+          "title": "We Prepare It Fresh",
+          "text": "The kitchen prepares food pairing menu when you order, so it reaches you at its best."
+        },
+        {
+          "title": "Enjoy And Tell Us",
+          "text": "Enjoy your brewery tours and tell us what you liked, so we can keep improving."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I take rotating tap list away?",
+        "a": "Yes. Ask about takeaway when you order and we will pack it carefully. The same approach applies to rotating tap list and events and private hosting."
+      },
+      {
+        "q": "Do you take large orders for brewery tours?",
+        "a": "Yes. Tell us the date and numbers and we will say what we can do. This applies to rotating tap list, tasting flights and the rest of our craft brewery and taproom work."
+      },
+      {
+        "q": "How fresh is the craft brewery and taproom food?",
+        "a": "We prepare it each day and tell you honestly if something is not available. It is the same for tasting flights as it is for rotating tap list."
+      },
+      {
+        "q": "Can I ask what is best today in growlers and cans?",
+        "a": "Of course. Ask the team and they will point you to what is freshest. That goes for food pairing menu and brewery tours too."
+      },
+      {
+        "q": "How do I order rotating tap list?",
+        "a": "Message us, call or walk in, and tell us what you would like; we will confirm and get it ready. Ask us about growlers and cans or events and private hosting and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Want A Table For Craft Brewery And Taproom?",
+      "button": "Order Or Reserve"
+    },
+    "about": {
+      "title": "About Our Kitchen",
+      "paragraphs": [
+        "At {brand} good craft brewery and taproom means fresh food, a clear menu and a team that is happy to answer questions.",
+        "Our table includes rotating tap list and tasting flights. Ask about brewery tours or growlers and cans too and we will tell you what is ready today."
+      ],
+      "points": [
+        "Fresh Every Day",
+        "Honest Menu",
+        "Warm Welcome"
+      ]
+    },
+    "pricing": {
+      "title": "Craft Brewery And Taproom Price Guide",
+      "plans": [
+        {
+          "name": "Single Order",
+          "price": "$5",
+          "period": "/flight",
+          "perks": [
+            "Rotating Tap List Portion",
+            "Prepared Fresh",
+            "Takeaway Or Dine In"
+          ]
+        },
+        {
+          "name": "Popular Combo",
+          "price": "$14",
+          "period": "/tasting night",
+          "perks": [
+            "Rotating Tap List And Tasting Flights",
+            "Prepared Fresh",
+            "Takeaway Or Dine In"
+          ]
+        },
+        {
+          "name": "Family Table",
+          "price": "$35",
+          "period": "/group table",
+          "perks": [
+            "Rotating Tap List Plus Tasting Flights And Food Pairing Menu",
+            "Shared Portions",
+            "Table Held For Rotating Tap List"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "A Taste Of Craft Brewery And Taproom",
+      "captions": [
+        "Rotating Tap List",
+        "Tasting Flights",
+        "Food Pairing Menu",
+        "Brewery Tours",
+        "Growlers And Cans",
+        "Events And Private Hosting"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Head Cook",
+        "Rotating Tap List Specialist",
+        "Guest Host"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "I liked that rotating tap list was explained simply and there were no surprises.",
+        "role": "Customer"
+      },
+      {
+        "quote": "Quick reply about brewery tours and everything was ready on time.",
+        "role": "Customer"
+      },
+      {
+        "quote": "The rotating tap list tasted fresh and the team explained what was in it.",
+        "role": "Regular guest"
+      }
+    ],
+    "blog": {
+      "title": "From The Craft Brewery And Taproom Kitchen",
+      "posts": [
+        {
+          "tag": "Ideas",
+          "title": "Simple Ways To Enjoy Growlers And Cans"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Events And Private Hosting"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Choose Rotating Tap List"
+        }
+      ]
+    },
+    "marquee": [
+      "Rotating Tap",
+      "Tasting Flights",
+      "Food Pairing",
+      "Brewery Tours",
+      "Growlers",
+      "Fresh Daily",
+      "Takeaway",
+      "Warm Welcome"
+    ],
+    "contactText": "Message {brand} to order rotating tap list or tasting flights, or to reserve a table. We reply with what is ready and when to come.",
+    "menu": {
+      "title": "On The Menu",
+      "lead": "House beers poured fresh, with bar bites and soft drinks. Ask for a taster before you choose.",
+      "categories": [
+        {
+          "name": "Beers",
+          "items": [
+            "Wheat beer | light and cloudy",
+            "Pale ale | crisp and hoppy",
+            "IPA | bold and bitter",
+            "Stout | dark and smooth",
+            "Lager | clean and cold",
+            "Seasonal brew"
+          ]
+        },
+        {
+          "name": "Bar Bites",
+          "items": [
+            "Nachos | with salsa",
+            "Fries",
+            "Chicken wings",
+            "Paneer tikka",
+            "Onion rings",
+            "Masala peanuts"
+          ]
+        },
+        {
+          "name": "Soft Drinks",
+          "items": [
+            "Cold brew",
+            "Iced tea",
+            "Lemonade",
+            "Fresh lime soda",
+            "Ginger ale"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "cloud_kitchen",
+    "label": "Cloud kitchen",
+    "theme": "food_dining",
+    "keywords": [
+      "cloud kitchen",
+      "ghost kitchen",
+      "delivery kitchen",
+      "home delivery food",
+      "meal box",
+      "क्लाउड किचन",
+      "घर पर खाना डिलीवरी"
+    ],
+    "heroTitles": [
+      "Cloud Kitchen The Way It Should Taste",
+      "Fresh Daily Menu Combos, Ready When You Are",
+      "Simple Cloud Kitchen Done Well"
+    ],
+    "heroSubtitles": [
+      "From daily menu combos to cooked after you order, {brand} makes things with care and takes your order the way a neighbour would.",
+      "{brand} offers daily menu combos and office lunch orders. Order by message or drop in and see what is fresh today.",
+      "Craving daily menu combos or multiple brands, one kitchen? {brand} will tell you what is ready, what goes well with it and how to order."
+    ],
+    "button": "Order A Meal",
+    "featureTitle": "Cloud Kitchen Favourites",
+    "features": [
+      {
+        "title": "Daily Menu Combos",
+        "text": "Questions about daily menu combos? Ask us about ingredients or any dietary need before you order."
+      },
+      {
+        "title": "Cooked After You Order",
+        "text": "Ask about cooked after you order and we will tell you what goes into it and how it is best enjoyed."
+      },
+      {
+        "title": "Leak-Proof Packaging",
+        "text": "Leak-Proof Packaging prepared fresh, with the team happy to explain the details."
+      },
+      {
+        "title": "Office Lunch Orders",
+        "text": "Craving office lunch orders? Order ahead or drop in and we will point you to what suits your mood."
+      },
+      {
+        "title": "Multiple Brands, One Kitchen",
+        "text": "For multiple brands, one kitchen, we keep the flavours honest and let the ingredients do the work."
+      },
+      {
+        "title": "Live Order Tracking",
+        "text": "Live Order Tracking on offer today; message us to check what is ready before you come."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Menu without surprises"
+      },
+      {
+        "value": "Open",
+        "label": "To advance orders"
+      },
+      {
+        "value": "Warm",
+        "label": "Welcome for all"
+      }
+    ],
+    "steps": {
+      "title": "How Ordering Works",
+      "items": [
+        {
+          "title": "Pick What You Like",
+          "text": "Browse the cloud kitchen menu and choose daily menu combos or anything that catches your eye."
+        },
+        {
+          "title": "Place Your Order",
+          "text": "Order by message or call, or walk in, for cooked after you order and anything alongside it."
+        },
+        {
+          "title": "We Make It Fresh",
+          "text": "The kitchen prepares leak-proof packaging so it reaches you at its best."
+        },
+        {
+          "title": "Collect And Enjoy",
+          "text": "Pick it up, enjoy it, and tell us what you liked so we can keep improving office lunch orders."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I order daily menu combos?",
+        "a": "Message us, call or walk in, and tell us what you would like; we will confirm and get it ready. Ask us about multiple brands, one kitchen or live order tracking and the answer is the same."
+      },
+      {
+        "q": "Can I place an advance order for cloud kitchen?",
+        "a": "Yes. Tell us the day and what you need and we will confirm what we can make. The same approach applies to daily menu combos and live order tracking."
+      },
+      {
+        "q": "Do you cater to dietary needs for cooked after you order?",
+        "a": "Tell us your needs before you order and the team will explain what is possible. This applies to daily menu combos, cooked after you order and the rest of our cloud kitchen work."
+      },
+      {
+        "q": "What goes into leak-proof packaging?",
+        "a": "Ask us when you order. The team is happy to describe ingredients and how it is made. It is the same for cooked after you order as it is for daily menu combos."
+      },
+      {
+        "q": "Can I take daily menu combos away?",
+        "a": "Yes. Ask about takeaway when you order and we will pack it carefully. That goes for leak-proof packaging and office lunch orders too."
+      }
+    ],
+    "cta": {
+      "title": "Want Leak-Proof Packaging Today?",
+      "button": "Order A Meal"
+    },
+    "about": {
+      "title": "About Our Kitchen",
+      "paragraphs": [
+        "At {brand} good cloud kitchen means fresh food, a clear menu and a team that is happy to answer questions.",
+        "Our table includes daily menu combos and cooked after you order. Ask about office lunch orders or multiple brands, one kitchen too and we will tell you what is ready today."
+      ],
+      "points": [
+        "Fresh Every Day",
+        "Honest Menu",
+        "Warm Welcome"
+      ]
+    },
+    "pricing": {
+      "title": "Cloud Kitchen Price Guide",
+      "plans": [
+        {
+          "name": "Single Order",
+          "price": "$3",
+          "period": "/meal",
+          "perks": [
+            "Daily Menu Combos Portion",
+            "Made Fresh",
+            "Takeaway On Request"
+          ]
+        },
+        {
+          "name": "Popular Combo",
+          "price": "$40",
+          "period": "/week",
+          "perks": [
+            "Daily Menu Combos And Cooked After You Order",
+            "Made Fresh",
+            "Takeaway On Request"
+          ]
+        },
+        {
+          "name": "Large Order",
+          "price": "$150",
+          "period": "/month",
+          "perks": [
+            "Daily Menu Combos Plus Cooked After You Order And Leak-Proof Packaging",
+            "Shared Portions",
+            "Advance Order Welcome"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "A Taste Of Cloud Kitchen",
+      "captions": [
+        "Daily Menu Combos",
+        "Cooked After You Order",
+        "Leak-Proof Packaging",
+        "Office Lunch Orders",
+        "Multiple Brands One Kitchen",
+        "Live Order Tracking"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Head Cook",
+        "Daily Menu Combos Specialist",
+        "Guest Host"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "The daily menu combos tasted fresh and the team explained what was in it.",
+        "role": "Regular guest"
+      },
+      {
+        "quote": "Easy to order cooked after you order by message, and it was ready when they said.",
+        "role": "Office lunch group"
+      },
+      {
+        "quote": "Warm welcome and a clear menu; leak-proof packaging was a good choice.",
+        "role": "First time visitor"
+      }
+    ],
+    "blog": {
+      "title": "From The Cloud Kitchen Kitchen",
+      "posts": [
+        {
+          "tag": "Pairing",
+          "title": "Good Company For Leak-Proof Packaging"
+        },
+        {
+          "tag": "Kitchen",
+          "title": "How We Prepare Office Lunch Orders"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Simple Ways To Enjoy Multiple Brands, One Kitchen"
+        }
+      ]
+    },
+    "marquee": [
+      "Daily Menu",
+      "Cooked After",
+      "Leak-Proof",
+      "Office Lunch",
+      "Multiple Brands",
+      "Fresh Daily",
+      "Takeaway",
+      "Easy Ordering"
+    ],
+    "contactText": "Message {brand} to order daily menu combos or cooked after you order. We reply with what is ready and when to come.",
+    "menu": {
+      "title": "On The Menu",
+      "lead": "Meal combos cooked after you order and packed to travel well. Order by message for the day.",
+      "categories": [
+        {
+          "name": "Meal Combos",
+          "items": [
+            "Dal rice combo",
+            "Rajma chawal combo",
+            "Paneer roti combo",
+            "Veg biryani combo",
+            "Chole bhature combo",
+            "Thali combo"
+          ]
+        },
+        {
+          "name": "Snacks",
+          "items": [
+            "Veg sandwich",
+            "Paneer roll",
+            "Samosa box",
+            "Fries",
+            "Spring rolls"
+          ]
+        },
+        {
+          "name": "Desserts And Drinks",
+          "items": [
+            "Gulab jamun",
+            "Brownie",
+            "Lassi | sweet or salted",
+            "Cold coffee",
+            "Fresh lime soda"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "tiffin_service",
+    "label": "Tiffin service",
+    "theme": "food_dining",
+    "keywords": [
+      "tiffin service",
+      "tiffin",
+      "dabba service",
+      "home cooked meals",
+      "monthly tiffin",
+      "mess service",
+      "ghar ka khana",
+      "टिफिन सर्विस",
+      "घर का खाना"
+    ],
+    "heroTitles": [
+      "Simple Tiffin Service Done Well",
+      "Tiffin Service Made Fresh For You",
+      "Order Daily Changing Menu The Easy Way"
+    ],
+    "heroSubtitles": [
+      "{brand} offers daily changing menu and lunch and dinner slots. Order by message or drop in and see what is fresh today.",
+      "Craving daily changing menu or steel dabba delivery? {brand} will tell you what is ready, what goes well with it and how to order.",
+      "Looking for help with tiffin service? {brand} keeps it simple: honest food, easy ordering and a menu that is easy to read."
+    ],
+    "button": "Start A Tiffin Plan",
+    "featureTitle": "Tiffin Service Favourites",
+    "features": [
+      {
+        "title": "Daily Changing Menu",
+        "text": "Ask about daily changing menu and we will tell you what goes into it and how it is best enjoyed."
+      },
+      {
+        "title": "Light Home-Style Cooking",
+        "text": "Light Home-Style Cooking prepared fresh, with the team happy to explain the details."
+      },
+      {
+        "title": "Veg And Jain Options",
+        "text": "Craving veg and jain options? Order ahead or drop in and we will point you to what suits your mood."
+      },
+      {
+        "title": "Lunch And Dinner Slots",
+        "text": "For lunch and dinner slots, we keep the flavours honest and let the ingredients do the work."
+      },
+      {
+        "title": "Steel Dabba Delivery",
+        "text": "Steel Dabba Delivery on offer today; message us to check what is ready before you come."
+      },
+      {
+        "title": "Pause And Resume Easily",
+        "text": "Questions about pause and resume easily? Ask us about ingredients or any dietary need before you order."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Fresh",
+        "label": "Made each day"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Easy",
+        "label": "Ordering by message"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Pick What You Like",
+          "text": "Browse the tiffin service menu and choose daily changing menu or anything that catches your eye."
+        },
+        {
+          "title": "Place Your Order",
+          "text": "Order by message or call, or walk in, for light home-style cooking and anything alongside it."
+        },
+        {
+          "title": "We Make It Fresh",
+          "text": "The kitchen prepares veg and jain options so it reaches you at its best."
+        },
+        {
+          "title": "Collect And Enjoy",
+          "text": "Pick it up, enjoy it, and tell us what you liked so we can keep improving lunch and dinner slots."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I ask what is best today in steel dabba delivery?",
+        "a": "Of course. Ask the team and they will point you to what is freshest. That goes for veg and jain options and lunch and dinner slots too."
+      },
+      {
+        "q": "How do I order daily changing menu?",
+        "a": "Message us, call or walk in, and tell us what you would like; we will confirm and get it ready. Ask us about steel dabba delivery or pause and resume easily and the answer is the same."
+      },
+      {
+        "q": "Can I place an advance order for tiffin service?",
+        "a": "Yes. Tell us the day and what you need and we will confirm what we can make. The same approach applies to daily changing menu and pause and resume easily."
+      },
+      {
+        "q": "Do you cater to dietary needs for light home-style cooking?",
+        "a": "Tell us your needs before you order and the team will explain what is possible. This applies to daily changing menu, light home-style cooking and the rest of our tiffin service work."
+      },
+      {
+        "q": "What goes into veg and jain options?",
+        "a": "Ask us when you order. The team is happy to describe ingredients and how it is made. It is the same for light home-style cooking as it is for daily changing menu."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Order Daily Changing Menu?",
+      "button": "Start A Tiffin Plan"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local tiffin service place. We cook with care, keep the menu honest and welcome you the way a neighbour would.",
+        "We serve daily changing menu, light home-style cooking and veg and jain options, and we love hearing what you enjoyed and what you would like to see next."
+      ],
+      "points": [
+        "Made With Care",
+        "Easy Ordering",
+        "Friendly Team"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Tiffin Service",
+      "plans": [
+        {
+          "name": "Single Order",
+          "price": "$2",
+          "period": "/meal",
+          "perks": [
+            "Daily Changing Menu Portion",
+            "Made Fresh",
+            "Takeaway On Request"
+          ]
+        },
+        {
+          "name": "Popular Combo",
+          "price": "$40",
+          "period": "/month lunch",
+          "perks": [
+            "Daily Changing Menu And Light Home-Style Cooking",
+            "Made Fresh",
+            "Takeaway On Request"
+          ]
+        },
+        {
+          "name": "Large Order",
+          "price": "$75",
+          "period": "/month lunch and dinner",
+          "perks": [
+            "Daily Changing Menu Plus Light Home-Style Cooking And Veg And Jain Options",
+            "Shared Portions",
+            "Advance Order Welcome"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "From Our Tiffin Service Kitchen",
+      "captions": [
+        "Daily Changing Menu",
+        "Light Home-Style Cooking",
+        "Veg And Jain Options",
+        "Lunch And Dinner Slots",
+        "Steel Dabba Delivery",
+        "Pause And Resume Easily"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Head Cook",
+        "Daily Changing Menu Specialist",
+        "Guest Host"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Quick reply about lunch and dinner slots and everything was ready on time.",
+        "role": "Customer"
+      },
+      {
+        "quote": "The daily changing menu tasted fresh and the team explained what was in it.",
+        "role": "Regular guest"
+      },
+      {
+        "quote": "Easy to order light home-style cooking by message, and it was ready when they said.",
+        "role": "Office lunch group"
+      }
+    ],
+    "blog": {
+      "title": "Tiffin Service Notes And Stories",
+      "posts": [
+        {
+          "tag": "Kitchen",
+          "title": "How We Prepare Lunch And Dinner Slots"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Simple Ways To Enjoy Steel Dabba Delivery"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Pause And Resume Easily"
+        }
+      ]
+    },
+    "marquee": [
+      "Daily Changing",
+      "Light Home-Style",
+      "Jain Options",
+      "Dinner Slots",
+      "Steel Dabba",
+      "Fresh Daily",
+      "Takeaway",
+      "Easy Ordering"
+    ],
+    "contactText": "Tell {brand} what you fancy: daily changing menu, veg and jain options or something else. We will answer with what is ready and how to order.",
+    "menu": {
+      "title": "On The Menu",
+      "lead": "Home style meals for lunch and dinner, planned by the week. Tell us your preferences when you start.",
+      "categories": [
+        {
+          "name": "Daily Meals",
+          "items": [
+            "Roti sabzi dal rice",
+            "Dal rice meal",
+            "Special thali",
+            "Light meal",
+            "Fasting meal | for vrat days",
+            "Weekend special"
+          ]
+        },
+        {
+          "name": "Extras",
+          "items": [
+            "Extra roti",
+            "Curd",
+            "Salad",
+            "Pickle",
+            "Sweet of the day"
+          ]
+        },
+        {
+          "name": "Plans",
+          "items": [
+            "Lunch only",
+            "Dinner only",
+            "Lunch and dinner",
+            "Light diet plan",
+            "Sunday special"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "sweet_shop_mithai",
+    "label": "Sweet shop (mithai)",
+    "theme": "food_dining",
+    "keywords": [
+      "sweet shop",
+      "mithai shop",
+      "mithai",
+      "indian sweets",
+      "halwai",
+      "festival sweets box",
+      "bulk sweets order",
+      "मिठाई की दुकान",
+      "हलवाई"
+    ],
+    "heroTitles": [
+      "Sweet Shop (mithai) Made Fresh For You",
+      "Order Fresh Daily Batches The Easy Way",
+      "Sweet Shop (mithai) The Way It Should Taste"
+    ],
+    "heroSubtitles": [
+      "{brand} offers fresh daily batches and bulk and wedding orders. Order by message or drop in and see what is fresh today.",
+      "Craving fresh daily batches or sugar-free choices? {brand} will tell you what is ready, what goes well with it and how to order.",
+      "Looking for help with sweet shop (mithai)? {brand} keeps it simple: honest food, easy ordering and a menu that is easy to read."
+    ],
+    "button": "Order Sweets",
+    "featureTitle": "Sweet Shop (mithai) Favourites",
+    "features": [
+      {
+        "title": "Fresh Daily Batches",
+        "text": "Questions about fresh daily batches? Ask us about ingredients or any dietary need before you order."
+      },
+      {
+        "title": "Festival Gift Boxes",
+        "text": "Ask about festival gift boxes and we will tell you what goes into it and how it is best enjoyed."
+      },
+      {
+        "title": "Custom Gift Hampers",
+        "text": "Custom Gift Hampers prepared fresh, with the team happy to explain the details."
+      },
+      {
+        "title": "Bulk And Wedding Orders",
+        "text": "Craving bulk and wedding orders? Order ahead or drop in and we will point you to what suits your mood."
+      },
+      {
+        "title": "Sugar-Free Choices",
+        "text": "For sugar-free choices, we keep the flavours honest and let the ingredients do the work."
+      },
+      {
+        "title": "Namkeen And Farsan Counter",
+        "text": "Namkeen And Farsan Counter on offer today; message us to check what is ready before you come."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Menu without surprises"
+      },
+      {
+        "value": "Open",
+        "label": "To advance orders"
+      },
+      {
+        "value": "Warm",
+        "label": "Welcome for all"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Pick What You Like",
+          "text": "Browse the sweet shop (mithai) menu and choose fresh daily batches or anything that catches your eye."
+        },
+        {
+          "title": "Place Your Order",
+          "text": "Order by message or call, or walk in, for festival gift boxes and anything alongside it."
+        },
+        {
+          "title": "We Make It Fresh",
+          "text": "The kitchen prepares custom gift hampers so it reaches you at its best."
+        },
+        {
+          "title": "Collect And Enjoy",
+          "text": "Pick it up, enjoy it, and tell us what you liked so we can keep improving bulk and wedding orders."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I order fresh daily batches?",
+        "a": "Message us, call or walk in, and tell us what you would like; we will confirm and get it ready. The same approach applies to fresh daily batches and namkeen and farsan counter."
+      },
+      {
+        "q": "Can I place an advance order for sweet shop (mithai)?",
+        "a": "Yes. Tell us the day and what you need and we will confirm what we can make. This applies to fresh daily batches, festival gift boxes and the rest of our sweet shop (mithai) work."
+      },
+      {
+        "q": "Do you cater to dietary needs for festival gift boxes?",
+        "a": "Tell us your needs before you order and the team will explain what is possible. It is the same for festival gift boxes as it is for fresh daily batches."
+      },
+      {
+        "q": "What goes into custom gift hampers?",
+        "a": "Ask us when you order. The team is happy to describe ingredients and how it is made. That goes for custom gift hampers and bulk and wedding orders too."
+      },
+      {
+        "q": "Can I take fresh daily batches away?",
+        "a": "Yes. Ask about takeaway when you order and we will pack it carefully. Ask us about sugar-free choices or namkeen and farsan counter and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Hungry For Festival Gift Boxes?",
+      "button": "Order Sweets"
+    },
+    "about": {
+      "title": "About Our Kitchen",
+      "paragraphs": [
+        "{brand} is a local sweet shop (mithai) place. We cook with care, keep the menu honest and welcome you the way a neighbour would.",
+        "We serve fresh daily batches, festival gift boxes and custom gift hampers, and we love hearing what you enjoyed and what you would like to see next."
+      ],
+      "points": [
+        "Made With Care",
+        "Easy Ordering",
+        "Friendly Team"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Sweet Shop (mithai)",
+      "plans": [
+        {
+          "name": "Single Order",
+          "price": "$6",
+          "period": "/box",
+          "perks": [
+            "Fresh Daily Batches Portion",
+            "Made Fresh",
+            "Takeaway On Request"
+          ]
+        },
+        {
+          "name": "Popular Combo",
+          "price": "$15",
+          "period": "/festival box",
+          "perks": [
+            "Fresh Daily Batches And Festival Gift Boxes",
+            "Made Fresh",
+            "Takeaway On Request"
+          ]
+        },
+        {
+          "name": "Large Order",
+          "price": "$40",
+          "period": "/gift hamper",
+          "perks": [
+            "Fresh Daily Batches Plus Festival Gift Boxes And Custom Gift Hampers",
+            "Shared Portions",
+            "Advance Order Welcome"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "A Taste Of Sweet Shop (mithai)",
+      "captions": [
+        "Fresh Daily Batches",
+        "Festival Gift Boxes",
+        "Custom Gift Hampers",
+        "Bulk And Wedding Orders",
+        "Sugar-Free Choices",
+        "Namkeen And Farsan Counter"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Head Cook",
+        "Fresh Daily Batches Specialist",
+        "Guest Host"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "I liked that fresh daily batches was explained simply and there were no surprises.",
+        "role": "Customer"
+      },
+      {
+        "quote": "Quick reply about bulk and wedding orders and everything was ready on time.",
+        "role": "Customer"
+      },
+      {
+        "quote": "The fresh daily batches tasted fresh and the team explained what was in it.",
+        "role": "Regular guest"
+      }
+    ],
+    "blog": {
+      "title": "Sweet Shop (mithai) Notes And Stories",
+      "posts": [
+        {
+          "tag": "Ideas",
+          "title": "Simple Ways To Enjoy Sugar-Free Choices"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Namkeen And Farsan Counter"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Choose Fresh Daily Batches"
+        }
+      ]
+    },
+    "marquee": [
+      "Fresh Daily",
+      "Festival Gift",
+      "Custom Gift",
+      "Wedding Orders",
+      "Sugar-Free",
+      "Takeaway",
+      "Easy Ordering",
+      "Farsan Counter"
+    ],
+    "contactText": "Message {brand} to order fresh daily batches or festival gift boxes. We reply with what is ready and when to come.",
+    "menu": {
+      "title": "On The Menu",
+      "lead": "Traditional sweets and snacks made fresh, with boxes for festivals and gifting. Ask for bulk orders early.",
+      "categories": [
+        {
+          "name": "Mithai",
+          "items": [
+            "Kaju katli | cashew fudge",
+            "Motichoor ladoo | soft pearls",
+            "Gulab jamun",
+            "Rasgulla",
+            "Soan papdi",
+            "Milk barfi"
+          ]
+        },
+        {
+          "name": "Namkeen",
+          "items": [
+            "Samosa",
+            "Kachori",
+            "Sev",
+            "Mathri",
+            "Bhujia",
+            "Papad"
+          ]
+        },
+        {
+          "name": "Festival Boxes",
+          "items": [
+            "Diwali box",
+            "Rakhi box",
+            "Holi gujiya",
+            "Gift hamper",
+            "Dry fruit box",
+            "Bulk order box"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "ice_cream_parlour",
+    "label": "Ice cream parlour",
+    "theme": "playful_vibrant",
+    "keywords": [
+      "ice cream parlour",
+      "ice cream shop",
+      "gelato",
+      "kulfi",
+      "sundae",
+      "ice cream cake",
+      "ice cream",
+      "आइसक्रीम पार्लर",
+      "कुल्फी"
+    ],
+    "heroTitles": [
+      "Ice Cream Parlour Made Fresh For You",
+      "Order Scoops And Cones The Easy Way",
+      "Scoops And Cones, Loaded Sundaes And Ice Cream Cakes"
+    ],
+    "heroSubtitles": [
+      "{brand} offers scoops and cones and kulfi and local flavours. Order by message or drop in and see what is fresh today.",
+      "Craving scoops and cones or shakes and floats? {brand} will tell you what is ready, what goes well with it and how to order.",
+      "{brand} makes scoops and cones, loaded sundaes and ice cream cakes. Order ahead, ask what is fresh today and pick it up the way that suits you."
+    ],
+    "button": "Order Ice Cream",
+    "featureTitle": "Ice Cream Parlour Favourites",
+    "features": [
+      {
+        "title": "Scoops And Cones",
+        "text": "Ask about scoops and cones and we will tell you what goes into it and how it is best enjoyed."
+      },
+      {
+        "title": "Loaded Sundaes",
+        "text": "Loaded Sundaes prepared fresh, with the team happy to explain the details."
+      },
+      {
+        "title": "Ice Cream Cakes",
+        "text": "Craving ice cream cakes? Order ahead or drop in and we will point you to what suits your mood."
+      },
+      {
+        "title": "Kulfi And Local Flavours",
+        "text": "For kulfi and local flavours, we keep the flavours honest and let the ingredients do the work."
+      },
+      {
+        "title": "Shakes And Floats",
+        "text": "Shakes And Floats on offer today; message us to check what is ready before you come."
+      },
+      {
+        "title": "Party Tubs",
+        "text": "Questions about party tubs? Ask us about ingredients or any dietary need before you order."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Fresh",
+        "label": "Made each day"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Easy",
+        "label": "Ordering by message"
+      }
+    ],
+    "steps": {
+      "title": "How Ordering Works",
+      "items": [
+        {
+          "title": "Pick What You Like",
+          "text": "Browse the ice cream parlour menu and choose scoops and cones or anything that catches your eye."
+        },
+        {
+          "title": "Place Your Order",
+          "text": "Order by message or call, or walk in, for loaded sundaes and anything alongside it."
+        },
+        {
+          "title": "We Make It Fresh",
+          "text": "The kitchen prepares ice cream cakes so it reaches you at its best."
+        },
+        {
+          "title": "Collect And Enjoy",
+          "text": "Pick it up, enjoy it, and tell us what you liked so we can keep improving kulfi and local flavours."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I place an advance order for ice cream parlour?",
+        "a": "Yes. Tell us the day and what you need and we will confirm what we can make. It is the same for loaded sundaes as it is for scoops and cones."
+      },
+      {
+        "q": "Do you cater to dietary needs for loaded sundaes?",
+        "a": "Tell us your needs before you order and the team will explain what is possible. That goes for ice cream cakes and kulfi and local flavours too."
+      },
+      {
+        "q": "What goes into ice cream cakes?",
+        "a": "Ask us when you order. The team is happy to describe ingredients and how it is made. Ask us about shakes and floats or party tubs and the answer is the same."
+      },
+      {
+        "q": "Can I take scoops and cones away?",
+        "a": "Yes. Ask about takeaway when you order and we will pack it carefully. The same approach applies to scoops and cones and party tubs."
+      },
+      {
+        "q": "Do you take large orders for kulfi and local flavours?",
+        "a": "Yes. Tell us the date and numbers and we will say what we can do. This applies to scoops and cones, loaded sundaes and the rest of our ice cream parlour work."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Order Scoops And Cones?",
+      "button": "Order Ice Cream"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good ice cream parlour means fresh food, a clear menu and a team that is happy to answer questions.",
+        "Our table includes scoops and cones and loaded sundaes. Ask about kulfi and local flavours or shakes and floats too and we will tell you what is ready today."
+      ],
+      "points": [
+        "Fresh Every Day",
+        "Honest Menu",
+        "Warm Welcome"
+      ]
+    },
+    "pricing": {
+      "title": "Ice Cream Parlour Price Guide",
+      "plans": [
+        {
+          "name": "Single Order",
+          "price": "$2",
+          "period": "/scoop",
+          "perks": [
+            "Scoops And Cones Portion",
+            "Made Fresh",
+            "Takeaway On Request"
+          ]
+        },
+        {
+          "name": "Popular Combo",
+          "price": "$5",
+          "period": "/sundae",
+          "perks": [
+            "Scoops And Cones And Loaded Sundaes",
+            "Made Fresh",
+            "Takeaway On Request"
+          ]
+        },
+        {
+          "name": "Large Order",
+          "price": "$18",
+          "period": "/ice cream cake",
+          "perks": [
+            "Scoops And Cones Plus Loaded Sundaes And Ice Cream Cakes",
+            "Shared Portions",
+            "Advance Order Welcome"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "From Our Ice Cream Parlour Kitchen",
+      "captions": [
+        "Scoops And Cones",
+        "Loaded Sundaes",
+        "Ice Cream Cakes",
+        "Kulfi And Local Flavours",
+        "Shakes And Floats",
+        "Party Tubs"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Head Cook",
+        "Scoops And Cones Specialist",
+        "Guest Host"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Quick reply about kulfi and local flavours and everything was ready on time.",
+        "role": "Customer"
+      },
+      {
+        "quote": "The scoops and cones tasted fresh and the team explained what was in it.",
+        "role": "Regular guest"
+      },
+      {
+        "quote": "Easy to order loaded sundaes by message, and it was ready when they said.",
+        "role": "Office lunch group"
+      }
+    ],
+    "blog": {
+      "title": "From The Ice Cream Parlour Kitchen",
+      "posts": [
+        {
+          "tag": "Kitchen",
+          "title": "How We Prepare Kulfi And Local Flavours"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Simple Ways To Enjoy Shakes And Floats"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Party Tubs"
+        }
+      ]
+    },
+    "marquee": [
+      "Scoops",
+      "Loaded Sundaes",
+      "Ice Cream",
+      "Local Flavours",
+      "Shakes",
+      "Fresh Daily",
+      "Takeaway",
+      "Easy Ordering"
+    ],
+    "contactText": "Tell {brand} what you fancy: scoops and cones, ice cream cakes or something else. We will answer with what is ready and how to order.",
+    "menu": {
+      "title": "On The Menu",
+      "lead": "Scoops, sundaes and kulfi to share. Ask for a taste of a flavour before you pick.",
+      "categories": [
+        {
+          "name": "Scoops",
+          "items": [
+            "Vanilla",
+            "Chocolate",
+            "Butterscotch",
+            "Strawberry",
+            "Mango | seasonal",
+            "Black currant"
+          ]
+        },
+        {
+          "name": "Sundaes And Shakes",
+          "items": [
+            "Hot fudge sundae",
+            "Brownie sundae",
+            "Milkshake | thick and cold",
+            "Falooda",
+            "Banana split",
+            "Ice cream soda"
+          ]
+        },
+        {
+          "name": "Cakes And Kulfi",
+          "items": [
+            "Ice cream cake | order ahead",
+            "Matka kulfi",
+            "Malai kulfi",
+            "Pista kulfi",
+            "Family tub"
+          ]
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,208 @@
+{
+  "brand": "Forno Rosso",
+  "niche": "restaurant",
+  "kind": "food",
+  "profile": "italian",
+  "business_type": "restaurant",
+  "type_label": "Italian restaurant",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "warm",
+  "keywords": [
+    "italian",
+    "restaurant",
+    "mumbai",
+    "wood",
+    "fired",
+    "pizza"
+  ],
+  "eyebrow": "Italian restaurant · Mumbai",
+  "location": "Mumbai",
+  "audience": "",
+  "hero_heading": "Wood-fired pizza in Mumbai",
+  "tagline": "Forno Rosso cooks fresh pasta and tiramisu in Mumbai, open 12pm to 11pm.",
+  "about_title": "About Forno Rosso",
+  "about": [
+    "One focus: fresh pasta, tiramisu and wood-fired pizza in Mumbai. Small questions are welcome too.",
+    "In Mumbai: online booking. Send a short message and we will take it from there."
+  ],
+  "features_title": "On the menu",
+  "features": [
+    {
+      "title": "Wood-fired Pizza",
+      "text": "Baked in a wood-fired oven, so the crust blisters and the edges char. Wood-fired pizza: ask for details before you decide."
+    },
+    {
+      "title": "Fresh Pasta",
+      "text": "Bring your questions about fresh pasta."
+    },
+    {
+      "title": "Tiramisu",
+      "text": "Coffee-soaked sponge layered with mascarpone cream and cocoa. A good place to start if you like tiramisu."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Online booking",
+      "text": "Book online at any hour; no phone call needed."
+    },
+    {
+      "title": "Opening hours",
+      "text": "Hours: 12pm to 11pm. Drop by or send a message."
+    },
+    {
+      "title": "Save room",
+      "text": "Dessert is worth it."
+    }
+  ],
+  "stats_title": "In short",
+  "stats": [
+    {
+      "value": "Mumbai",
+      "label": "Where we work"
+    },
+    {
+      "value": "12pm to 11pm",
+      "label": "Open"
+    }
+  ],
+  "steps_title": "Getting started",
+  "steps": [
+    {
+      "title": "Book a table",
+      "text": "Reserve a table online, and tell us how many are coming."
+    },
+    {
+      "title": "Browse the menu",
+      "text": "Start with wood-fired pizza or fresh pasta and build from there."
+    },
+    {
+      "title": "Linger",
+      "text": "No rush; coffee is part of the meal."
+    }
+  ],
+  "faq_title": "Questions we get asked",
+  "faq": [
+    {
+      "q": "Do I need to book a table?",
+      "a": "Booking online is available whenever it suits you."
+    },
+    {
+      "q": "When are you open?",
+      "a": "We're open 12pm to 11pm."
+    },
+    {
+      "q": "Where are you?",
+      "a": "Find us in Mumbai. Message us and we will send directions."
+    },
+    {
+      "q": "Do you reply to messages?",
+      "a": "Send a message and you'll hear from us."
+    }
+  ],
+  "blog_title": "Our notes",
+  "blog": [
+    {
+      "title": "Small things that make a difference",
+      "excerpt": "Notes from everyday experience."
+    },
+    {
+      "title": "How to order for a table of four",
+      "excerpt": "A few rules of thumb for sharing fresh pasta, tiramisu and the rest of the menu."
+    },
+    {
+      "title": "Why we answer every message",
+      "excerpt": "Replies are part of the service."
+    }
+  ],
+  "contact": {
+    "place": "Mumbai",
+    "hours": [
+      "12pm to 11pm"
+    ]
+  },
+  "cta_primary": "Book a table online",
+  "cta_secondary": "See the menu",
+  "cta_text": "Ask about wood-fired pizza at the time of booking a table online.",
+  "cta_title": "Your next step is one message away",
+  "footer": "© Forno Rosso. All rights reserved.",
+  "offers": [
+    {
+      "id": "online_booking",
+      "text": "Online booking"
+    }
+  ],
+  "hours": "12pm to 11pm",
+  "prices": [],
+  "facts_used": {
+    "name": {
+      "value": "Forno Rosso",
+      "source": "prompt"
+    },
+    "city": {
+      "value": "Mumbai",
+      "source": "prompt"
+    },
+    "services": {
+      "value": [
+        "wood fired pizza",
+        "fresh pasta",
+        "tiramisu"
+      ],
+      "source": "prompt"
+    },
+    "offers": {
+      "value": [
+        "Online booking"
+      ],
+      "source": "prompt"
+    },
+    "hours": {
+      "value": "12pm to 11pm",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "restaurant (confidence high)",
+    "items_from_prompt": [
+      "wood fired pizza",
+      "fresh pasta",
+      "tiramisu"
+    ],
+    "place": "Mumbai",
+    "mode": "strict (your phrases only)",
+    "copy": "frames + user phrases",
+    "profile": "italian",
+    "kind": "food"
+  },
+  "needs_review": []
+}

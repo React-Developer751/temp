@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UPI Payments Admin</title>
+<style>
+  :root { --bg: #f6f7f9; --card: #fff; --text: #16181d; --muted: #5b6270; --line: #e3e6eb; --accent: #4f46e5; --ok: #15803d; --err: #b91c1c; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #111317; --card: #1a1d23; --text: #eceef2; --muted: #9aa1ad; --line: #2a2e36; --accent: #818cf8; --ok: #4ade80; --err: #f87171; } }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 15px/1.5 system-ui, sans-serif; background: var(--bg); color: var(--text); }
+  main { max-width: 860px; margin: 32px auto; padding: 0 16px; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  .muted { color: var(--muted); font-size: 14px; }
+  .bar { display: flex; gap: 8px; flex-wrap: wrap; margin: 16px 0; }
+  select, input, button { font: inherit; padding: 8px 12px; border-radius: 8px; border: 1px solid var(--line); background: var(--card); color: var(--text); }
+  button.approve { background: var(--ok); color: #fff; border: 0; cursor: pointer; }
+  button.reject { color: var(--err); cursor: pointer; }
+  .list { display: grid; gap: 10px; }
+  .row { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px; display: grid; grid-template-columns: 1fr auto; gap: 8px; align-items: center; }
+  .amt { font-size: 20px; font-weight: 700; }
+  code { font-size: 14px; background: var(--bg); padding: 1px 6px; border-radius: 6px; }
+  .actions { display: flex; gap: 6px; }
+  .st { font-size: 12px; text-transform: uppercase; letter-spacing: .5px; color: var(--muted); }
+  @media (max-width: 560px) { .row { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<main>
+  <h1>UPI payments</h1>
+  <p class="muted">Open your bank / UPI app, find a credit with the same <b>amount</b> and <b>UTR</b>, then approve. Never approve without seeing the money.</p>
+  <div class="bar">
+    <select id="status">
+      <option value="submitted">Submitted (to verify)</option>
+      <option value="pending">Pending (no UTR yet)</option>
+      <option value="approved">Approved</option>
+      <option value="rejected">Rejected</option>
+      <option value="">All</option>
+    </select>
+    <input id="amount" placeholder="Find by amount, e.g. 99.07" inputmode="decimal">
+    <button id="refresh">Refresh</button>
+  </div>
+  <div id="err" class="muted"></div>
+  <div class="list" id="list"></div>
+</main>
+<script type="module">
+  import { createUpiClient } from '/lib/client.js';
+  const upi = createUpiClient({ baseUrl: '/api/upi' });
+  const $ = (id) => document.getElementById(id);
+  const when = (t) => (t ? new Date(t).toLocaleString() : '');
+
+  async function load() {
+    $('err').textContent = '';
+    try {
+      const orders = await upi.admin.list({ status: $('status').value, amount: $('amount').value.trim() });
+      $('list').replaceChildren(...orders.map(row));
+      if (!orders.length) $('err').textContent = 'No orders.';
+    } catch (e) {
+      $('err').textContent = e.status === 403 || e.status === 401 ? 'Log in as "admin" on the home page first.' : e.message;
+      $('list').replaceChildren();
+    }
+  }
+
+  function row(o) {
+    const el = document.createElement('div');
+    el.className = 'row';
+    el.innerHTML = `<div>
+        <div class="amt">₹${o.amount} <span class="st"></span></div>
+        <div class="muted">UTR <code class="utr"></code> · user <b class="user"></b> · plan <span class="plan"></span></div>
+        <div class="muted">order <code>${o.id}</code> · ${when(o.submittedAt || o.createdAt)}</div>
+      </div><div class="actions"></div>`;
+    el.querySelector('.st').textContent = o.status;
+    el.querySelector('.utr').textContent = o.utr || o.rejectedUtr || '—';
+    el.querySelector('.user').textContent = o.userId;
+    el.querySelector('.plan').textContent = o.plan;
+    if (o.status === 'pending' || o.status === 'submitted') {
+      const ok = Object.assign(document.createElement('button'), { className: 'approve', textContent: 'Approve' });
+      const no = Object.assign(document.createElement('button'), { className: 'reject', textContent: 'Reject' });
+      ok.onclick = async () => {
+        const utr = o.utr || prompt('UTR you see in your bank app for this payment:');
+        if (!utr) return;
+        try { await upi.admin.approve(o.id, o.utr ? undefined : utr); load(); } catch (e) { alert(e.message); }
+      };
+      no.onclick = async () => {
+        const reason = prompt('Reason (shown to the user):', 'Payment not received');
+        if (reason === null) return;
+        try { await upi.admin.reject(o.id, reason); load(); } catch (e) { alert(e.message); }
+      };
+      el.querySelector('.actions').append(ok, no);
+    }
+    return el;
+  }
+
+  $('refresh').onclick = load;
+  $('status').onchange = load;
+  $('amount').onkeydown = (e) => { if (e.key === 'Enter') load(); };
+  load();
+  setInterval(load, 10000);
+</script>
+</body>
+</html>

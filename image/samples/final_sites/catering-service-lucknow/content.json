@@ -1,0 +1,190 @@
+{
+  "brand": "Catering Service, Lucknow",
+  "niche": "restaurant",
+  "kind": "food",
+  "profile": "",
+  "business_type": "catering",
+  "type_label": "Catering Service",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "warm",
+  "keywords": [
+    "weddings",
+    "parties"
+  ],
+  "eyebrow": "Catering Service · Lucknow",
+  "location": "Lucknow",
+  "audience": "",
+  "hero_heading": "Weddings and parties, made for sharing",
+  "tagline": "A real person replies to every message.",
+  "about_title": "About us",
+  "about": [
+    "Save room for dessert. We cook weddings and parties in Lucknow.",
+    "You'll find us in Lucknow. Send a short message and we will take it from there."
+  ],
+  "features_title": "What to order",
+  "features": [
+    {
+      "title": "Weddings",
+      "text": "Bring your questions about weddings."
+    },
+    {
+      "title": "Parties",
+      "text": "If parties is why you came, let us know when you book."
+    },
+    {
+      "title": "Platters",
+      "text": "Ask the team what goes into Platters; they like the question."
+    },
+    {
+      "title": "Menus",
+      "text": "Menus: ask for details before you decide."
+    },
+    {
+      "title": "Desserts",
+      "text": "Desserts is on the menu; ask what pairs well with it."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Easy to reach",
+      "text": "Message or call."
+    },
+    {
+      "title": "Questions welcome",
+      "text": "Big or small."
+    },
+    {
+      "title": "Save room",
+      "text": "Dessert is worth it."
+    }
+  ],
+  "stats_title": "Quick facts",
+  "stats": [
+    {
+      "value": "Lucknow",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "Getting started",
+  "steps": [
+    {
+      "title": "Pick a day",
+      "text": "Tell us the day and the size of the group."
+    },
+    {
+      "title": "Choose your choice",
+      "text": "Pick from weddings or parties, or ask the team for a suggestion."
+    },
+    {
+      "title": "Enjoy the meal",
+      "text": "Stay for coffee if the conversation is good."
+    }
+  ],
+  "faq_title": "Quick answers",
+  "faq": [
+    {
+      "q": "Do you have vegetarian options?",
+      "a": "Tell us what you eat and we'll point you to the dishes that suit."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Lucknow; get in touch for directions."
+    },
+    {
+      "q": "Can I ask about weddings?",
+      "a": "Yes; let us know what you'd like to know about weddings."
+    },
+    {
+      "q": "Is there anything I should prepare?",
+      "a": "We will tell you what to bring or prepare when you reach out."
+    }
+  ],
+  "blog_title": "From the journal",
+  "blog": [
+    {
+      "title": "Planning ahead",
+      "excerpt": "How to give yourself time."
+    },
+    {
+      "title": "Notes on getting started",
+      "excerpt": "The first steps, without the jargon."
+    },
+    {
+      "title": "Questions to ask before you book",
+      "excerpt": "Plain answers beat long brochures."
+    }
+  ],
+  "contact": {
+    "place": "Lucknow"
+  },
+  "cta_primary": "Book a table",
+  "cta_secondary": "See the menu",
+  "cta_text": "Start with a table; finish with dessert.",
+  "cta_title": "Ready when you are",
+  "footer": "© Catering Service, Lucknow. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Lucknow",
+      "source": "prompt"
+    },
+    "services": {
+      "value": [
+        "weddings",
+        "parties"
+      ],
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "catering (confidence high)",
+    "items_from_prompt": [
+      "weddings",
+      "parties"
+    ],
+    "place": "Lucknow",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "food"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Catering Service, Lucknow' (not a name). Add your business name to replace it.",
+    "Typical catering service offerings were used for: Platters, Menus, Desserts. List your real services (3 or more) to replace them."
+  ]
+}

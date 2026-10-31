@@ -1,0 +1,179 @@
+{
+  "brand": "Maple Hearth",
+  "niche": "restaurant",
+  "kind": "food",
+  "profile": "south_indian",
+  "business_type": "restaurant",
+  "type_label": "South Indian restaurant",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "warm",
+  "keywords": [
+    "south",
+    "indian",
+    "restaurant",
+    "chennai"
+  ],
+  "eyebrow": "South Indian restaurant · Chennai",
+  "location": "Chennai",
+  "audience": "",
+  "hero_heading": "South Indian restaurant in Chennai",
+  "tagline": "Bring friends; the food is made for sharing.",
+  "about_title": "About us",
+  "about": [
+    "Tell us what matters most to you.",
+    "You'll find us in Chennai. Ask what's included before you decide."
+  ],
+  "features_title": "What we serve",
+  "features": [
+    {
+      "title": "Starters",
+      "text": "Curious about Starters? Ask us anything."
+    },
+    {
+      "title": "Mains",
+      "text": "Curious about Mains? Ask, and we'll talk you through it."
+    },
+    {
+      "title": "Desserts",
+      "text": "Pair Desserts with a side or a drink; the team will suggest."
+    },
+    {
+      "title": "Drinks",
+      "text": "Ask the team what goes into Drinks; they like the question."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Bring a group",
+      "text": "Let us know the numbers and we'll plan the table."
+    },
+    {
+      "title": "A real person replies",
+      "text": "Not a form that goes nowhere."
+    },
+    {
+      "title": "Local and personal",
+      "text": "Run by people you can talk to."
+    }
+  ],
+  "stats_title": "Where and when",
+  "stats": [
+    {
+      "value": "Chennai",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "From first message to finish",
+  "steps": [
+    {
+      "title": "Reserve",
+      "text": "Call or message us to reserve a table; say if it is a celebration."
+    },
+    {
+      "title": "Browse the menu",
+      "text": "Start with and build from there."
+    },
+    {
+      "title": "Eat it fresh",
+      "text": "Dosas and idlis are best eaten straight away."
+    }
+  ],
+  "faq_title": "Frequently asked questions",
+  "faq": [
+    {
+      "q": "Do you have vegetarian options?",
+      "a": "Ask the team at the time of booking; they'll tell you what is available for vegetarians."
+    },
+    {
+      "q": "Do you take group or party bookings?",
+      "a": "Tell us the date and numbers, and we'll say what we can do."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Chennai; reach out for directions."
+    },
+    {
+      "q": "Is there anything I should prepare?",
+      "a": "We will tell you what to bring or prepare when you get in touch."
+    }
+  ],
+  "blog_title": "Worth reading",
+  "blog": [
+    {
+      "title": "When to ask for a second opinion",
+      "excerpt": "And how to do it politely."
+    },
+    {
+      "title": "Small things that make a difference",
+      "excerpt": "Notes from everyday experience."
+    },
+    {
+      "title": "How to choose a good south indian restaurant",
+      "excerpt": "Five questions worth asking before you make up your mind."
+    }
+  ],
+  "contact": {
+    "place": "Chennai"
+  },
+  "cta_primary": "Book a table",
+  "cta_secondary": "See the menu",
+  "cta_text": "Hungry? Book a table.",
+  "cta_title": "Ready when you are",
+  "footer": "© Maple Hearth. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Chennai",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "restaurant (confidence high)",
+    "items_from_prompt": [],
+    "place": "Chennai",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "south_indian",
+    "kind": "food"
+  },
+  "needs_review": [
+    "No business name was given; 'Maple Hearth' is a placeholder.",
+    "Typical south indian restaurant offerings were used for: Starters, Mains, Desserts, Drinks. List your real services (3 or more) to replace them."
+  ]
+}

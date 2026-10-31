@@ -1,0 +1,195 @@
+{
+  "brand": "Zenith SaaS",
+  "niche": "tech",
+  "kind": "software",
+  "profile": "",
+  "business_type": "software",
+  "type_label": "Software Company",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "cool",
+  "keywords": [
+    "analytics",
+    "startup",
+    "bangalore",
+    "dashboards",
+    "api"
+  ],
+  "eyebrow": "Software Company · Bangalore",
+  "location": "Bangalore",
+  "audience": "",
+  "hero_heading": "Dashboards and API, without spreadsheets",
+  "tagline": "Start free and let us know what you need.",
+  "about_title": "About Zenith SaaS",
+  "about": [
+    "It starts with API. Zenith SaaS delivers dashboards too in Bangalore.",
+    "You'll find Zenith SaaS in Bangalore. Ask for a demo and bring your real workflow."
+  ],
+  "features_title": "What you can automate",
+  "features": [
+    {
+      "title": "Dashboards",
+      "text": "Connect dashboards to the tools you already use."
+    },
+    {
+      "title": "API",
+      "text": "Bring your questions about API."
+    },
+    {
+      "title": "Automation",
+      "text": "Message us about Automation; we reply to every enquiry."
+    },
+    {
+      "title": "Reporting",
+      "text": "Track Reporting without a spreadsheet."
+    },
+    {
+      "title": "Integrations",
+      "text": "Not sure about Integrations? Start with a short conversation."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Clear next steps",
+      "text": "You'll know what comes next."
+    },
+    {
+      "title": "Details explained",
+      "text": "Before anything begins."
+    },
+    {
+      "title": "A real person replies",
+      "text": "Not a form that goes nowhere."
+    }
+  ],
+  "stats_title": "Find us",
+  "stats": [
+    {
+      "value": "Bangalore",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "How it works",
+  "steps": [
+    {
+      "title": "See a demo",
+      "text": "Bring a real workflow and we'll walk through it."
+    },
+    {
+      "title": "Connect your tools",
+      "text": "Bring dashboards or API and your data into one place."
+    },
+    {
+      "title": "Share with the team",
+      "text": "Everyone sees the same numbers."
+    }
+  ],
+  "faq_title": "Quick answers",
+  "faq": [
+    {
+      "q": "Where is my data stored?",
+      "a": "Message us your requirements and we'll explain."
+    },
+    {
+      "q": "Where are you based?",
+      "a": "We're in Bangalore; get in touch."
+    },
+    {
+      "q": "Can it handle dashboards?",
+      "a": "Ask us about dashboards; we will walk you through it."
+    },
+    {
+      "q": "Is there anything I should prepare?",
+      "a": "Ask us and we'll tell you what to have ready."
+    }
+  ],
+  "blog_title": "Worth reading",
+  "blog": [
+    {
+      "title": "Why we answer every message",
+      "excerpt": "Replies are part of the service."
+    },
+    {
+      "title": "What a fair price looks like",
+      "excerpt": "Questions that make quotes easier to compare."
+    },
+    {
+      "title": "A short guide to dashboards",
+      "excerpt": "The basics, in plain words."
+    }
+  ],
+  "contact": {
+    "place": "Bangalore"
+  },
+  "cta_primary": "Start free",
+  "cta_secondary": "Book a demo",
+  "cta_text": "Start free, or message us your questions.",
+  "cta_title": "Let's talk",
+  "footer": "© Zenith SaaS. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "name": {
+      "value": "Zenith SaaS",
+      "source": "prompt"
+    },
+    "city": {
+      "value": "Bangalore",
+      "source": "prompt"
+    },
+    "services": {
+      "value": [
+        "dashboards",
+        "API"
+      ],
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "software (confidence high)",
+    "items_from_prompt": [
+      "dashboards",
+      "API"
+    ],
+    "place": "Bangalore",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "software"
+  },
+  "needs_review": [
+    "Typical software company offerings were used for: Automation, Reporting, Integrations. List your real services (3 or more) to replace them."
+  ]
+}

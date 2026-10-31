@@ -1,0 +1,180 @@
+{
+  "brand": "Consulting Firm, Mumbai",
+  "niche": "pro",
+  "kind": "pro",
+  "profile": "",
+  "business_type": "consulting",
+  "type_label": "Consulting Firm",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "calm",
+  "keywords": [
+    "management"
+  ],
+  "eyebrow": "Consulting Firm · Mumbai",
+  "location": "Mumbai",
+  "audience": "",
+  "hero_heading": "Consulting Firm in Mumbai",
+  "tagline": "Book a consultation and let us know what you need.",
+  "about_title": "About us",
+  "about": [
+    "Fees are explained before work begins.",
+    "You will find us in Mumbai. Ask for details before you commit."
+  ],
+  "features_title": "What we handle",
+  "features": [
+    {
+      "title": "Audits",
+      "text": "Not sure about Audits? Start with a short conversation."
+    },
+    {
+      "title": "Trainings",
+      "text": "Feel free to ask us how Trainings works and what to expect."
+    },
+    {
+      "title": "Reports",
+      "text": "Reports: ask for details before you make up your mind."
+    },
+    {
+      "title": "Plans",
+      "text": "Curious about Plans? Feel free to ask us anything."
+    },
+    {
+      "title": "Assessments",
+      "text": "Assessments, handled by people who deal with it every day."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Clear next steps",
+      "text": "You'll know what comes next."
+    },
+    {
+      "title": "Written summaries",
+      "text": "Ask and we will send one."
+    },
+    {
+      "title": "A clear next step",
+      "text": "After every call."
+    }
+  ],
+  "stats_title": "At a glance",
+  "stats": [
+    {
+      "value": "Mumbai",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "Getting started",
+  "steps": [
+    {
+      "title": "Book a short call",
+      "text": "Bring your documents if you have them."
+    },
+    {
+      "title": "Understand your options",
+      "text": "Plain words, with the pros and cons."
+    },
+    {
+      "title": "Get started",
+      "text": "We begin when you're ready."
+    }
+  ],
+  "faq_title": "Before you ask",
+  "faq": [
+    {
+      "q": "What should I bring?",
+      "a": "Bring what you have; we'll tell you what else is needed."
+    },
+    {
+      "q": "Where are you based?",
+      "a": "We're in Mumbai; get in touch."
+    },
+    {
+      "q": "Can I ask questions before I decide?",
+      "a": "Yes; ask as many as you like."
+    },
+    {
+      "q": "Is there anything I should prepare?",
+      "a": "We will tell you what to bring or prepare when you reach out."
+    }
+  ],
+  "blog_title": "Our notes",
+  "blog": [
+    {
+      "title": "Deadlines that matter",
+      "excerpt": "How to plan backwards."
+    },
+    {
+      "title": "Why we answer every message",
+      "excerpt": "Replies are part of the service."
+    },
+    {
+      "title": "Keeping your records in order",
+      "excerpt": "A habit that saves time and stress."
+    }
+  ],
+  "contact": {
+    "place": "Mumbai"
+  },
+  "cta_primary": "Book a consultation",
+  "cta_secondary": "Call the office",
+  "cta_text": "Book a consultation; we'll explain the options.",
+  "cta_title": "Your next step is one message away",
+  "footer": "© Consulting Firm, Mumbai. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Mumbai",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "consulting (confidence high)",
+    "items_from_prompt": [],
+    "place": "Mumbai",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "pro"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Consulting Firm, Mumbai' (not a name). Add your business name to replace it.",
+    "Typical consulting firm offerings were used for: Audits, Trainings, Reports, Plans, Assessments. List your real services (3 or more) to replace them."
+  ]
+}

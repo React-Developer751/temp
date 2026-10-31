@@ -1,0 +1,106 @@
+{
+  "niche": "physio",
+  "requested_niche": "physio",
+  "fallback": false,
+  "reason": "sub-niche physio",
+  "mood": "cool",
+  "accent": "#1a9ea2",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Serene Physiotherapy Centre Physiotherapy Centre clinic pune Exercises Taping Programs Assessments Treatments",
+    "niche": "physio",
+    "title": "Physiotherapy centre",
+    "fallback": false,
+    "mood": "cool",
+    "accent": "#1a9ea2",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 20,
+    "palette_family": 0.858,
+    "text_zone": "left",
+    "hero_contrast": 4.84,
+    "seconds": 5.77,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.858
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 32105,
+      "alt": "Illustration for Serene Physiotherapy Centre: Physiotherapy centre",
+      "text_color": "#0d0d14",
+      "contrast": 4.84,
+      "role": "hero",
+      "seed": 3
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 21774,
+      "alt": "About Serene Physiotherapy Centre: Physiotherapy centre",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1016
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 18079,
+        "alt": "Serene Physiotherapy Centre gallery picture: Physiotherapy centre",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2029
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 14595,
+        "alt": "Serene Physiotherapy Centre gallery picture: Physiotherapy centre",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3042
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 17528,
+        "alt": "Serene Physiotherapy Centre gallery picture: Physiotherapy centre",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4055
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 16385,
+        "alt": "Serene Physiotherapy Centre gallery picture: Physiotherapy centre",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5068
+      }
+    ]
+  }
+}

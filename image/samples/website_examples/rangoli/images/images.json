@@ -1,0 +1,106 @@
+{
+  "niche": "kurti-store",
+  "requested_niche": "kurti-store",
+  "fallback": false,
+  "reason": "sub-niche kurti",
+  "mood": "light",
+  "accent": "#cd1da3",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Rangoli Clothing Boutique kurti store jaipur anarkali palazzo chikankari Anarkali Palazzo Chikankari",
+    "niche": "kurti-store",
+    "title": "Kurti & ethnic wear store",
+    "fallback": false,
+    "mood": "light",
+    "accent": "#cd1da3",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 20,
+    "palette_family": 0.916,
+    "text_zone": "left",
+    "hero_contrast": 4.87,
+    "seconds": 7.02,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.916
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 46108,
+      "alt": "Illustration for Rangoli: Kurti & ethnic wear store",
+      "text_color": "#0d0d14",
+      "contrast": 4.87,
+      "role": "hero",
+      "seed": 2
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 33736,
+      "alt": "About Rangoli: Kurti & ethnic wear store",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1015
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 24368,
+        "alt": "Rangoli gallery picture: Kurti & ethnic wear store",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2028
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 23328,
+        "alt": "Rangoli gallery picture: Kurti & ethnic wear store",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3041
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 23131,
+        "alt": "Rangoli gallery picture: Kurti & ethnic wear store",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4054
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 23384,
+        "alt": "Rangoli gallery picture: Kurti & ethnic wear store",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5067
+      }
+    ]
+  }
+}

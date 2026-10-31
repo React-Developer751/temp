@@ -1,0 +1,237 @@
+{
+  "request": "meri tatoo studio ki website banao",
+  "source": "niche pack",
+  "understood": {
+    "niche": "tattoo_studio",
+    "type_theme": null,
+    "brand": null,
+    "city": null,
+    "lang": "hinglish",
+    "confidence": 1.0
+  },
+  "notes": [],
+  "problems": [],
+  "pack": {
+    "id": "tattoo_studio",
+    "label": "Tattoo studio",
+    "theme": "creative_studio",
+    "keywords": [
+      "tattoo",
+      "tattoo artist",
+      "tattoo design",
+      "tattoo cover up",
+      "piercing",
+      "permanent tattoo",
+      "tatoo",
+      "टैटू आर्टिस्ट",
+      "टैटू स्टूडियो"
+    ],
+    "heroTitles": [
+      "Tattoo Studio In A Friendly Space",
+      "Time Well Spent On Custom Tattoo Designs",
+      "Tattoo Studio Planned Around You"
+    ],
+    "heroSubtitles": [
+      "Looking for help with tattoo studio? {brand} keeps it relaxed: a warm welcome, a clear plan and a session that fits your day.",
+      "From custom tattoo designs to sterile single-use needles, {brand} helps you feel looked after, with time to talk through what you want.",
+      "{brand} provides custom tattoo designs and fine line and minimal. Tell us your preferences and we will plan a session around them."
+    ],
+    "button": "Book A Design Chat",
+    "featureTitle": "Tattoo Studio Sessions We Offer",
+    "features": [
+      {
+        "title": "Custom Tattoo Designs",
+        "text": "Questions about custom tattoo designs? Message us and we will answer before you book."
+      },
+      {
+        "title": "Sterile Single-Use Needles",
+        "text": "We talk through sterile single-use needles first, so the session matches what you want and what suits you."
+      },
+      {
+        "title": "Cover-Ups And Reworks",
+        "text": "Cover-Ups And Reworks booked at a time that works for you, in a friendly space and without any rush."
+      },
+      {
+        "title": "Fine Line And Minimal",
+        "text": "Ask about fine line and minimal; we explain the options simply and let you choose."
+      },
+      {
+        "title": "Body Piercing",
+        "text": "For body piercing, we listen to your preferences and plan the session around them."
+      },
+      {
+        "title": "Aftercare Guidance",
+        "text": "Aftercare Guidance delivered with care, with tips on how to keep the results going."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Booked",
+        "label": "Time that suits you"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Friendly",
+        "label": "Welcome for everyone"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Pick A Time",
+          "text": "Message or call to book your tattoo studio session and tell us what you would like."
+        },
+        {
+          "title": "Talk It Through",
+          "text": "We discuss custom tattoo designs with you, so the plan matches your preferences."
+        },
+        {
+          "title": "Enjoy The Session",
+          "text": "Relax while we take care of sterile single-use needles, with time for your questions."
+        },
+        {
+          "title": "Keep It Going",
+          "text": "We share simple tips for cover-ups and reworks and help you plan the next session."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I prepare for fine line and minimal?",
+        "a": "We tell you when you book, so you arrive knowing what to expect. The same approach applies to custom tattoo designs and aftercare guidance."
+      },
+      {
+        "q": "Do you plan tattoo studio sessions around my needs?",
+        "a": "Yes. We listen first and shape the session around what you want and how you feel. This applies to custom tattoo designs, sterile single-use needles and the rest of our tattoo studio work."
+      },
+      {
+        "q": "Can I bring a friend to body piercing?",
+        "a": "Tell us when you book and we will make room, where the session allows. It is the same for sterile single-use needles as it is for custom tattoo designs."
+      },
+      {
+        "q": "How do I book custom tattoo designs?",
+        "a": "Message or call, tell us what you would like and choose a time that suits you. That goes for cover-ups and reworks and fine line and minimal too."
+      },
+      {
+        "q": "Can I ask about sterile single-use needles before booking?",
+        "a": "Of course. Message us and we will explain what is involved and how long it takes. Ask us about body piercing or aftercare guidance and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Try Custom Tattoo Designs?",
+      "button": "Book A Design Chat"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a friendly tattoo studio space. We listen first, plan the session around you and keep things relaxed from start to finish.",
+        "We offer custom tattoo designs, sterile single-use needles and cover-ups and reworks, and we are happy to talk through your preferences before you decide."
+      ],
+      "points": [
+        "Plain Advice",
+        "Friendly Team",
+        "Booking That Fits"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Tattoo Studio",
+      "plans": [
+        {
+          "name": "Single Session",
+          "price": "$25",
+          "period": "/small tattoo",
+          "perks": [
+            "Custom Tattoo Designs Session",
+            "Time You Choose",
+            "Tips To Take Home"
+          ]
+        },
+        {
+          "name": "Regular Sessions",
+          "price": "$70",
+          "period": "/medium tattoo",
+          "perks": [
+            "Custom Tattoo Designs And Sterile Single-Use Needles",
+            "Flexible Timing",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Programme",
+          "price": "$200",
+          "period": "/large piece",
+          "perks": [
+            "Custom Tattoo Designs Plus Sterile Single-Use Needles And Cover-Ups And Reworks",
+            "Extended Support",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Our Tattoo Studio Space",
+      "captions": [
+        "Custom Tattoo Designs",
+        "Sterile Single-Use Needles",
+        "Cover-Ups And Reworks",
+        "Fine Line And Minimal",
+        "Body Piercing",
+        "Aftercare Guidance"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Tattoo Studio Specialist",
+        "Custom Tattoo Designs Expert",
+        "Welcome Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Easy to book sterile single-use needles, and the team listened to what I wanted.",
+        "role": "Customer"
+      },
+      {
+        "quote": "A warm welcome and a clear explanation of cover-ups and reworks.",
+        "role": "First time guest"
+      },
+      {
+        "quote": "Friendly space, and the tattoo studio session never felt rushed.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "Tattoo Studio Tips And Ideas",
+      "posts": [
+        {
+          "tag": "Ideas",
+          "title": "Simple Ways To Enjoy Fine Line And Minimal"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Body Piercing"
+        },
+        {
+          "tag": "Habits",
+          "title": "Small Habits That Support Aftercare Guidance"
+        }
+      ]
+    },
+    "marquee": [
+      "Custom Tattoo",
+      "Sterile",
+      "Cover-Ups",
+      "Fine Line",
+      "Body Piercing",
+      "Warm Welcome",
+      "Easy Booking",
+      "Plain Advice"
+    ],
+    "contactText": "Tell {brand} what you would like: custom tattoo designs, cover-ups and reworks or something close. We will answer with options and a time."
+  }
+}

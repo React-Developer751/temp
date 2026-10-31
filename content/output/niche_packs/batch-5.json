@@ -1,0 +1,2238 @@
+[
+  {
+    "id": "pharmacy",
+    "label": "Pharmacy",
+    "theme": "healthcare",
+    "keywords": [
+      "pharmacy",
+      "medical store",
+      "chemist",
+      "medicine shop",
+      "home delivery medicines",
+      "online pharmacy",
+      "generic medicine",
+      "dawai ki dukaan",
+      "मेडिकल स्टोर",
+      "दवाई की दुकान"
+    ],
+    "heroTitles": [
+      "Choose Prescription Medicines With Confidence",
+      "Prescription Medicines And Home Delivery For Everyone",
+      "Pharmacy With Honest Advice"
+    ],
+    "heroSubtitles": [
+      "{brand} offers prescription medicines and generic alternatives. Tell us what you need and we will show you the options and the prices.",
+      "Need prescription medicines or health devices? {brand} will tell you what is in stock, what it costs and how to get it.",
+      "{brand} stocks prescription medicines, home delivery and monthly refills. Ask us anything, see what is available and pick what suits you."
+    ],
+    "button": "Order Medicines",
+    "featureTitle": "What You Will Find Here",
+    "features": [
+      {
+        "title": "Prescription Medicines",
+        "text": "Prescription Medicines available to see in store or ask about by message before you come."
+      },
+      {
+        "title": "Home Delivery",
+        "text": "Questions about home delivery? Message us and we will check availability for you."
+      },
+      {
+        "title": "Monthly Refills",
+        "text": "Ask about monthly refills and we will show what is available, with prices told clearly."
+      },
+      {
+        "title": "Generic Alternatives",
+        "text": "Generic Alternatives chosen with care, with honest advice on what suits your need."
+      },
+      {
+        "title": "Health Devices",
+        "text": "Looking for health devices? Tell us your budget and we will suggest options that fit."
+      },
+      {
+        "title": "Baby And Elder Care",
+        "text": "For baby and elder care, we explain the differences simply so you can pick with confidence."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Local",
+        "label": "Shop near you"
+      },
+      {
+        "value": "Plain",
+        "label": "Advice, no pressure"
+      },
+      {
+        "value": "Free",
+        "label": "Questions answered"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us What You Want",
+          "text": "Message or visit with the pharmacy item you are looking for and your budget."
+        },
+        {
+          "title": "See The Options",
+          "text": "We show what is available in prescription medicines, with prices and simple advice."
+        },
+        {
+          "title": "Choose And Confirm",
+          "text": "Pick what suits you and we confirm the order for home delivery, with the total told clearly."
+        },
+        {
+          "title": "Collect Or Receive",
+          "text": "Take your monthly refills from the store, or ask how delivery works for your area."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I order prescription medicines?",
+        "a": "Message us the item and your preferences, or visit the store, and we will confirm availability and price. That goes for monthly refills and generic alternatives too."
+      },
+      {
+        "q": "Can you tell me the price of home delivery first?",
+        "a": "Yes. We always say the price before you decide, so there are no surprises at the till. Ask us about health devices or baby and elder care and the answer is the same."
+      },
+      {
+        "q": "Do you help me choose monthly refills?",
+        "a": "Of course. Tell us what you need and your budget and we will suggest suitable options. The same approach applies to prescription medicines and baby and elder care."
+      },
+      {
+        "q": "Can I check pharmacy stock before I come?",
+        "a": "Yes. Send us a message and we will confirm what is available before you make the trip. This applies to prescription medicines, home delivery and the rest of our pharmacy work."
+      },
+      {
+        "q": "What if I am unsure about prescription medicines?",
+        "a": "Ask us. We explain the differences in plain words and let you decide in your own time. It is the same for home delivery as it is for prescription medicines."
+      }
+    ],
+    "cta": {
+      "title": "Looking For Prescription Medicines?",
+      "button": "Order Medicines"
+    },
+    "about": {
+      "title": "About Our Pharmacy Shop",
+      "paragraphs": [
+        "{brand} is a local pharmacy business. We keep shopping simple: listen to what you need, show the options and tell you the prices plainly.",
+        "We stock prescription medicines, home delivery and monthly refills, and we are happy to talk it through with you before you decide."
+      ],
+      "points": [
+        "Friendly Service",
+        "Checked Availability",
+        "No Pressure"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Pharmacy",
+      "plans": [
+        {
+          "name": "Everyday",
+          "price": "$0",
+          "period": "/home delivery",
+          "perks": [
+            "Everyday Prescription Medicines",
+            "Prices Told First",
+            "Help Choosing"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$5",
+          "period": "/monthly refill service",
+          "perks": [
+            "Prescription Medicines And Home Delivery",
+            "Priority Help",
+            "Availability Checks"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$12",
+          "period": "/family care pack",
+          "perks": [
+            "Prescription Medicines Plus Home Delivery And Monthly Refills",
+            "Personal Shopping Help",
+            "Early Access To New Prescription Medicines"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside The Pharmacy Shop",
+      "captions": [
+        "Prescription Medicines",
+        "Home Delivery",
+        "Monthly Refills",
+        "Generic Alternatives",
+        "Health Devices",
+        "Baby And Elder Care"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Pharmacist",
+        "Delivery Partner",
+        "Order Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Easy to check monthly refills by message before going to the shop.",
+        "role": "Customer"
+      },
+      {
+        "quote": "Friendly service, and the pharmacy range matched what I asked for.",
+        "role": "Customer"
+      },
+      {
+        "quote": "I liked that prescription medicines was explained simply and the price was clear.",
+        "role": "First time buyer"
+      }
+    ],
+    "blog": {
+      "title": "Pharmacy Tips And Guides",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "How To Choose Prescription Medicines"
+        },
+        {
+          "tag": "Cost",
+          "title": "What To Know Before Buying Home Delivery"
+        },
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask About Monthly Refills"
+        }
+      ]
+    },
+    "marquee": [
+      "Prescription",
+      "Home Delivery",
+      "Monthly Refills",
+      "Generic",
+      "Health Devices",
+      "New Stock",
+      "Clear Prices",
+      "Friendly Advice"
+    ],
+    "contactText": "Message {brand} to ask about prescription medicines or home delivery. We reply with what is available, the price and how to get it."
+  },
+  {
+    "id": "counselling_therapy",
+    "label": "Counselling and therapy practice",
+    "theme": "healthcare",
+    "keywords": [
+      "therapist",
+      "psychologist",
+      "online therapy",
+      "couple counselling",
+      "anxiety counselling",
+      "mental health counsellor",
+      "child counselling",
+      "counselling centre",
+      "counselling services",
+      "काउंसलर",
+      "मानसिक स्वास्थ्य सलाह"
+    ],
+    "heroTitles": [
+      "Counselling And Therapy Practice In A Welcoming Space",
+      "Clear Answers On Individual Counselling",
+      "Individual Counselling And Couple Counselling With Care"
+    ],
+    "heroSubtitles": [
+      "Looking for help with counselling and therapy practice? {brand} listens first, explains the options and lets you decide at your own pace.",
+      "From individual counselling to couple counselling, {brand} keeps care simple: a short chat, a clear plan and time for your questions.",
+      "{brand} provides individual counselling and career counselling. We explain what to expect, what it involves and how to prepare."
+    ],
+    "button": "Book A Session",
+    "featureTitle": "Counselling And Therapy Practice Services We Offer",
+    "features": [
+      {
+        "title": "Individual Counselling",
+        "text": "Questions about individual counselling? Message us and we will answer before you book."
+      },
+      {
+        "title": "Couple Counselling",
+        "text": "We explain what couple counselling involves, how it is done and what to expect before we begin."
+      },
+      {
+        "title": "Teen And Child Support",
+        "text": "Teen And Child Support with time for your questions, and a plain explanation of the next step."
+      },
+      {
+        "title": "Career Counselling",
+        "text": "Ask about career counselling; we describe the options simply and let you decide at your own pace."
+      },
+      {
+        "title": "Family Sessions",
+        "text": "For family sessions, we start by listening to your concern and then suggest a clear plan."
+      },
+      {
+        "title": "Online Sessions",
+        "text": "Online Sessions booked at a time that suits you, with guidance on how to prepare."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Explanations"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Booked",
+        "label": "Time that suits you"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Book A Visit",
+          "text": "Message or call to book your counselling and therapy practice appointment and tell us your main concern."
+        },
+        {
+          "title": "Talk It Through",
+          "text": "We listen, ask questions and explain the options for individual counselling in plain words."
+        },
+        {
+          "title": "Get A Clear Plan",
+          "text": "You hear what couple counselling involves, how long it takes and what to expect."
+        },
+        {
+          "title": "Follow Up",
+          "text": "We answer questions after teen and child support and tell you when to come back, if needed."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What should I bring to a counselling and therapy practice visit?",
+        "a": "Any earlier reports or notes, and a list of your questions; we will tell you if anything else is needed. It is the same for couple counselling as it is for individual counselling."
+      },
+      {
+        "q": "Will you explain couple counselling first?",
+        "a": "Yes. We describe what is involved and what to expect, and begin only when you are comfortable. That goes for teen and child support and career counselling too."
+      },
+      {
+        "q": "Can I ask questions before teen and child support?",
+        "a": "Of course. Message us any time and we will answer in plain words. Ask us about family sessions or online sessions and the answer is the same."
+      },
+      {
+        "q": "Do I need an appointment for counselling and therapy practice?",
+        "a": "Booking ahead helps us give you time. Message us and we will find a slot that suits you. The same approach applies to individual counselling and online sessions."
+      },
+      {
+        "q": "How do I prepare for career counselling?",
+        "a": "We tell you what to do when you book, so you arrive knowing what to expect. This applies to individual counselling, couple counselling and the rest of our counselling and therapy practice work."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Book Your Counselling And Therapy Practice Visit?",
+      "button": "Book A Session"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local counselling and therapy practice practice. We listen first, explain clearly and give you time to ask questions at every step.",
+        "We provide individual counselling, couple counselling and teen and child support, and we are happy to talk through your concern before you decide."
+      ],
+      "points": [
+        "Clear Plans",
+        "Friendly Team",
+        "Booking That Fits You"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Counselling And Therapy Practice",
+      "plans": [
+        {
+          "name": "First Visit",
+          "price": "$12",
+          "period": "/session",
+          "perks": [
+            "Individual Counselling Discussion",
+            "Plain Explanation",
+            "Time For Questions"
+          ]
+        },
+        {
+          "name": "Care Plan",
+          "price": "$40",
+          "period": "/4 sessions",
+          "perks": [
+            "Individual Counselling And Couple Counselling",
+            "Follow-Up Check",
+            "Reminders When Due"
+          ]
+        },
+        {
+          "name": "Extended Care",
+          "price": "$100",
+          "period": "/12 sessions",
+          "perks": [
+            "Individual Counselling Plus Couple Counselling And Teen And Child Support",
+            "Extended Follow-Up",
+            "Priority Booking"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Our Counselling And Therapy Practice Space",
+      "captions": [
+        "Individual Counselling",
+        "Couple Counselling",
+        "Teen And Child Support",
+        "Career Counselling",
+        "Family Sessions",
+        "Online Sessions"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Counselling And Therapy Practice Practitioner",
+        "Individual Counselling Specialist",
+        "Patient Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "A welcoming place, and the counselling and therapy practice visit was unhurried.",
+        "role": "Patient"
+      },
+      {
+        "quote": "I liked that individual counselling was described in plain words with no pressure.",
+        "role": "Patient"
+      },
+      {
+        "quote": "Quick reply about career counselling and a clear answer.",
+        "role": "Patient"
+      }
+    ],
+    "blog": {
+      "title": "Counselling And Therapy Practice Notes And Guides",
+      "posts": [
+        {
+          "tag": "Aftercare",
+          "title": "Looking After Yourself After Career Counselling"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Family Sessions"
+        },
+        {
+          "tag": "Habits",
+          "title": "Small Habits That Support Online Sessions"
+        }
+      ]
+    },
+    "marquee": [
+      "Individual",
+      "Couple",
+      "Child Support",
+      "Career",
+      "Family Sessions",
+      "Plain Answers",
+      "Calm Visits",
+      "Easy Booking"
+    ],
+    "contactText": "Tell {brand} about your concern: individual counselling, teen and child support or something close. We will answer with the next step and a time."
+  },
+  {
+    "id": "immigration_consultant",
+    "label": "Immigration consultant",
+    "theme": "professional_services",
+    "keywords": [
+      "immigration consultant",
+      "study visa",
+      "work permit",
+      "canada pr",
+      "visa consultant",
+      "student visa",
+      "tourist visa",
+      "overseas education",
+      "इमिग्रेशन कंसल्टेंट",
+      "स्टडी वीज़ा"
+    ],
+    "heroTitles": [
+      "Immigration Consultant In Plain Words",
+      "Immigration Consultant Without The Jargon",
+      "Clear Advice On Student Visa Applications"
+    ],
+    "heroSubtitles": [
+      "{brand} handles student visa applications and visitor and tourist visas. We explain what is needed, what it costs and how long it takes.",
+      "Need help with student visa applications or statement and document review? {brand} will say what applies to you and what to prepare first.",
+      "Looking for help with immigration consultant? {brand} listens first, explains the options in plain words and tells you the cost upfront."
+    ],
+    "button": "Book A Visa Chat",
+    "featureTitle": "Immigration Consultant Services We Offer",
+    "features": [
+      {
+        "title": "Student Visa Applications",
+        "text": "Questions about student visa applications? Message us and we will answer before you commit."
+      },
+      {
+        "title": "Work Permit Guidance",
+        "text": "We explain work permit guidance in plain words, with the steps, the papers needed and the cost upfront."
+      },
+      {
+        "title": "Permanent Residency Pathways",
+        "text": "Permanent Residency Pathways handled with care, with a clear next step after every conversation."
+      },
+      {
+        "title": "Visitor And Tourist Visas",
+        "text": "Ask about visitor and tourist visas; we describe the options simply and let you decide at your own pace."
+      },
+      {
+        "title": "Statement And Document Review",
+        "text": "For statement and document review, we start by listening to your situation and then outline a clear plan."
+      },
+      {
+        "title": "Pre-Departure Briefing",
+        "text": "Pre-Departure Briefing explained without jargon, so you know what applies to you and why."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First conversation"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Clear",
+        "label": "Fees told upfront"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us Your Situation",
+          "text": "Share your immigration consultant question by call or message, with any papers you have."
+        },
+        {
+          "title": "We Explain The Options",
+          "text": "You hear what student visa applications involves, what it costs and how long it takes."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We confirm the steps for work permit guidance and what we need from you."
+        },
+        {
+          "title": "We Handle And Update",
+          "text": "We take care of permanent residency pathways and keep you updated until it is complete."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What documents do I need for work permit guidance?",
+        "a": "We tell you the exact list once we know your case, so you only gather what is needed. The same approach applies to student visa applications and pre-departure briefing."
+      },
+      {
+        "q": "Do you explain the fees for immigration consultant?",
+        "a": "Yes. We tell you the fee and what it covers before you decide to go ahead. This applies to student visa applications, work permit guidance and the rest of our immigration consultant work."
+      },
+      {
+        "q": "Is my information kept private for permanent residency pathways?",
+        "a": "We keep your details confidential and use them only for your work. It is the same for work permit guidance as it is for student visa applications."
+      },
+      {
+        "q": "Can I ask a question before hiring you for student visa applications?",
+        "a": "Of course. A first conversation is the right place to ask anything. That goes for permanent residency pathways and visitor and tourist visas too."
+      },
+      {
+        "q": "How long does visitor and tourist visas take?",
+        "a": "It depends on the case; we give an honest estimate and update you if anything changes. Ask us about statement and document review or pre-departure briefing and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Need Help With Student Visa Applications?",
+      "button": "Book A Visa Chat"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local immigration consultant practice. We listen to your situation, explain the options plainly and handle the work step by step.",
+        "We help with student visa applications, work permit guidance and permanent residency pathways, and we are glad to talk it through before you decide on anything."
+      ],
+      "points": [
+        "Clear Next Steps",
+        "Friendly Team",
+        "Honest Advice"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Immigration Consultant",
+      "plans": [
+        {
+          "name": "First Step",
+          "price": "$0",
+          "period": "/consultation",
+          "perks": [
+            "Student Visa Applications Discussion",
+            "Written Next Steps",
+            "Fees Explained"
+          ]
+        },
+        {
+          "name": "Standard Help",
+          "price": "$60",
+          "period": "/profile review",
+          "perks": [
+            "Student Visa Applications And Work Permit Guidance",
+            "Progress Updates",
+            "Document Checklist"
+          ]
+        },
+        {
+          "name": "Full Support",
+          "price": "$300",
+          "period": "/application support",
+          "perks": [
+            "Student Visa Applications Plus Work Permit Guidance And Permanent Residency Pathways",
+            "Extended Support",
+            "Priority Replies"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Our Immigration Consultant Office",
+      "captions": [
+        "Student Visa Applications",
+        "Work Permit Guidance",
+        "Permanent Residency Pathways",
+        "Visitor And Tourist Visas",
+        "Statement And Document Review",
+        "Pre-Departure Briefing"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Immigration Consultant Advisor",
+        "Student Visa Applications Specialist",
+        "Client Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Quick reply about visitor and tourist visas and a straight answer.",
+        "role": "Client"
+      },
+      {
+        "quote": "They explained student visa applications in plain words and told me the fee first.",
+        "role": "Client"
+      },
+      {
+        "quote": "Clear steps for work permit guidance, and updates without having to chase.",
+        "role": "Small business owner"
+      }
+    ],
+    "blog": {
+      "title": "Immigration Consultant Notes And Guides",
+      "posts": [
+        {
+          "tag": "Planning",
+          "title": "Planning Ahead For Visitor And Tourist Visas"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Statement And Document Review"
+        },
+        {
+          "tag": "Mistakes",
+          "title": "Common Slips With Pre-Departure Briefing"
+        }
+      ]
+    },
+    "marquee": [
+      "Student Visa",
+      "Work Permit",
+      "Permanent",
+      "Tourist Visas",
+      "Document Review",
+      "Plain Advice",
+      "Fees Upfront",
+      "Private"
+    ],
+    "contactText": "Tell {brand} your situation: student visa applications, permanent residency pathways or something close. We will answer with a clear plan and the fee."
+  },
+  {
+    "id": "notary_documentation",
+    "label": "Notary and documentation service",
+    "theme": "professional_services",
+    "keywords": [
+      "notary",
+      "notary public",
+      "affidavit",
+      "stamp paper",
+      "rent agreement",
+      "document attestation",
+      "name change affidavit",
+      "vakil documents",
+      "नोटरी",
+      "हलफनामा"
+    ],
+    "heroTitles": [
+      "Affidavits And Rent Agreements Explained Clearly",
+      "Notary And Documentation Service In Plain Words",
+      "Notary And Documentation Service Without The Jargon"
+    ],
+    "heroSubtitles": [
+      "{brand} handles affidavits and document attestation. We explain what is needed, what it costs and how long it takes.",
+      "Need help with affidavits or name change papers? {brand} will say what applies to you and what to prepare first.",
+      "{brand} helps with affidavits, rent agreements and stamp paper arrangement. Tell us your situation and get a clear explanation and a next step."
+    ],
+    "button": "Get Documents Ready",
+    "featureTitle": "Notary And Documentation Service Services We Offer",
+    "features": [
+      {
+        "title": "Affidavits",
+        "text": "Questions about affidavits? Message us and we will answer before you commit."
+      },
+      {
+        "title": "Rent Agreements",
+        "text": "We explain rent agreements in plain words, with the steps, the papers needed and the cost upfront."
+      },
+      {
+        "title": "Stamp Paper Arrangement",
+        "text": "Stamp Paper Arrangement handled with care, with a clear next step after every conversation."
+      },
+      {
+        "title": "Document Attestation",
+        "text": "Ask about document attestation; we describe the options simply and let you decide at your own pace."
+      },
+      {
+        "title": "Name Change Papers",
+        "text": "For name change papers, we start by listening to your situation and then outline a clear plan."
+      },
+      {
+        "title": "Power Of Attorney",
+        "text": "Power Of Attorney explained without jargon, so you know what applies to you and why."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Plain",
+        "label": "Language, no jargon"
+      },
+      {
+        "value": "Private",
+        "label": "Details kept private"
+      },
+      {
+        "value": "Easy",
+        "label": "Booking a call"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us Your Situation",
+          "text": "Share your notary and documentation service question by call or message, with any papers you have."
+        },
+        {
+          "title": "We Explain The Options",
+          "text": "You hear what affidavits involves, what it costs and how long it takes."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We confirm the steps for rent agreements and what we need from you."
+        },
+        {
+          "title": "We Handle And Update",
+          "text": "We take care of stamp paper arrangement and keep you updated until it is complete."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Do you explain the fees for notary and documentation service?",
+        "a": "Yes. We tell you the fee and what it covers before you decide to go ahead. That goes for stamp paper arrangement and document attestation too."
+      },
+      {
+        "q": "Is my information kept private for stamp paper arrangement?",
+        "a": "We keep your details confidential and use them only for your work. Ask us about name change papers or power of attorney and the answer is the same."
+      },
+      {
+        "q": "Can I ask a question before hiring you for affidavits?",
+        "a": "Of course. A first conversation is the right place to ask anything. The same approach applies to affidavits and power of attorney."
+      },
+      {
+        "q": "How long does document attestation take?",
+        "a": "It depends on the case; we give an honest estimate and update you if anything changes. This applies to affidavits, rent agreements and the rest of our notary and documentation service work."
+      },
+      {
+        "q": "Do you help small cases in notary and documentation service?",
+        "a": "Yes. Every case gets the same clear explanation and the same careful handling. It is the same for rent agreements as it is for affidavits."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Talk About Notary And Documentation Service?",
+      "button": "Get Documents Ready"
+    },
+    "about": {
+      "title": "About Our Notary And Documentation Service Practice",
+      "paragraphs": [
+        "{brand} is a local notary and documentation service practice. We listen to your situation, explain the options plainly and handle the work step by step.",
+        "We help with affidavits, rent agreements and stamp paper arrangement, and we are glad to talk it through before you decide on anything."
+      ],
+      "points": [
+        "Clear Next Steps",
+        "Friendly Team",
+        "Honest Advice"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Notary And Documentation Service",
+      "plans": [
+        {
+          "name": "First Step",
+          "price": "$2",
+          "period": "/document",
+          "perks": [
+            "Affidavits Discussion",
+            "Written Next Steps",
+            "Fees Explained"
+          ]
+        },
+        {
+          "name": "Standard Help",
+          "price": "$8",
+          "period": "/affidavit",
+          "perks": [
+            "Affidavits And Rent Agreements",
+            "Progress Updates",
+            "Document Checklist"
+          ]
+        },
+        {
+          "name": "Full Support",
+          "price": "$20",
+          "period": "/agreement",
+          "perks": [
+            "Affidavits Plus Rent Agreements And Stamp Paper Arrangement",
+            "Extended Support",
+            "Priority Replies"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Notary And Documentation Service Practice",
+      "captions": [
+        "Affidavits Work",
+        "Rent Agreements",
+        "Stamp Paper Arrangement",
+        "Document Attestation",
+        "Name Change Papers",
+        "Power Of Attorney"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Notary And Documentation Service Advisor",
+        "Affidavits Specialist",
+        "Client Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "They explained affidavits in plain words and told me the fee first.",
+        "role": "Client"
+      },
+      {
+        "quote": "Clear steps for rent agreements, and updates without having to chase.",
+        "role": "Small business owner"
+      },
+      {
+        "quote": "Patient answers about stamp paper arrangement, with no pressure.",
+        "role": "Client"
+      }
+    ],
+    "blog": {
+      "title": "Notary And Documentation Service Notes And Guides",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "What To Know About Affidavits"
+        },
+        {
+          "tag": "Documents",
+          "title": "Papers To Gather For Rent Agreements"
+        },
+        {
+          "tag": "Questions",
+          "title": "Questions To Ask About Stamp Paper Arrangement"
+        }
+      ]
+    },
+    "marquee": [
+      "Affidavits",
+      "Rent Agreements",
+      "Stamp Paper",
+      "Document",
+      "Name Change",
+      "Plain Advice",
+      "Fees Upfront",
+      "Private"
+    ],
+    "contactText": "Message {brand} about affidavits or rent agreements. We reply with a short list of questions and the next step."
+  },
+  {
+    "id": "digital_marketing_agency",
+    "label": "Digital marketing agency",
+    "theme": "modern_tech",
+    "keywords": [
+      "digital marketing agency",
+      "seo services",
+      "social media marketing",
+      "google ads",
+      "facebook ads",
+      "website promotion",
+      "performance marketing",
+      "seo company",
+      "डिजिटल मार्केटिंग",
+      "सोशल मीडिया मार्केटिंग"
+    ],
+    "heroTitles": [
+      "Thoughtful Digital Marketing Agency For Your Needs",
+      "Digital Marketing Agency Planned Around You",
+      "Clear Steps For Your Digital Marketing Agency"
+    ],
+    "heroSubtitles": [
+      "Need search engine optimisation or website and landing pages? {brand} sets out the scope and the cost first, then delivers in clear stages.",
+      "Looking for help with digital marketing agency? {brand} starts with a short brief, shows you the plan and works with your feedback.",
+      "{brand} offers search engine optimisation and google business profile. Tell us what you need and we will reply with a clear plan and a fair price."
+    ],
+    "button": "Get A Growth Plan",
+    "featureTitle": "What Digital Marketing Agency Covers Here",
+    "features": [
+      {
+        "title": "Search Engine Optimisation",
+        "text": "Ask about search engine optimisation; we explain the options, show examples and agree what is included."
+      },
+      {
+        "title": "Google Business Profile",
+        "text": "For google business profile, we work in clear stages and check each one with you."
+      },
+      {
+        "title": "Google And Meta Ads",
+        "text": "Google And Meta Ads delivered in the format you need, with a final review before handover."
+      },
+      {
+        "title": "Social Media Management",
+        "text": "Questions about social media management? Message us and we will walk you through the process."
+      },
+      {
+        "title": "Website And Landing Pages",
+        "text": "We start website and landing pages with a short brief, so the scope, timing and cost are clear from day one."
+      },
+      {
+        "title": "Reporting And Tracking",
+        "text": "Reporting And Tracking shaped around your idea, with a draft you can comment on before it is final."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First consultation"
+      },
+      {
+        "value": "Clear",
+        "label": "Scope and timeline"
+      },
+      {
+        "value": "Written",
+        "label": "Quote before work"
+      }
+    ],
+    "steps": {
+      "title": "How A Project Runs",
+      "items": [
+        {
+          "title": "Share Your Brief",
+          "text": "Tell us about your digital marketing agency idea, the purpose and any references you like."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We outline the scope for search engine optimisation, the timeline and the cost, and confirm them with you."
+        },
+        {
+          "title": "Review The Draft",
+          "text": "You see the first version of the google business profile work and tell us what to change."
+        },
+        {
+          "title": "Approve And Deliver",
+          "text": "We finalise google and meta ads, hand it over in the format you need and stay available for questions."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What formats do you deliver search engine optimisation in?",
+        "a": "Tell us where it will be used and we will deliver in the formats that suit that purpose. Ask us about website and landing pages or reporting and tracking and the answer is the same."
+      },
+      {
+        "q": "Do you take small digital marketing agency jobs?",
+        "a": "Yes. Small projects follow the same clear steps, with a quote and a plan first. The same approach applies to search engine optimisation and reporting and tracking."
+      },
+      {
+        "q": "How long does social media management take?",
+        "a": "It depends on the scope; we give a timeline with the quote and update you if anything changes. This applies to search engine optimisation, google business profile and the rest of our digital marketing agency work."
+      },
+      {
+        "q": "How do I start a digital marketing agency project?",
+        "a": "Send us a short brief by message or call, and we will reply with questions and a first outline. It is the same for google business profile as it is for search engine optimisation."
+      },
+      {
+        "q": "Can I see a draft of search engine optimisation first?",
+        "a": "Yes. We share a draft at the agreed stage so you can comment before the final version. That goes for google and meta ads and social media management too."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Start Your Digital Marketing Agency Project?",
+      "button": "Get A Growth Plan"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good digital marketing agency begins with listening. You hear the plan and the cost first, and the work follows in clear stages.",
+        "Our work includes search engine optimisation and google business profile. Ask about social media management or website and landing pages too and we will say plainly what is possible."
+      ],
+      "points": [
+        "Brief Before Work",
+        "Drafts You Can Review",
+        "Plain Language"
+      ]
+    },
+    "pricing": {
+      "title": "Digital Marketing Agency Pricing",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$60",
+          "period": "/month",
+          "perks": [
+            "Search Engine Optimisation Only",
+            "Written Quote First",
+            "One Round Of Feedback"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$180",
+          "period": "/month",
+          "perks": [
+            "Search Engine Optimisation And Google Business Profile",
+            "Two Rounds Of Feedback",
+            "Priority Scheduling"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$400",
+          "period": "/month",
+          "perks": [
+            "Search Engine Optimisation Plus Google Business Profile And Google And Meta Ads",
+            "Extended Feedback",
+            "Handover Support"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Digital Marketing Agency Work",
+      "captions": [
+        "Search Engine Optimisation",
+        "Google Business Profile",
+        "Google And Meta Ads",
+        "Social Media Management",
+        "Website And Landing Pages",
+        "Reporting And Tracking"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Digital Marketing Agency Lead",
+        "Search Engine Optimisation Specialist",
+        "Digital Marketing Agency Client Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Friendly team, and the digital marketing agency work matched what we discussed.",
+        "role": "Customer"
+      },
+      {
+        "quote": "I liked that search engine optimisation was planned in stages and I could comment on each.",
+        "role": "Startup founder"
+      },
+      {
+        "quote": "Straight answers about social media management and no surprises in the final cost.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "From The Digital Marketing Agency Desk",
+      "posts": [
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Website And Landing Pages"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Brief A Digital Marketing Agency Provider"
+        },
+        {
+          "tag": "Cost",
+          "title": "What Affects The Cost Of Search Engine Optimisation"
+        }
+      ]
+    },
+    "marquee": [
+      "Search Engine",
+      "Google Business",
+      "Meta Ads",
+      "Social Media",
+      "Landing Pages",
+      "Clear Scope",
+      "Open Feedback",
+      "Plain Quotes"
+    ],
+    "contactText": "Tell {brand} about your idea: search engine optimisation, google and meta ads or something close. We will answer with a plan and an honest quote."
+  },
+  {
+    "id": "tattoo_studio",
+    "label": "Tattoo studio",
+    "theme": "creative_studio",
+    "keywords": [
+      "tattoo",
+      "tattoo artist",
+      "tattoo design",
+      "tattoo cover up",
+      "piercing",
+      "permanent tattoo",
+      "tatoo",
+      "टैटू आर्टिस्ट",
+      "टैटू स्टूडियो"
+    ],
+    "heroTitles": [
+      "Tattoo Studio In A Friendly Space",
+      "Time Well Spent On Custom Tattoo Designs",
+      "Tattoo Studio Planned Around You"
+    ],
+    "heroSubtitles": [
+      "Looking for help with tattoo studio? {brand} keeps it relaxed: a warm welcome, a clear plan and a session that fits your day.",
+      "From custom tattoo designs to sterile single-use needles, {brand} helps you feel looked after, with time to talk through what you want.",
+      "{brand} provides custom tattoo designs and fine line and minimal. Tell us your preferences and we will plan a session around them."
+    ],
+    "button": "Book A Design Chat",
+    "featureTitle": "Tattoo Studio Sessions We Offer",
+    "features": [
+      {
+        "title": "Custom Tattoo Designs",
+        "text": "Questions about custom tattoo designs? Message us and we will answer before you book."
+      },
+      {
+        "title": "Sterile Single-Use Needles",
+        "text": "We talk through sterile single-use needles first, so the session matches what you want and what suits you."
+      },
+      {
+        "title": "Cover-Ups And Reworks",
+        "text": "Cover-Ups And Reworks booked at a time that works for you, in a friendly space and without any rush."
+      },
+      {
+        "title": "Fine Line And Minimal",
+        "text": "Ask about fine line and minimal; we explain the options simply and let you choose."
+      },
+      {
+        "title": "Body Piercing",
+        "text": "For body piercing, we listen to your preferences and plan the session around them."
+      },
+      {
+        "title": "Aftercare Guidance",
+        "text": "Aftercare Guidance delivered with care, with tips on how to keep the results going."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Booked",
+        "label": "Time that suits you"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Friendly",
+        "label": "Welcome for everyone"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Pick A Time",
+          "text": "Message or call to book your tattoo studio session and tell us what you would like."
+        },
+        {
+          "title": "Talk It Through",
+          "text": "We discuss custom tattoo designs with you, so the plan matches your preferences."
+        },
+        {
+          "title": "Enjoy The Session",
+          "text": "Relax while we take care of sterile single-use needles, with time for your questions."
+        },
+        {
+          "title": "Keep It Going",
+          "text": "We share simple tips for cover-ups and reworks and help you plan the next session."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I prepare for fine line and minimal?",
+        "a": "We tell you when you book, so you arrive knowing what to expect. The same approach applies to custom tattoo designs and aftercare guidance."
+      },
+      {
+        "q": "Do you plan tattoo studio sessions around my needs?",
+        "a": "Yes. We listen first and shape the session around what you want and how you feel. This applies to custom tattoo designs, sterile single-use needles and the rest of our tattoo studio work."
+      },
+      {
+        "q": "Can I bring a friend to body piercing?",
+        "a": "Tell us when you book and we will make room, where the session allows. It is the same for sterile single-use needles as it is for custom tattoo designs."
+      },
+      {
+        "q": "How do I book custom tattoo designs?",
+        "a": "Message or call, tell us what you would like and choose a time that suits you. That goes for cover-ups and reworks and fine line and minimal too."
+      },
+      {
+        "q": "Can I ask about sterile single-use needles before booking?",
+        "a": "Of course. Message us and we will explain what is involved and how long it takes. Ask us about body piercing or aftercare guidance and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Try Custom Tattoo Designs?",
+      "button": "Book A Design Chat"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a friendly tattoo studio space. We listen first, plan the session around you and keep things relaxed from start to finish.",
+        "We offer custom tattoo designs, sterile single-use needles and cover-ups and reworks, and we are happy to talk through your preferences before you decide."
+      ],
+      "points": [
+        "Plain Advice",
+        "Friendly Team",
+        "Booking That Fits"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Tattoo Studio",
+      "plans": [
+        {
+          "name": "Single Session",
+          "price": "$25",
+          "period": "/small tattoo",
+          "perks": [
+            "Custom Tattoo Designs Session",
+            "Time You Choose",
+            "Tips To Take Home"
+          ]
+        },
+        {
+          "name": "Regular Sessions",
+          "price": "$70",
+          "period": "/medium tattoo",
+          "perks": [
+            "Custom Tattoo Designs And Sterile Single-Use Needles",
+            "Flexible Timing",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Programme",
+          "price": "$200",
+          "period": "/large piece",
+          "perks": [
+            "Custom Tattoo Designs Plus Sterile Single-Use Needles And Cover-Ups And Reworks",
+            "Extended Support",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Our Tattoo Studio Space",
+      "captions": [
+        "Custom Tattoo Designs",
+        "Sterile Single-Use Needles",
+        "Cover-Ups And Reworks",
+        "Fine Line And Minimal",
+        "Body Piercing",
+        "Aftercare Guidance"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Tattoo Studio Specialist",
+        "Custom Tattoo Designs Expert",
+        "Welcome Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Easy to book sterile single-use needles, and the team listened to what I wanted.",
+        "role": "Customer"
+      },
+      {
+        "quote": "A warm welcome and a clear explanation of cover-ups and reworks.",
+        "role": "First time guest"
+      },
+      {
+        "quote": "Friendly space, and the tattoo studio session never felt rushed.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "Tattoo Studio Tips And Ideas",
+      "posts": [
+        {
+          "tag": "Ideas",
+          "title": "Simple Ways To Enjoy Fine Line And Minimal"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Body Piercing"
+        },
+        {
+          "tag": "Habits",
+          "title": "Small Habits That Support Aftercare Guidance"
+        }
+      ]
+    },
+    "marquee": [
+      "Custom Tattoo",
+      "Sterile",
+      "Cover-Ups",
+      "Fine Line",
+      "Body Piercing",
+      "Warm Welcome",
+      "Easy Booking",
+      "Plain Advice"
+    ],
+    "contactText": "Tell {brand} what you would like: custom tattoo designs, cover-ups and reworks or something close. We will answer with options and a time."
+  },
+  {
+    "id": "drone_photography",
+    "label": "Drone photography",
+    "theme": "creative_studio",
+    "keywords": [
+      "drone photography",
+      "drone videography",
+      "drone shoot",
+      "aerial photography",
+      "drone operator",
+      "wedding drone",
+      "drone camera on rent",
+      "ड्रोन फोटोग्राफी",
+      "ड्रोन शूट"
+    ],
+    "heroTitles": [
+      "Drone Photography That Starts With A Brief",
+      "Thoughtful Drone Photography For Your Needs",
+      "Drone Photography Planned Around You"
+    ],
+    "heroSubtitles": [
+      "Need wedding drone coverage or inspection and survey shots? {brand} sets out the scope and the cost first, then delivers in clear stages.",
+      "Looking for help with drone photography? {brand} starts with a short brief, shows you the plan and works with your feedback.",
+      "From wedding drone coverage to real estate aerials, {brand} keeps each project simple: a brief, a draft you can react to and a finish you approve."
+    ],
+    "button": "Book A Drone Shoot",
+    "featureTitle": "What Drone Photography Covers Here",
+    "features": [
+      {
+        "title": "Wedding Drone Coverage",
+        "text": "For wedding drone coverage, we work in clear stages and check each one with you."
+      },
+      {
+        "title": "Real Estate Aerials",
+        "text": "Real Estate Aerials delivered in the format you need, with a final review before handover."
+      },
+      {
+        "title": "Construction Progress",
+        "text": "Questions about construction progress? Message us and we will walk you through the process."
+      },
+      {
+        "title": "Event And Festival Videos",
+        "text": "We start event and festival videos with a short brief, so the scope, timing and cost are clear from day one."
+      },
+      {
+        "title": "Inspection And Survey Shots",
+        "text": "Inspection And Survey Shots shaped around your idea, with a draft you can comment on before it is final."
+      },
+      {
+        "title": "Editing And Delivery",
+        "text": "Ask about editing and delivery; we explain the options, show examples and agree what is included."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First consultation"
+      },
+      {
+        "value": "Clear",
+        "label": "Scope and timeline"
+      },
+      {
+        "value": "Written",
+        "label": "Quote before work"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Share Your Brief",
+          "text": "Tell us about your drone photography idea, the purpose and any references you like."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We outline the scope for wedding drone coverage, the timeline and the cost, and confirm them with you."
+        },
+        {
+          "title": "Review The Draft",
+          "text": "You see the first version of the real estate aerials work and tell us what to change."
+        },
+        {
+          "title": "Approve And Deliver",
+          "text": "We finalise construction progress, hand it over in the format you need and stay available for questions."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What do you need from me for construction progress?",
+        "a": "A clear idea of the purpose, any references and the date you need it; we will ask for the rest. The same approach applies to wedding drone coverage and editing and delivery."
+      },
+      {
+        "q": "Can I ask for changes during drone photography work?",
+        "a": "Yes. Feedback is part of the process and we tell you upfront how revisions are handled. This applies to wedding drone coverage, real estate aerials and the rest of our drone photography work."
+      },
+      {
+        "q": "What formats do you deliver wedding drone coverage in?",
+        "a": "Tell us where it will be used and we will deliver in the formats that suit that purpose. It is the same for real estate aerials as it is for wedding drone coverage."
+      },
+      {
+        "q": "Do you take small drone photography jobs?",
+        "a": "Yes. Small projects follow the same clear steps, with a quote and a plan first. That goes for construction progress and event and festival videos too."
+      },
+      {
+        "q": "How long does event and festival videos take?",
+        "a": "It depends on the scope; we give a timeline with the quote and update you if anything changes. Ask us about inspection and survey shots or editing and delivery and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Start Your Drone Photography Project?",
+      "button": "Book A Drone Shoot"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a small team for drone photography. We start with your brief, agree the plan and keep you in the loop until you approve the result.",
+        "We handle wedding drone coverage, real estate aerials and construction progress, and we are happy to talk through your idea before you commit to anything."
+      ],
+      "points": [
+        "Clear Scope And Cost",
+        "Feedback Welcome",
+        "Friendly Team"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Drone Photography",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$60",
+          "period": "/shoot",
+          "perks": [
+            "Wedding Drone Coverage Only",
+            "Written Quote First",
+            "One Round Of Feedback"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$150",
+          "period": "/event",
+          "perks": [
+            "Wedding Drone Coverage And Real Estate Aerials",
+            "Two Rounds Of Feedback",
+            "Priority Scheduling"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$400",
+          "period": "/project",
+          "perks": [
+            "Wedding Drone Coverage Plus Real Estate Aerials And Construction Progress",
+            "Extended Feedback",
+            "Handover Support"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Drone Photography Work",
+      "captions": [
+        "Wedding Drone Coverage",
+        "Real Estate Aerials",
+        "Construction Progress",
+        "Event And Festival Videos",
+        "Inspection And Survey Shots",
+        "Editing And Delivery"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Drone Photography Lead",
+        "Wedding Drone Coverage Specialist",
+        "Drone Photography Client Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Clear quote for real estate aerials, with feedback built into the plan.",
+        "role": "Customer"
+      },
+      {
+        "quote": "The process for construction progress was explained simply and kept to the timeline we agreed.",
+        "role": "Family client"
+      },
+      {
+        "quote": "Friendly team, and the drone photography work matched what we discussed.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "Drone Photography Notes And Guides",
+      "posts": [
+        {
+          "tag": "Cost",
+          "title": "What Affects The Cost Of Wedding Drone Coverage"
+        },
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask Before Real Estate Aerials"
+        },
+        {
+          "tag": "Planning",
+          "title": "Getting Ready For Construction Progress"
+        }
+      ]
+    },
+    "marquee": [
+      "Wedding Drone",
+      "Real Estate",
+      "Construction",
+      "Festival Videos",
+      "Survey Shots",
+      "Clear Scope",
+      "Open Feedback",
+      "Plain Quotes"
+    ],
+    "contactText": "Tell {brand} about your idea: wedding drone coverage, construction progress or something close. We will answer with a plan and an honest quote."
+  },
+  {
+    "id": "wedding_dj_sound",
+    "label": "Wedding DJ and sound",
+    "theme": "events_wedding",
+    "keywords": [
+      "wedding dj",
+      "dj on rent",
+      "dj sound system",
+      "dj for party",
+      "sound system rental",
+      "dj booking",
+      "sangeet dj",
+      "डीजे",
+      "वेडिंग डीजे"
+    ],
+    "heroTitles": [
+      "Calm Planning For Wedding And Sangeet DJ",
+      "Wedding DJ And Sound Without The Stress",
+      "Details Handled For Wedding And Sangeet DJ"
+    ],
+    "heroSubtitles": [
+      "Planning an event? {brand} offers wedding DJ and sound with clear steps, a written quote and a team that listens.",
+      "From wedding and sangeet DJ to baraat sound setup, {brand} keeps your event organised, with updates at each stage.",
+      "{brand} provides wedding and sangeet DJ and lights and dance floor. Tell us the date, the guest numbers and the mood you want."
+    ],
+    "button": "Check DJ Dates",
+    "featureTitle": "Wedding DJ And Sound Services We Offer",
+    "features": [
+      {
+        "title": "Wedding And Sangeet DJ",
+        "text": "Questions about wedding and sangeet DJ? Message us and we will walk you through it."
+      },
+      {
+        "title": "Baraat Sound Setup",
+        "text": "We plan baraat sound setup around your date and guest numbers, with the cost explained first."
+      },
+      {
+        "title": "Speakers And Mixers",
+        "text": "Speakers And Mixers arranged with care, with a clear checklist and updates before the day."
+      },
+      {
+        "title": "Lights And Dance Floor",
+        "text": "Ask about lights and dance floor; we describe the options, show examples and agree what is included."
+      },
+      {
+        "title": "Mics And Stage Audio",
+        "text": "For mics and stage audio, we listen to your ideas and then suggest a simple, workable plan."
+      },
+      {
+        "title": "Corporate And Birthday Gigs",
+        "text": "Corporate And Birthday Gigs coordinated with the rest of your event, so nothing is left to chance."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First planning call"
+      },
+      {
+        "value": "Written",
+        "label": "Quote before booking"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      }
+    ],
+    "steps": {
+      "title": "How We Plan Your Event",
+      "items": [
+        {
+          "title": "Share Your Date",
+          "text": "Tell us the date, the guest numbers and your ideas for the wedding DJ and sound plan."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We outline wedding and sangeet DJ, the timings and the cost, and confirm them with you."
+        },
+        {
+          "title": "Prepare Together",
+          "text": "We organise baraat sound setup and send updates, so you always know where things stand."
+        },
+        {
+          "title": "Enjoy The Day",
+          "text": "Our team looks after speakers and mixers on the day, so you can enjoy it."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Do you visit the venue for speakers and mixers?",
+        "a": "Ask us when you book; we will tell you plainly what site visits are possible. This applies to wedding and sangeet DJ, baraat sound setup and the rest of our wedding DJ and sound work."
+      },
+      {
+        "q": "Can I change plans for wedding and sangeet DJ?",
+        "a": "Yes. Tell us early and we will explain what can change and how it affects the plan. It is the same for baraat sound setup as it is for wedding and sangeet DJ."
+      },
+      {
+        "q": "What do you need from me for lights and dance floor?",
+        "a": "The date, the guest numbers, the place and a few ideas; we will ask for anything else. That goes for speakers and mixers and lights and dance floor too."
+      },
+      {
+        "q": "Do you handle small wedding DJ and sound events?",
+        "a": "Yes. Small and large events get the same clear planning and the same care. Ask us about mics and stage audio or corporate and birthday gigs and the answer is the same."
+      },
+      {
+        "q": "How do I get updates on mics and stage audio?",
+        "a": "We agree how you prefer to be updated and keep to it until the day. The same approach applies to wedding and sangeet DJ and corporate and birthday gigs."
+      }
+    ],
+    "cta": {
+      "title": "Need Help With Wedding And Sangeet DJ?",
+      "button": "Check DJ Dates"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good wedding DJ and sound begins with a calm conversation. You hear the plan and the cost first, and the preparation follows.",
+        "Our work includes wedding and sangeet DJ and baraat sound setup. Ask about lights and dance floor or mics and stage audio too and we will say plainly what is possible."
+      ],
+      "points": [
+        "Clear Checklist",
+        "Quote Before Booking",
+        "Calm Planning"
+      ]
+    },
+    "pricing": {
+      "title": "Wedding DJ And Sound Price Guide",
+      "plans": [
+        {
+          "name": "Essentials",
+          "price": "$150",
+          "period": "/event",
+          "perks": [
+            "Wedding And Sangeet DJ Only",
+            "Written Quote First",
+            "Planning Call"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$350",
+          "period": "/wedding night",
+          "perks": [
+            "Wedding And Sangeet DJ And Baraat Sound Setup",
+            "Checklist And Updates",
+            "Priority Scheduling"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$700",
+          "period": "/full weekend",
+          "perks": [
+            "Wedding And Sangeet DJ Plus Baraat Sound Setup And Speakers And Mixers",
+            "Team On The Day",
+            "Extended Support"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Wedding DJ And Sound Moments",
+      "captions": [
+        "Wedding And Sangeet DJ",
+        "Baraat Sound Setup",
+        "Speakers And Mixers",
+        "Lights And Dance Floor",
+        "Mics And Stage Audio",
+        "Corporate And Birthday Gigs"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Wedding DJ And Sound Coordinator",
+        "Wedding And Sangeet DJ Lead",
+        "Client Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Clear steps for baraat sound setup, with updates before the day.",
+        "role": "Family host"
+      },
+      {
+        "quote": "Calm and organised about speakers and mixers, which made planning easier.",
+        "role": "Host"
+      },
+      {
+        "quote": "Friendly team, and the wedding DJ and sound plan matched what we discussed.",
+        "role": "Host"
+      }
+    ],
+    "blog": {
+      "title": "From The Wedding DJ And Sound Desk",
+      "posts": [
+        {
+          "tag": "Ideas",
+          "title": "Fresh Ideas For Lights And Dance Floor"
+        },
+        {
+          "tag": "Timing",
+          "title": "When To Book Mics And Stage Audio"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Corporate And Birthday Gigs"
+        }
+      ]
+    },
+    "marquee": [
+      "Sangeet DJ",
+      "Baraat Sound",
+      "Speakers",
+      "Dance Floor",
+      "Stage Audio",
+      "Clear Checklist",
+      "Calm Planning",
+      "Local Team"
+    ],
+    "contactText": "Tell {brand} about your event: wedding and sangeet DJ, speakers and mixers or something close. We will answer with a plan and an honest quote."
+  },
+  {
+    "id": "event_decor_planner",
+    "label": "Event decor and planning",
+    "theme": "events_wedding",
+    "keywords": [
+      "event decorator",
+      "wedding decorator",
+      "event planner",
+      "wedding planner",
+      "stage decoration",
+      "mandap decoration",
+      "birthday decoration",
+      "इवेंट डेकोरेटर",
+      "शादी की सजावट"
+    ],
+    "heroTitles": [
+      "Event Decor And Planning For Your Big Day",
+      "Event Decor And Planning Planned Around You",
+      "Calm Planning For Mandap And Stage Decor"
+    ],
+    "heroSubtitles": [
+      "Planning an event? {brand} offers event decor and planning with clear steps, a written quote and a team that listens.",
+      "From mandap and stage decor to theme mood boards, {brand} keeps your event organised, with updates at each stage.",
+      "{brand} provides mandap and stage decor and lighting and ambience. Tell us the date, the guest numbers and the mood you want."
+    ],
+    "button": "Plan Your Event",
+    "featureTitle": "Our Event Decor And Planning Services",
+    "features": [
+      {
+        "title": "Mandap And Stage Decor",
+        "text": "We plan mandap and stage decor around your date and guest numbers, with the cost explained first."
+      },
+      {
+        "title": "Theme Mood Boards",
+        "text": "Theme Mood Boards arranged with care, with a clear checklist and updates before the day."
+      },
+      {
+        "title": "Entrance And Photo Corners",
+        "text": "Ask about entrance and photo corners; we describe the options, show examples and agree what is included."
+      },
+      {
+        "title": "Lighting And Ambience",
+        "text": "For lighting and ambience, we listen to your ideas and then suggest a simple, workable plan."
+      },
+      {
+        "title": "Birthday And Baby Showers",
+        "text": "Birthday And Baby Showers coordinated with the rest of your event, so nothing is left to chance."
+      },
+      {
+        "title": "Vendor Coordination",
+        "text": "Questions about vendor coordination? Message us and we will walk you through it."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Checklist for events"
+      },
+      {
+        "value": "Calm",
+        "label": "Planning, no stress"
+      },
+      {
+        "value": "Local",
+        "label": "Team on the day"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Share Your Date",
+          "text": "Tell us the date, the guest numbers and your ideas for the event decor and planning plan."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We outline mandap and stage decor, the timings and the cost, and confirm them with you."
+        },
+        {
+          "title": "Prepare Together",
+          "text": "We organise theme mood boards and send updates, so you always know where things stand."
+        },
+        {
+          "title": "Enjoy The Day",
+          "text": "Our team looks after entrance and photo corners on the day, so you can enjoy it."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I book mandap and stage decor?",
+        "a": "Message or call with your date and a few details, and we will reply with availability and a quote. The same approach applies to mandap and stage decor and vendor coordination."
+      },
+      {
+        "q": "Can you work to my budget for theme mood boards?",
+        "a": "Tell us your budget and we will suggest what fits and be honest about what does not. This applies to mandap and stage decor, theme mood boards and the rest of our event decor and planning work."
+      },
+      {
+        "q": "How early should I plan event decor and planning?",
+        "a": "As early as you can; share your date and we will say what is possible. It is the same for theme mood boards as it is for mandap and stage decor."
+      },
+      {
+        "q": "Do you visit the venue for entrance and photo corners?",
+        "a": "Ask us when you book; we will tell you plainly what site visits are possible. That goes for entrance and photo corners and lighting and ambience too."
+      },
+      {
+        "q": "Can I change plans for mandap and stage decor?",
+        "a": "Yes. Tell us early and we will explain what can change and how it affects the plan. Ask us about birthday and baby showers or vendor coordination and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Need Help With Mandap And Stage Decor?",
+      "button": "Plan Your Event"
+    },
+    "about": {
+      "title": "About Our Event Decor And Planning Team",
+      "paragraphs": [
+        "{brand} is a local team for event decor and planning. We listen to your ideas, agree a clear plan and handle the details so you can enjoy the day.",
+        "We handle mandap and stage decor, theme mood boards and entrance and photo corners, and we are glad to talk through your ideas before you decide."
+      ],
+      "points": [
+        "Updates At Each Stage",
+        "Friendly Team",
+        "Honest Advice"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Event Decor And Planning",
+      "plans": [
+        {
+          "name": "Essentials",
+          "price": "$150",
+          "period": "/event",
+          "perks": [
+            "Mandap And Stage Decor Only",
+            "Written Quote First",
+            "Planning Call"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$500",
+          "period": "/wedding",
+          "perks": [
+            "Mandap And Stage Decor And Theme Mood Boards",
+            "Checklist And Updates",
+            "Priority Scheduling"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$1500",
+          "period": "/destination wedding",
+          "perks": [
+            "Mandap And Stage Decor Plus Theme Mood Boards And Entrance And Photo Corners",
+            "Team On The Day",
+            "Extended Support"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Event Decor And Planning Work",
+      "captions": [
+        "Mandap And Stage Decor",
+        "Theme Mood Boards",
+        "Entrance And Photo Corners",
+        "Lighting And Ambience",
+        "Birthday And Baby Showers",
+        "Vendor Coordination"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Event Decor And Planning Coordinator",
+        "Mandap And Stage Decor Lead",
+        "Client Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "They planned mandap and stage decor around our date and explained the cost first.",
+        "role": "Host"
+      },
+      {
+        "quote": "Clear steps for theme mood boards, with updates before the day.",
+        "role": "Family host"
+      },
+      {
+        "quote": "Calm and organised about entrance and photo corners, which made planning easier.",
+        "role": "Host"
+      }
+    ],
+    "blog": {
+      "title": "Event Decor And Planning Ideas And Guides",
+      "posts": [
+        {
+          "tag": "Timing",
+          "title": "When To Book Birthday And Baby Showers"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Vendor Coordination"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Plan Mandap And Stage Decor"
+        }
+      ]
+    },
+    "marquee": [
+      "Stage Decor",
+      "Theme Mood",
+      "Photo Corners",
+      "Lighting",
+      "Baby Showers",
+      "Clear Checklist",
+      "Calm Planning",
+      "Local Team"
+    ],
+    "contactText": "Message {brand} with your date to talk about mandap and stage decor or theme mood boards. We reply with availability and a clear quote."
+  },
+  {
+    "id": "bridal_makeup",
+    "label": "Bridal makeup",
+    "theme": "beauty_wellness",
+    "keywords": [
+      "bridal makeup",
+      "bridal makeup artist",
+      "wedding makeup",
+      "party makeup",
+      "hd makeup",
+      "airbrush makeup",
+      "engagement makeup",
+      "ब्राइडल मेकअप",
+      "दुल्हन का मेकअप"
+    ],
+    "heroTitles": [
+      "Bridal Makeup Planned Around You",
+      "Feel Good With Bridal Makeup",
+      "Bridal Makeup In A Friendly Space"
+    ],
+    "heroSubtitles": [
+      "Want bridal trial session or family and guest makeup? {brand} will explain the options, the time needed and what to bring.",
+      "Looking for help with bridal makeup? {brand} keeps it relaxed: a warm welcome, a clear plan and a session that fits your day.",
+      "From bridal trial session to HD and airbrush makeup, {brand} helps you feel looked after, with time to talk through what you want."
+    ],
+    "button": "Book A Trial Look",
+    "featureTitle": "Bridal Makeup Sessions We Offer",
+    "features": [
+      {
+        "title": "Bridal Trial Session",
+        "text": "Bridal Trial Session booked at a time that works for you, in a friendly space and without any rush."
+      },
+      {
+        "title": "HD And Airbrush Makeup",
+        "text": "Ask about HD and airbrush makeup; we explain the options simply and let you choose."
+      },
+      {
+        "title": "Hairstyling And Draping",
+        "text": "For hairstyling and draping, we listen to your preferences and plan the session around them."
+      },
+      {
+        "title": "Function-Wise Looks",
+        "text": "Function-Wise Looks delivered with care, with tips on how to keep the results going."
+      },
+      {
+        "title": "Family And Guest Makeup",
+        "text": "Questions about family and guest makeup? Message us and we will answer before you book."
+      },
+      {
+        "title": "Skin Prep And Touch-Up Kit",
+        "text": "We talk through skin prep and touch-up kit first, so the session matches what you want and what suits you."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Booked",
+        "label": "Time that suits you"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Friendly",
+        "label": "Welcome for everyone"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Pick A Time",
+          "text": "Message or call to book your bridal makeup session and tell us what you would like."
+        },
+        {
+          "title": "Talk It Through",
+          "text": "We discuss bridal trial session with you, so the plan matches your preferences."
+        },
+        {
+          "title": "Enjoy The Session",
+          "text": "Relax while we take care of HD and airbrush makeup, with time for your questions."
+        },
+        {
+          "title": "Keep It Going",
+          "text": "We share simple tips for hairstyling and draping and help you plan the next session."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I change my time for hairstyling and draping?",
+        "a": "Yes. Tell us as early as you can and we will offer the nearest free slot. The same approach applies to bridal trial session and skin prep and touch-up kit."
+      },
+      {
+        "q": "Is bridal trial session suitable for beginners?",
+        "a": "Yes. Tell us your level and we will adjust the session to suit you. This applies to bridal trial session, HD and airbrush makeup and the rest of our bridal makeup work."
+      },
+      {
+        "q": "How do I prepare for function-wise looks?",
+        "a": "We tell you when you book, so you arrive knowing what to expect. It is the same for HD and airbrush makeup as it is for bridal trial session."
+      },
+      {
+        "q": "Do you plan bridal makeup sessions around my needs?",
+        "a": "Yes. We listen first and shape the session around what you want and how you feel. That goes for hairstyling and draping and function-wise looks too."
+      },
+      {
+        "q": "Can I bring a friend to family and guest makeup?",
+        "a": "Tell us when you book and we will make room, where the session allows. Ask us about family and guest makeup or skin prep and touch-up kit and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Want To Try HD And Airbrush Makeup?",
+      "button": "Book A Trial Look"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a friendly bridal makeup space. We listen first, plan the session around you and keep things relaxed from start to finish.",
+        "We offer bridal trial session, HD and airbrush makeup and hairstyling and draping, and we are happy to talk through your preferences before you decide."
+      ],
+      "points": [
+        "Plain Advice",
+        "Friendly Team",
+        "Booking That Fits"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Bridal Makeup",
+      "plans": [
+        {
+          "name": "Single Session",
+          "price": "$40",
+          "period": "/party makeup",
+          "perks": [
+            "Bridal Trial Session Session",
+            "Time You Choose",
+            "Tips To Take Home"
+          ]
+        },
+        {
+          "name": "Regular Sessions",
+          "price": "$120",
+          "period": "/bridal makeup",
+          "perks": [
+            "Bridal Trial Session And HD And Airbrush Makeup",
+            "Flexible Timing",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Programme",
+          "price": "$300",
+          "period": "/full bridal package",
+          "perks": [
+            "Bridal Trial Session Plus HD And Airbrush Makeup And Hairstyling And Draping",
+            "Extended Support",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Our Bridal Makeup Space",
+      "captions": [
+        "Bridal Trial Session",
+        "HD And Airbrush Makeup",
+        "Hairstyling And Draping",
+        "Function-Wise Looks",
+        "Family And Guest Makeup",
+        "Skin Prep And Touch-Up"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Bridal Makeup Specialist",
+        "Bridal Trial Session Expert",
+        "Welcome Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Quick reply about function-wise looks and a time that suited me.",
+        "role": "Customer"
+      },
+      {
+        "quote": "The bridal trial session session felt relaxed and exactly what I asked for.",
+        "role": "Regular guest"
+      },
+      {
+        "quote": "Easy to book HD and airbrush makeup, and the team listened to what I wanted.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "Bridal Makeup Tips And Ideas",
+      "posts": [
+        {
+          "tag": "Prepare",
+          "title": "How To Prepare For HD And Airbrush Makeup"
+        },
+        {
+          "tag": "Care",
+          "title": "Looking After Yourself After Hairstyling And Draping"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Simple Ways To Enjoy Function-Wise Looks"
+        }
+      ]
+    },
+    "marquee": [
+      "Bridal Trial",
+      "Airbrush Makeup",
+      "Hairstyling",
+      "Function-Wise",
+      "Guest Makeup",
+      "Warm Welcome",
+      "Easy Booking",
+      "Plain Advice"
+    ],
+    "contactText": "Tell {brand} what you would like: bridal trial session, hairstyling and draping or something close. We will answer with options and a time."
+  }
+]

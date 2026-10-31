@@ -1,0 +1,185 @@
+{
+  "brand": "Business, Mars",
+  "niche": "pro",
+  "kind": "pro",
+  "profile": "",
+  "business_type": "general",
+  "type_label": "Business",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "calm",
+  "keywords": [
+    "teleportation",
+    "booth",
+    "city"
+  ],
+  "eyebrow": "Business · Mars",
+  "location": "Mars",
+  "audience": "",
+  "hero_heading": "Teleportation booth and city in Mars",
+  "tagline": "Book a consultation and tell us what you need.",
+  "about_title": "About us",
+  "about": [
+    "On the list: teleportation booth and city. We advise on them in Mars. Plain words, not jargon.",
+    "You'll find us in Mars. Message us a few notes and we will reply."
+  ],
+  "features_title": "How we can help",
+  "features": [
+    {
+      "title": "Teleportation Booth",
+      "text": "Feel free to ask us about teleportation booth; we'll explain the steps in plain words."
+    },
+    {
+      "title": "City",
+      "text": "Not sure how city works? Ask, and we'll walk you through it."
+    },
+    {
+      "title": "Expert Advice",
+      "text": "Ask your questions and get a straight answer."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Local and personal",
+      "text": "Run by people you can talk to."
+    },
+    {
+      "title": "Easy to reach",
+      "text": "Message or call."
+    },
+    {
+      "title": "Handled by people who know it",
+      "text": "Your matter, not a template."
+    }
+  ],
+  "stats_title": "Quick facts",
+  "stats": [
+    {
+      "value": "Mars",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "From first message to finish",
+  "steps": [
+    {
+      "title": "Get in touch",
+      "text": "Send a message or call and let us know what you need."
+    },
+    {
+      "title": "Understand your options",
+      "text": "Plain words, with the pros and cons."
+    },
+    {
+      "title": "We take it forward",
+      "text": "We handle the work and keep you informed."
+    }
+  ],
+  "faq_title": "Questions we get asked",
+  "faq": [
+    {
+      "q": "Where are you based?",
+      "a": "We're in Mars; reach out."
+    },
+    {
+      "q": "Can you help with teleportation booth?",
+      "a": "Yes; ask us about teleportation booth."
+    },
+    {
+      "q": "Do you reply to messages?",
+      "a": "Yes; use the contact information on this page and we'll reply."
+    },
+    {
+      "q": "What if I'm not sure what I need?",
+      "a": "Tell us what you're trying to achieve and we'll point you in the right direction."
+    }
+  ],
+  "blog_title": "Our notes",
+  "blog": [
+    {
+      "title": "How long things really take",
+      "excerpt": "Setting expectations on both sides."
+    },
+    {
+      "title": "Why local matters",
+      "excerpt": "A few reasons to choose someone nearby."
+    },
+    {
+      "title": "City vs teleportation booth: how to think about it",
+      "excerpt": "A plain comparison."
+    }
+  ],
+  "contact": {
+    "place": "Mars"
+  },
+  "cta_primary": "Book a consultation",
+  "cta_secondary": "Call the office",
+  "cta_text": "Start with city.",
+  "cta_title": "Ready when you are",
+  "footer": "© Business, Mars. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Mars",
+      "source": "prompt"
+    },
+    "services": {
+      "value": [
+        "teleportation booth",
+        "city"
+      ],
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "not recognised",
+    "items_from_prompt": [
+      "teleportation booth",
+      "city"
+    ],
+    "place": "Mars",
+    "mode": "strict (your phrases only)",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "pro"
+  },
+  "needs_review": [
+    "Business type was not recognised, so the copy is general. Add the type (e.g. 'dental clinic') or list your services.",
+    "No business name was given, so the heading is 'Business, Mars' (not a name). Add your business name to replace it.",
+    "Only 2 service(s) were given, so neutral service names were added. List 3 or more of your own services for a better page.",
+    "No picture style fits this kind of business (no picture niche for business type 'general'): the pictures are a neutral abstract in the brand colour, not a wrong scene."
+  ]
+}

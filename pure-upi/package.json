@@ -1,0 +1,64 @@
+{
+  "name": "pure-upi",
+  "version": "0.1.0",
+  "description": "Zero-dependency UPI payments for your own website: upi:// links, built-in QR code generator, orders with unique amounts, UTR verification and an Express-ready handler",
+  "author": "ayushmishra950",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushmishra950/multiple-tools.git",
+    "directory": "pure-upi"
+  },
+  "homepage": "https://github.com/ayushmishra950/multiple-tools/tree/main/pure-upi#readme",
+  "bugs": {
+    "url": "https://github.com/ayushmishra950/multiple-tools/issues"
+  },
+  "type": "module",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "default": "./src/index.js"
+    },
+    "./client": {
+      "types": "./src/client.d.ts",
+      "default": "./src/client.js"
+    },
+    "./qr": {
+      "types": "./src/qr.d.ts",
+      "default": "./src/qr.js"
+    },
+    "./link": {
+      "types": "./src/link.d.ts",
+      "default": "./src/link.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "src",
+    "examples",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "scripts": {
+    "test": "node --test",
+    "example": "node examples/server.js",
+    "prepublishOnly": "npm test"
+  },
+  "keywords": [
+    "upi",
+    "upi-payment",
+    "upi-qr",
+    "qrcode",
+    "payments",
+    "india",
+    "bhim",
+    "zero-dependency"
+  ]
+}

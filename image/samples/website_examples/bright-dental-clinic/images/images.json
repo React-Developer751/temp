@@ -1,0 +1,106 @@
+{
+  "niche": "dental",
+  "requested_niche": "dental",
+  "fallback": false,
+  "reason": "sub-niche dental",
+  "mood": "cool",
+  "accent": "#17a1a5",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Bright Dental Clinic Dental Clinic pune braces implants Braces Implants Fillings Dentures Cleanings",
+    "niche": "dental",
+    "title": "Dental clinic",
+    "fallback": false,
+    "mood": "cool",
+    "accent": "#17a1a5",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 16,
+    "palette_family": 0.953,
+    "text_zone": "left",
+    "hero_contrast": 5.02,
+    "seconds": 6.84,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.953
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 34987,
+      "alt": "Illustration for Bright Dental Clinic: Dental clinic",
+      "text_color": "#0d0d14",
+      "contrast": 5.02,
+      "role": "hero",
+      "seed": 2
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 22253,
+      "alt": "About Bright Dental Clinic: Dental clinic",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1015
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 19086,
+        "alt": "Bright Dental Clinic gallery picture: Dental clinic",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2028
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 14364,
+        "alt": "Bright Dental Clinic gallery picture: Dental clinic",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3041
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 17321,
+        "alt": "Bright Dental Clinic gallery picture: Dental clinic",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4054
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 17231,
+        "alt": "Bright Dental Clinic gallery picture: Dental clinic",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5067
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "brand": "Fresh Optical Store",
+  "niche": "store",
+  "kind": "retail",
+  "profile": "",
+  "business_type": "optical",
+  "type_label": "Optical Store",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "cool",
+  "keywords": [
+    "lucknow"
+  ],
+  "eyebrow": "Optical Store · Lucknow",
+  "location": "Lucknow",
+  "audience": "",
+  "hero_heading": "Optical Store in Lucknow",
+  "tagline": "Questions about sizes, models or options are welcome.",
+  "about_title": "About us",
+  "about": [
+    "Take your time looking around.",
+    "You'll find us in Lucknow. Tell us the occasion and we will suggest something."
+  ],
+  "features_title": "What you'll find",
+  "features": [
+    {
+      "title": "Contact Lenses",
+      "text": "Contact Lenses is easier to choose with a person to ask."
+    },
+    {
+      "title": "Eyeglasses",
+      "text": "Not sure which Eyeglasses to pick? Describe how you'll use it."
+    },
+    {
+      "title": "Lenses",
+      "text": "Compare Lenses side by side, in person or over a message."
+    },
+    {
+      "title": "Frames",
+      "text": "Frames: ask for details before you decide."
+    },
+    {
+      "title": "Eye Tests",
+      "text": "Not sure about Eye Tests? Start with a short conversation."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Compare in person",
+      "text": "See and handle before you make up your mind."
+    },
+    {
+      "title": "Picked with care",
+      "text": "A range chosen for use, not for shelf space."
+    },
+    {
+      "title": "Easy to reach",
+      "text": "Message us or visit."
+    }
+  ],
+  "stats_title": "Find us",
+  "stats": [
+    {
+      "value": "Lucknow",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "Three simple steps",
+  "steps": [
+    {
+      "title": "Look around",
+      "text": "Start with."
+    },
+    {
+      "title": "We talk it through",
+      "text": "We explain the options in plain words."
+    },
+    {
+      "title": "Take it home",
+      "text": "Message us to ask about stock, and we will confirm how to receive it."
+    }
+  ],
+  "faq_title": "Frequently asked questions",
+  "faq": [
+    {
+      "q": "Is cash on delivery available?",
+      "a": "Ask us about payment options for your order."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Lucknow; get in touch for directions."
+    },
+    {
+      "q": "Can I change my plans?",
+      "a": "Let us know as early as you can and we will look at what's possible."
+    },
+    {
+      "q": "What if I'm not sure what I need?",
+      "a": "Describe the situation and we'll suggest where to start."
+    }
+  ],
+  "blog_title": "From the journal",
+  "blog": [
+    {
+      "title": "Reading the small print",
+      "excerpt": "Where to look and what to ask."
+    },
+    {
+      "title": "Shopping on a budget",
+      "excerpt": "Where to spend and where to save."
+    },
+    {
+      "title": "How to choose a good optical store",
+      "excerpt": "Five questions worth asking before you decide."
+    }
+  ],
+  "contact": {
+    "place": "Lucknow"
+  },
+  "cta_primary": "Shop now",
+  "cta_secondary": "Visit the store",
+  "cta_text": "Shop now, and feel free to ask us anything.",
+  "cta_title": "Say hello",
+  "footer": "© Fresh Optical Store. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Lucknow",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "optical (confidence high)",
+    "items_from_prompt": [],
+    "place": "Lucknow",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "retail"
+  },
+  "needs_review": [
+    "No business name was given; 'Fresh Optical Store' is a placeholder.",
+    "Typical optical store offerings were used for: Contact Lenses, Eyeglasses, Lenses, Frames, Eye Tests. List your real services (3 or more) to replace them."
+  ]
+}

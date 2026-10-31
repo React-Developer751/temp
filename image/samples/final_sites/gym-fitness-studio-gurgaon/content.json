@@ -1,0 +1,176 @@
+{
+  "brand": "Gym & Fitness Studio, Gurgaon",
+  "niche": "fitness",
+  "kind": "fitness",
+  "profile": "",
+  "business_type": "gym",
+  "type_label": "Gym & Fitness Studio",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "bold",
+  "keywords": [
+    "fitness"
+  ],
+  "eyebrow": "Gym & Fitness Studio · Gurgaon",
+  "location": "Gurgaon",
+  "audience": "",
+  "hero_heading": "Gym & Fitness Studio in Gurgaon",
+  "tagline": "Coaches watch your form, not the clock.",
+  "about_title": "About us",
+  "about": [
+    "Tell us what matters most to you.",
+    "You will find us in Gurgaon. Tell us what suits you and we will confirm."
+  ],
+  "features_title": "Sessions",
+  "features": [
+    {
+      "title": "Group Classes",
+      "text": "Group classes is coached from the first rep to the last; ask which level suits you."
+    },
+    {
+      "title": "Personal Training",
+      "text": "Feel free to ask us how Personal training works and what to expect."
+    },
+    {
+      "title": "Strength Training",
+      "text": "Strength training: show up, follow the coach, and track your progress."
+    },
+    {
+      "title": "Cardio",
+      "text": "Cardio is for every level; the coach adjusts as you go."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Plans, not guesses",
+      "text": "Know what you're doing each day."
+    },
+    {
+      "title": "A real person replies",
+      "text": "Not a form that goes nowhere."
+    },
+    {
+      "title": "Questions welcome",
+      "text": "Big or small."
+    }
+  ],
+  "stats_title": "At a glance",
+  "stats": [
+    {
+      "value": "Gurgaon",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "Getting started",
+  "steps": [
+    {
+      "title": "Try a class",
+      "text": "Ask about a trial and pick a time."
+    },
+    {
+      "title": "Meet your coach",
+      "text": "We'll talk about your level, your history and any injuries."
+    },
+    {
+      "title": "Get started",
+      "text": "We begin when you're ready."
+    }
+  ],
+  "faq_title": "Frequently asked questions",
+  "faq": [
+    {
+      "q": "What should I wear and bring?",
+      "a": "Wear what you can move in; bring water."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Gurgaon; reach out for directions."
+    },
+    {
+      "q": "Is there anything I should prepare?",
+      "a": "Ask us and we'll tell you what to have ready."
+    },
+    {
+      "q": "What if I'm not sure what I need?",
+      "a": "Let us know what you're trying to achieve and we'll point you in the right direction."
+    }
+  ],
+  "blog_title": "Notes and guides",
+  "blog": [
+    {
+      "title": "Keeping track of your plans",
+      "excerpt": "A simple way to stay organised."
+    },
+    {
+      "title": "Reading the small print",
+      "excerpt": "Where to look and what to ask."
+    },
+    {
+      "title": "Why local matters",
+      "excerpt": "A few reasons to choose someone nearby."
+    }
+  ],
+  "contact": {
+    "place": "Gurgaon"
+  },
+  "cta_primary": "Start a free trial",
+  "cta_secondary": "Book a session",
+  "cta_text": "Start a free trial; we'll plan the rest.",
+  "cta_title": "Say hello",
+  "footer": "© Gym & Fitness Studio, Gurgaon. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Gurgaon",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "gym (confidence high)",
+    "items_from_prompt": [],
+    "place": "Gurgaon",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "fitness"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Gym & Fitness Studio, Gurgaon' (not a name). Add your business name to replace it.",
+    "Typical gym & fitness studio offerings were used for: Group classes, Personal training, Strength training, Cardio. List your real services (3 or more) to replace them."
+  ]
+}

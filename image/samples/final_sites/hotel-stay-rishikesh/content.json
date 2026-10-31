@@ -1,0 +1,180 @@
+{
+  "brand": "Hotel & Stay, Rishikesh",
+  "niche": "hosting",
+  "kind": "travel",
+  "profile": "",
+  "business_type": "hotel",
+  "type_label": "Hotel & Stay",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "warm",
+  "keywords": [
+    "hosting"
+  ],
+  "eyebrow": "Hotel & Stay · Rishikesh",
+  "location": "Rishikesh",
+  "audience": "",
+  "hero_heading": "Hotel & Stay in Rishikesh",
+  "tagline": "Every guest is looked after personally.",
+  "about_title": "About us",
+  "about": [
+    "Message first if you prefer.",
+    "You'll find us in Rishikesh. Feel free to ask us anything before you make up your mind."
+  ],
+  "features_title": "What we plan",
+  "features": [
+    {
+      "title": "Offers",
+      "text": "Ask about Offers at the time of booking."
+    },
+    {
+      "title": "Packages",
+      "text": "We'll explain Packages in plain words."
+    },
+    {
+      "title": "Experiences",
+      "text": "Curious about Experiences? Ask us before you arrive."
+    },
+    {
+      "title": "Restaurants",
+      "text": "Restaurants: message us for the details."
+    },
+    {
+      "title": "Stays",
+      "text": "Message us about Stays; we reply to every enquiry."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Look after you",
+      "text": "Someone is always on hand."
+    },
+    {
+      "title": "Questions welcome",
+      "text": "Big or small."
+    },
+    {
+      "title": "Details explained",
+      "text": "Before anything begins."
+    }
+  ],
+  "stats_title": "Find us",
+  "stats": [
+    {
+      "value": "Rishikesh",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "Three simple steps",
+  "steps": [
+    {
+      "title": "Pick your dates",
+      "text": "Let us know when you arrive and when you leave."
+    },
+    {
+      "title": "We confirm",
+      "text": "We reply with what is available."
+    },
+    {
+      "title": "Enjoy your stay",
+      "text": "Rest, explore and ask us for anything you need."
+    }
+  ],
+  "faq_title": "Questions we get asked",
+  "faq": [
+    {
+      "q": "How do I book a room?",
+      "a": "Use the contact information on this page and tell us your dates."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Rishikesh; reach out for directions."
+    },
+    {
+      "q": "Can I change my plans?",
+      "a": "Send us a message and we will explain the options."
+    },
+    {
+      "q": "What if I'm not sure what I need?",
+      "a": "Tell us what you're trying to achieve and we'll point you in the right direction."
+    }
+  ],
+  "blog_title": "Worth reading",
+  "blog": [
+    {
+      "title": "Why we answer every message",
+      "excerpt": "Replies are part of the service."
+    },
+    {
+      "title": "Keeping track of your plans",
+      "excerpt": "A simple way to stay organised."
+    },
+    {
+      "title": "Making the most of your first visit",
+      "excerpt": "A short list to bring with you."
+    }
+  ],
+  "contact": {
+    "place": "Rishikesh"
+  },
+  "cta_primary": "Check availability",
+  "cta_secondary": "See the rooms",
+  "cta_text": "Come and rest.",
+  "cta_title": "Say hello",
+  "footer": "© Hotel & Stay, Rishikesh. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Rishikesh",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "hotel (confidence high)",
+    "items_from_prompt": [],
+    "place": "Rishikesh",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "travel"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Hotel & Stay, Rishikesh' (not a name). Add your business name to replace it.",
+    "Typical hotel & stay offerings were used for: Offers, Packages, Experiences, Restaurants, Stays. List your real services (3 or more) to replace them."
+  ]
+}

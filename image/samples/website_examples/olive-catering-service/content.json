@@ -1,0 +1,181 @@
+{
+  "brand": "Olive Catering Service",
+  "niche": "restaurant",
+  "kind": "food",
+  "profile": "",
+  "business_type": "catering",
+  "type_label": "Catering Service",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "warm",
+  "keywords": [
+    "weddings",
+    "delhi"
+  ],
+  "eyebrow": "Catering Service · Delhi",
+  "location": "Delhi",
+  "audience": "",
+  "hero_heading": "Catering Service in Delhi",
+  "tagline": "Ask the team what they would order.",
+  "about_title": "About us",
+  "about": [
+    "Good food, slowly.",
+    "You'll find us in Delhi. Let us know what you have in mind."
+  ],
+  "features_title": "On the menu",
+  "features": [
+    {
+      "title": "Desserts",
+      "text": "Feel free to ask us how Desserts works and what to expect."
+    },
+    {
+      "title": "Thalis",
+      "text": "Order Thalis for the table, or keep it to yourself."
+    },
+    {
+      "title": "Packages",
+      "text": "Message us about Packages; we reply to every enquiry."
+    },
+    {
+      "title": "Buffets",
+      "text": "Pair Buffets with a side or a drink; the team will suggest."
+    },
+    {
+      "title": "Live Counters",
+      "text": "A good place to start if you like Live Counters."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Clear next steps",
+      "text": "You will know what comes next."
+    },
+    {
+      "title": "Bring a group",
+      "text": "Let us know the numbers and we will plan the table."
+    },
+    {
+      "title": "Ask the team",
+      "text": "They like questions about the menu."
+    }
+  ],
+  "stats_title": "Quick facts",
+  "stats": [
+    {
+      "value": "Delhi",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "Three simple steps",
+  "steps": [
+    {
+      "title": "Get in touch",
+      "text": "Send a message or call and let us know what you need."
+    },
+    {
+      "title": "Order from the menu",
+      "text": "Choose, share, or let us suggest."
+    },
+    {
+      "title": "Sit back and eat",
+      "text": "Good company, no rush, room for dessert."
+    }
+  ],
+  "faq_title": "Good questions",
+  "faq": [
+    {
+      "q": "Do I need to book a table?",
+      "a": "Tell us when you plan to come and we will say what's possible."
+    },
+    {
+      "q": "Do you offer delivery or takeaway?",
+      "a": "Message us your location and what you'd like, and we'll say what we can do."
+    },
+    {
+      "q": "I have an allergy. Can you help?",
+      "a": "Let us know about it before you order and the team will explain what they can do safely."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Delhi; reach out for directions."
+    }
+  ],
+  "blog_title": "Worth reading",
+  "blog": [
+    {
+      "title": "Questions to ask before you book",
+      "excerpt": "Plain answers beat long brochures."
+    },
+    {
+      "title": "What to bring when you get in touch",
+      "excerpt": "A short list that saves a second message."
+    },
+    {
+      "title": "What a good first conversation covers",
+      "excerpt": "And what to expect afterwards."
+    }
+  ],
+  "contact": {
+    "place": "Delhi"
+  },
+  "cta_primary": "Book a table",
+  "cta_secondary": "See the menu",
+  "cta_text": "Come hungry; we will handle the rest.",
+  "cta_title": "Start with a conversation",
+  "footer": "© Olive Catering Service. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Delhi",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "catering (confidence high)",
+    "items_from_prompt": [],
+    "place": "Delhi",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "food"
+  },
+  "needs_review": [
+    "No business name was given; 'Olive Catering Service' is a placeholder.",
+    "Typical catering service offerings were used for: Desserts, Thalis, Packages, Buffets, Live Counters. List your real services (3 or more) to replace them."
+  ]
+}

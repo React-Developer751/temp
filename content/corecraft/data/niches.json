@@ -1,0 +1,6846 @@
+{
+ "source": "spec: corecraft/data/niche_spec.json + corecraft/pack_spec.py (training/build_niches.py)",
+ "general": "general_business",
+ "niches": [
+  {
+   "id": "pest_control",
+   "label": "Pest control",
+   "theme": "home_services",
+   "business_type": "plumber, electrician, cleaning, repair and other home services",
+   "services": [
+    "General Pest Control",
+    "Termite Treatment",
+    "Bed Bug Removal",
+    "Rodent Control",
+    "Mosquito Control",
+    "Pre Construction Treatment"
+   ],
+   "keywords": [
+    "pest control",
+    "termite treatment",
+    "cockroach control",
+    "bed bug treatment",
+    "rodent control",
+    "fumigation",
+    "deemak",
+    "कीट नियंत्रण",
+    "दीमक का इलाज"
+   ],
+   "requests": [
+    "pest control",
+    "pest control",
+    "termite treatment",
+    "cockroach control",
+    "pest control",
+    "pest control"
+   ],
+   "food": false,
+   "family": "home",
+   "mood": "friendly",
+   "prices": [
+    [
+     12,
+     "/visit"
+    ],
+    [
+     35,
+     "/quarter"
+    ],
+    [
+     90,
+     "/year"
+    ]
+   ],
+   "button": "Book A Free Inspection",
+   "team": [
+    "Pest Technician",
+    "Inspection Lead",
+    "Customer Care Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "packers_movers",
+   "label": "Packers and movers",
+   "theme": "home_services",
+   "business_type": "plumber, electrician, cleaning, repair and other home services",
+   "services": [
+    "Careful Packing",
+    "Safe Loading",
+    "Local And Long Distance",
+    "Unloading And Setup",
+    "Transit Insurance Cover",
+    "Short Term Storage"
+   ],
+   "keywords": [
+    "packers and movers",
+    "house shifting",
+    "relocation service",
+    "moving company",
+    "home shifting",
+    "saman shifting",
+    "पैकर्स एंड मूवर्स",
+    "सामान शिफ्टिंग"
+   ],
+   "requests": [
+    "packers",
+    "packers",
+    "house shifting",
+    "relocation service",
+    "packers",
+    "packers"
+   ],
+   "food": false,
+   "family": "home",
+   "mood": "friendly",
+   "prices": [
+    [
+     45,
+     "/small move"
+    ],
+    [
+     110,
+     "/home move"
+    ],
+    [
+     240,
+     "/large move"
+    ]
+   ],
+   "button": "Get A Moving Quote",
+   "team": [
+    "Packing Crew Lead",
+    "Move Coordinator",
+    "Driver And Loader"
+   ],
+   "menu": null
+  },
+  {
+   "id": "solar_installer",
+   "label": "Solar installer",
+   "theme": "modern_tech",
+   "business_type": "software, SaaS, IT and technology",
+   "services": [
+    "Rooftop Solar For Homes",
+    "Shop And Factory Solar",
+    "Net Metering Help",
+    "Solar Water Heaters",
+    "Battery And Hybrid Setups",
+    "Cleaning And Annual Service"
+   ],
+   "keywords": [
+    "solar installer",
+    "solar panel installation",
+    "rooftop solar",
+    "solar system for home",
+    "net metering",
+    "solar water heater",
+    "सोलर पैनल",
+    "solar lagwana",
+    "सोलर पैनल",
+    "सोलर इंस्टॉलेशन"
+   ],
+   "requests": [
+    "solar installer",
+    "solar installer",
+    "solar panel installation",
+    "rooftop solar",
+    "solar installer",
+    "solar installer"
+   ],
+   "food": false,
+   "family": "home",
+   "mood": "cool",
+   "prices": [
+    [
+     0,
+     "/site survey"
+    ],
+    [
+     1300,
+     "/3 kW system"
+    ],
+    [
+     2100,
+     "/5 kW system"
+    ]
+   ],
+   "button": "Book A Site Survey",
+   "team": [
+    "Solar Engineer",
+    "Site Surveyor",
+    "Service Technician"
+   ],
+   "menu": null
+  },
+  {
+   "id": "cctv_security_install",
+   "label": "CCTV and security installation",
+   "theme": "modern_tech",
+   "business_type": "software, SaaS, IT and technology",
+   "services": [
+    "CCTV Camera Installation",
+    "Mobile Viewing Setup",
+    "Night Vision Cameras",
+    "Video Door Phone",
+    "Biometric Attendance",
+    "AMC And Repairs"
+   ],
+   "keywords": [
+    "cctv installation",
+    "cctv camera",
+    "security camera installation",
+    "surveillance system",
+    "video door phone",
+    "biometric attendance",
+    "सीसीटीवी कैमरा",
+    "camera lagwana",
+    "सीसीटीवी कैमरा",
+    "सीसीटीवी इंस्टॉलेशन"
+   ],
+   "requests": [
+    "cctv",
+    "cctv",
+    "cctv camera",
+    "security camera installation",
+    "cctv",
+    "cctv"
+   ],
+   "food": false,
+   "family": "home",
+   "mood": "cool",
+   "prices": [
+    [
+     35,
+     "/camera"
+    ],
+    [
+     130,
+     "/4 camera set"
+    ],
+    [
+     250,
+     "/8 camera set"
+    ]
+   ],
+   "button": "Book A Site Visit",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "ac_repair",
+   "label": "AC repair and service",
+   "theme": "home_services",
+   "business_type": "plumber, electrician, cleaning, repair and other home services",
+   "services": [
+    "Regular AC Service",
+    "Gas Leak And Refill",
+    "Deep Jet Cleaning",
+    "AC Installation",
+    "Uninstall And Relocate",
+    "PCB And Compressor Repair"
+   ],
+   "keywords": [
+    "ac repair",
+    "ac service",
+    "air conditioner repair",
+    "ac installation",
+    "ac gas filling",
+    "split ac",
+    "ac theek karwana",
+    "एसी रिपेयर",
+    "एसी सर्विस"
+   ],
+   "requests": [
+    "ac repair",
+    "ac repair",
+    "ac service",
+    "air conditioner repair",
+    "ac repair",
+    "ac repair"
+   ],
+   "food": false,
+   "family": "home",
+   "mood": "friendly",
+   "prices": [
+    [
+     8,
+     "/visit"
+    ],
+    [
+     22,
+     "/service"
+    ],
+    [
+     45,
+     "/year plan"
+    ]
+   ],
+   "button": "Book An AC Visit",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "painting_contractor",
+   "label": "Painting contractor",
+   "theme": "home_services",
+   "business_type": "plumber, electrician, cleaning, repair and other home services",
+   "services": [
+    "Interior Wall Painting",
+    "Exterior Painting",
+    "Waterproofing And Damp",
+    "Wood And Metal Polish",
+    "Texture And Designer Walls",
+    "Office And Shop Painting"
+   ],
+   "keywords": [
+    "painting contractor",
+    "house painting",
+    "home painting service",
+    "wall painting",
+    "exterior painting",
+    "waterproofing paint",
+    "rang rogan",
+    "पेंटिंग कॉन्ट्रैक्टर",
+    "घर की पुताई"
+   ],
+   "requests": [
+    "painting contractor",
+    "painting contractor",
+    "house painting",
+    "home painting service",
+    "painting contractor",
+    "painting contractor"
+   ],
+   "food": false,
+   "family": "home",
+   "mood": "friendly",
+   "prices": [
+    [
+     22,
+     "/room"
+    ],
+    [
+     70,
+     "/2 bhk home"
+    ],
+    [
+     130,
+     "/3 bhk home"
+    ]
+   ],
+   "button": "Get A Painting Quote",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "carpentry_furniture",
+   "label": "Carpentry and custom furniture",
+   "theme": "creative_studio",
+   "business_type": "design, photo, video and creative studios",
+   "services": [
+    "Custom Wardrobes",
+    "Beds And Storage",
+    "Kitchen Cabinets",
+    "TV Units And Shelves",
+    "Doors And Windows",
+    "Repair And Polish"
+   ],
+   "keywords": [
+    "carpenter",
+    "custom furniture",
+    "modular wardrobe",
+    "furniture maker",
+    "wooden furniture repair",
+    "kitchen cabinets carpenter",
+    "बढ़ई",
+    "badhai",
+    "बढ़ई",
+    "फर्नीचर बनवाना"
+   ],
+   "requests": [
+    "carpentry",
+    "carpentry",
+    "custom furniture",
+    "modular wardrobe",
+    "carpentry",
+    "carpentry"
+   ],
+   "food": false,
+   "family": "project",
+   "mood": "elegant",
+   "prices": [
+    [
+     15,
+     "/job"
+    ],
+    [
+     60,
+     "/piece"
+    ],
+    [
+     180,
+     "/project"
+    ]
+   ],
+   "button": "Get A Furniture Quote",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "cleaning_services",
+   "label": "Home and office cleaning",
+   "theme": "home_services",
+   "business_type": "plumber, electrician, cleaning, repair and other home services",
+   "services": [
+    "Full Home Deep Cleaning",
+    "Kitchen Degreasing",
+    "Bathroom Descaling",
+    "Sofa And Carpet Cleaning",
+    "Move In And Move Out Clean",
+    "Office And Shop Cleaning"
+   ],
+   "keywords": [
+    "cleaning service",
+    "home cleaning",
+    "deep cleaning",
+    "sofa cleaning",
+    "bathroom cleaning",
+    "office cleaning",
+    "safai",
+    "सफाई सेवा",
+    "सफाई सर्विस",
+    "डीप क्लीनिंग"
+   ],
+   "requests": [
+    "home",
+    "home",
+    "home cleaning",
+    "deep cleaning",
+    "home",
+    "home"
+   ],
+   "food": false,
+   "family": "home",
+   "mood": "friendly",
+   "prices": [
+    [
+     18,
+     "/visit"
+    ],
+    [
+     50,
+     "/deep clean"
+    ],
+    [
+     110,
+     "/month"
+    ]
+   ],
+   "button": "Book A Cleaning Visit",
+   "team": [
+    "Cleaning Supervisor",
+    "Deep Clean Specialist",
+    "Customer Care Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "laundry_drycleaning",
+   "label": "Laundry and dry cleaning",
+   "theme": "home_services",
+   "business_type": "plumber, electrician, cleaning, repair and other home services",
+   "services": [
+    "Wash And Fold",
+    "Dry Cleaning",
+    "Steam Ironing",
+    "Woollen And Winter Wear",
+    "Curtains And Bedding",
+    "Shoe And Bag Cleaning"
+   ],
+   "keywords": [
+    "laundry service",
+    "dry cleaning",
+    "dry cleaner",
+    "ironing service",
+    "wash and fold",
+    "laundry pickup",
+    "धुलाई",
+    "kapde dhulai",
+    "लॉन्ड्री सर्विस",
+    "ड्राई क्लीनिंग"
+   ],
+   "requests": [
+    "laundry",
+    "laundry",
+    "dry cleaning",
+    "dry cleaner",
+    "laundry",
+    "laundry"
+   ],
+   "food": false,
+   "family": "home",
+   "mood": "friendly",
+   "prices": [
+    [
+     1,
+     "/kg"
+    ],
+    [
+     12,
+     "/week"
+    ],
+    [
+     40,
+     "/month"
+    ]
+   ],
+   "button": "Book A Pickup",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "water_purifier_service",
+   "label": "Water purifier service",
+   "theme": "home_services",
+   "business_type": "plumber, electrician, cleaning, repair and other home services",
+   "services": [
+    "RO Service And Cleaning",
+    "Filter And Membrane Change",
+    "New Purifier Installation",
+    "Water Quality Test",
+    "Leak And Low Flow Repair",
+    "Annual Service Plan"
+   ],
+   "keywords": [
+    "water purifier service",
+    "ro service",
+    "ro repair",
+    "water filter installation",
+    "ro water purifier",
+    "filter change",
+    "ro theek karwana",
+    "आरओ सर्विस",
+    "वाटर प्यूरीफायर"
+   ],
+   "requests": [
+    "water purifier service",
+    "water purifier service",
+    "ro service",
+    "ro repair",
+    "water purifier service",
+    "water purifier service"
+   ],
+   "food": false,
+   "family": "home",
+   "mood": "friendly",
+   "prices": [
+    [
+     6,
+     "/service"
+    ],
+    [
+     18,
+     "/year plan"
+    ],
+    [
+     45,
+     "/filter set"
+    ]
+   ],
+   "button": "Book A Service Visit",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "car_rental",
+   "label": "Car rental",
+   "theme": "automotive",
+   "business_type": "cars, bikes, garages and dealers",
+   "services": [
+    "Self Drive Rental",
+    "Car With Driver",
+    "Airport Pickup And Drop",
+    "Wedding And Event Cars",
+    "Monthly And Corporate Hire",
+    "Outstation Tours"
+   ],
+   "keywords": [
+    "car rental",
+    "car hire",
+    "rent a car",
+    "self drive car",
+    "car on rent",
+    "gaadi kiraye par",
+    "गाड़ी किराये पर",
+    "कार रेंटल"
+   ],
+   "requests": [
+    "car rental",
+    "car rental",
+    "car hire",
+    "rent a car",
+    "car rental",
+    "car rental"
+   ],
+   "food": false,
+   "family": "auto",
+   "mood": "bold",
+   "prices": [
+    [
+     28,
+     "/day"
+    ],
+    [
+     70,
+     "/weekend"
+    ],
+    [
+     160,
+     "/week"
+    ]
+   ],
+   "button": "Check Car Availability",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "driving_school",
+   "label": "Driving school",
+   "theme": "education",
+   "business_type": "schools, coaching and training",
+   "services": [
+    "Beginner Car Lessons",
+    "City Road Practice",
+    "Parking And Reversing",
+    "Nervous Driver Support",
+    "Licence Paperwork Help",
+    "Refresher And Highway Class"
+   ],
+   "keywords": [
+    "driving school",
+    "driving classes",
+    "learn car driving",
+    "driving lessons",
+    "driving licence",
+    "car training",
+    "gaadi seekhna",
+    "ड्राइविंग स्कूल",
+    "गाड़ी चलाना सीखना"
+   ],
+   "requests": [
+    "driving school",
+    "driving school",
+    "driving classes",
+    "learn car driving",
+    "driving school",
+    "driving school"
+   ],
+   "food": false,
+   "family": "edu",
+   "mood": "friendly",
+   "prices": [
+    [
+     45,
+     "/15 lessons"
+    ],
+    [
+     70,
+     "/30 lessons"
+    ],
+    [
+     110,
+     "/licence package"
+    ]
+   ],
+   "button": "Book A Trial Lesson",
+   "team": [
+    "Driving Instructor",
+    "Safety Coordinator",
+    "Booking Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "mobile_repair",
+   "label": "Mobile phone repair",
+   "theme": "modern_tech",
+   "business_type": "software, SaaS, IT and technology",
+   "services": [
+    "Screen Replacement",
+    "Battery Replacement",
+    "Charging Port Repair",
+    "Water Damage Treatment",
+    "Software And Data Help",
+    "Speaker, Mic And Camera Fix"
+   ],
+   "keywords": [
+    "mobile repair",
+    "phone repair",
+    "screen replacement",
+    "mobile screen repair",
+    "battery replacement",
+    "iphone repair",
+    "phone theek karwana",
+    "मोबाइल रिपेयर",
+    "फोन की स्क्रीन बदलना"
+   ],
+   "requests": [
+    "mobile phone repair",
+    "mobile phone repair",
+    "phone repair",
+    "screen replacement",
+    "mobile phone repair",
+    "mobile phone repair"
+   ],
+   "food": false,
+   "family": "home",
+   "mood": "cool",
+   "prices": [
+    [
+     4,
+     "/check"
+    ],
+    [
+     22,
+     "/repair"
+    ],
+    [
+     60,
+     "/premium repair"
+    ]
+   ],
+   "button": "Book A Phone Repair",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "bike_repair_garage",
+   "label": "Bike and scooter garage",
+   "theme": "automotive",
+   "business_type": "cars, bikes, garages and dealers",
+   "services": [
+    "General Bike Service",
+    "Engine And Clutch Repair",
+    "Brake And Suspension",
+    "Tyre And Puncture Work",
+    "Electrical And Battery",
+    "Scooter Care"
+   ],
+   "keywords": [
+    "bike repair",
+    "bike service",
+    "motorcycle garage",
+    "scooter repair",
+    "two wheeler service",
+    "bike mechanic",
+    "gaadi service",
+    "बाइक रिपेयर",
+    "बाइक सर्विस"
+   ],
+   "requests": [
+    "bike",
+    "bike",
+    "bike service",
+    "motorcycle garage",
+    "bike",
+    "bike"
+   ],
+   "food": false,
+   "family": "auto",
+   "mood": "bold",
+   "prices": [
+    [
+     5,
+     "/check"
+    ],
+    [
+     15,
+     "/service"
+    ],
+    [
+     45,
+     "/full service"
+    ]
+   ],
+   "button": "Book A Bike Slot",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "interior_designer",
+   "label": "Interior designer",
+   "theme": "luxury_minimal",
+   "business_type": "luxury and high-end brands",
+   "services": [
+    "Space Planning",
+    "3D Design Views",
+    "Modular Kitchen",
+    "Wardrobes And Storage",
+    "False Ceiling And Lighting",
+    "Turnkey Execution"
+   ],
+   "keywords": [
+    "interior designer",
+    "home interior",
+    "interior design",
+    "modular kitchen design",
+    "false ceiling",
+    "living room design",
+    "ghar ka interior",
+    "इंटीरियर डिजाइनर",
+    "घर का इंटीरियर"
+   ],
+   "requests": [
+    "interior designer",
+    "interior designer",
+    "home interior",
+    "interior design",
+    "interior designer",
+    "interior designer"
+   ],
+   "food": false,
+   "family": "project",
+   "mood": "elegant",
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     350,
+     "/room"
+    ],
+    [
+     1500,
+     "/home"
+    ]
+   ],
+   "button": "Book A Design Chat",
+   "team": [
+    "Lead Designer",
+    "Site Coordinator",
+    "Client Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "craft_brewery_bar",
+   "label": "Craft brewery and taproom",
+   "theme": "food_dining",
+   "business_type": "restaurants, cafes and food",
+   "services": [
+    "Rotating Tap List",
+    "Tasting Flights",
+    "Food Pairing Menu",
+    "Brewery Tours",
+    "Growlers And Cans",
+    "Events And Private Hosting"
+   ],
+   "keywords": [
+    "craft brewery",
+    "microbrewery",
+    "taproom",
+    "craft beer",
+    "brewpub",
+    "beer flight",
+    "brewery tour",
+    "बीयर बार",
+    "बीयर बार",
+    "क्राफ्ट ब्रूअरी"
+   ],
+   "requests": [
+    "craft brewery",
+    "craft brewery",
+    "microbrewery",
+    "taproom",
+    "craft brewery",
+    "craft brewery"
+   ],
+   "food": true,
+   "family": "food",
+   "mood": "warm",
+   "prices": [
+    [
+     5,
+     "/flight"
+    ],
+    [
+     14,
+     "/tasting night"
+    ],
+    [
+     35,
+     "/group table"
+    ]
+   ],
+   "button": null,
+   "team": null,
+   "menu": {
+    "title": "On The Menu",
+    "lead": "House beers poured fresh, with bar bites and soft drinks. Ask for a taster before you choose.",
+    "categories": [
+     {
+      "name": "Beers",
+      "items": [
+       "Wheat beer | light and cloudy",
+       "Pale ale | crisp and hoppy",
+       "IPA | bold and bitter",
+       "Stout | dark and smooth",
+       "Lager | clean and cold",
+       "Seasonal brew"
+      ]
+     },
+     {
+      "name": "Bar Bites",
+      "items": [
+       "Nachos | with salsa",
+       "Fries",
+       "Chicken wings",
+       "Paneer tikka",
+       "Onion rings",
+       "Masala peanuts"
+      ]
+     },
+     {
+      "name": "Soft Drinks",
+      "items": [
+       "Cold brew",
+       "Iced tea",
+       "Lemonade",
+       "Fresh lime soda",
+       "Ginger ale"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "cloud_kitchen",
+   "label": "Cloud kitchen",
+   "theme": "food_dining",
+   "business_type": "restaurants, cafes and food",
+   "services": [
+    "Daily Menu Combos",
+    "Cooked After You Order",
+    "Leak-Proof Packaging",
+    "Office Lunch Orders",
+    "Multiple Brands, One Kitchen",
+    "Live Order Tracking"
+   ],
+   "keywords": [
+    "cloud kitchen",
+    "ghost kitchen",
+    "delivery kitchen",
+    "home delivery food",
+    "meal box",
+    "क्लाउड किचन",
+    "घर पर खाना डिलीवरी"
+   ],
+   "requests": [
+    "cloud kitchen",
+    "cloud kitchen",
+    "ghost kitchen",
+    "delivery kitchen",
+    "cloud kitchen",
+    "cloud kitchen"
+   ],
+   "food": true,
+   "family": "food_order",
+   "mood": "warm",
+   "prices": [
+    [
+     3,
+     "/meal"
+    ],
+    [
+     40,
+     "/week"
+    ],
+    [
+     150,
+     "/month"
+    ]
+   ],
+   "button": "Order A Meal",
+   "team": null,
+   "menu": {
+    "title": "On The Menu",
+    "lead": "Meal combos cooked after you order and packed to travel well. Order by message for the day.",
+    "categories": [
+     {
+      "name": "Meal Combos",
+      "items": [
+       "Dal rice combo",
+       "Rajma chawal combo",
+       "Paneer roti combo",
+       "Veg biryani combo",
+       "Chole bhature combo",
+       "Thali combo"
+      ]
+     },
+     {
+      "name": "Snacks",
+      "items": [
+       "Veg sandwich",
+       "Paneer roll",
+       "Samosa box",
+       "Fries",
+       "Spring rolls"
+      ]
+     },
+     {
+      "name": "Desserts And Drinks",
+      "items": [
+       "Gulab jamun",
+       "Brownie",
+       "Lassi | sweet or salted",
+       "Cold coffee",
+       "Fresh lime soda"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "tiffin_service",
+   "label": "Tiffin service",
+   "theme": "food_dining",
+   "business_type": "restaurants, cafes and food",
+   "services": [
+    "Daily Changing Menu",
+    "Light Home-Style Cooking",
+    "Veg And Jain Options",
+    "Lunch And Dinner Slots",
+    "Steel Dabba Delivery",
+    "Pause And Resume Easily"
+   ],
+   "keywords": [
+    "tiffin service",
+    "tiffin",
+    "dabba service",
+    "home cooked meals",
+    "monthly tiffin",
+    "mess service",
+    "ghar ka khana",
+    "टिफिन सर्विस",
+    "घर का खाना"
+   ],
+   "requests": [
+    "tiffin service",
+    "tiffin service",
+    "tiffin",
+    "dabba service",
+    "tiffin service",
+    "tiffin service"
+   ],
+   "food": true,
+   "family": "food_order",
+   "mood": "warm",
+   "prices": [
+    [
+     2,
+     "/meal"
+    ],
+    [
+     40,
+     "/month lunch"
+    ],
+    [
+     75,
+     "/month lunch and dinner"
+    ]
+   ],
+   "button": "Start A Tiffin Plan",
+   "team": null,
+   "menu": {
+    "title": "On The Menu",
+    "lead": "Home style meals for lunch and dinner, planned by the week. Tell us your preferences when you start.",
+    "categories": [
+     {
+      "name": "Daily Meals",
+      "items": [
+       "Roti sabzi dal rice",
+       "Dal rice meal",
+       "Special thali",
+       "Light meal",
+       "Fasting meal | for vrat days",
+       "Weekend special"
+      ]
+     },
+     {
+      "name": "Extras",
+      "items": [
+       "Extra roti",
+       "Curd",
+       "Salad",
+       "Pickle",
+       "Sweet of the day"
+      ]
+     },
+     {
+      "name": "Plans",
+      "items": [
+       "Lunch only",
+       "Dinner only",
+       "Lunch and dinner",
+       "Light diet plan",
+       "Sunday special"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "sweet_shop_mithai",
+   "label": "Sweet shop (mithai)",
+   "theme": "food_dining",
+   "business_type": "restaurants, cafes and food",
+   "services": [
+    "Fresh Daily Batches",
+    "Festival Gift Boxes",
+    "Custom Gift Hampers",
+    "Bulk And Wedding Orders",
+    "Sugar-Free Choices",
+    "Namkeen And Farsan Counter"
+   ],
+   "keywords": [
+    "sweet shop",
+    "mithai shop",
+    "mithai",
+    "indian sweets",
+    "halwai",
+    "festival sweets box",
+    "bulk sweets order",
+    "मिठाई की दुकान",
+    "हलवाई"
+   ],
+   "requests": [
+    "sweet shop (mithai)",
+    "sweet shop (mithai)",
+    "mithai shop",
+    "mithai",
+    "sweet shop (mithai)",
+    "sweet shop (mithai)"
+   ],
+   "food": true,
+   "family": "food_order",
+   "mood": "warm",
+   "prices": [
+    [
+     6,
+     "/box"
+    ],
+    [
+     15,
+     "/festival box"
+    ],
+    [
+     40,
+     "/gift hamper"
+    ]
+   ],
+   "button": "Order Sweets",
+   "team": null,
+   "menu": {
+    "title": "On The Menu",
+    "lead": "Traditional sweets and snacks made fresh, with boxes for festivals and gifting. Ask for bulk orders early.",
+    "categories": [
+     {
+      "name": "Mithai",
+      "items": [
+       "Kaju katli | cashew fudge",
+       "Motichoor ladoo | soft pearls",
+       "Gulab jamun",
+       "Rasgulla",
+       "Soan papdi",
+       "Milk barfi"
+      ]
+     },
+     {
+      "name": "Namkeen",
+      "items": [
+       "Samosa",
+       "Kachori",
+       "Sev",
+       "Mathri",
+       "Bhujia",
+       "Papad"
+      ]
+     },
+     {
+      "name": "Festival Boxes",
+      "items": [
+       "Diwali box",
+       "Rakhi box",
+       "Holi gujiya",
+       "Gift hamper",
+       "Dry fruit box",
+       "Bulk order box"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "ice_cream_parlour",
+   "label": "Ice cream parlour",
+   "theme": "playful_vibrant",
+   "business_type": "kids, toys, fun and colourful brands",
+   "services": [
+    "Scoops And Cones",
+    "Loaded Sundaes",
+    "Ice Cream Cakes",
+    "Kulfi And Local Flavours",
+    "Shakes And Floats",
+    "Party Tubs"
+   ],
+   "keywords": [
+    "ice cream parlour",
+    "ice cream shop",
+    "gelato",
+    "kulfi",
+    "sundae",
+    "ice cream cake",
+    "ice cream",
+    "आइसक्रीम पार्लर",
+    "कुल्फी"
+   ],
+   "requests": [
+    "ice cream parlour",
+    "ice cream parlour",
+    "ice cream shop",
+    "gelato",
+    "ice cream parlour",
+    "ice cream parlour"
+   ],
+   "food": true,
+   "family": "food_order",
+   "mood": "playful",
+   "prices": [
+    [
+     2,
+     "/scoop"
+    ],
+    [
+     5,
+     "/sundae"
+    ],
+    [
+     18,
+     "/ice cream cake"
+    ]
+   ],
+   "button": "Order Ice Cream",
+   "team": null,
+   "menu": {
+    "title": "On The Menu",
+    "lead": "Scoops, sundaes and kulfi to share. Ask for a taste of a flavour before you pick.",
+    "categories": [
+     {
+      "name": "Scoops",
+      "items": [
+       "Vanilla",
+       "Chocolate",
+       "Butterscotch",
+       "Strawberry",
+       "Mango | seasonal",
+       "Black currant"
+      ]
+     },
+     {
+      "name": "Sundaes And Shakes",
+      "items": [
+       "Hot fudge sundae",
+       "Brownie sundae",
+       "Milkshake | thick and cold",
+       "Falooda",
+       "Banana split",
+       "Ice cream soda"
+      ]
+     },
+     {
+      "name": "Cakes And Kulfi",
+      "items": [
+       "Ice cream cake | order ahead",
+       "Matka kulfi",
+       "Malai kulfi",
+       "Pista kulfi",
+       "Family tub"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "juice_smoothie_bar",
+   "label": "Juice and smoothie bar",
+   "theme": "organic_nature",
+   "business_type": "organic, farm, nature and eco",
+   "services": [
+    "Fresh Pressed Juices",
+    "Whole Fruit Smoothies",
+    "Protein Shakes",
+    "Green And Detox Blends",
+    "Fruit Bowls And Salads",
+    "Weekly Juice Packs"
+   ],
+   "keywords": [
+    "juice bar",
+    "smoothie bar",
+    "fresh juice",
+    "cold pressed juice",
+    "juice centre",
+    "protein smoothie",
+    "detox juice",
+    "जूस सेंटर",
+    "स्मूदी बार"
+   ],
+   "requests": [
+    "juice",
+    "juice",
+    "smoothie bar",
+    "fresh juice",
+    "juice",
+    "juice"
+   ],
+   "food": true,
+   "family": "food_order",
+   "mood": "calm",
+   "prices": [
+    [
+     2,
+     "/glass"
+    ],
+    [
+     6,
+     "/week pack"
+    ],
+    [
+     22,
+     "/month pack"
+    ]
+   ],
+   "button": "Order A Fresh Juice",
+   "team": null,
+   "menu": {
+    "title": "On The Menu",
+    "lead": "Juices and smoothies pressed and blended to order. Tell us what you like and we will suggest a mix.",
+    "categories": [
+     {
+      "name": "Fresh Juices",
+      "items": [
+       "Orange",
+       "Watermelon",
+       "Pineapple",
+       "Mosambi",
+       "Pomegranate",
+       "Sugarcane | fresh pressed"
+      ]
+     },
+     {
+      "name": "Smoothies",
+      "items": [
+       "Banana oats",
+       "Mango yoghurt",
+       "Berry blend",
+       "Protein shake",
+       "Green smoothie",
+       "Peanut butter shake"
+      ]
+     },
+     {
+      "name": "Cold Pressed",
+      "items": [
+       "Beetroot and carrot",
+       "Amla and ginger",
+       "Green apple and mint",
+       "Cucumber and lemon",
+       "Pineapple and basil"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "catering_service",
+   "label": "Catering service",
+   "theme": "events_wedding",
+   "business_type": "weddings, events and decor",
+   "services": [
+    "Wedding And Reception Menus",
+    "Birthday And House Parties",
+    "Corporate Lunch Boxes",
+    "Live Counters",
+    "Trained Service Staff",
+    "Tasting Before You Book"
+   ],
+   "keywords": [
+    "catering service",
+    "caterer",
+    "wedding catering",
+    "party catering",
+    "event catering",
+    "buffet catering",
+    "bulk food order",
+    "कैटरिंग सर्विस",
+    "शादी की कैटरिंग"
+   ],
+   "requests": [
+    "catering service",
+    "catering service",
+    "caterer",
+    "wedding catering",
+    "catering service",
+    "catering service"
+   ],
+   "food": true,
+   "family": "events",
+   "mood": "elegant",
+   "prices": [
+    [
+     6,
+     "/plate"
+    ],
+    [
+     9,
+     "/premium plate"
+    ],
+    [
+     14,
+     "/royal plate"
+    ]
+   ],
+   "button": "Get A Catering Quote",
+   "team": null,
+   "menu": {
+    "title": "Menu Styles",
+    "lead": "Menus planned around your event, your guest numbers and your tastes. Ask for a tasting before you decide.",
+    "categories": [
+     {
+      "name": "Starters",
+      "items": [
+       "Paneer tikka",
+       "Veg cutlet",
+       "Hara bhara kebab",
+       "Mini samosa",
+       "Crispy corn",
+       "Soup of the day"
+      ]
+     },
+     {
+      "name": "Main Course",
+      "items": [
+       "Dal makhani",
+       "Paneer butter masala",
+       "Mixed vegetable",
+       "Veg pulao",
+       "Chole",
+       "Raita"
+      ]
+     },
+     {
+      "name": "Breads And Rice",
+      "items": [
+       "Butter naan",
+       "Tandoori roti",
+       "Jeera rice",
+       "Veg biryani",
+       "Lachha paratha"
+      ]
+     },
+     {
+      "name": "Desserts",
+      "items": [
+       "Gulab jamun",
+       "Gajar halwa",
+       "Ice cream",
+       "Rasmalai",
+       "Fruit custard"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "kirana_grocery",
+   "label": "Kirana and grocery store",
+   "theme": "general_business",
+   "business_type": "a general local business",
+   "services": [
+    "Daily Essentials",
+    "Fresh Fruit And Vegetables",
+    "Free Home Delivery",
+    "Monthly Basket",
+    "Dairy, Bread And Eggs",
+    "Household And Pooja Items"
+   ],
+   "keywords": [
+    "kirana store",
+    "kirana",
+    "grocery store",
+    "grocery delivery",
+    "provision store",
+    "monthly ration",
+    "किराना दुकान",
+    "राशन की दुकान"
+   ],
+   "requests": [
+    "kirana",
+    "kirana",
+    "kirana",
+    "grocery store",
+    "kirana",
+    "kirana"
+   ],
+   "food": false,
+   "family": "retail",
+   "mood": "friendly",
+   "prices": [
+    [
+     3,
+     "/trial basket"
+    ],
+    [
+     50,
+     "/monthly basket"
+    ],
+    [
+     110,
+     "/family basket"
+    ]
+   ],
+   "button": "Order Groceries",
+   "team": [
+    "Store Owner",
+    "Delivery Partner",
+    "Order Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "bookstore",
+   "label": "Bookstore",
+   "theme": "education",
+   "business_type": "schools, coaching and training",
+   "services": [
+    "Fiction And Non-Fiction",
+    "Children's Corner",
+    "Textbooks And Exam Guides",
+    "Special Orders",
+    "Gift Wrapping",
+    "Reading Circle Nights"
+   ],
+   "keywords": [
+    "bookstore",
+    "book shop",
+    "bookshop",
+    "books online",
+    "children's books",
+    "textbooks",
+    "second hand books",
+    "किताबों की दुकान",
+    "बुक स्टोर"
+   ],
+   "requests": [
+    "bookstore",
+    "bookstore",
+    "book shop",
+    "bookshop",
+    "bookstore",
+    "bookstore"
+   ],
+   "food": false,
+   "family": "retail",
+   "mood": "friendly",
+   "prices": [
+    [
+     3,
+     "/book"
+    ],
+    [
+     12,
+     "/set"
+    ],
+    [
+     35,
+     "/library bundle"
+    ]
+   ],
+   "button": "Find A Book",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "gift_shop",
+   "label": "Gift shop",
+   "theme": "fashion_retail",
+   "business_type": "clothing, boutique and fashion shops",
+   "services": [
+    "Personalised Gifts",
+    "Gift Hampers",
+    "Return Gifts For Kids",
+    "Corporate Gifting",
+    "Wedding And Anniversary Gifts",
+    "Gift Wrapping And Cards"
+   ],
+   "keywords": [
+    "gift shop",
+    "gift store",
+    "return gifts",
+    "personalised gifts",
+    "gift hamper",
+    "birthday gift",
+    "corporate gifts",
+    "गिफ्ट शॉप",
+    "रिटर्न गिफ्ट"
+   ],
+   "requests": [
+    "gift shop",
+    "gift shop",
+    "gift store",
+    "return gifts",
+    "gift shop",
+    "gift shop"
+   ],
+   "food": false,
+   "family": "retail",
+   "mood": "elegant",
+   "prices": [
+    [
+     4,
+     "/gift"
+    ],
+    [
+     12,
+     "/hamper"
+    ],
+    [
+     40,
+     "/premium hamper"
+    ]
+   ],
+   "button": "Find A Gift",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "florist",
+   "label": "Florist",
+   "theme": "organic_nature",
+   "business_type": "organic, farm, nature and eco",
+   "services": [
+    "Hand-Tied Bouquets",
+    "Same-Day Delivery",
+    "Wedding Flower Decor",
+    "Daily Pooja Flowers",
+    "Indoor Plants And Vases",
+    "Flower Subscriptions"
+   ],
+   "keywords": [
+    "florist",
+    "flower shop",
+    "bouquet",
+    "flower delivery",
+    "wedding flowers",
+    "flower decoration",
+    "fresh flowers",
+    "फूल वाला",
+    "फूल वाला",
+    "फूलों की दुकान"
+   ],
+   "requests": [
+    "florist",
+    "florist",
+    "flower shop",
+    "bouquet",
+    "florist",
+    "florist"
+   ],
+   "food": false,
+   "family": "retail",
+   "mood": "calm",
+   "prices": [
+    [
+     5,
+     "/bouquet"
+    ],
+    [
+     15,
+     "/large bouquet"
+    ],
+    [
+     60,
+     "/event decor"
+    ]
+   ],
+   "button": "Order Flowers",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "printing_press",
+   "label": "Printing press",
+   "theme": "creative_studio",
+   "business_type": "design, photo, video and creative studios",
+   "services": [
+    "Visiting Cards",
+    "Brochures And Flyers",
+    "Flex And Vinyl Banners",
+    "Wedding And Invitation Cards",
+    "Bill Books And Stationery",
+    "Design And Proof Service"
+   ],
+   "keywords": [
+    "printing press",
+    "digital printing",
+    "offset printing",
+    "flex banner printing",
+    "visiting card printing",
+    "wedding card printing",
+    "brochure printing",
+    "प्रिंटिंग प्रेस",
+    "विजिटिंग कार्ड प्रिंटिंग"
+   ],
+   "requests": [
+    "printing press",
+    "printing press",
+    "digital printing",
+    "offset printing",
+    "printing press",
+    "printing press"
+   ],
+   "food": false,
+   "family": "project",
+   "mood": "elegant",
+   "prices": [
+    [
+     3,
+     "/100 cards"
+    ],
+    [
+     12,
+     "/banner"
+    ],
+    [
+     50,
+     "/campaign pack"
+    ]
+   ],
+   "button": "Get A Print Quote",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "jewellery_shop",
+   "label": "Jewellery shop",
+   "theme": "luxury_minimal",
+   "business_type": "luxury and high-end brands",
+   "services": [
+    "Gold Jewellery",
+    "Diamond Collection",
+    "Bridal Sets",
+    "Silver Gifts",
+    "Custom Designs",
+    "Exchange And Repair"
+   ],
+   "keywords": [
+    "jewellery shop",
+    "jeweller",
+    "gold jewellery",
+    "diamond jewellery",
+    "silver jewellery",
+    "bridal jewellery",
+    "gold ring",
+    "ज्वेलरी शॉप",
+    "सोने के गहने"
+   ],
+   "requests": [
+    "jewellery shop",
+    "jewellery shop",
+    "jeweller",
+    "gold jewellery",
+    "jewellery shop",
+    "jewellery shop"
+   ],
+   "food": false,
+   "family": "retail",
+   "mood": "elegant",
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     60,
+     "/custom design"
+    ],
+    [
+     150,
+     "/bridal design"
+    ]
+   ],
+   "button": "Book A Jewellery Visit",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "mobile_phone_store",
+   "label": "Mobile phone store",
+   "theme": "modern_tech",
+   "business_type": "software, SaaS, IT and technology",
+   "services": [
+    "New Smartphones",
+    "Easy EMI Plans",
+    "Screen And Battery Repair",
+    "Old Phone Exchange",
+    "Cases, Chargers, Earbuds",
+    "Data Transfer And Setup"
+   ],
+   "keywords": [
+    "mobile shop",
+    "mobile phone store",
+    "smartphone store",
+    "phone accessories",
+    "second hand mobile",
+    "screen guard",
+    "मोबाइल शॉप",
+    "मोबाइल शॉप",
+    "स्मार्टफोन स्टोर"
+   ],
+   "requests": [
+    "mobile phone store",
+    "mobile phone store",
+    "mobile phone store",
+    "smartphone store",
+    "mobile phone store",
+    "mobile phone store"
+   ],
+   "food": false,
+   "family": "retail",
+   "mood": "cool",
+   "prices": [
+    [
+     4,
+     "/accessory"
+    ],
+    [
+     25,
+     "/repair"
+    ],
+    [
+     100,
+     "/budget phone"
+    ]
+   ],
+   "button": "Find Your Phone",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "tailoring_alterations",
+   "label": "Tailoring and alterations",
+   "theme": "fashion_retail",
+   "business_type": "clothing, boutique and fashion shops",
+   "services": [
+    "Blouse Stitching",
+    "Salwar Suits And Kurtas",
+    "Shirts, Pants And Suits",
+    "Alterations And Repairs",
+    "Bridal And Festive Wear",
+    "Kids And School Uniforms"
+   ],
+   "keywords": [
+    "tailor",
+    "tailoring shop",
+    "alterations",
+    "blouse stitching",
+    "suit stitching",
+    "ladies tailor",
+    "clothes alteration",
+    "दर्जी",
+    "कपड़े की सिलाई"
+   ],
+   "requests": [
+    "tailoring",
+    "tailoring",
+    "tailoring shop",
+    "alterations",
+    "tailoring",
+    "tailoring"
+   ],
+   "food": false,
+   "family": "project",
+   "mood": "elegant",
+   "prices": [
+    [
+     5,
+     "/alteration"
+    ],
+    [
+     18,
+     "/blouse"
+    ],
+    [
+     60,
+     "/suit"
+    ]
+   ],
+   "button": "Book A Fitting",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "chartered_accountant",
+   "label": "Chartered accountant",
+   "theme": "professional_services",
+   "business_type": "consulting, legal, finance and other professionals",
+   "services": [
+    "GST Registration And Returns",
+    "Income Tax Filing",
+    "Bookkeeping And Accounts",
+    "Company Incorporation",
+    "Audit And Assurance",
+    "Notices And Assessments"
+   ],
+   "keywords": [
+    "chartered accountant",
+    "ca firm",
+    "gst filing",
+    "itr filing",
+    "income tax return",
+    "tax consultant",
+    "company registration",
+    "ca near me",
+    "चार्टर्ड अकाउंटेंट",
+    "जीएसटी रिटर्न"
+   ],
+   "requests": [
+    "chartered accountant",
+    "chartered accountant",
+    "ca firm",
+    "gst filing",
+    "chartered accountant",
+    "chartered accountant"
+   ],
+   "food": false,
+   "family": "pro",
+   "mood": "cool",
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     25,
+     "/return filing"
+    ],
+    [
+     140,
+     "/annual package"
+    ]
+   ],
+   "button": "Book A Tax Chat",
+   "team": [
+    "Chartered Accountant",
+    "Tax Associate",
+    "Client Care Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "insurance_agent",
+   "label": "Insurance agent",
+   "theme": "professional_services",
+   "business_type": "consulting, legal, finance and other professionals",
+   "services": [
+    "Health Insurance",
+    "Term Life Cover",
+    "Motor Insurance",
+    "Travel And Home Cover",
+    "Claim Assistance",
+    "Renewal Tracking"
+   ],
+   "keywords": [
+    "insurance agent",
+    "life insurance",
+    "health insurance",
+    "term insurance",
+    "motor insurance",
+    "insurance advisor",
+    "bima",
+    "बीमा",
+    "policy renewal",
+    "बीमा एजेंट",
+    "जीवन बीमा"
+   ],
+   "requests": [
+    "insurance agent",
+    "insurance agent",
+    "life insurance",
+    "health insurance",
+    "insurance agent",
+    "insurance agent"
+   ],
+   "food": false,
+   "family": "pro",
+   "mood": "cool",
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     20,
+     "/policy review"
+    ],
+    [
+     60,
+     "/family plan advice"
+    ]
+   ],
+   "button": "Book A Policy Chat",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "loan_finance_agent",
+   "label": "Loan and finance agent",
+   "theme": "professional_services",
+   "business_type": "consulting, legal, finance and other professionals",
+   "services": [
+    "Home Loans",
+    "Personal Loans",
+    "Business Loans",
+    "Loan Against Property",
+    "Vehicle Loans",
+    "Credit Report Guidance"
+   ],
+   "keywords": [
+    "loan agent",
+    "home loan",
+    "personal loan",
+    "business loan",
+    "loan against property",
+    "loan consultant",
+    "finance agent",
+    "loan dsa",
+    "लोन एजेंट",
+    "होम लोन"
+   ],
+   "requests": [
+    "loan",
+    "loan",
+    "home loan",
+    "personal loan",
+    "loan",
+    "loan"
+   ],
+   "food": false,
+   "family": "pro",
+   "mood": "cool",
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     25,
+     "/application help"
+    ],
+    [
+     70,
+     "/full processing"
+    ]
+   ],
+   "button": "Check Loan Options",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "astrologer_vastu",
+   "label": "Astrologer and Vastu consultant",
+   "theme": "general_business",
+   "business_type": "a general local business",
+   "services": [
+    "Kundli Reading",
+    "Kundli Matching",
+    "Muhurat Selection",
+    "Vastu For Homes",
+    "Vastu For Shops",
+    "Remedy Guidance"
+   ],
+   "keywords": [
+    "astrologer",
+    "jyotish",
+    "kundli",
+    "vastu consultant",
+    "vastu shastra",
+    "horoscope",
+    "kundali matching",
+    "ज्योतिषी",
+    "वास्तु सलाहकार"
+   ],
+   "requests": [
+    "astrologer",
+    "astrologer",
+    "jyotish",
+    "kundli",
+    "astrologer",
+    "astrologer"
+   ],
+   "food": false,
+   "family": "pro",
+   "mood": "friendly",
+   "prices": [
+    [
+     8,
+     "/question"
+    ],
+    [
+     25,
+     "/kundli reading"
+    ],
+    [
+     60,
+     "/full consultation"
+    ]
+   ],
+   "button": "Book A Reading",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "ielts_language_coaching",
+   "label": "IELTS and language coaching",
+   "theme": "education",
+   "business_type": "schools, coaching and training",
+   "services": [
+    "IELTS Academic And General",
+    "PTE And TOEFL Prep",
+    "Spoken English",
+    "Writing Feedback",
+    "Mock Speaking Interviews",
+    "German And French Basics"
+   ],
+   "keywords": [
+    "ielts coaching",
+    "ielts classes",
+    "pte coaching",
+    "toefl coaching",
+    "spoken english classes",
+    "english speaking course",
+    "german language classes",
+    "आईईएलटीएस कोचिंग",
+    "स्पोकन इंग्लिश क्लास"
+   ],
+   "requests": [
+    "ielts",
+    "ielts",
+    "ielts classes",
+    "pte coaching",
+    "ielts",
+    "ielts"
+   ],
+   "food": false,
+   "family": "edu",
+   "mood": "friendly",
+   "prices": [
+    [
+     30,
+     "/month"
+    ],
+    [
+     80,
+     "/course"
+    ],
+    [
+     140,
+     "/premium course"
+    ]
+   ],
+   "button": "Book A Demo Class",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "tuition_centre",
+   "label": "Tuition centre",
+   "theme": "education",
+   "business_type": "schools, coaching and training",
+   "services": [
+    "Class-Wise Batches",
+    "Maths And Science",
+    "Doubt Classes",
+    "Weekly Tests",
+    "Board Exam Revision",
+    "Parent Updates"
+   ],
+   "keywords": [
+    "tuition centre",
+    "tuition classes",
+    "coaching classes",
+    "home tuition",
+    "maths tuition",
+    "science tuition",
+    "board exam coaching",
+    "tuition near me",
+    "ट्यूशन सेंटर",
+    "कोचिंग क्लास"
+   ],
+   "requests": [
+    "tuition centre",
+    "tuition centre",
+    "tuition classes",
+    "coaching classes",
+    "tuition centre",
+    "tuition centre"
+   ],
+   "food": false,
+   "family": "edu",
+   "mood": "friendly",
+   "prices": [
+    [
+     12,
+     "/month"
+    ],
+    [
+     30,
+     "/month group"
+    ],
+    [
+     60,
+     "/month personal"
+    ]
+   ],
+   "button": "Book A Demo Class",
+   "team": [
+    "Senior Teacher",
+    "Subject Mentor",
+    "Admissions Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "music_dance_classes",
+   "label": "Music and dance classes",
+   "theme": "creative_studio",
+   "business_type": "design, photo, video and creative studios",
+   "services": [
+    "Vocal Training",
+    "Guitar And Keyboard",
+    "Tabla And Percussion",
+    "Classical Dance",
+    "Western And Bollywood Dance",
+    "Exam Preparation"
+   ],
+   "keywords": [
+    "music classes",
+    "dance classes",
+    "guitar classes",
+    "singing classes",
+    "classical dance",
+    "tabla classes",
+    "bharatanatyam",
+    "dance academy",
+    "संगीत क्लास",
+    "डांस क्लास"
+   ],
+   "requests": [
+    "music",
+    "music",
+    "dance classes",
+    "guitar classes",
+    "music",
+    "music"
+   ],
+   "food": false,
+   "family": "edu",
+   "mood": "elegant",
+   "prices": [
+    [
+     10,
+     "/class"
+    ],
+    [
+     30,
+     "/month"
+    ],
+    [
+     80,
+     "/term"
+    ]
+   ],
+   "button": "Book A Trial Class",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "ayurveda_panchakarma",
+   "label": "Ayurveda and Panchakarma clinic",
+   "theme": "beauty_wellness",
+   "business_type": "salon, spa, yoga and wellness",
+   "services": [
+    "Prakriti Consultation",
+    "Panchakarma Therapies",
+    "Abhyanga And Swedana",
+    "Shirodhara",
+    "Herbal Medicines",
+    "Diet And Routine Advice"
+   ],
+   "keywords": [
+    "panchakarma",
+    "ayurvedic doctor",
+    "vaidya",
+    "ayurvedic clinic",
+    "abhyanga",
+    "shirodhara",
+    "ayurveda clinic",
+    "ayurveda centre",
+    "ayurvedic hospital",
+    "पंचकर्म",
+    "आयुर्वेदिक डॉक्टर"
+   ],
+   "requests": [
+    "ayurveda",
+    "ayurveda",
+    "ayurvedic doctor",
+    "vaidya",
+    "ayurveda",
+    "ayurveda"
+   ],
+   "food": false,
+   "family": "clinic",
+   "mood": "elegant",
+   "prices": [
+    [
+     8,
+     "/consultation"
+    ],
+    [
+     35,
+     "/therapy session"
+    ],
+    [
+     180,
+     "/programme"
+    ]
+   ],
+   "button": "Book A Consultation",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "physiotherapy",
+   "label": "Physiotherapy clinic",
+   "theme": "healthcare",
+   "business_type": "clinics, hospitals and medical",
+   "services": [
+    "Back And Neck Care",
+    "Knee And Joint Rehab",
+    "Sports Injury Care",
+    "Post-Surgery Rehabilitation",
+    "Neuro Rehabilitation",
+    "Home Visits"
+   ],
+   "keywords": [
+    "physiotherapy",
+    "physiotherapist",
+    "physio clinic",
+    "back pain treatment",
+    "knee pain physiotherapy",
+    "sports injury rehab",
+    "home physiotherapy",
+    "neck pain exercises",
+    "फिजियोथेरेपी",
+    "फिजियोथेरेपिस्ट"
+   ],
+   "requests": [
+    "physiotherapy clinic",
+    "physiotherapy clinic",
+    "physiotherapist",
+    "physio clinic",
+    "physiotherapy clinic",
+    "physiotherapy clinic"
+   ],
+   "food": false,
+   "family": "clinic",
+   "mood": "calm",
+   "prices": [
+    [
+     10,
+     "/session"
+    ],
+    [
+     80,
+     "/10 sessions"
+    ],
+    [
+     180,
+     "/20 sessions"
+    ]
+   ],
+   "button": "Book A Physio Session",
+   "team": [
+    "Physiotherapist",
+    "Rehab Assistant",
+    "Reception Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "diagnostic_lab",
+   "label": "Diagnostic lab",
+   "theme": "healthcare",
+   "business_type": "clinics, hospitals and medical",
+   "services": [
+    "Routine Blood Tests",
+    "Thyroid And Vitamin Tests",
+    "Home Sample Collection",
+    "Health Check-Up Packages",
+    "Urine And Stool Tests",
+    "Report Delivery"
+   ],
+   "keywords": [
+    "diagnostic lab",
+    "pathology lab",
+    "blood test",
+    "health checkup",
+    "home sample collection",
+    "lab test",
+    "thyroid test",
+    "पैथोलॉजी लैब",
+    "blood test near me",
+    "पैथोलॉजी लैब",
+    "ब्लड टेस्ट"
+   ],
+   "requests": [
+    "diagnostic lab",
+    "diagnostic lab",
+    "pathology lab",
+    "blood test",
+    "diagnostic lab",
+    "diagnostic lab"
+   ],
+   "food": false,
+   "family": "clinic",
+   "mood": "calm",
+   "prices": [
+    [
+     5,
+     "/basic test"
+    ],
+    [
+     25,
+     "/health checkup"
+    ],
+    [
+     60,
+     "/full body checkup"
+    ]
+   ],
+   "button": "Book A Lab Test",
+   "team": [
+    "Lab Technician",
+    "Sample Collector",
+    "Reports Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "pharmacy",
+   "label": "Pharmacy",
+   "theme": "healthcare",
+   "business_type": "clinics, hospitals and medical",
+   "services": [
+    "Prescription Medicines",
+    "Home Delivery",
+    "Monthly Refills",
+    "Generic Alternatives",
+    "Health Devices",
+    "Baby And Elder Care"
+   ],
+   "keywords": [
+    "pharmacy",
+    "medical store",
+    "chemist",
+    "medicine shop",
+    "home delivery medicines",
+    "online pharmacy",
+    "generic medicine",
+    "dawai ki dukaan",
+    "मेडिकल स्टोर",
+    "दवाई की दुकान"
+   ],
+   "requests": [
+    "pharmacy",
+    "pharmacy",
+    "medical store",
+    "chemist",
+    "pharmacy",
+    "pharmacy"
+   ],
+   "food": false,
+   "family": "retail",
+   "mood": "calm",
+   "prices": [
+    [
+     0,
+     "/home delivery"
+    ],
+    [
+     5,
+     "/monthly refill service"
+    ],
+    [
+     12,
+     "/family care pack"
+    ]
+   ],
+   "button": "Order Medicines",
+   "team": [
+    "Pharmacist",
+    "Delivery Partner",
+    "Order Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "counselling_therapy",
+   "label": "Counselling and therapy practice",
+   "theme": "healthcare",
+   "business_type": "clinics, hospitals and medical",
+   "services": [
+    "Individual Counselling",
+    "Couple Counselling",
+    "Teen And Child Support",
+    "Career Counselling",
+    "Family Sessions",
+    "Online Sessions"
+   ],
+   "keywords": [
+    "therapist",
+    "psychologist",
+    "online therapy",
+    "couple counselling",
+    "anxiety counselling",
+    "mental health counsellor",
+    "child counselling",
+    "counselling centre",
+    "counselling services",
+    "काउंसलर",
+    "मानसिक स्वास्थ्य सलाह"
+   ],
+   "requests": [
+    "counselling",
+    "counselling",
+    "psychologist",
+    "online therapy",
+    "counselling",
+    "counselling"
+   ],
+   "food": false,
+   "family": "clinic",
+   "mood": "calm",
+   "prices": [
+    [
+     12,
+     "/session"
+    ],
+    [
+     40,
+     "/4 sessions"
+    ],
+    [
+     100,
+     "/12 sessions"
+    ]
+   ],
+   "button": "Book A Session",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "immigration_consultant",
+   "label": "Immigration consultant",
+   "theme": "professional_services",
+   "business_type": "consulting, legal, finance and other professionals",
+   "services": [
+    "Student Visa Applications",
+    "Work Permit Guidance",
+    "Permanent Residency Pathways",
+    "Visitor And Tourist Visas",
+    "Statement And Document Review",
+    "Pre-Departure Briefing"
+   ],
+   "keywords": [
+    "immigration consultant",
+    "study visa",
+    "work permit",
+    "canada pr",
+    "visa consultant",
+    "student visa",
+    "tourist visa",
+    "overseas education",
+    "इमिग्रेशन कंसल्टेंट",
+    "स्टडी वीज़ा"
+   ],
+   "requests": [
+    "immigration consultant",
+    "immigration consultant",
+    "study visa",
+    "work permit",
+    "immigration consultant",
+    "immigration consultant"
+   ],
+   "food": false,
+   "family": "pro",
+   "mood": "cool",
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     60,
+     "/profile review"
+    ],
+    [
+     300,
+     "/application support"
+    ]
+   ],
+   "button": "Book A Visa Chat",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "notary_documentation",
+   "label": "Notary and documentation service",
+   "theme": "professional_services",
+   "business_type": "consulting, legal, finance and other professionals",
+   "services": [
+    "Affidavits",
+    "Rent Agreements",
+    "Stamp Paper Arrangement",
+    "Document Attestation",
+    "Name Change Papers",
+    "Power Of Attorney"
+   ],
+   "keywords": [
+    "notary",
+    "notary public",
+    "affidavit",
+    "stamp paper",
+    "rent agreement",
+    "document attestation",
+    "name change affidavit",
+    "नोटरी",
+    "vakil documents",
+    "नोटरी",
+    "हलफनामा"
+   ],
+   "requests": [
+    "notary",
+    "notary",
+    "notary public",
+    "affidavit",
+    "notary",
+    "notary"
+   ],
+   "food": false,
+   "family": "pro",
+   "mood": "cool",
+   "prices": [
+    [
+     2,
+     "/document"
+    ],
+    [
+     8,
+     "/affidavit"
+    ],
+    [
+     20,
+     "/agreement"
+    ]
+   ],
+   "button": "Get Documents Ready",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "digital_marketing_agency",
+   "label": "Digital marketing agency",
+   "theme": "modern_tech",
+   "business_type": "software, SaaS, IT and technology",
+   "services": [
+    "Search Engine Optimisation",
+    "Google Business Profile",
+    "Google And Meta Ads",
+    "Social Media Management",
+    "Website And Landing Pages",
+    "Reporting And Tracking"
+   ],
+   "keywords": [
+    "digital marketing agency",
+    "seo services",
+    "social media marketing",
+    "google ads",
+    "facebook ads",
+    "website promotion",
+    "performance marketing",
+    "seo company",
+    "डिजिटल मार्केटिंग",
+    "सोशल मीडिया मार्केटिंग"
+   ],
+   "requests": [
+    "digital marketing agency",
+    "digital marketing agency",
+    "seo services",
+    "social media marketing",
+    "digital marketing agency",
+    "digital marketing agency"
+   ],
+   "food": false,
+   "family": "project",
+   "mood": "cool",
+   "prices": [
+    [
+     60,
+     "/month"
+    ],
+    [
+     180,
+     "/month"
+    ],
+    [
+     400,
+     "/month"
+    ]
+   ],
+   "button": "Get A Growth Plan",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "tattoo_studio",
+   "label": "Tattoo studio",
+   "theme": "creative_studio",
+   "business_type": "design, photo, video and creative studios",
+   "services": [
+    "Custom Tattoo Designs",
+    "Sterile Single-Use Needles",
+    "Cover-Ups And Reworks",
+    "Fine Line And Minimal",
+    "Body Piercing",
+    "Aftercare Guidance"
+   ],
+   "keywords": [
+    "tattoo",
+    "tattoo artist",
+    "tattoo design",
+    "tattoo cover up",
+    "piercing",
+    "permanent tattoo",
+    "tatoo",
+    "टैटू आर्टिस्ट",
+    "टैटू स्टूडियो"
+   ],
+   "requests": [
+    "tattoo studio",
+    "tattoo studio",
+    "tattoo artist",
+    "tattoo design",
+    "tattoo studio",
+    "tattoo studio"
+   ],
+   "food": false,
+   "family": "session",
+   "mood": "elegant",
+   "prices": [
+    [
+     25,
+     "/small tattoo"
+    ],
+    [
+     70,
+     "/medium tattoo"
+    ],
+    [
+     200,
+     "/large piece"
+    ]
+   ],
+   "button": "Book A Design Chat",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "drone_photography",
+   "label": "Drone photography",
+   "theme": "creative_studio",
+   "business_type": "design, photo, video and creative studios",
+   "services": [
+    "Wedding Drone Coverage",
+    "Real Estate Aerials",
+    "Construction Progress",
+    "Event And Festival Videos",
+    "Inspection And Survey Shots",
+    "Editing And Delivery"
+   ],
+   "keywords": [
+    "drone photography",
+    "drone videography",
+    "drone shoot",
+    "aerial photography",
+    "drone operator",
+    "wedding drone",
+    "drone camera on rent",
+    "ड्रोन फोटोग्राफी",
+    "ड्रोन शूट"
+   ],
+   "requests": [
+    "drone photography",
+    "drone photography",
+    "drone videography",
+    "drone shoot",
+    "drone photography",
+    "drone photography"
+   ],
+   "food": false,
+   "family": "project",
+   "mood": "elegant",
+   "prices": [
+    [
+     60,
+     "/shoot"
+    ],
+    [
+     150,
+     "/event"
+    ],
+    [
+     400,
+     "/project"
+    ]
+   ],
+   "button": "Book A Drone Shoot",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "wedding_dj_sound",
+   "label": "Wedding DJ and sound",
+   "theme": "events_wedding",
+   "business_type": "weddings, events and decor",
+   "services": [
+    "Wedding And Sangeet DJ",
+    "Baraat Sound Setup",
+    "Speakers And Mixers",
+    "Lights And Dance Floor",
+    "Mics And Stage Audio",
+    "Corporate And Birthday Gigs"
+   ],
+   "keywords": [
+    "wedding dj",
+    "dj on rent",
+    "dj sound system",
+    "dj for party",
+    "sound system rental",
+    "dj booking",
+    "sangeet dj",
+    "डीजे",
+    "वेडिंग डीजे",
+    "डीजे साउंड सिस्टम"
+   ],
+   "requests": [
+    "wedding dj",
+    "wedding dj",
+    "dj on rent",
+    "dj sound system",
+    "wedding dj",
+    "wedding dj"
+   ],
+   "food": false,
+   "family": "events",
+   "mood": "elegant",
+   "prices": [
+    [
+     150,
+     "/event"
+    ],
+    [
+     350,
+     "/wedding night"
+    ],
+    [
+     700,
+     "/full weekend"
+    ]
+   ],
+   "button": "Check DJ Dates",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "event_decor_planner",
+   "label": "Event decor and planning",
+   "theme": "events_wedding",
+   "business_type": "weddings, events and decor",
+   "services": [
+    "Mandap And Stage Decor",
+    "Theme Mood Boards",
+    "Entrance And Photo Corners",
+    "Lighting And Ambience",
+    "Birthday And Baby Showers",
+    "Vendor Coordination"
+   ],
+   "keywords": [
+    "event decorator",
+    "wedding decorator",
+    "event planner",
+    "wedding planner",
+    "stage decoration",
+    "mandap decoration",
+    "birthday decoration",
+    "इवेंट डेकोरेटर",
+    "शादी की सजावट"
+   ],
+   "requests": [
+    "event decor",
+    "event decor",
+    "wedding decorator",
+    "event planner",
+    "event decor",
+    "event decor"
+   ],
+   "food": false,
+   "family": "events",
+   "mood": "elegant",
+   "prices": [
+    [
+     150,
+     "/event"
+    ],
+    [
+     500,
+     "/wedding"
+    ],
+    [
+     1500,
+     "/destination wedding"
+    ]
+   ],
+   "button": "Plan Your Event",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "bridal_makeup",
+   "label": "Bridal makeup",
+   "theme": "beauty_wellness",
+   "business_type": "salon, spa, yoga and wellness",
+   "services": [
+    "Bridal Trial Session",
+    "HD And Airbrush Makeup",
+    "Hairstyling And Draping",
+    "Function-Wise Looks",
+    "Family And Guest Makeup",
+    "Skin Prep And Touch-Up Kit"
+   ],
+   "keywords": [
+    "bridal makeup",
+    "bridal makeup artist",
+    "wedding makeup",
+    "party makeup",
+    "hd makeup",
+    "airbrush makeup",
+    "engagement makeup",
+    "ब्राइडल मेकअप",
+    "दुल्हन का मेकअप"
+   ],
+   "requests": [
+    "bridal makeup",
+    "bridal makeup",
+    "bridal makeup artist",
+    "wedding makeup",
+    "bridal makeup",
+    "bridal makeup"
+   ],
+   "food": false,
+   "family": "session",
+   "mood": "elegant",
+   "prices": [
+    [
+     40,
+     "/party makeup"
+    ],
+    [
+     120,
+     "/bridal makeup"
+    ],
+    [
+     300,
+     "/full bridal package"
+    ]
+   ],
+   "button": "Book A Trial Look",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "video_editing_studio",
+   "label": "Video editing studio",
+   "theme": "modern_tech",
+   "business_type": "software, SaaS, IT and technology",
+   "services": [
+    "YouTube Video Editing",
+    "Reels And Shorts",
+    "Wedding Film Edits",
+    "Subtitles And Captions",
+    "Colour And Sound Cleanup",
+    "Motion Graphics And Intros"
+   ],
+   "keywords": [
+    "video editing",
+    "video editor",
+    "reel editing",
+    "youtube video editing",
+    "wedding video editing",
+    "video editing service",
+    "short video editing",
+    "वीडियो एडिटर",
+    "रील एडिटिंग"
+   ],
+   "requests": [
+    "video editing studio",
+    "video editing studio",
+    "video editor",
+    "reel editing",
+    "video editing studio",
+    "video editing studio"
+   ],
+   "food": false,
+   "family": "project",
+   "mood": "cool",
+   "prices": [
+    [
+     12,
+     "/reel"
+    ],
+    [
+     45,
+     "/video"
+    ],
+    [
+     150,
+     "/project"
+    ]
+   ],
+   "button": "Send Your Footage",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "funeral_services",
+   "label": "Funeral services",
+   "theme": "professional_services",
+   "business_type": "consulting, legal, finance and other professionals",
+   "services": [
+    "Immediate Assistance",
+    "Respectful Transport",
+    "Ceremony Arrangements",
+    "Cremation And Burial",
+    "Documents And Certificates",
+    "Ashes And Final Rites"
+   ],
+   "keywords": [
+    "funeral services",
+    "antim sanskar",
+    "last rites",
+    "cremation services",
+    "funeral arrangements",
+    "death certificate help",
+    "shav vahan",
+    "अंतिम संस्कार सेवा",
+    "दाह संस्कार"
+   ],
+   "requests": [
+    "funeral services",
+    "funeral services",
+    "antim sanskar",
+    "last rites",
+    "funeral services",
+    "funeral services"
+   ],
+   "food": false,
+   "family": "pro",
+   "mood": "cool",
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     50,
+     "/basic arrangement"
+    ],
+    [
+     150,
+     "/full arrangement"
+    ]
+   ],
+   "button": "Speak To Our Team",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "scrap_recycling",
+   "label": "Scrap and recycling",
+   "theme": "organic_nature",
+   "business_type": "organic, farm, nature and eco",
+   "services": [
+    "Metal Scrap",
+    "Paper And Cardboard",
+    "E-Waste Collection",
+    "Plastic And Bottles",
+    "Bulk And Industrial Scrap",
+    "Home And Office Clearance"
+   ],
+   "keywords": [
+    "scrap dealer",
+    "kabadi",
+    "kabadiwala",
+    "scrap buyer",
+    "scrap pickup",
+    "old newspaper buyer",
+    "e-waste recycling",
+    "कबाड़ी",
+    "कबाड़ वाला",
+    "कबाड़ी",
+    "कबाड़ खरीदने वाला"
+   ],
+   "requests": [
+    "scrap",
+    "scrap",
+    "kabadi",
+    "kabadiwala",
+    "scrap",
+    "scrap"
+   ],
+   "food": false,
+   "family": "home",
+   "mood": "calm",
+   "prices": [
+    [
+     0,
+     "/pickup"
+    ],
+    [
+     10,
+     "/bulk pickup"
+    ],
+    [
+     30,
+     "/office clearance"
+    ]
+   ],
+   "button": "Book A Pickup",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "coworking_space",
+   "label": "Coworking space",
+   "theme": "modern_tech",
+   "business_type": "software, SaaS, IT and technology",
+   "services": [
+    "Hot Desks",
+    "Dedicated Desks",
+    "Private Cabins",
+    "Meeting And Training Rooms",
+    "Fast Wi-Fi And Backup",
+    "Business Address"
+   ],
+   "keywords": [
+    "coworking space",
+    "co-working space",
+    "shared office",
+    "hot desk",
+    "private cabin office",
+    "meeting room rental",
+    "office space for rent",
+    "को-वर्किंग स्पेस",
+    "शेयर्ड ऑफिस"
+   ],
+   "requests": [
+    "coworking space",
+    "coworking space",
+    "shared office",
+    "hot desk",
+    "coworking space",
+    "coworking space"
+   ],
+   "food": false,
+   "family": "stay",
+   "mood": "cool",
+   "prices": [
+    [
+     3,
+     "/hot desk day"
+    ],
+    [
+     40,
+     "/hot desk month"
+    ],
+    [
+     90,
+     "/private cabin month"
+    ]
+   ],
+   "button": "Book A Desk Tour",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "yoga_retreat",
+   "label": "Yoga retreat",
+   "theme": "beauty_wellness",
+   "business_type": "salon, spa, yoga and wellness",
+   "services": [
+    "Daily Yoga Classes",
+    "Meditation And Pranayama",
+    "Sattvic Vegetarian Meals",
+    "Peaceful Rooms",
+    "Teacher Training Courses",
+    "Nature Walks And Satsang"
+   ],
+   "keywords": [
+    "yoga retreat",
+    "yoga teacher training",
+    "yoga ashram",
+    "meditation retreat",
+    "yoga stay",
+    "yoga holiday",
+    "rishikesh yoga",
+    "योग रिट्रीट",
+    "योग शिक्षक प्रशिक्षण"
+   ],
+   "requests": [
+    "yoga retreat",
+    "yoga retreat",
+    "yoga teacher training",
+    "yoga ashram",
+    "yoga retreat",
+    "yoga retreat"
+   ],
+   "food": false,
+   "family": "stay",
+   "mood": "elegant",
+   "prices": [
+    [
+     60,
+     "/weekend"
+    ],
+    [
+     250,
+     "/week"
+    ],
+    [
+     700,
+     "/month"
+    ]
+   ],
+   "button": "Reserve Your Place",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "farm_stay_homestay",
+   "label": "Farm stay and homestay",
+   "theme": "travel_tourism",
+   "business_type": "travel, tours and hotels",
+   "services": [
+    "Clean Rooms At The Farm",
+    "Home-Cooked Meals",
+    "Farm Activities",
+    "Bonfire And Open Sky",
+    "Village Walks And Cycling",
+    "Family And Group Stays"
+   ],
+   "keywords": [
+    "farm stay",
+    "homestay",
+    "farmhouse stay",
+    "farm house booking",
+    "village stay",
+    "rural stay",
+    "agri tourism",
+    "होमस्टे",
+    "फार्म स्टे",
+    "होमस्टे"
+   ],
+   "requests": [
+    "farm stay",
+    "farm stay",
+    "homestay",
+    "farmhouse stay",
+    "farm stay",
+    "farm stay"
+   ],
+   "food": false,
+   "family": "stay",
+   "mood": "warm",
+   "prices": [
+    [
+     35,
+     "/night"
+    ],
+    [
+     90,
+     "/weekend"
+    ],
+    [
+     200,
+     "/week"
+    ]
+   ],
+   "button": "Check Stay Dates",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "pg_hostel",
+   "label": "PG and hostel",
+   "theme": "real_estate",
+   "business_type": "property, builders and rentals",
+   "services": [
+    "Furnished Rooms",
+    "Home-Style Meals",
+    "Wi-Fi And Power Backup",
+    "Security And CCTV",
+    "Laundry And Housekeeping",
+    "Study And Common Areas"
+   ],
+   "keywords": [
+    "pg",
+    "paying guest",
+    "pg accommodation",
+    "hostel",
+    "boys hostel",
+    "girls hostel",
+    "student hostel",
+    "working professional pg",
+    "पीजी",
+    "हॉस्टल",
+    "पेइंग गेस्ट",
+    "लड़कों का हॉस्टल"
+   ],
+   "requests": [
+    "pg",
+    "pg",
+    "paying guest",
+    "pg accommodation",
+    "pg",
+    "pg"
+   ],
+   "food": false,
+   "family": "stay",
+   "mood": "elegant",
+   "prices": [
+    [
+     60,
+     "/month shared room"
+    ],
+    [
+     90,
+     "/month double room"
+    ],
+    [
+     130,
+     "/month single room"
+    ]
+   ],
+   "button": "Book A Room Visit",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "temple_trust",
+   "label": "Temple trust",
+   "theme": "nonprofit",
+   "business_type": "NGO, charity and foundation",
+   "services": [
+    "Daily Darshan And Aarti",
+    "Pooja And Havan Booking",
+    "Festival Celebrations",
+    "Annadaan And Prasad",
+    "Dharamshala Stay",
+    "Donations And Seva"
+   ],
+   "keywords": [
+    "temple trust",
+    "mandir trust",
+    "temple donation",
+    "temple darshan timings",
+    "pooja booking",
+    "dharamshala",
+    "temple seva",
+    "मंदिर ट्रस्ट",
+    "मंदिर दान"
+   ],
+   "requests": [
+    "temple trust",
+    "temple trust",
+    "mandir trust",
+    "temple donation",
+    "temple trust",
+    "temple trust"
+   ],
+   "food": false,
+   "family": "nonprofit",
+   "mood": "warm",
+   "prices": [
+    [
+     1,
+     "/offering"
+    ],
+    [
+     10,
+     "/seva"
+    ],
+    [
+     50,
+     "/annual seva"
+    ]
+   ],
+   "button": "Offer Seva",
+   "team": [
+    "Trust Secretary",
+    "Seva Coordinator",
+    "Visitor Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "travel_cab_taxi",
+   "label": "Cab and taxi service",
+   "theme": "travel_tourism",
+   "business_type": "travel, tours and hotels",
+   "services": [
+    "Airport Pickup And Drop",
+    "Outstation Taxi",
+    "Local City Rides",
+    "Sedans, SUVs And Tempo Vans",
+    "Wedding And Event Cars",
+    "Corporate Travel"
+   ],
+   "keywords": [
+    "taxi service",
+    "cab booking",
+    "outstation cab",
+    "airport taxi",
+    "car rental with driver",
+    "cab service",
+    "tempo traveller",
+    "टैक्सी सर्विस",
+    "कैब बुकिंग"
+   ],
+   "requests": [
+    "cab",
+    "cab",
+    "cab booking",
+    "outstation cab",
+    "cab",
+    "cab"
+   ],
+   "food": false,
+   "family": "auto",
+   "mood": "warm",
+   "prices": [
+    [
+     8,
+     "/local ride"
+    ],
+    [
+     35,
+     "/airport trip"
+    ],
+    [
+     90,
+     "/outstation day"
+    ]
+   ],
+   "button": "Book A Cab",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "security_guard_agency",
+   "label": "Security guard agency",
+   "theme": "professional_services",
+   "business_type": "consulting, legal, finance and other professionals",
+   "services": [
+    "Residential Society Guards",
+    "Office And Corporate Security",
+    "Factory And Warehouse Guards",
+    "Event Security And Bouncers",
+    "Trained And Briefed Staff",
+    "Supervisors And Replacements"
+   ],
+   "keywords": [
+    "security guard agency",
+    "security guard service",
+    "security agency",
+    "guard services",
+    "bouncer services",
+    "society security guard",
+    "gunman service",
+    "सिक्योरिटी गार्ड सर्विस",
+    "गार्ड एजेंसी"
+   ],
+   "requests": [
+    "security guard agency",
+    "security guard agency",
+    "security guard service",
+    "security agency",
+    "security guard agency",
+    "security guard agency"
+   ],
+   "food": false,
+   "family": "pro",
+   "mood": "cool",
+   "prices": [
+    [
+     350,
+     "/guard month"
+    ],
+    [
+     650,
+     "/2 guards month"
+    ],
+    [
+     1200,
+     "/4 guards month"
+    ]
+   ],
+   "button": "Get A Guard Quote",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "gym_fitness_studio",
+   "label": "Gym and fitness studio",
+   "theme": "bold_fitness",
+   "business_type": "gym, sports and fitness",
+   "services": [
+    "Strength Floor",
+    "Cardio Zone",
+    "Personal Training",
+    "Group Classes",
+    "Fitness Assessment",
+    "Open Slots"
+   ],
+   "keywords": [
+    "gym membership",
+    "fitness centre",
+    "crossfit box",
+    "personal trainer",
+    "weight training gym",
+    "gym near me",
+    "gym ki membership",
+    "gym",
+    "fitness studio",
+    "जिम",
+    "फिटनेस सेंटर"
+   ],
+   "requests": [
+    "gym",
+    "gym",
+    "fitness centre",
+    "crossfit box",
+    "gym",
+    "gym"
+   ],
+   "food": false,
+   "family": "session",
+   "mood": "bold",
+   "prices": [
+    [
+     15,
+     "/month"
+    ],
+    [
+     40,
+     "/quarter"
+    ],
+    [
+     120,
+     "/year"
+    ]
+   ],
+   "button": "Book A Free Trial",
+   "team": [
+    "Head Trainer",
+    "Fitness Coach",
+    "Front Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "yoga_studio",
+   "label": "Yoga studio",
+   "theme": "beauty_wellness",
+   "business_type": "salon, spa, yoga and wellness",
+   "services": [
+    "Hatha Yoga",
+    "Vinyasa Flow",
+    "Beginner Basics",
+    "Pranayama And Meditation",
+    "Small Batches",
+    "Private Sessions"
+   ],
+   "keywords": [
+    "yoga classes",
+    "yoga studio",
+    "hatha yoga classes",
+    "vinyasa yoga",
+    "yoga class near me",
+    "yoga sikhna",
+    "yoga teacher",
+    "योग क्लास",
+    "योग सेंटर"
+   ],
+   "requests": [
+    "yoga studio",
+    "yoga studio",
+    "yoga studio",
+    "hatha yoga classes",
+    "yoga studio",
+    "yoga studio"
+   ],
+   "food": false,
+   "family": "session",
+   "mood": "elegant",
+   "prices": [
+    [
+     4,
+     "/class"
+    ],
+    [
+     30,
+     "/month"
+    ],
+    [
+     80,
+     "/quarter"
+    ]
+   ],
+   "button": "Book A Class",
+   "team": [
+    "Yoga Teacher",
+    "Meditation Guide",
+    "Front Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "dental_clinic",
+   "label": "Dental clinic",
+   "theme": "healthcare",
+   "business_type": "clinics, hospitals and medical",
+   "services": [
+    "Check Up And Cleaning",
+    "Fillings And Cavities",
+    "Root Canal Treatment",
+    "Braces And Aligners",
+    "Crowns And Dentures",
+    "Children's Dentistry"
+   ],
+   "keywords": [
+    "dental clinic",
+    "dentist near me",
+    "root canal treatment",
+    "braces and aligners",
+    "teeth cleaning",
+    "orthodontist",
+    "dant ka doctor",
+    "dentist",
+    "डेंटल क्लिनिक",
+    "दांतों का डॉक्टर"
+   ],
+   "requests": [
+    "dental clinic",
+    "dental clinic",
+    "dentist near me",
+    "root canal treatment",
+    "dental clinic",
+    "dental clinic"
+   ],
+   "food": false,
+   "family": "clinic",
+   "mood": "calm",
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     25,
+     "/cleaning"
+    ],
+    [
+     120,
+     "/root canal"
+    ]
+   ],
+   "button": "Book A Dental Visit",
+   "team": [
+    "Dentist",
+    "Dental Assistant",
+    "Reception Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "hair_salon_spa",
+   "label": "Hair salon and spa",
+   "theme": "beauty_wellness",
+   "business_type": "salon, spa, yoga and wellness",
+   "services": [
+    "Haircut And Styling",
+    "Hair Colour",
+    "Hair Spa",
+    "Facial And Cleanup",
+    "Waxing And Threading",
+    "Manicure And Pedicure"
+   ],
+   "keywords": [
+    "hair salon",
+    "unisex salon",
+    "beauty parlour",
+    "facial and spa",
+    "hair spa",
+    "haircut and colour",
+    "parlour",
+    "salon",
+    "beauty salon",
+    "ब्यूटी पार्लर",
+    "हेयर सैलून"
+   ],
+   "requests": [
+    "hair salon",
+    "hair salon",
+    "unisex salon",
+    "beauty parlour",
+    "hair salon",
+    "hair salon"
+   ],
+   "food": false,
+   "family": "session",
+   "mood": "elegant",
+   "prices": [
+    [
+     5,
+     "/haircut"
+    ],
+    [
+     15,
+     "/hair spa"
+    ],
+    [
+     40,
+     "/colour"
+    ]
+   ],
+   "button": "Book A Chair",
+   "team": [
+    "Senior Stylist",
+    "Spa Therapist",
+    "Front Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "barber_shop",
+   "label": "Barber shop",
+   "theme": "bold_fitness",
+   "business_type": "gym, sports and fitness",
+   "services": [
+    "Haircut",
+    "Beard Trim And Shaping",
+    "Hot Towel Shave",
+    "Fade And Skin Fade",
+    "Hair Colour And Beard Colour",
+    "Head Massage And Facial"
+   ],
+   "keywords": [
+    "barber shop",
+    "gents salon",
+    "beard trim",
+    "men's haircut",
+    "hair cutting saloon",
+    "gents parlour",
+    "nai",
+    "नाई की दुकान",
+    "जेंट्स सैलून"
+   ],
+   "requests": [
+    "barber shop",
+    "barber shop",
+    "gents salon",
+    "beard trim",
+    "barber shop",
+    "barber shop"
+   ],
+   "food": false,
+   "family": "session",
+   "mood": "bold",
+   "prices": [
+    [
+     2,
+     "/haircut"
+    ],
+    [
+     4,
+     "/haircut and beard"
+    ],
+    [
+     10,
+     "/grooming package"
+    ]
+   ],
+   "button": "Book A Haircut",
+   "team": [
+    "Head Barber",
+    "Grooming Specialist",
+    "Front Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "cafe_coffee_tea",
+   "label": "Cafe, coffee and tea",
+   "theme": "food_dining",
+   "business_type": "restaurants, cafes and food",
+   "services": [
+    "Espresso And Coffee",
+    "Cold Coffee And Iced Drinks",
+    "Chai And Specialty Tea",
+    "Snacks And Sandwiches",
+    "Desserts And Bakes",
+    "Cosy Seating"
+   ],
+   "keywords": [
+    "coffee shop",
+    "cafe",
+    "espresso bar",
+    "कैफे",
+    "cold coffee",
+    "filter coffee",
+    "coffee house",
+    "cappuccino bar",
+    "कैफे",
+    "कॉफी शॉप"
+   ],
+   "requests": [
+    "cafe",
+    "cafe",
+    "cafe",
+    "espresso bar",
+    "cafe",
+    "cafe"
+   ],
+   "food": true,
+   "family": "food",
+   "mood": "warm",
+   "prices": [
+    [
+     2,
+     "/coffee"
+    ],
+    [
+     4,
+     "/breakfast combo"
+    ],
+    [
+     10,
+     "/meal combo"
+    ]
+   ],
+   "button": "Order Or Reserve",
+   "team": [
+    "Head Barista",
+    "Kitchen Lead",
+    "Guest Host"
+   ],
+   "menu": {
+    "title": "On The Menu",
+    "lead": "Coffee, tea and light bites made fresh through the day. Ask the team what is good today.",
+    "categories": [
+     {
+      "name": "Coffee",
+      "items": [
+       "Espresso | single or double",
+       "Americano",
+       "Flat white | smooth and strong",
+       "Cappuccino | milk foam on top",
+       "Filter coffee | south Indian style",
+       "Cold coffee | blended with ice"
+      ]
+     },
+     {
+      "name": "Tea",
+      "items": [
+       "Masala chai | spiced and strong",
+       "Green tea",
+       "Lemon tea | light and fresh",
+       "Iced peach tea",
+       "Kashmiri kahwa | saffron and almond"
+      ]
+     },
+     {
+      "name": "Bites",
+      "items": [
+       "Veg grilled sandwich",
+       "Croissant | buttery and flaky",
+       "Banana bread",
+       "Garlic bread | cheesy",
+       "Cheese toast",
+       "Brownie | warm and fudgy"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "restaurant_dining",
+   "label": "Restaurant",
+   "theme": "food_dining",
+   "business_type": "restaurants, cafes and food",
+   "services": [
+    "Family Dining",
+    "Regional Favourites",
+    "Veg And Non Veg Menu",
+    "Party And Celebration Tables",
+    "Takeaway And Delivery",
+    "Chef's Specials"
+   ],
+   "keywords": [
+    "family restaurant",
+    "restaurant near me",
+    "fine dining",
+    "dhaba",
+    "restaurant table booking",
+    "khana khane ki jagah",
+    "veg and non veg restaurant",
+    "restaurant",
+    "pizza shop",
+    "रेस्टोरेंट",
+    "ढाबा"
+   ],
+   "requests": [
+    "restaurant",
+    "restaurant",
+    "restaurant near me",
+    "fine dining",
+    "restaurant",
+    "restaurant"
+   ],
+   "food": true,
+   "family": "food",
+   "mood": "warm",
+   "prices": [
+    [
+     4,
+     "/main course"
+    ],
+    [
+     8,
+     "/thali meal"
+    ],
+    [
+     25,
+     "/family table"
+    ]
+   ],
+   "button": "Reserve A Table",
+   "team": [
+    "Head Chef",
+    "Floor Manager",
+    "Guest Host"
+   ],
+   "menu": {
+    "title": "On The Menu",
+    "lead": "A relaxed menu of familiar favourites, made to order. Tell the team about any dietary need.",
+    "categories": [
+     {
+      "name": "Starters",
+      "items": [
+       "Paneer tikka | char grilled",
+       "Veg spring rolls",
+       "Hara bhara kebab",
+       "Crispy corn",
+       "Chicken tikka | marinated well",
+       "Tomato soup | with croutons"
+      ]
+     },
+     {
+      "name": "Main Course",
+      "items": [
+       "Dal makhani | slow cooked",
+       "Paneer butter masala",
+       "Veg biryani | fragrant rice",
+       "Butter chicken",
+       "Mixed vegetable curry | seasonal",
+       "Jeera rice"
+      ]
+     },
+     {
+      "name": "Breads",
+      "items": [
+       "Butter naan",
+       "Tandoori roti",
+       "Garlic naan",
+       "Lachha paratha",
+       "Missi roti"
+      ]
+     },
+     {
+      "name": "Desserts",
+      "items": [
+       "Gulab jamun | served warm",
+       "Kulfi | on a stick",
+       "Gajar halwa",
+       "Rasmalai | chilled",
+       "Ice cream | seasonal flavours"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "bakery_cakes",
+   "label": "Bakery and cake shop",
+   "theme": "food_dining",
+   "business_type": "restaurants, cafes and food",
+   "services": [
+    "Custom Cakes",
+    "Eggless Options",
+    "Pastries And Cupcakes",
+    "Breads And Cookies",
+    "Wedding And Party Orders",
+    "Home Delivery"
+   ],
+   "keywords": [
+    "custom cakes",
+    "bakery",
+    "cake shop",
+    "birthday cake order",
+    "eggless cake",
+    "pastry shop",
+    "केक शॉप",
+    "cake order online",
+    "केक शॉप",
+    "बेकरी"
+   ],
+   "requests": [
+    "bakery",
+    "bakery",
+    "bakery",
+    "cake shop",
+    "bakery",
+    "bakery"
+   ],
+   "food": true,
+   "family": "food_order",
+   "mood": "warm",
+   "prices": [
+    [
+     3,
+     "/pastry box"
+    ],
+    [
+     12,
+     "/custom cake"
+    ],
+    [
+     30,
+     "/celebration cake"
+    ]
+   ],
+   "button": "Order A Cake",
+   "team": [
+    "Head Baker",
+    "Cake Designer",
+    "Order Desk"
+   ],
+   "menu": {
+    "title": "On The Menu",
+    "lead": "Cakes, pastries and breads baked fresh. Order ahead for birthdays and bigger celebrations.",
+    "categories": [
+     {
+      "name": "Cakes",
+      "items": [
+       "Chocolate truffle | rich and dark",
+       "Black forest",
+       "Butterscotch",
+       "Red velvet | cream cheese frosting",
+       "Fresh fruit cake",
+       "Eggless vanilla"
+      ]
+     },
+     {
+      "name": "Pastries",
+      "items": [
+       "Chocolate pastry",
+       "Pineapple pastry",
+       "Danish pastry",
+       "Cream roll",
+       "Cupcake box",
+       "Brownie"
+      ]
+     },
+     {
+      "name": "Breads",
+      "items": [
+       "Whole wheat bread",
+       "Milk bread",
+       "Garlic bread",
+       "Burger buns",
+       "Pav"
+      ]
+     },
+     {
+      "name": "Cookies",
+      "items": [
+       "Butter cookies",
+       "Oatmeal cookies",
+       "Choco chip cookies",
+       "Jeera biscuits",
+       "Nankhatai"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "pet_grooming_vet",
+   "label": "Pet care and vet",
+   "theme": "pets_animals",
+   "business_type": "pets, vets and animal care",
+   "services": [
+    "Dog Grooming",
+    "Vet Check Ups",
+    "Vaccination Reminders",
+    "Pet Boarding",
+    "Pet Food And Supplies",
+    "Cat And Small Pet Care"
+   ],
+   "keywords": [
+    "pet shop",
+    "dog grooming",
+    "vet clinic",
+    "pet boarding",
+    "veterinary doctor",
+    "kutte ka doctor",
+    "pet care",
+    "पशु चिकित्सक",
+    "पेट शॉप"
+   ],
+   "requests": [
+    "pet care",
+    "pet care",
+    "dog grooming",
+    "vet clinic",
+    "pet care",
+    "pet care"
+   ],
+   "food": false,
+   "family": "clinic",
+   "mood": "friendly",
+   "prices": [
+    [
+     10,
+     "/grooming"
+    ],
+    [
+     25,
+     "/vet consultation"
+    ],
+    [
+     60,
+     "/boarding week"
+    ]
+   ],
+   "button": "Book A Pet Visit",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "skin_clinic_dermatology",
+   "label": "Skin clinic",
+   "theme": "healthcare",
+   "business_type": "clinics, hospitals and medical",
+   "services": [
+    "Acne And Scar Care",
+    "Pigmentation And Dark Spots",
+    "Laser Hair Removal",
+    "Hair And Scalp Care",
+    "Skin Allergies And Rashes",
+    "Peels And Facials"
+   ],
+   "keywords": [
+    "skin clinic",
+    "dermatologist",
+    "acne treatment",
+    "laser hair removal",
+    "pigmentation treatment",
+    "skin specialist",
+    "chehre ke daag",
+    "त्वचा रोग विशेषज्ञ",
+    "स्किन क्लिनिक"
+   ],
+   "requests": [
+    "skin clinic",
+    "skin clinic",
+    "dermatologist",
+    "acne treatment",
+    "skin clinic",
+    "skin clinic"
+   ],
+   "food": false,
+   "family": "clinic",
+   "mood": "calm",
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     20,
+     "/facial treatment"
+    ],
+    [
+     80,
+     "/laser session"
+    ]
+   ],
+   "button": "Book A Skin Consultation",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "nutritionist_dietitian",
+   "label": "Dietitian and nutritionist",
+   "theme": "healthcare",
+   "business_type": "clinics, hospitals and medical",
+   "services": [
+    "Weight Management",
+    "Diabetes And Thyroid Diet",
+    "PCOS Diet Support",
+    "Child And Family Nutrition",
+    "Sports And Muscle Nutrition",
+    "Weekly Follow Ups"
+   ],
+   "keywords": [
+    "dietitian",
+    "nutritionist",
+    "diet plan",
+    "weight management",
+    "diet consultation",
+    "diet chart",
+    "weight loss diet",
+    "डाइटीशियन",
+    "डाइट प्लान"
+   ],
+   "requests": [
+    "dietitian",
+    "dietitian",
+    "nutritionist",
+    "diet plan",
+    "dietitian",
+    "dietitian"
+   ],
+   "food": false,
+   "family": "clinic",
+   "mood": "calm",
+   "prices": [
+    [
+     10,
+     "/consultation"
+    ],
+    [
+     35,
+     "/month plan"
+    ],
+    [
+     90,
+     "/3 month plan"
+    ]
+   ],
+   "button": "Book A Diet Chat",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "general_physician_clinic",
+   "label": "General physician clinic",
+   "theme": "healthcare",
+   "business_type": "clinics, hospitals and medical",
+   "services": [
+    "General Consultation",
+    "Blood Pressure And Sugar Care",
+    "Health Check Ups",
+    "Vaccinations",
+    "Minor Procedures",
+    "Records And Referrals"
+   ],
+   "keywords": [
+    "family doctor",
+    "general physician",
+    "polyclinic",
+    "doctor near me",
+    "physician clinic",
+    "bukhar ka doctor",
+    "opd clinic",
+    "hospital",
+    "nursing home",
+    "फैमिली डॉक्टर",
+    "जनरल फिजिशियन"
+   ],
+   "requests": [
+    "general physician clinic",
+    "general physician clinic",
+    "general physician",
+    "polyclinic",
+    "general physician clinic",
+    "general physician clinic"
+   ],
+   "food": false,
+   "family": "clinic",
+   "mood": "calm",
+   "prices": [
+    [
+     4,
+     "/consultation"
+    ],
+    [
+     15,
+     "/health checkup"
+    ],
+    [
+     40,
+     "/family plan"
+    ]
+   ],
+   "button": "Book A Doctor Visit",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "real_estate_agent",
+   "label": "Real estate agent",
+   "theme": "real_estate",
+   "business_type": "property, builders and rentals",
+   "services": [
+    "Flats And Apartments",
+    "Plots And Land",
+    "Independent Houses",
+    "Rental Homes",
+    "Shop And Office Space",
+    "Sell Your Property"
+   ],
+   "keywords": [
+    "property dealer",
+    "real estate agent",
+    "property broker",
+    "flats for sale",
+    "plots for sale",
+    "flat for rent",
+    "makaan dalal",
+    "प्रॉपर्टी डीलर",
+    "मकान किराये पर"
+   ],
+   "requests": [
+    "real estate agent",
+    "real estate agent",
+    "real estate agent",
+    "property broker",
+    "real estate agent",
+    "real estate agent"
+   ],
+   "food": false,
+   "family": "property",
+   "mood": "elegant",
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     30,
+     "/property search"
+    ],
+    [
+     80,
+     "/full service"
+    ]
+   ],
+   "button": "Book A Viewing",
+   "team": [
+    "Property Advisor",
+    "Viewing Coordinator",
+    "Client Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "law_firm_advocate",
+   "label": "Law firm and advocate",
+   "theme": "professional_services",
+   "business_type": "consulting, legal, finance and other professionals",
+   "services": [
+    "Civil Matters",
+    "Family Law",
+    "Criminal Defence",
+    "Cheque Bounce Cases",
+    "Property Documents",
+    "Legal Notices"
+   ],
+   "keywords": [
+    "law firm",
+    "advocate",
+    "lawyer",
+    "legal advice",
+    "court case lawyer",
+    "advocate office",
+    "vakil",
+    "वकील",
+    "एडवोकेट"
+   ],
+   "requests": [
+    "law firm",
+    "law firm",
+    "advocate",
+    "lawyer",
+    "law firm",
+    "law firm"
+   ],
+   "food": false,
+   "family": "pro",
+   "mood": "cool",
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     40,
+     "/document review"
+    ],
+    [
+     150,
+     "/case support"
+    ]
+   ],
+   "button": "Book A Legal Chat",
+   "team": [
+    "Advocate",
+    "Legal Associate",
+    "Client Care Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "hotel_guesthouse",
+   "label": "Hotel and guest house",
+   "theme": "travel_tourism",
+   "business_type": "travel, tours and hotels",
+   "services": [
+    "Standard Rooms",
+    "Deluxe Rooms",
+    "Family Rooms",
+    "Restaurant And Room Service",
+    "Travel Desk",
+    "Parking And Reception"
+   ],
+   "keywords": [
+    "guest house",
+    "budget hotel",
+    "hotel rooms",
+    "hotel booking",
+    "lodge rooms",
+    "resort stay",
+    "hotel",
+    "होटल",
+    "होटल",
+    "गेस्ट हाउस"
+   ],
+   "requests": [
+    "hotel",
+    "hotel",
+    "budget hotel",
+    "hotel rooms",
+    "hotel",
+    "hotel"
+   ],
+   "food": false,
+   "family": "stay",
+   "mood": "warm",
+   "prices": [
+    [
+     20,
+     "/night"
+    ],
+    [
+     35,
+     "/night"
+    ],
+    [
+     55,
+     "/night"
+    ]
+   ],
+   "button": "Check Room Dates",
+   "team": [
+    "Guest Manager",
+    "Housekeeping Lead",
+    "Front Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "school_preschool",
+   "label": "School and preschool",
+   "theme": "education",
+   "business_type": "schools, coaching and training",
+   "services": [
+    "Play Group",
+    "Nursery And Lower KG",
+    "Upper KG",
+    "Activity Time",
+    "Outdoor Play",
+    "Day Care"
+   ],
+   "keywords": [
+    "preschool",
+    "playschool",
+    "play school",
+    "nursery school",
+    "day care",
+    "kindergarten",
+    "school admission",
+    "primary school",
+    "pre primary",
+    "प्ले स्कूल",
+    "प्री स्कूल"
+   ],
+   "requests": [
+    "school",
+    "school",
+    "playschool",
+    "play school",
+    "school",
+    "school"
+   ],
+   "food": false,
+   "family": "edu",
+   "mood": "friendly",
+   "prices": [
+    [
+     12,
+     "/month daycare"
+    ],
+    [
+     25,
+     "/month preschool"
+    ],
+    [
+     40,
+     "/month full day"
+    ]
+   ],
+   "button": "Ask About Admission",
+   "team": [
+    "Lead Teacher",
+    "Activity Coordinator",
+    "Admissions Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "photography_studio",
+   "label": "Photography studio",
+   "theme": "creative_studio",
+   "business_type": "design, photo, video and creative studios",
+   "services": [
+    "Wedding Photography",
+    "Pre Wedding Shoot",
+    "Portrait Sessions",
+    "Family And Baby Shoots",
+    "Product And Business Shoots",
+    "Photo Albums And Prints"
+   ],
+   "keywords": [
+    "photography studio",
+    "photographer",
+    "wedding photographer",
+    "photo studio",
+    "portrait shoot",
+    "pre wedding shoot",
+    "photo shoot",
+    "फोटोग्राफर",
+    "फोटो स्टूडियो"
+   ],
+   "requests": [
+    "photography studio",
+    "photography studio",
+    "photographer",
+    "wedding photographer",
+    "photography studio",
+    "photography studio"
+   ],
+   "food": false,
+   "family": "project",
+   "mood": "elegant",
+   "prices": [
+    [
+     60,
+     "/portrait shoot"
+    ],
+    [
+     250,
+     "/event"
+    ],
+    [
+     600,
+     "/wedding"
+    ]
+   ],
+   "button": "Book A Shoot",
+   "team": [
+    "Lead Photographer",
+    "Photo Editor",
+    "Booking Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "plumber_electrician",
+   "label": "Plumber and electrician",
+   "theme": "home_services",
+   "business_type": "plumber, electrician, cleaning, repair and other home services",
+   "services": [
+    "Tap And Pipe Repair",
+    "Drain Blockage",
+    "Water Tank And Motor",
+    "Switch And Socket Repair",
+    "Fan, Light And Geyser Fitting",
+    "MCB And Wiring Work"
+   ],
+   "keywords": [
+    "plumber",
+    "electrician",
+    "plumbing repair",
+    "electrical wiring",
+    "handyman",
+    "bijli mistri",
+    "पलम्बर",
+    "प्लंबर",
+    "इलेक्ट्रीशियन"
+   ],
+   "requests": [
+    "plumber",
+    "plumber",
+    "electrician",
+    "plumbing repair",
+    "plumber",
+    "plumber"
+   ],
+   "food": false,
+   "family": "home",
+   "mood": "friendly",
+   "prices": [
+    [
+     6,
+     "/visit"
+    ],
+    [
+     20,
+     "/repair job"
+    ],
+    [
+     60,
+     "/installation job"
+    ]
+   ],
+   "button": "Book A Home Visit",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "car_wash_detailing",
+   "label": "Car wash and detailing",
+   "theme": "automotive",
+   "business_type": "cars, bikes, garages and dealers",
+   "services": [
+    "Exterior Foam Wash",
+    "Interior Vacuum Cleaning",
+    "Machine Polishing",
+    "Ceramic Coating",
+    "Interior Detailing",
+    "Underbody And Engine Wash"
+   ],
+   "keywords": [
+    "car wash",
+    "car detailing",
+    "ceramic coating",
+    "car spa",
+    "car polish",
+    "car cleaning",
+    "कार वॉश",
+    "car interior cleaning",
+    "कार वॉश",
+    "कार डिटेलिंग"
+   ],
+   "requests": [
+    "car wash",
+    "car wash",
+    "car detailing",
+    "ceramic coating",
+    "car wash",
+    "car wash"
+   ],
+   "food": false,
+   "family": "auto",
+   "mood": "bold",
+   "prices": [
+    [
+     4,
+     "/wash"
+    ],
+    [
+     12,
+     "/detailing"
+    ],
+    [
+     45,
+     "/ceramic coating"
+    ]
+   ],
+   "button": "Book A Car Wash",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "used_car_dealer",
+   "label": "Used car dealer",
+   "theme": "automotive",
+   "business_type": "cars, bikes, garages and dealers",
+   "services": [
+    "Hatchbacks",
+    "Sedans And SUVs",
+    "Test Drive",
+    "Service History",
+    "Sell Your Car",
+    "Finance And Transfer"
+   ],
+   "keywords": [
+    "used cars",
+    "second hand car",
+    "pre owned car",
+    "used car dealer",
+    "car showroom",
+    "purani car",
+    "sell my old car",
+    "सेकंड हैंड कार",
+    "पुरानी कार"
+   ],
+   "requests": [
+    "used car dealer",
+    "used car dealer",
+    "second hand car",
+    "pre owned car",
+    "used car dealer",
+    "used car dealer"
+   ],
+   "food": false,
+   "family": "auto",
+   "mood": "bold",
+   "prices": [
+    [
+     0,
+     "/test drive"
+    ],
+    [
+     25,
+     "/inspection"
+    ],
+    [
+     60,
+     "/paperwork support"
+    ]
+   ],
+   "button": "Book A Test Drive",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "architect_construction",
+   "label": "Architect and construction",
+   "theme": "real_estate",
+   "business_type": "property, builders and rentals",
+   "services": [
+    "Architectural Planning",
+    "House Construction",
+    "Home Renovation",
+    "Structural Drawings",
+    "Commercial Construction",
+    "Site Supervision"
+   ],
+   "keywords": [
+    "architect",
+    "civil contractor",
+    "home construction",
+    "house construction",
+    "building contractor",
+    "house renovation",
+    "ghar banwana",
+    "आर्किटेक्ट",
+    "घर बनवाना"
+   ],
+   "requests": [
+    "architect",
+    "architect",
+    "civil contractor",
+    "home construction",
+    "architect",
+    "architect"
+   ],
+   "food": false,
+   "family": "project",
+   "mood": "elegant",
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     150,
+     "/design stage"
+    ],
+    [
+     600,
+     "/full project"
+    ]
+   ],
+   "button": "Book A Design Chat",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "travel_agency",
+   "label": "Travel agency",
+   "theme": "travel_tourism",
+   "business_type": "travel, tours and hotels",
+   "services": [
+    "Domestic Tour Packages",
+    "International Packages",
+    "Honeymoon Trips",
+    "Flight And Train Tickets",
+    "Hotel And Cab Booking",
+    "Group And Family Tours"
+   ],
+   "keywords": [
+    "travel agency",
+    "tour packages",
+    "holiday packages",
+    "tour operator",
+    "flight tickets",
+    "honeymoon package",
+    "yatra",
+    "ट्रैवल एजेंसी",
+    "टूर पैकेज"
+   ],
+   "requests": [
+    "travel agency",
+    "travel agency",
+    "tour packages",
+    "holiday packages",
+    "travel agency",
+    "travel agency"
+   ],
+   "food": false,
+   "family": "stay",
+   "mood": "warm",
+   "prices": [
+    [
+     0,
+     "/planning chat"
+    ],
+    [
+     50,
+     "/custom itinerary"
+    ],
+    [
+     120,
+     "/full trip planning"
+    ]
+   ],
+   "button": "Plan My Trip",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "banquet_hall_venue",
+   "label": "Banquet hall and venue",
+   "theme": "events_wedding",
+   "business_type": "weddings, events and decor",
+   "services": [
+    "Air Conditioned Hall",
+    "Open Lawn",
+    "Bridal And Groom Rooms",
+    "Guest Rooms",
+    "Parking And Power Backup",
+    "Kitchen And Dining Area"
+   ],
+   "keywords": [
+    "banquet hall",
+    "wedding venue",
+    "party hall",
+    "marriage garden",
+    "marriage hall",
+    "shaadi hall",
+    "बैंक्वेट हॉल",
+    "मैरिज गार्डन"
+   ],
+   "requests": [
+    "banquet hall",
+    "banquet hall",
+    "wedding venue",
+    "party hall",
+    "banquet hall",
+    "banquet hall"
+   ],
+   "food": false,
+   "family": "events",
+   "mood": "elegant",
+   "prices": [
+    [
+     250,
+     "/small hall"
+    ],
+    [
+     600,
+     "/medium hall"
+    ],
+    [
+     1200,
+     "/grand hall"
+    ]
+   ],
+   "button": "Check Hall Dates",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "landscaping_gardening",
+   "label": "Landscaping and gardening",
+   "theme": "organic_nature",
+   "business_type": "organic, farm, nature and eco",
+   "services": [
+    "Garden Design",
+    "Lawn Laying And Care",
+    "Terrace And Balcony Gardens",
+    "Plants From Our Nursery",
+    "Monthly Garden Maintenance",
+    "Drip Irrigation Setup"
+   ],
+   "keywords": [
+    "landscaping",
+    "gardener",
+    "garden design",
+    "lawn care",
+    "terrace garden",
+    "plant nursery",
+    "बागवानी",
+    "baghwani",
+    "बागवानी",
+    "गार्डन डिजाइन"
+   ],
+   "requests": [
+    "landscaping",
+    "landscaping",
+    "gardener",
+    "garden design",
+    "landscaping",
+    "landscaping"
+   ],
+   "food": false,
+   "family": "home",
+   "mood": "calm",
+   "prices": [
+    [
+     20,
+     "/garden visit"
+    ],
+    [
+     80,
+     "/lawn makeover"
+    ],
+    [
+     250,
+     "/full design"
+    ]
+   ],
+   "button": "Book A Garden Visit",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "saas_startup",
+   "label": "SaaS startup",
+   "theme": "modern_tech",
+   "business_type": "software, SaaS, IT and technology",
+   "services": [
+    "Live Dashboard",
+    "Integrations",
+    "Team Workspaces",
+    "Automations",
+    "Reports And Exports",
+    "Secure Access"
+   ],
+   "keywords": [
+    "saas startup",
+    "saas product",
+    "saas platform",
+    "b2b software",
+    "software for teams",
+    "software product landing page",
+    "app for teams",
+    "सास सॉफ्टवेयर",
+    "saas",
+    "project management tool",
+    "सास स्टार्टअप",
+    "सॉफ्टवेयर प्रोडक्ट"
+   ],
+   "requests": [
+    "saas startup",
+    "saas startup",
+    "saas product",
+    "saas platform",
+    "saas startup",
+    "saas startup"
+   ],
+   "food": false,
+   "family": "software",
+   "mood": "cool",
+   "prices": [
+    [
+     9,
+     "/month"
+    ],
+    [
+     29,
+     "/month"
+    ],
+    [
+     79,
+     "/month"
+    ]
+   ],
+   "button": "Book A Demo",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "web_app_dev_agency",
+   "label": "Web and app development company",
+   "theme": "modern_tech",
+   "business_type": "software, SaaS, IT and technology",
+   "services": [
+    "Web Applications",
+    "Mobile Apps",
+    "Business Websites",
+    "Custom Software",
+    "API And Integrations",
+    "Maintenance And Support"
+   ],
+   "keywords": [
+    "software development company",
+    "web development company",
+    "mobile app development",
+    "app developers",
+    "custom software development",
+    "website and app development",
+    "android app developer",
+    "वेबसाइट डेवलपमेंट",
+    "ऐप डेवलपर"
+   ],
+   "requests": [
+    "web",
+    "web",
+    "web development company",
+    "mobile app development",
+    "web",
+    "web"
+   ],
+   "food": false,
+   "family": "project",
+   "mood": "cool",
+   "prices": [
+    [
+     150,
+     "/landing page"
+    ],
+    [
+     450,
+     "/business website"
+    ],
+    [
+     1200,
+     "/web app"
+    ]
+   ],
+   "button": "Share Your Idea",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "online_coach_courses",
+   "label": "Online coach and courses",
+   "theme": "education",
+   "business_type": "schools, coaching and training",
+   "services": [
+    "Live Sessions",
+    "Recorded Lessons",
+    "Practice Assignments",
+    "One To One Mentoring",
+    "Study Material",
+    "Community Group"
+   ],
+   "keywords": [
+    "online course",
+    "online coach",
+    "online mentor",
+    "online classes platform",
+    "skill training course",
+    "webinar",
+    "live online course",
+    "ऑनलाइन कोर्स",
+    "ऑनलाइन कोचिंग"
+   ],
+   "requests": [
+    "online coach",
+    "online coach",
+    "online coach",
+    "online mentor",
+    "online coach",
+    "online coach"
+   ],
+   "food": false,
+   "family": "edu",
+   "mood": "friendly",
+   "prices": [
+    [
+     10,
+     "/month"
+    ],
+    [
+     30,
+     "/course"
+    ],
+    [
+     80,
+     "/mentoring programme"
+    ]
+   ],
+   "button": "Join The Next Batch",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "ecommerce_store",
+   "label": "Online store",
+   "theme": "general_business",
+   "business_type": "a general local business",
+   "services": [
+    "Clear Product Pages",
+    "Secure Payments",
+    "Order Tracking",
+    "Easy Returns",
+    "Gift Wrap Option",
+    "Customer Support"
+   ],
+   "keywords": [
+    "online store",
+    "ecommerce store",
+    "ecommerce website",
+    "d2c brand",
+    "online shopping website",
+    "buy online",
+    "shop online",
+    "ऑनलाइन स्टोर",
+    "ऑनलाइन स्टोर",
+    "ऑनलाइन शॉपिंग"
+   ],
+   "requests": [
+    "online store",
+    "online store",
+    "ecommerce store",
+    "ecommerce website",
+    "online store",
+    "online store"
+   ],
+   "food": false,
+   "family": "retail",
+   "mood": "friendly",
+   "prices": [
+    [
+     3,
+     "/small order"
+    ],
+    [
+     12,
+     "/standard order"
+    ],
+    [
+     30,
+     "/gift order"
+    ]
+   ],
+   "button": "Shop Now",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "fashion_boutique",
+   "label": "Fashion boutique",
+   "theme": "fashion_retail",
+   "business_type": "clothing, boutique and fashion shops",
+   "services": [
+    "Sarees",
+    "Kurtis And Suits",
+    "Designer Wear",
+    "Lehengas",
+    "Dupattas And Accessories",
+    "Fitting Help"
+   ],
+   "keywords": [
+    "fashion boutique",
+    "ladies boutique",
+    "ethnic wear",
+    "saree shop",
+    "kurti collection",
+    "kurti boutique",
+    "kurti store",
+    "kurti shop",
+    "designer wear",
+    "designer suits",
+    "बुटीक",
+    "कुर्ती कलेक्शन"
+   ],
+   "requests": [
+    "fashion boutique",
+    "fashion boutique",
+    "ladies boutique",
+    "ethnic wear",
+    "fashion boutique",
+    "fashion boutique"
+   ],
+   "food": false,
+   "family": "retail",
+   "mood": "elegant",
+   "prices": [
+    [
+     10,
+     "/kurti"
+    ],
+    [
+     35,
+     "/ethnic set"
+    ],
+    [
+     90,
+     "/festive outfit"
+    ]
+   ],
+   "button": "Browse The Collection",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "furniture_store",
+   "label": "Furniture showroom",
+   "theme": "luxury_minimal",
+   "business_type": "luxury and high-end brands",
+   "services": [
+    "Sofas And Recliners",
+    "Beds And Mattresses",
+    "Dining Sets",
+    "Wardrobes And Storage",
+    "Home Decor",
+    "Delivery And Fitting"
+   ],
+   "keywords": [
+    "furniture showroom",
+    "sofa set",
+    "home decor shop",
+    "mattress store",
+    "bed and mattress",
+    "living room furniture",
+    "dining table set",
+    "फर्नीचर शोरूम",
+    "सोफा सेट"
+   ],
+   "requests": [
+    "furniture showroom",
+    "furniture showroom",
+    "sofa set",
+    "home decor shop",
+    "furniture showroom",
+    "furniture showroom"
+   ],
+   "food": false,
+   "family": "retail",
+   "mood": "elegant",
+   "prices": [
+    [
+     60,
+     "/chair"
+    ],
+    [
+     180,
+     "/sofa"
+    ],
+    [
+     450,
+     "/bedroom set"
+    ]
+   ],
+   "button": "Visit The Showroom",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "ngo_charity",
+   "label": "NGO and charity",
+   "theme": "nonprofit",
+   "business_type": "NGO, charity and foundation",
+   "services": [
+    "Education Support",
+    "Food Drives",
+    "Health Camps",
+    "Care For Children",
+    "Women Skill Training",
+    "Volunteer Programs"
+   ],
+   "keywords": [
+    "ngo",
+    "charity",
+    "donate online",
+    "social work",
+    "foundation donation",
+    "orphanage support",
+    "volunteer with us",
+    "एनजीओ",
+    "एनजीओ",
+    "दान करें"
+   ],
+   "requests": [
+    "ngo",
+    "ngo",
+    "charity",
+    "donate online",
+    "ngo",
+    "ngo"
+   ],
+   "food": false,
+   "family": "nonprofit",
+   "mood": "warm",
+   "prices": [
+    [
+     2,
+     "/month donation"
+    ],
+    [
+     10,
+     "/month donation"
+    ],
+    [
+     30,
+     "/month donation"
+    ]
+   ],
+   "button": "Donate Or Volunteer",
+   "team": [
+    "Programme Lead",
+    "Volunteer Coordinator",
+    "Donor Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "recruitment_agency",
+   "label": "Recruitment agency",
+   "theme": "professional_services",
+   "business_type": "consulting, legal, finance and other professionals",
+   "services": [
+    "Permanent Hiring",
+    "Bulk And Contract Staffing",
+    "Candidate Screening",
+    "Job Seeker Support",
+    "Walk In Drives",
+    "HR Documentation"
+   ],
+   "keywords": [
+    "recruitment agency",
+    "hr consultancy",
+    "staffing agency",
+    "placement agency",
+    "job consultancy",
+    "manpower consultancy",
+    "bulk hiring",
+    "भर्ती एजेंसी",
+    "प्लेसमेंट कंसल्टेंसी"
+   ],
+   "requests": [
+    "recruitment agency",
+    "recruitment agency",
+    "hr consultancy",
+    "staffing agency",
+    "recruitment agency",
+    "recruitment agency"
+   ],
+   "food": false,
+   "family": "pro",
+   "mood": "cool",
+   "prices": [
+    [
+     0,
+     "/employer enquiry"
+    ],
+    [
+     120,
+     "/hire"
+    ],
+    [
+     300,
+     "/senior hire"
+    ]
+   ],
+   "button": "Share A Requirement",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "logistics_courier",
+   "label": "Courier and logistics",
+   "theme": "automotive",
+   "business_type": "cars, bikes, garages and dealers",
+   "services": [
+    "Document Courier",
+    "Parcel Delivery",
+    "Cargo And Freight",
+    "International Courier",
+    "Business Shipping",
+    "Tracking And Support"
+   ],
+   "keywords": [
+    "courier service",
+    "parcel delivery",
+    "logistics company",
+    "cargo service",
+    "transport company",
+    "domestic courier",
+    "international courier",
+    "कूरियर सर्विस",
+    "पार्सल डिलीवरी"
+   ],
+   "requests": [
+    "courier",
+    "courier",
+    "parcel delivery",
+    "logistics company",
+    "courier",
+    "courier"
+   ],
+   "food": false,
+   "family": "auto",
+   "mood": "bold",
+   "prices": [
+    [
+     3,
+     "/parcel"
+    ],
+    [
+     12,
+     "/bulk parcel"
+    ],
+    [
+     60,
+     "/pallet"
+    ]
+   ],
+   "button": "Get A Courier Quote",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "fitness_martial_arts_dance",
+   "label": "Martial arts and dance fitness",
+   "theme": "bold_fitness",
+   "business_type": "gym, sports and fitness",
+   "services": [
+    "Karate",
+    "Taekwondo",
+    "Kickboxing",
+    "Zumba",
+    "Aerobics",
+    "Self Defence For Women"
+   ],
+   "keywords": [
+    "martial arts classes",
+    "karate classes",
+    "taekwondo classes",
+    "zumba classes",
+    "aerobics classes",
+    "kickboxing classes",
+    "self defence classes",
+    "कराटे क्लास",
+    "मार्शल आर्ट"
+   ],
+   "requests": [
+    "martial arts",
+    "martial arts",
+    "karate classes",
+    "taekwondo classes",
+    "martial arts",
+    "martial arts"
+   ],
+   "food": false,
+   "family": "session",
+   "mood": "bold",
+   "prices": [
+    [
+     12,
+     "/month"
+    ],
+    [
+     30,
+     "/quarter"
+    ],
+    [
+     100,
+     "/year"
+    ]
+   ],
+   "button": "Book A Trial Class",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "tea_house",
+   "label": "Tea house",
+   "theme": "organic_nature",
+   "business_type": "organic, farm, nature and eco",
+   "services": [
+    "Green And White Teas",
+    "Masala Chai",
+    "Herbal Infusions",
+    "Teas By The Pot",
+    "Tea Tastings",
+    "Leaves To Take Home"
+   ],
+   "keywords": [
+    "tea cafe",
+    "tea house",
+    "tea shop",
+    "tea lounge",
+    "tea room",
+    "chai cafe",
+    "chai lounge",
+    "bubble tea",
+    "loose leaf tea",
+    "चाय कैफे",
+    "टी हाउस",
+    "चाय कैफे"
+   ],
+   "requests": [
+    "tea house",
+    "tea house",
+    "tea house",
+    "tea shop",
+    "tea house",
+    "tea house"
+   ],
+   "food": true,
+   "family": "food",
+   "mood": "calm",
+   "prices": [
+    [
+     2,
+     "/pot"
+    ],
+    [
+     5,
+     "/tea flight"
+    ],
+    [
+     12,
+     "/high tea"
+    ]
+   ],
+   "button": "Reserve A Table",
+   "team": null,
+   "menu": {
+    "title": "On The Menu",
+    "lead": "Loose leaf teas brewed properly, with small bites on the side. Ask us to suggest a tea for your mood.",
+    "categories": [
+     {
+      "name": "Teas",
+      "items": [
+       "Darjeeling | light and floral",
+       "Assam | malty and strong",
+       "Earl grey",
+       "Green jasmine",
+       "Masala chai",
+       "Chamomile"
+      ]
+     },
+     {
+      "name": "Bites",
+      "items": [
+       "Scones with jam",
+       "Cucumber sandwiches",
+       "Butter cookies",
+       "Cake slice",
+       "Cheese toast",
+       "Samosa"
+      ]
+     },
+     {
+      "name": "Cold And Sweet",
+      "items": [
+       "Iced tea",
+       "Bubble tea",
+       "Lemonade",
+       "Mint cooler",
+       "Honey lemon tea"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "german_cafe",
+   "label": "German cafe",
+   "theme": "food_dining",
+   "business_type": "restaurants, cafes and food",
+   "services": [
+    "Fresh Pretzels",
+    "Black Forest Cake",
+    "Apple Strudel",
+    "Bratwurst And Mustard",
+    "Filter Coffee",
+    "Kaffee Und Kuchen"
+   ],
+   "keywords": [
+    "german cafe",
+    "german bakery",
+    "german coffee house",
+    "kaffeehaus",
+    "kaffee und kuchen",
+    "pretzel cafe",
+    "brezel",
+    "german style cafe",
+    "जर्मन कैफे",
+    "जर्मन बेकरी"
+   ],
+   "requests": [
+    "german cafe",
+    "german cafe",
+    "german bakery",
+    "german coffee house",
+    "german cafe",
+    "german cafe"
+   ],
+   "food": true,
+   "family": "food",
+   "mood": "warm",
+   "prices": [
+    [
+     3,
+     "/coffee and cake"
+    ],
+    [
+     7,
+     "/breakfast"
+    ],
+    [
+     15,
+     "/sharing platter"
+    ]
+   ],
+   "button": "Order Or Reserve",
+   "team": null,
+   "menu": {
+    "title": "On The Menu",
+    "lead": "German style coffee, cakes and bakes in a calm room. Ask us what came out of the oven today.",
+    "categories": [
+     {
+      "name": "Coffee And Tea",
+      "items": [
+       "Kaffee crema",
+       "Milchkaffee | large and milky",
+       "Flat white",
+       "Hot chocolate",
+       "Fruit tea",
+       "Herbal tea"
+      ]
+     },
+     {
+      "name": "Cakes",
+      "items": [
+       "Black forest cake | cherries and cream",
+       "Apple strudel | warm with cream",
+       "German cheesecake | light and creamy",
+       "Poppy seed cake",
+       "Linzer torte | jam and almond"
+      ]
+     },
+     {
+      "name": "Bakes",
+      "items": [
+       "Soft pretzel | fresh and salted",
+       "Pretzel with butter",
+       "Bread rolls",
+       "Rye bread",
+       "Sourdough loaf",
+       "Croissant"
+      ]
+     },
+     {
+      "name": "Savoury",
+      "items": [
+       "Cheese pretzel",
+       "Veg sandwich",
+       "Potato salad",
+       "Soup of the day",
+       "Pretzel sandwich"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "animal_welfare",
+   "label": "Animal welfare and rescue",
+   "theme": "nonprofit",
+   "business_type": "NGO, charity and foundation",
+   "services": [
+    "Rescue And Ambulance",
+    "Treatment And Surgery",
+    "Vaccination And Sterilisation",
+    "Feeding Drives",
+    "Adoption",
+    "Volunteer Walks"
+   ],
+   "keywords": [
+    "stray dogs",
+    "street dogs",
+    "stray animals",
+    "animal shelter",
+    "animal rescue",
+    "dog rescue",
+    "stray cats",
+    "animal welfare",
+    "pet adoption",
+    "आवारा कुत्ते",
+    "जानवरों की मदद"
+   ],
+   "requests": [
+    "animal welfare",
+    "animal welfare",
+    "street dogs",
+    "stray animals",
+    "animal welfare",
+    "animal welfare"
+   ],
+   "food": false,
+   "family": "nonprofit",
+   "mood": "warm",
+   "prices": [
+    [
+     2,
+     "/month feeding"
+    ],
+    [
+     10,
+     "/month sponsor"
+    ],
+    [
+     40,
+     "/rescue support"
+    ]
+   ],
+   "button": "Help An Animal",
+   "team": [
+    "Rescue Lead",
+    "Volunteer Coordinator",
+    "Care Desk"
+   ],
+   "menu": null
+  },
+  {
+   "id": "toy_store",
+   "label": "Toy store",
+   "theme": "playful_vibrant",
+   "business_type": "kids, toys, fun and colourful brands",
+   "services": [
+    "Building Blocks And Sets",
+    "Dolls And Soft Toys",
+    "Board Games And Puzzles",
+    "Educational Toys",
+    "Outdoor And Ride-ons",
+    "Gift Wrapping"
+   ],
+   "keywords": [
+    "toy store",
+    "toy shop",
+    "kids toy store",
+    "kids toys",
+    "toys for kids",
+    "baby toys",
+    "educational toys",
+    "board games shop",
+    "खिलौनों की दुकान",
+    "टॉय स्टोर"
+   ],
+   "requests": [
+    "toy store",
+    "toy store",
+    "toy shop",
+    "kids toy store",
+    "toy store",
+    "toy store"
+   ],
+   "food": false,
+   "family": "retail",
+   "mood": "playful",
+   "prices": [
+    [
+     4,
+     "/toy"
+    ],
+    [
+     15,
+     "/gift set"
+    ],
+    [
+     40,
+     "/premium set"
+    ]
+   ],
+   "button": "Find A Toy",
+   "team": null,
+   "menu": null
+  },
+  {
+   "id": "chai_tea_stall",
+   "label": "Chai stall",
+   "theme": "food_dining",
+   "business_type": "restaurants, cafes and food",
+   "services": [
+    "Kadak Masala Chai",
+    "Bun Maska And Toast",
+    "Pakoda And Samosa",
+    "Cutting Chai",
+    "Cold Coffee And Lemon Tea",
+    "Takeaway Cups"
+   ],
+   "keywords": [
+    "chai ki tapri",
+    "chai tapri",
+    "tea stall",
+    "chai stall",
+    "chai shop",
+    "tea stall",
+    "tapri",
+    "चाय की टपरी",
+    "चाय की दुकान"
+   ],
+   "requests": [
+    "chai stall",
+    "chai stall",
+    "chai tapri",
+    "tea stall",
+    "chai stall",
+    "chai stall"
+   ],
+   "food": true,
+   "family": "food_order",
+   "mood": "warm",
+   "prices": [
+    [
+     0.25,
+     "/cup"
+    ],
+    [
+     1,
+     "/chai and snack"
+    ],
+    [
+     4,
+     "/office order"
+    ]
+   ],
+   "button": "Order Chai",
+   "team": null,
+   "menu": {
+    "title": "On The Menu",
+    "lead": "Hot chai made fresh all day with simple snacks on the side. Take it away or stand a while.",
+    "categories": [
+     {
+      "name": "Chai",
+      "items": [
+       "Kadak masala chai | strong and spiced",
+       "Cutting chai | half cup",
+       "Adrak chai | with ginger",
+       "Elaichi chai | with cardamom",
+       "Tulsi chai",
+       "Lemon tea"
+      ]
+     },
+     {
+      "name": "Snacks",
+      "items": [
+       "Bun maska | buttered bun",
+       "Toast with butter",
+       "Samosa | crisp and hot",
+       "Pakoda | gram flour fritters",
+       "Biscuits"
+      ]
+     },
+     {
+      "name": "Cold Drinks",
+      "items": [
+       "Cold coffee",
+       "Lemon soda",
+       "Iced tea",
+       "Chaas | spiced buttermilk",
+       "Sugarcane juice"
+      ]
+     }
+    ]
+   }
+  }
+ ],
+ "types": [
+  {
+   "theme": "modern_tech",
+   "label": "Software, SaaS, IT and technology",
+   "text": "software, SaaS, IT and technology",
+   "short": "software and IT",
+   "family": "software",
+   "mood": "cool",
+   "items": [
+    "Clear Onboarding",
+    "Simple Setup",
+    "Friendly Support",
+    "Regular Updates",
+    "Careful Data Handling",
+    "Flexible Plans"
+   ],
+   "keywords": [
+    "software",
+    "saas",
+    "it company",
+    "software company",
+    "app development",
+    "tech startup",
+    "cloud software",
+    "b2b software"
+   ],
+   "prices": [
+    [
+     9,
+     "/month"
+    ],
+    [
+     29,
+     "/month"
+    ],
+    [
+     79,
+     "/month"
+    ]
+   ],
+   "button": "Book A Demo",
+   "menu": null,
+   "requests": "software website Create a modern website for software, SaaS, IT and technology mujhe software ki website chahiye"
+  },
+  {
+   "theme": "organic_nature",
+   "label": "Organic, farm, nature and eco",
+   "text": "organic, farm, nature and eco",
+   "short": "organic and farm",
+   "family": "retail",
+   "mood": "calm",
+   "items": [
+    "Fresh Produce",
+    "Seasonal Picks",
+    "Clear Sourcing Details",
+    "Simple Ordering",
+    "Local Delivery Help",
+    "Honest Labels"
+   ],
+   "keywords": [
+    "organic",
+    "organic store",
+    "organic farm",
+    "farm fresh",
+    "natural products",
+    "eco friendly",
+    "organic food",
+    "farm produce"
+   ],
+   "prices": [
+    [
+     3,
+     "/small order"
+    ],
+    [
+     12,
+     "/weekly box"
+    ],
+    [
+     30,
+     "/family box"
+    ]
+   ],
+   "button": "Order Fresh",
+   "menu": null,
+   "requests": "organic website Create a modern website for organic, farm, nature and eco mujhe organic ki website chahiye"
+  },
+  {
+   "theme": "bold_fitness",
+   "label": "Gym, sports and fitness",
+   "text": "gym, sports and fitness",
+   "short": "gym and fitness",
+   "family": "session",
+   "mood": "bold",
+   "items": [
+    "Beginner Friendly Sessions",
+    "Coach Guidance",
+    "Flexible Timings",
+    "Progress Check Ins",
+    "Group And Solo Training",
+    "Trial Visit On Request"
+   ],
+   "keywords": [
+    "gym",
+    "fitness",
+    "sports club",
+    "personal training",
+    "workout",
+    "fitness centre",
+    "sports academy",
+    "crossfit"
+   ],
+   "prices": [
+    [
+     15,
+     "/month"
+    ],
+    [
+     40,
+     "/quarter"
+    ],
+    [
+     120,
+     "/year"
+    ]
+   ],
+   "button": "Book A Trial",
+   "menu": null,
+   "requests": "gym website Create a modern website for gym, sports and fitness mujhe gym ki website chahiye"
+  },
+  {
+   "theme": "luxury_minimal",
+   "label": "Luxury and high-end brands",
+   "text": "luxury and high-end brands",
+   "short": "luxury",
+   "family": "retail",
+   "mood": "elegant",
+   "items": [
+    "Careful Selection",
+    "Personal Service",
+    "Private Appointments",
+    "Quality Finishing",
+    "Gift Presentation",
+    "After Sales Care"
+   ],
+   "keywords": [
+    "luxury brand",
+    "luxury store",
+    "high end brand",
+    "premium brand",
+    "luxury boutique",
+    "designer brand",
+    "luxury goods"
+   ],
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     100,
+     "/piece"
+    ],
+    [
+     300,
+     "/premium piece"
+    ]
+   ],
+   "button": "Book A Private Visit",
+   "menu": null,
+   "requests": "luxury and high-end brands website Create a modern website for luxury and high-end brands mujhe luxury ki website chahiye"
+  },
+  {
+   "theme": "playful_vibrant",
+   "label": "Kids, toys, fun and colourful brands",
+   "text": "kids, toys, fun and colourful brands",
+   "short": "kids and toys",
+   "family": "retail",
+   "mood": "playful",
+   "items": [
+    "Age Wise Choices",
+    "Safe Materials Details",
+    "Gift Ideas",
+    "Birthday Help",
+    "Easy Returns Advice",
+    "Friendly Service"
+   ],
+   "keywords": [
+    "kids brand",
+    "kids store",
+    "toys",
+    "children products",
+    "kids party",
+    "kids fun",
+    "colourful brand",
+    "baby products"
+   ],
+   "prices": [
+    [
+     4,
+     "/toy"
+    ],
+    [
+     15,
+     "/gift set"
+    ],
+    [
+     40,
+     "/party set"
+    ]
+   ],
+   "button": "Find A Gift",
+   "menu": null,
+   "requests": "kids website Create a modern website for kids, toys, fun and colourful brands mujhe kids ki website chahiye"
+  },
+  {
+   "theme": "professional_services",
+   "label": "Consulting, legal, finance and other professionals",
+   "text": "consulting, legal, finance and other professionals",
+   "short": "consulting and legal",
+   "family": "pro",
+   "mood": "cool",
+   "items": [
+    "Clear First Call",
+    "Plain Advice",
+    "Written Next Steps",
+    "Fees Told Upfront",
+    "Private Handling",
+    "Regular Updates"
+   ],
+   "keywords": [
+    "consulting",
+    "consultant",
+    "legal services",
+    "finance advisor",
+    "professional services",
+    "business consultant",
+    "advisory firm"
+   ],
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     40,
+     "/review"
+    ],
+    [
+     150,
+     "/case support"
+    ]
+   ],
+   "button": "Book A Consultation",
+   "menu": null,
+   "requests": "consulting website Create a modern website for consulting, legal, finance and other professionals mujhe consulting ki website chahiye"
+  },
+  {
+   "theme": "healthcare",
+   "label": "Clinics, hospitals and medical",
+   "text": "clinics, hospitals and medical",
+   "short": "clinic and medical",
+   "family": "clinic",
+   "mood": "calm",
+   "items": [
+    "Easy Appointments",
+    "Time For Questions",
+    "Plain Explanations",
+    "Follow Up Guidance",
+    "Clear Fees",
+    "Calm Waiting Area"
+   ],
+   "keywords": [
+    "hospital",
+    "medical centre",
+    "doctor",
+    "healthcare",
+    "medical clinic",
+    "nursing home",
+    "health centre",
+    "family clinic"
+   ],
+   "prices": [
+    [
+     4,
+     "/consultation"
+    ],
+    [
+     15,
+     "/checkup"
+    ],
+    [
+     40,
+     "/care plan"
+    ]
+   ],
+   "button": "Book An Appointment",
+   "menu": null,
+   "requests": "clinics website Create a modern website for clinics, hospitals and medical mujhe clinics ki website chahiye"
+  },
+  {
+   "theme": "food_dining",
+   "label": "Restaurants, cafes and food",
+   "text": "restaurants, cafes and food",
+   "short": "restaurant and cafe",
+   "family": "food",
+   "mood": "warm",
+   "items": [
+    "Fresh Cooking",
+    "Easy Ordering",
+    "Table Reservations",
+    "Dietary Questions Welcome",
+    "Takeaway Options",
+    "Friendly Service"
+   ],
+   "keywords": [
+    "restaurant",
+    "cafe",
+    "food business",
+    "eatery",
+    "dining",
+    "food court",
+    "fast food",
+    "tiffin"
+   ],
+   "prices": [
+    [
+     4,
+     "/main course"
+    ],
+    [
+     8,
+     "/combo"
+    ],
+    [
+     25,
+     "/family table"
+    ]
+   ],
+   "button": "Order Or Reserve",
+   "menu": {
+    "title": "On The Menu",
+    "lead": "A simple menu of fresh favourites, made to order. Ask the team about ingredients or any dietary need.",
+    "categories": [
+     {
+      "name": "Starters",
+      "items": [
+       "Soup of the day",
+       "Veg spring rolls",
+       "Grilled paneer | with mint dip",
+       "Crispy corn",
+       "Fresh salad"
+      ]
+     },
+     {
+      "name": "Main Course",
+      "items": [
+       "Dal and rice",
+       "Paneer curry",
+       "Veg pulao | gently spiced",
+       "Pasta of the day",
+       "Grilled sandwich",
+       "Chef's special | ask the team"
+      ]
+     },
+     {
+      "name": "Desserts",
+      "items": [
+       "Gulab jamun | with warm syrup",
+       "Ice cream",
+       "Brownie",
+       "Fruit custard",
+       "Kulfi | on a stick"
+      ]
+     },
+     {
+      "name": "Drinks",
+      "items": [
+       "Masala chai",
+       "Cold coffee",
+       "Fresh lime soda",
+       "Lassi | sweet or salted",
+       "Seasonal juice"
+      ]
+     }
+    ]
+   },
+   "requests": "restaurants website Create a modern website for restaurants, cafes and food mujhe restaurants ki website chahiye"
+  },
+  {
+   "theme": "education",
+   "label": "Schools, coaching and training",
+   "text": "schools, coaching and training",
+   "short": "school and coaching",
+   "family": "edu",
+   "mood": "friendly",
+   "items": [
+    "Demo Class Option",
+    "Small Batches",
+    "Regular Practice",
+    "Progress Updates",
+    "Doubt Clearing",
+    "Flexible Timings"
+   ],
+   "keywords": [
+    "school",
+    "coaching",
+    "training institute",
+    "classes",
+    "tuition",
+    "academy",
+    "learning centre",
+    "education"
+   ],
+   "prices": [
+    [
+     12,
+     "/month"
+    ],
+    [
+     30,
+     "/month"
+    ],
+    [
+     60,
+     "/month"
+    ]
+   ],
+   "button": "Book A Demo Class",
+   "menu": null,
+   "requests": "schools website Create a modern website for schools, coaching and training mujhe schools ki website chahiye"
+  },
+  {
+   "theme": "creative_studio",
+   "label": "Design, photo, video and creative studios",
+   "text": "design, photo, video and creative studios",
+   "short": "design and creative",
+   "family": "project",
+   "mood": "elegant",
+   "items": [
+    "Brief First Approach",
+    "Draft Reviews",
+    "Clear Timelines",
+    "Format Delivery",
+    "Revision Rounds",
+    "Friendly Collaboration"
+   ],
+   "keywords": [
+    "design studio",
+    "creative studio",
+    "photo studio",
+    "video studio",
+    "graphic design",
+    "creative agency",
+    "branding studio",
+    "production house"
+   ],
+   "prices": [
+    [
+     60,
+     "/project"
+    ],
+    [
+     200,
+     "/project"
+    ],
+    [
+     500,
+     "/project"
+    ]
+   ],
+   "button": "Start Your Project",
+   "menu": null,
+   "requests": "design website Create a modern website for design, photo, video and creative studios mujhe design ki website chahiye"
+  },
+  {
+   "theme": "general_business",
+   "label": "A general local business",
+   "text": "a general local business",
+   "short": "local business",
+   "family": "home",
+   "mood": "friendly",
+   "items": [
+    "Friendly Local Service",
+    "Clear Pricing",
+    "Easy Contact",
+    "Honest Advice",
+    "On Time Updates",
+    "Quick Replies"
+   ],
+   "keywords": [
+    "local business",
+    "small business",
+    "business website",
+    "local shop",
+    "neighbourhood business",
+    "unique website",
+    "company website"
+   ],
+   "prices": [
+    [
+     5,
+     "/job"
+    ],
+    [
+     20,
+     "/job"
+    ],
+    [
+     60,
+     "/job"
+    ]
+   ],
+   "button": "Contact Us Today",
+   "menu": null,
+   "requests": "a general local business website Create a modern website for a general local business mujhe a general local business ki website chahiye"
+  },
+  {
+   "theme": "real_estate",
+   "label": "Property, builders and rentals",
+   "text": "property, builders and rentals",
+   "short": "property and rentals",
+   "family": "property",
+   "mood": "elegant",
+   "items": [
+    "Clear Listings",
+    "Honest Details",
+    "Viewing Support",
+    "Paperwork Guidance",
+    "Cost Explanations",
+    "Friendly Advice"
+   ],
+   "keywords": [
+    "property",
+    "real estate",
+    "builders",
+    "rentals",
+    "house for rent",
+    "flats",
+    "construction company",
+    "property dealer"
+   ],
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     30,
+     "/property search"
+    ],
+    [
+     80,
+     "/full service"
+    ]
+   ],
+   "button": "Book A Viewing",
+   "menu": null,
+   "requests": "property website Create a modern website for property, builders and rentals mujhe property ki website chahiye"
+  },
+  {
+   "theme": "travel_tourism",
+   "label": "Travel, tours and hotels",
+   "text": "travel, tours and hotels",
+   "short": "travel and hotel",
+   "family": "stay",
+   "mood": "warm",
+   "items": [
+    "Custom Itineraries",
+    "Clear Inclusions",
+    "Easy Booking",
+    "Local Tips",
+    "Flexible Plans",
+    "Quick Replies"
+   ],
+   "keywords": [
+    "travel",
+    "tours",
+    "hotel",
+    "tour operator",
+    "holiday packages",
+    "resort",
+    "travel company",
+    "trip planner"
+   ],
+   "prices": [
+    [
+     0,
+     "/planning chat"
+    ],
+    [
+     50,
+     "/itinerary"
+    ],
+    [
+     120,
+     "/full trip"
+    ]
+   ],
+   "button": "Plan My Trip",
+   "menu": null,
+   "requests": "travel website Create a modern website for travel, tours and hotels mujhe travel ki website chahiye"
+  },
+  {
+   "theme": "automotive",
+   "label": "Cars, bikes, garages and dealers",
+   "text": "cars, bikes, garages and dealers",
+   "short": "car and bike",
+   "family": "auto",
+   "mood": "bold",
+   "items": [
+    "Clear Estimates",
+    "Slot Booking",
+    "Plain Explanations",
+    "Update Messages",
+    "Careful Handling",
+    "Friendly Service"
+   ],
+   "keywords": [
+    "cars",
+    "bikes",
+    "garage",
+    "car dealer",
+    "bike showroom",
+    "auto workshop",
+    "vehicle service",
+    "auto dealer"
+   ],
+   "prices": [
+    [
+     6,
+     "/check"
+    ],
+    [
+     20,
+     "/service"
+    ],
+    [
+     60,
+     "/full service"
+    ]
+   ],
+   "button": "Book A Slot",
+   "menu": null,
+   "requests": "cars website Create a modern website for cars, bikes, garages and dealers mujhe cars ki website chahiye"
+  },
+  {
+   "theme": "beauty_wellness",
+   "label": "Salon, spa, yoga and wellness",
+   "text": "salon, spa, yoga and wellness",
+   "short": "salon and wellness",
+   "family": "session",
+   "mood": "elegant",
+   "items": [
+    "Relaxed Sessions",
+    "Personal Plans",
+    "Easy Booking",
+    "Clean Spaces",
+    "Friendly Team",
+    "Aftercare Tips"
+   ],
+   "keywords": [
+    "salon",
+    "spa",
+    "yoga",
+    "wellness",
+    "beauty parlour",
+    "wellness centre",
+    "massage",
+    "beauty"
+   ],
+   "prices": [
+    [
+     5,
+     "/session"
+    ],
+    [
+     15,
+     "/session"
+    ],
+    [
+     40,
+     "/package"
+    ]
+   ],
+   "button": "Book A Session",
+   "menu": null,
+   "requests": "salon website Create a modern website for salon, spa, yoga and wellness mujhe salon ki website chahiye"
+  },
+  {
+   "theme": "events_wedding",
+   "label": "Weddings, events and decor",
+   "text": "weddings, events and decor",
+   "short": "wedding and event",
+   "family": "events",
+   "mood": "elegant",
+   "items": [
+    "Planning Support",
+    "Checklist Approach",
+    "Vendor Coordination",
+    "Decor Ideas",
+    "Day Of Support",
+    "Clear Quotes"
+   ],
+   "keywords": [
+    "wedding",
+    "events",
+    "decor",
+    "event planner",
+    "wedding planner",
+    "party planner",
+    "event management",
+    "decorator"
+   ],
+   "prices": [
+    [
+     150,
+     "/event"
+    ],
+    [
+     500,
+     "/wedding"
+    ],
+    [
+     1500,
+     "/large wedding"
+    ]
+   ],
+   "button": "Plan Your Event",
+   "menu": null,
+   "requests": "weddings website Create a modern website for weddings, events and decor mujhe weddings ki website chahiye"
+  },
+  {
+   "theme": "pets_animals",
+   "label": "Pets, vets and animal care",
+   "text": "pets, vets and animal care",
+   "short": "pet and vet",
+   "family": "clinic",
+   "mood": "friendly",
+   "items": [
+    "Gentle Handling",
+    "Booked Visits",
+    "Care Advice",
+    "Fair Fee Talk",
+    "Friendly Team",
+    "Follow Up Help"
+   ],
+   "keywords": [
+    "pets",
+    "vet",
+    "pet care",
+    "animal care",
+    "pet shop",
+    "veterinary",
+    "pet clinic",
+    "dog care"
+   ],
+   "prices": [
+    [
+     10,
+     "/visit"
+    ],
+    [
+     25,
+     "/consultation"
+    ],
+    [
+     60,
+     "/week"
+    ]
+   ],
+   "button": "Book A Pet Visit",
+   "menu": null,
+   "requests": "pets website Create a modern website for pets, vets and animal care mujhe pets ki website chahiye"
+  },
+  {
+   "theme": "fashion_retail",
+   "label": "Clothing, boutique and fashion shops",
+   "text": "clothing, boutique and fashion shops",
+   "short": "clothing and boutique",
+   "family": "retail",
+   "mood": "elegant",
+   "items": [
+    "Honest Sizing Advice",
+    "Careful Selection",
+    "Easy Exchange Advice",
+    "Gift Wrapping",
+    "Festive Collections",
+    "Helpful Staff"
+   ],
+   "keywords": [
+    "clothing",
+    "boutique",
+    "fashion shop",
+    "clothes shop",
+    "apparel",
+    "garments",
+    "fashion store",
+    "ethnic wear"
+   ],
+   "prices": [
+    [
+     10,
+     "/piece"
+    ],
+    [
+     35,
+     "/set"
+    ],
+    [
+     90,
+     "/festive outfit"
+    ]
+   ],
+   "button": "Browse The Collection",
+   "menu": null,
+   "requests": "clothing website Create a modern website for clothing, boutique and fashion shops mujhe clothing ki website chahiye"
+  },
+  {
+   "theme": "home_services",
+   "label": "Plumber, electrician, cleaning, repair and other home services",
+   "text": "plumber, electrician, cleaning, repair and other home services",
+   "short": "home service",
+   "family": "home",
+   "mood": "friendly",
+   "items": [
+    "Clear Quotes",
+    "Local Team",
+    "Tidy Work",
+    "Time Slots",
+    "Plain Explanations",
+    "Follow Up Care"
+   ],
+   "keywords": [
+    "plumber",
+    "electrician",
+    "home services",
+    "cleaning",
+    "repair",
+    "handyman",
+    "home repair",
+    "maintenance"
+   ],
+   "prices": [
+    [
+     8,
+     "/visit"
+    ],
+    [
+     25,
+     "/job"
+    ],
+    [
+     60,
+     "/project"
+    ]
+   ],
+   "button": "Book A Home Visit",
+   "menu": null,
+   "requests": "plumber website Create a modern website for plumber, electrician, cleaning, repair and other home services mujhe plumber ki website chahiye"
+  },
+  {
+   "theme": "nonprofit",
+   "label": "NGO, charity and foundation",
+   "text": "NGO, charity and foundation",
+   "short": "nonprofit and foundation",
+   "family": "nonprofit",
+   "mood": "warm",
+   "items": [
+    "Open Reporting",
+    "Volunteer Roles",
+    "Donation Options",
+    "Community Programmes",
+    "Event Updates",
+    "Easy Contact"
+   ],
+   "keywords": [
+    "ngo",
+    "charity",
+    "foundation",
+    "nonprofit",
+    "trust",
+    "social work",
+    "donate",
+    "volunteer"
+   ],
+   "prices": [
+    [
+     2,
+     "/month"
+    ],
+    [
+     10,
+     "/month"
+    ],
+    [
+     30,
+     "/month"
+    ]
+   ],
+   "button": "Support Our Work",
+   "menu": null,
+   "requests": "NGO website Create a modern website for NGO, charity and foundation mujhe NGO ki website chahiye"
+  }
+ ]
+}

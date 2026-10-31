@@ -1,0 +1,181 @@
+{
+  "brand": "Horizon Stay",
+  "niche": "hosting",
+  "kind": "travel",
+  "profile": "",
+  "business_type": "hotel",
+  "type_label": "Hotel & Stay",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "warm",
+  "keywords": [
+    "hotel",
+    "udaipur"
+  ],
+  "eyebrow": "Hotel & Stay · Udaipur",
+  "location": "Udaipur",
+  "audience": "",
+  "hero_heading": "Hotel & Stay in Udaipur",
+  "tagline": "Come for a night or stay a week.",
+  "about_title": "About us",
+  "about": [
+    "We'd rather you knew exactly what to expect.",
+    "You will find us in Udaipur. Feel free to ask us anything before you decide."
+  ],
+  "features_title": "Trips and services",
+  "features": [
+    {
+      "title": "Stays",
+      "text": "Stays: ask for details before you decide."
+    },
+    {
+      "title": "Amenities",
+      "text": "Tell us what you need from Amenities and we will suggest where to start."
+    },
+    {
+      "title": "Restaurants",
+      "text": "We will explain Restaurants in plain words."
+    },
+    {
+      "title": "Packages",
+      "text": "Packages is part of the stay; ask us how it works."
+    },
+    {
+      "title": "Suites",
+      "text": "Ask about Suites at the time of booking."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Questions welcome",
+      "text": "Big or small."
+    },
+    {
+      "title": "Look after you",
+      "text": "Someone is always on hand."
+    },
+    {
+      "title": "Ask us anything",
+      "text": "Questions before you arrive are welcome."
+    }
+  ],
+  "stats_title": "Quick facts",
+  "stats": [
+    {
+      "value": "Udaipur",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "Getting started",
+  "steps": [
+    {
+      "title": "Get in touch",
+      "text": "Send a message or call and tell us what you need."
+    },
+    {
+      "title": "We confirm",
+      "text": "We reply with what is available."
+    },
+    {
+      "title": "Enjoy your stay",
+      "text": "Rest, explore and feel free to ask us for anything you need."
+    }
+  ],
+  "faq_title": "Quick answers",
+  "faq": [
+    {
+      "q": "Can you help with getting here?",
+      "a": "Message us and we'll send directions."
+    },
+    {
+      "q": "Is there anything included with the room?",
+      "a": "Message us and we will tell you what is included."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Udaipur; reach out for directions."
+    },
+    {
+      "q": "What if I'm not sure what I need?",
+      "a": "Let us know what you're trying to achieve and we will point you in the right direction."
+    }
+  ],
+  "blog_title": "From the journal",
+  "blog": [
+    {
+      "title": "How to choose a good hotel & stay",
+      "excerpt": "Five questions worth asking before you decide."
+    },
+    {
+      "title": "Making the most of your first visit",
+      "excerpt": "A short list to bring with you."
+    },
+    {
+      "title": "Why we answer every message",
+      "excerpt": "Replies are part of the service."
+    }
+  ],
+  "contact": {
+    "place": "Udaipur"
+  },
+  "cta_primary": "Check availability",
+  "cta_secondary": "See the rooms",
+  "cta_text": "Planning a stay? Check availability.",
+  "cta_title": "Tell us what you need",
+  "footer": "© Horizon Stay. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Udaipur",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "hotel (confidence high)",
+    "items_from_prompt": [],
+    "place": "Udaipur",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "travel"
+  },
+  "needs_review": [
+    "No business name was given; 'Horizon Stay' is a placeholder.",
+    "Typical hotel & stay offerings were used for: Stays, Amenities, Restaurants, Packages, Suites. List your real services (3 or more) to replace them."
+  ]
+}

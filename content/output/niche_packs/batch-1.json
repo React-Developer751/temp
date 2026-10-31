@@ -1,0 +1,2231 @@
+[
+  {
+    "id": "pest_control",
+    "label": "Pest control",
+    "theme": "home_services",
+    "keywords": [
+      "pest control",
+      "termite treatment",
+      "cockroach control",
+      "bed bug treatment",
+      "rodent control",
+      "fumigation",
+      "deemak",
+      "कीट नियंत्रण",
+      "दीमक का इलाज"
+    ],
+    "heroTitles": [
+      "Straightforward Pest Control For Your Home",
+      "Pest Control That Respects Your Time",
+      "Plain Answers On General Pest Control"
+    ],
+    "heroSubtitles": [
+      "From general pest control to termite treatment, {brand} keeps things simple: a short chat, a fair quote and a visit at a time that suits you.",
+      "{brand} offers general pest control, rodent control and more. We listen first, quote clearly and leave the place as we found it.",
+      "Need general pest control or mosquito control? {brand} sends a local team, explains each step and keeps you informed until the job is done."
+    ],
+    "button": "Book A Free Inspection",
+    "featureTitle": "Our Pest Control Services",
+    "features": [
+      {
+        "title": "General Pest Control",
+        "text": "Ask about general pest control and get a clear quote, a time that suits you and a tidy finish."
+      },
+      {
+        "title": "Termite Treatment",
+        "text": "For termite treatment, we look at the place first, then suggest the simplest fix that lasts."
+      },
+      {
+        "title": "Bed Bug Removal",
+        "text": "Need bed bug removal? Tell us what is wrong and we will say what can be done and when."
+      },
+      {
+        "title": "Rodent Control",
+        "text": "Rodent Control with a short check at the end, so you know the job is finished properly."
+      },
+      {
+        "title": "Mosquito Control",
+        "text": "We explain what mosquito control involves, the options and the cost before any work begins."
+      },
+      {
+        "title": "Pre Construction Treatment",
+        "text": "Pre Construction Treatment by a local team, with the price and timing agreed with you first."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First quote"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Local",
+        "label": "Team near you"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Describe the pest control job by call or message, with a photo if that helps."
+        },
+        {
+          "title": "Get A Clear Quote",
+          "text": "We explain the options for general pest control and give you the price before anything starts."
+        },
+        {
+          "title": "We Do The Work",
+          "text": "Our team arrives at the agreed time and completes the termite treatment work with care."
+        },
+        {
+          "title": "Check And Follow Up",
+          "text": "We go through the result with you and stay reachable for questions on bed bug removal afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What should I prepare before general pest control?",
+        "a": "A clear path to the work area and a few details about the problem are usually enough; we will tell you if more is needed. Ask us about mosquito control or pre construction treatment and the answer is the same."
+      },
+      {
+        "q": "Do you explain the pest control work before starting?",
+        "a": "Always. We describe each step, the materials and the cost, and begin only when you are comfortable. The same approach applies to general pest control and pre construction treatment."
+      },
+      {
+        "q": "Can I ask questions after bed bug removal?",
+        "a": "Yes. Message us any time after the job and we will answer or come back to check. This applies to general pest control, termite treatment and the rest of our pest control work."
+      },
+      {
+        "q": "Do you handle small pest control jobs too?",
+        "a": "Yes. Small and large jobs get the same care, and we quote both in the same clear way. It is the same for termite treatment as it is for general pest control."
+      },
+      {
+        "q": "How do you charge for rodent control?",
+        "a": "We quote by the job and tell you what is included, so the final bill matches what we agreed. That goes for bed bug removal and rodent control too."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Book Pest Control Today?",
+      "button": "Book A Free Inspection"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local team for pest control. We keep our work simple: listen to the problem, explain the options and do the job properly.",
+        "We cover general pest control, termite treatment and bed bug removal, and we are happy to talk it through with you before you decide on anything."
+      ],
+      "points": [
+        "Plain Explanations",
+        "Fixed Visit Times",
+        "Follow-Up On Request"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Pest Control",
+      "plans": [
+        {
+          "name": "Single Visit",
+          "price": "$12",
+          "period": "/visit",
+          "perks": [
+            "General Pest Control Only",
+            "Written Quote First",
+            "Time Slot You Choose"
+          ]
+        },
+        {
+          "name": "Regular Care",
+          "price": "$35",
+          "period": "/quarter",
+          "perks": [
+            "General Pest Control And Termite Treatment",
+            "Follow-Up Check",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Service",
+          "price": "$90",
+          "period": "/year",
+          "perks": [
+            "General Pest Control Plus Termite Treatment And Bed Bug Removal",
+            "Extended Follow-Up",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Pest Control At Work",
+      "captions": [
+        "General Pest Control",
+        "Termite Treatment",
+        "Bed Bug Removal",
+        "Rodent Control",
+        "Mosquito Control",
+        "Pre Construction Treatment"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Pest Technician",
+        "Inspection Lead",
+        "Customer Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Easy to book, on time, and the pest control work looked neat at the end.",
+        "role": "Home owner"
+      },
+      {
+        "quote": "I liked that general pest control was priced upfront and nothing extra appeared later.",
+        "role": "Office manager"
+      },
+      {
+        "quote": "Polite team and a straight answer on rodent control.",
+        "role": "Tenant"
+      }
+    ],
+    "blog": {
+      "title": "Pest Control Tips And Guides",
+      "posts": [
+        {
+          "tag": "Cost",
+          "title": "What Affects The Cost Of General Pest Control"
+        },
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask Before Termite Treatment"
+        },
+        {
+          "tag": "Planning",
+          "title": "Preparing Your Place For Bed Bug Removal"
+        }
+      ]
+    },
+    "marquee": [
+      "General Pest",
+      "Termite",
+      "Bed Bug",
+      "Rodent Control",
+      "Mosquito Control",
+      "Free Quote",
+      "Local Team",
+      "Clear Pricing"
+    ],
+    "contactText": "Tell {brand} what you need: general pest control, bed bug removal or anything close to it. We will answer with the next step and a clear quote."
+  },
+  {
+    "id": "packers_movers",
+    "label": "Packers and movers",
+    "theme": "home_services",
+    "keywords": [
+      "packers and movers",
+      "house shifting",
+      "relocation service",
+      "moving company",
+      "home shifting",
+      "saman shifting",
+      "पैकर्स एंड मूवर्स",
+      "सामान शिफ्टिंग"
+    ],
+    "heroTitles": [
+      "Packers And Movers With A Clear Quote First",
+      "Careful Packing, Safe Loading And Local And Long Distance",
+      "Straightforward Packers And Movers For Your Home"
+    ],
+    "heroSubtitles": [
+      "Looking for help with packers and movers? {brand} explains the work, the cost and the timing first, then does the job tidily.",
+      "From careful packing to safe loading, {brand} keeps things simple: a short chat, a fair quote and a visit at a time that suits you.",
+      "{brand} offers careful packing, unloading and setup and more. We listen first, quote clearly and leave the place as we found it."
+    ],
+    "button": "Get A Moving Quote",
+    "featureTitle": "What Packers And Movers Covers Here",
+    "features": [
+      {
+        "title": "Careful Packing",
+        "text": "Ask about careful packing and get a clear quote, a time that suits you and a tidy finish."
+      },
+      {
+        "title": "Safe Loading",
+        "text": "For safe loading, we look at the place first, then suggest the simplest fix that lasts."
+      },
+      {
+        "title": "Local And Long Distance",
+        "text": "Need local and long distance? Tell us what is wrong and we will say what can be done and when."
+      },
+      {
+        "title": "Unloading And Setup",
+        "text": "Unloading And Setup with a short check at the end, so you know the job is finished properly."
+      },
+      {
+        "title": "Transit Insurance Cover",
+        "text": "We explain what transit insurance cover involves, the options and the cost before any work begins."
+      },
+      {
+        "title": "Short Term Storage",
+        "text": "Short Term Storage by a local team, with the price and timing agreed with you first."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Price before work"
+      },
+      {
+        "value": "Fixed",
+        "label": "Visit time you choose"
+      },
+      {
+        "value": "Tidy",
+        "label": "Finish every time"
+      }
+    ],
+    "steps": {
+      "title": "How Packers And Movers Works With Us",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Describe the packers and movers job by call or message, with a photo if that helps."
+        },
+        {
+          "title": "Get A Clear Quote",
+          "text": "We explain the options for careful packing and give you the price before anything starts."
+        },
+        {
+          "title": "We Do The Work",
+          "text": "Our team arrives at the agreed time and completes the safe loading work with care."
+        },
+        {
+          "title": "Check And Follow Up",
+          "text": "We go through the result with you and stay reachable for questions on local and long distance afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can you work around my timings for safe loading?",
+        "a": "Yes. Tell us the days and times that suit you and we will fix a slot within them. It is the same for safe loading as it is for careful packing."
+      },
+      {
+        "q": "What should I prepare before careful packing?",
+        "a": "A clear path to the work area and a few details about the problem are usually enough; we will tell you if more is needed. That goes for local and long distance and unloading and setup too."
+      },
+      {
+        "q": "Do you explain the packers and movers work before starting?",
+        "a": "Always. We describe each step, the materials and the cost, and begin only when you are comfortable. Ask us about transit insurance cover or short term storage and the answer is the same."
+      },
+      {
+        "q": "Can I ask questions after local and long distance?",
+        "a": "Yes. Message us any time after the job and we will answer or come back to check. The same approach applies to careful packing and short term storage."
+      },
+      {
+        "q": "Do you handle small packers and movers jobs too?",
+        "a": "Yes. Small and large jobs get the same care, and we quote both in the same clear way. This applies to careful packing, safe loading and the rest of our packers and movers work."
+      }
+    ],
+    "cta": {
+      "title": "Want A Clear Quote For Careful Packing?",
+      "button": "Get A Moving Quote"
+    },
+    "about": {
+      "title": "About Our Packers And Movers Team",
+      "paragraphs": [
+        "At {brand} we believe a good packers and movers job starts with a clear conversation. You hear the plan and the price first, and the work follows.",
+        "Our services include careful packing and safe loading. Ask us about unloading and setup or transit insurance cover too, and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Clear Quote Before Work",
+        "Friendly Local Team",
+        "Tidy Finish"
+      ]
+    },
+    "pricing": {
+      "title": "Packers And Movers Pricing",
+      "plans": [
+        {
+          "name": "Single Visit",
+          "price": "$45",
+          "period": "/small move",
+          "perks": [
+            "Careful Packing Only",
+            "Written Quote First",
+            "Time Slot You Choose"
+          ]
+        },
+        {
+          "name": "Regular Care",
+          "price": "$110",
+          "period": "/home move",
+          "perks": [
+            "Careful Packing And Safe Loading",
+            "Follow-Up Check",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Service",
+          "price": "$240",
+          "period": "/large move",
+          "perks": [
+            "Careful Packing Plus Safe Loading And Local And Long Distance",
+            "Extended Follow-Up",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Packers And Movers Work",
+      "captions": [
+        "Careful Packing",
+        "Safe Loading",
+        "Local And Long Distance",
+        "Unloading And Setup",
+        "Transit Insurance Cover",
+        "Short Term Storage"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Packing Crew Lead",
+        "Move Coordinator",
+        "Driver And Loader"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "The careful packing work was explained first and finished on the day we agreed.",
+        "role": "Home owner"
+      },
+      {
+        "quote": "Clear quote for safe loading, no pressure, and the place was left tidy.",
+        "role": "Shop owner"
+      },
+      {
+        "quote": "They answered every question about local and long distance before starting.",
+        "role": "Flat resident"
+      }
+    ],
+    "blog": {
+      "title": "From The Packers And Movers Desk",
+      "posts": [
+        {
+          "tag": "Advice",
+          "title": "Small Signs You Need Unloading And Setup"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Transit Insurance Cover"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Choose A Packers And Movers Provider"
+        }
+      ]
+    },
+    "marquee": [
+      "Careful Packing",
+      "Safe Loading",
+      "Long Distance",
+      "Unloading",
+      "Insurance Cover",
+      "Free Quote",
+      "Local Team",
+      "Clear Pricing"
+    ],
+    "contactText": "Call or message {brand} to talk about careful packing or safe loading. We reply with a clear price and a time that works for you."
+  },
+  {
+    "id": "solar_installer",
+    "label": "Solar installer",
+    "theme": "modern_tech",
+    "keywords": [
+      "solar installer",
+      "solar panel installation",
+      "rooftop solar",
+      "solar system for home",
+      "net metering",
+      "solar water heater",
+      "solar lagwana",
+      "सोलर पैनल",
+      "सोलर इंस्टॉलेशन"
+    ],
+    "heroTitles": [
+      "Straightforward Solar Installer For Your Home",
+      "Solar Installer That Respects Your Time",
+      "Plain Answers On Rooftop Solar For Homes"
+    ],
+    "heroSubtitles": [
+      "From rooftop solar for homes to shop and factory solar, {brand} keeps things simple: a short chat, a fair quote and a visit at a time that suits you.",
+      "{brand} offers rooftop solar for homes, solar water heaters and more. We listen first, quote clearly and leave the place as we found it.",
+      "Looking for help with solar installer? {brand} explains the work, the cost and the timing first, then does the job tidily."
+    ],
+    "button": "Book A Site Survey",
+    "featureTitle": "Our Solar Installer Services",
+    "features": [
+      {
+        "title": "Rooftop Solar For Homes",
+        "text": "For rooftop solar for homes, we look at the place first, then suggest the simplest fix that lasts."
+      },
+      {
+        "title": "Shop And Factory Solar",
+        "text": "Need shop and factory solar? Tell us what is wrong and we will say what can be done and when."
+      },
+      {
+        "title": "Net Metering Help",
+        "text": "Net Metering Help with a short check at the end, so you know the job is finished properly."
+      },
+      {
+        "title": "Solar Water Heaters",
+        "text": "We explain what solar water heaters involves, the options and the cost before any work begins."
+      },
+      {
+        "title": "Battery And Hybrid Setups",
+        "text": "Battery And Hybrid Setups by a local team, with the price and timing agreed with you first."
+      },
+      {
+        "title": "Cleaning And Annual Service",
+        "text": "Ask about cleaning and annual service and get a clear quote, a time that suits you and a tidy finish."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Price before work"
+      },
+      {
+        "value": "Fixed",
+        "label": "Visit time you choose"
+      },
+      {
+        "value": "Tidy",
+        "label": "Finish every time"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Describe the solar installer job by call or message, with a photo if that helps."
+        },
+        {
+          "title": "Get A Clear Quote",
+          "text": "We explain the options for rooftop solar for homes and give you the price before anything starts."
+        },
+        {
+          "title": "We Do The Work",
+          "text": "Our team arrives at the agreed time and completes the shop and factory solar work with care."
+        },
+        {
+          "title": "Check And Follow Up",
+          "text": "We go through the result with you and stay reachable for questions on net metering help afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Do you explain the solar installer work before starting?",
+        "a": "Always. We describe each step, the materials and the cost, and begin only when you are comfortable. That goes for net metering help and solar water heaters too."
+      },
+      {
+        "q": "Can I ask questions after net metering help?",
+        "a": "Yes. Message us any time after the job and we will answer or come back to check. Ask us about battery and hybrid setups or cleaning and annual service and the answer is the same."
+      },
+      {
+        "q": "Do you handle small solar installer jobs too?",
+        "a": "Yes. Small and large jobs get the same care, and we quote both in the same clear way. The same approach applies to rooftop solar for homes and cleaning and annual service."
+      },
+      {
+        "q": "How do you charge for solar water heaters?",
+        "a": "We quote by the job and tell you what is included, so the final bill matches what we agreed. This applies to rooftop solar for homes, shop and factory solar and the rest of our solar installer work."
+      },
+      {
+        "q": "How do I get a quote for rooftop solar for homes?",
+        "a": "Send a message or call with a few details and we will reply with a clear price before any work starts. It is the same for shop and factory solar as it is for rooftop solar for homes."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Book Solar Installer Today?",
+      "button": "Book A Site Survey"
+    },
+    "about": {
+      "title": "About Our Solar Installer Team",
+      "paragraphs": [
+        "{brand} is a local team for solar installer. We keep our work simple: listen to the problem, explain the options and do the job properly.",
+        "We cover rooftop solar for homes, shop and factory solar and net metering help, and we are happy to talk it through with you before you decide on anything."
+      ],
+      "points": [
+        "Plain Explanations",
+        "Fixed Visit Times",
+        "Follow-Up On Request"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Solar Installer",
+      "plans": [
+        {
+          "name": "Single Visit",
+          "price": "$0",
+          "period": "/site survey",
+          "perks": [
+            "Rooftop Solar For Homes Only",
+            "Written Quote First",
+            "Time Slot You Choose"
+          ]
+        },
+        {
+          "name": "Regular Care",
+          "price": "$1300",
+          "period": "/3 kW system",
+          "perks": [
+            "Rooftop Solar For Homes And Shop And Factory Solar",
+            "Follow-Up Check",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Service",
+          "price": "$2100",
+          "period": "/5 kW system",
+          "perks": [
+            "Rooftop Solar For Homes Plus Shop And Factory Solar And Net Metering Help",
+            "Extended Follow-Up",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Solar Installer Work",
+      "captions": [
+        "Rooftop Solar For Homes",
+        "Shop And Factory Solar",
+        "Net Metering Help",
+        "Solar Water Heaters",
+        "Battery And Hybrid Setups",
+        "Cleaning And Annual Service"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Solar Engineer",
+        "Site Surveyor",
+        "Service Technician"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "They answered every question about net metering help before starting.",
+        "role": "Flat resident"
+      },
+      {
+        "quote": "Easy to book, on time, and the solar installer work looked neat at the end.",
+        "role": "Home owner"
+      },
+      {
+        "quote": "I liked that rooftop solar for homes was priced upfront and nothing extra appeared later.",
+        "role": "Office manager"
+      }
+    ],
+    "blog": {
+      "title": "Solar Installer Tips And Guides",
+      "posts": [
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask Before Shop And Factory Solar"
+        },
+        {
+          "tag": "Planning",
+          "title": "Preparing Your Place For Net Metering Help"
+        },
+        {
+          "tag": "Advice",
+          "title": "Small Signs You Need Solar Water Heaters"
+        }
+      ]
+    },
+    "marquee": [
+      "Rooftop Solar",
+      "Factory Solar",
+      "Net Metering",
+      "Solar Water",
+      "Hybrid Setups",
+      "Free Quote",
+      "Local Team",
+      "Clear Pricing"
+    ],
+    "contactText": "Call or message {brand} to talk about rooftop solar for homes or shop and factory solar. We reply with a clear price and a time that works for you."
+  },
+  {
+    "id": "cctv_security_install",
+    "label": "CCTV and security installation",
+    "theme": "modern_tech",
+    "keywords": [
+      "cctv installation",
+      "cctv camera",
+      "security camera installation",
+      "surveillance system",
+      "video door phone",
+      "biometric attendance",
+      "camera lagwana",
+      "सीसीटीवी कैमरा",
+      "सीसीटीवी इंस्टॉलेशन"
+    ],
+    "heroTitles": [
+      "CCTV And Security Installation Without The Runaround",
+      "Local CCTV And Security Installation You Can Count On",
+      "CCTV And Security Installation With A Clear Quote First"
+    ],
+    "heroSubtitles": [
+      "Looking for help with CCTV and security installation? {brand} explains the work, the cost and the timing first, then does the job tidily.",
+      "From CCTV camera installation to mobile viewing setup, {brand} keeps things simple: a short chat, a fair quote and a visit at a time that suits you.",
+      "{brand} offers CCTV camera installation, video door phone and more. We listen first, quote clearly and leave the place as we found it."
+    ],
+    "button": "Book A Site Visit",
+    "featureTitle": "What CCTV And Security Installation Covers Here",
+    "features": [
+      {
+        "title": "CCTV Camera Installation",
+        "text": "Ask about CCTV camera installation and get a clear quote, a time that suits you and a tidy finish."
+      },
+      {
+        "title": "Mobile Viewing Setup",
+        "text": "For mobile viewing setup, we look at the place first, then suggest the simplest fix that lasts."
+      },
+      {
+        "title": "Night Vision Cameras",
+        "text": "Need night vision cameras? Tell us what is wrong and we will say what can be done and when."
+      },
+      {
+        "title": "Video Door Phone",
+        "text": "Video Door Phone with a short check at the end, so you know the job is finished properly."
+      },
+      {
+        "title": "Biometric Attendance",
+        "text": "We explain what biometric attendance involves, the options and the cost before any work begins."
+      },
+      {
+        "title": "AMC And Repairs",
+        "text": "AMC And Repairs by a local team, with the price and timing agreed with you first."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First quote"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Local",
+        "label": "Team near you"
+      }
+    ],
+    "steps": {
+      "title": "How CCTV And Security Installation Works With Us",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Describe the CCTV and security installation job by call or message, with a photo if that helps."
+        },
+        {
+          "title": "Get A Clear Quote",
+          "text": "We explain the options for CCTV camera installation and give you the price before anything starts."
+        },
+        {
+          "title": "We Do The Work",
+          "text": "Our team arrives at the agreed time and completes the mobile viewing setup work with care."
+        },
+        {
+          "title": "Check And Follow Up",
+          "text": "We go through the result with you and stay reachable for questions on night vision cameras afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do you charge for video door phone?",
+        "a": "We quote by the job and tell you what is included, so the final bill matches what we agreed. That goes for night vision cameras and video door phone too."
+      },
+      {
+        "q": "How do I get a quote for CCTV camera installation?",
+        "a": "Send a message or call with a few details and we will reply with a clear price before any work starts. Ask us about biometric attendance or AMC and repairs and the answer is the same."
+      },
+      {
+        "q": "Is there a charge to look at a CCTV and security installation job?",
+        "a": "Ask us when you book; any visit charge is told upfront, so there are no surprises later. The same approach applies to CCTV camera installation and AMC and repairs."
+      },
+      {
+        "q": "Can you work around my timings for mobile viewing setup?",
+        "a": "Yes. Tell us the days and times that suit you and we will fix a slot within them. This applies to CCTV camera installation, mobile viewing setup and the rest of our CCTV and security installation work."
+      },
+      {
+        "q": "What should I prepare before CCTV camera installation?",
+        "a": "A clear path to the work area and a few details about the problem are usually enough; we will tell you if more is needed. It is the same for mobile viewing setup as it is for CCTV camera installation."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Book CCTV And Security Installation Today?",
+      "button": "Book A Site Visit"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} we believe a good CCTV and security installation job starts with a clear conversation. You hear the plan and the price first, and the work follows.",
+        "Our services include CCTV camera installation and mobile viewing setup. Ask us about video door phone or biometric attendance too, and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Clear Quote Before Work",
+        "Friendly Local Team",
+        "Tidy Finish"
+      ]
+    },
+    "pricing": {
+      "title": "CCTV And Security Installation Pricing",
+      "plans": [
+        {
+          "name": "Single Visit",
+          "price": "$35",
+          "period": "/camera",
+          "perks": [
+            "CCTV Camera Installation Only",
+            "Written Quote First",
+            "Time Slot You Choose"
+          ]
+        },
+        {
+          "name": "Regular Care",
+          "price": "$130",
+          "period": "/4 camera set",
+          "perks": [
+            "CCTV Camera Installation And Mobile Viewing Setup",
+            "Follow-Up Check",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Service",
+          "price": "$250",
+          "period": "/8 camera set",
+          "perks": [
+            "CCTV Camera Installation Plus Mobile Viewing Setup And Night Vision Cameras",
+            "Extended Follow-Up",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "CCTV And Security Installation At Work",
+      "captions": [
+        "CCTV Camera Installation",
+        "Mobile Viewing Setup",
+        "Night Vision Cameras",
+        "Video Door Phone",
+        "Biometric Attendance",
+        "AMC And Repairs"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "CCTV And Security Installation Technician",
+        "CCTV Camera Installation Lead",
+        "CCTV And Security Installation Support Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Clear quote for mobile viewing setup, no pressure, and the place was left tidy.",
+        "role": "Shop owner"
+      },
+      {
+        "quote": "They answered every question about night vision cameras before starting.",
+        "role": "Flat resident"
+      },
+      {
+        "quote": "Easy to book, on time, and the CCTV and security installation work looked neat at the end.",
+        "role": "Home owner"
+      }
+    ],
+    "blog": {
+      "title": "From The CCTV And Security Installation Desk",
+      "posts": [
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Biometric Attendance"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Choose A CCTV And Security Installation Provider"
+        },
+        {
+          "tag": "Cost",
+          "title": "What Affects The Cost Of CCTV Camera Installation"
+        }
+      ]
+    },
+    "marquee": [
+      "CCTV Camera",
+      "Mobile Viewing",
+      "Night Vision",
+      "Video Door",
+      "Biometric",
+      "Free Quote",
+      "Local Team",
+      "Clear Pricing"
+    ],
+    "contactText": "Tell {brand} what you need: CCTV camera installation, night vision cameras or anything close to it. We will answer with the next step and a clear quote."
+  },
+  {
+    "id": "ac_repair",
+    "label": "AC repair and service",
+    "theme": "home_services",
+    "keywords": [
+      "ac repair",
+      "ac service",
+      "air conditioner repair",
+      "ac installation",
+      "ac gas filling",
+      "split ac",
+      "ac theek karwana",
+      "एसी रिपेयर",
+      "एसी सर्विस"
+    ],
+    "heroTitles": [
+      "Regular AC Service And Gas Leak And Refill Done Properly",
+      "Local AC Repair And Service You Can Count On",
+      "AC Repair And Service With A Clear Quote First"
+    ],
+    "heroSubtitles": [
+      "{brand} offers regular AC service, AC installation and more. We listen first, quote clearly and leave the place as we found it.",
+      "Need regular AC service or uninstall and relocate? {brand} sends a local team, explains each step and keeps you informed until the job is done.",
+      "{brand} handles regular AC service, gas leak and refill and deep jet cleaning. Tell us what you need and get a clear plan and price before we start."
+    ],
+    "button": "Book An AC Visit",
+    "featureTitle": "AC Repair And Service Services We Offer",
+    "features": [
+      {
+        "title": "Regular AC Service",
+        "text": "Regular AC Service by a local team, with the price and timing agreed with you first."
+      },
+      {
+        "title": "Gas Leak And Refill",
+        "text": "Ask about gas leak and refill and get a clear quote, a time that suits you and a tidy finish."
+      },
+      {
+        "title": "Deep Jet Cleaning",
+        "text": "For deep jet cleaning, we look at the place first, then suggest the simplest fix that lasts."
+      },
+      {
+        "title": "AC Installation",
+        "text": "Need AC installation? Tell us what is wrong and we will say what can be done and when."
+      },
+      {
+        "title": "Uninstall And Relocate",
+        "text": "Uninstall And Relocate with a short check at the end, so you know the job is finished properly."
+      },
+      {
+        "title": "PCB And Compressor Repair",
+        "text": "We explain what PCB and compressor repair involves, the options and the cost before any work begins."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Price before work"
+      },
+      {
+        "value": "Fixed",
+        "label": "Visit time you choose"
+      },
+      {
+        "value": "Tidy",
+        "label": "Finish every time"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Describe the AC repair and service job by call or message, with a photo if that helps."
+        },
+        {
+          "title": "Get A Clear Quote",
+          "text": "We explain the options for regular AC service and give you the price before anything starts."
+        },
+        {
+          "title": "We Do The Work",
+          "text": "Our team arrives at the agreed time and completes the gas leak and refill work with care."
+        },
+        {
+          "title": "Check And Follow Up",
+          "text": "We go through the result with you and stay reachable for questions on deep jet cleaning afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I get a quote for regular AC service?",
+        "a": "Send a message or call with a few details and we will reply with a clear price before any work starts. The same approach applies to regular AC service and PCB and compressor repair."
+      },
+      {
+        "q": "Is there a charge to look at a AC repair and service job?",
+        "a": "Ask us when you book; any visit charge is told upfront, so there are no surprises later. This applies to regular AC service, gas leak and refill and the rest of our AC repair and service work."
+      },
+      {
+        "q": "Can you work around my timings for gas leak and refill?",
+        "a": "Yes. Tell us the days and times that suit you and we will fix a slot within them. It is the same for gas leak and refill as it is for regular AC service."
+      },
+      {
+        "q": "What should I prepare before regular AC service?",
+        "a": "A clear path to the work area and a few details about the problem are usually enough; we will tell you if more is needed. That goes for deep jet cleaning and AC installation too."
+      },
+      {
+        "q": "Do you explain the AC repair and service work before starting?",
+        "a": "Always. We describe each step, the materials and the cost, and begin only when you are comfortable. Ask us about uninstall and relocate or PCB and compressor repair and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Book AC Repair And Service Today?",
+      "button": "Book An AC Visit"
+    },
+    "about": {
+      "title": "About Our AC Repair And Service Team",
+      "paragraphs": [
+        "{brand} is a local team for AC repair and service. We keep our work simple: listen to the problem, explain the options and do the job properly.",
+        "We cover regular AC service, gas leak and refill and deep jet cleaning, and we are happy to talk it through with you before you decide on anything."
+      ],
+      "points": [
+        "Plain Explanations",
+        "Fixed Visit Times",
+        "Follow-Up On Request"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For AC Repair And Service",
+      "plans": [
+        {
+          "name": "Single Visit",
+          "price": "$8",
+          "period": "/visit",
+          "perks": [
+            "Regular AC Service Only",
+            "Written Quote First",
+            "Time Slot You Choose"
+          ]
+        },
+        {
+          "name": "Regular Care",
+          "price": "$22",
+          "period": "/service",
+          "perks": [
+            "Regular AC Service And Gas Leak And Refill",
+            "Follow-Up Check",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Service",
+          "price": "$45",
+          "period": "/year plan",
+          "perks": [
+            "Regular AC Service Plus Gas Leak And Refill And Deep Jet Cleaning",
+            "Extended Follow-Up",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent AC Repair And Service Work",
+      "captions": [
+        "Regular AC Service",
+        "Gas Leak And Refill",
+        "Deep Jet Cleaning",
+        "AC Installation",
+        "Uninstall And Relocate",
+        "PCB And Compressor Repair"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "AC Repair And Service Technician",
+        "Regular AC Service Lead",
+        "AC Repair And Service Support Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "The regular AC service work was explained first and finished on the day we agreed.",
+        "role": "Home owner"
+      },
+      {
+        "quote": "Clear quote for gas leak and refill, no pressure, and the place was left tidy.",
+        "role": "Shop owner"
+      },
+      {
+        "quote": "They answered every question about deep jet cleaning before starting.",
+        "role": "Flat resident"
+      }
+    ],
+    "blog": {
+      "title": "AC Repair And Service Tips And Guides",
+      "posts": [
+        {
+          "tag": "Advice",
+          "title": "Small Signs You Need AC Installation"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Uninstall And Relocate"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Choose A AC Repair And Service Provider"
+        }
+      ]
+    },
+    "marquee": [
+      "Regular AC",
+      "Gas Leak",
+      "Deep Jet",
+      "AC Installation",
+      "Uninstall",
+      "Free Quote",
+      "Local Team",
+      "Clear Pricing"
+    ],
+    "contactText": "Call or message {brand} to talk about regular AC service or gas leak and refill. We reply with a clear price and a time that works for you."
+  },
+  {
+    "id": "painting_contractor",
+    "label": "Painting contractor",
+    "theme": "home_services",
+    "keywords": [
+      "painting contractor",
+      "house painting",
+      "home painting service",
+      "wall painting",
+      "exterior painting",
+      "waterproofing paint",
+      "rang rogan",
+      "पेंटिंग कॉन्ट्रैक्टर",
+      "घर की पुताई"
+    ],
+    "heroTitles": [
+      "Straightforward Painting Contractor For Your Home",
+      "Painting Contractor That Respects Your Time",
+      "Plain Answers On Interior Wall Painting"
+    ],
+    "heroSubtitles": [
+      "Looking for help with painting contractor? {brand} explains the work, the cost and the timing first, then does the job tidily.",
+      "From interior wall painting to exterior painting, {brand} keeps things simple: a short chat, a fair quote and a visit at a time that suits you.",
+      "{brand} offers interior wall painting, wood and metal polish and more. We listen first, quote clearly and leave the place as we found it."
+    ],
+    "button": "Get A Painting Quote",
+    "featureTitle": "What Painting Contractor Covers Here",
+    "features": [
+      {
+        "title": "Interior Wall Painting",
+        "text": "For interior wall painting, we look at the place first, then suggest the simplest fix that lasts."
+      },
+      {
+        "title": "Exterior Painting",
+        "text": "Need exterior painting? Tell us what is wrong and we will say what can be done and when."
+      },
+      {
+        "title": "Waterproofing And Damp",
+        "text": "Waterproofing And Damp with a short check at the end, so you know the job is finished properly."
+      },
+      {
+        "title": "Wood And Metal Polish",
+        "text": "We explain what wood and metal polish involves, the options and the cost before any work begins."
+      },
+      {
+        "title": "Texture And Designer Walls",
+        "text": "Texture And Designer Walls by a local team, with the price and timing agreed with you first."
+      },
+      {
+        "title": "Office And Shop Painting",
+        "text": "Ask about office and shop painting and get a clear quote, a time that suits you and a tidy finish."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Price before work"
+      },
+      {
+        "value": "Fixed",
+        "label": "Visit time you choose"
+      },
+      {
+        "value": "Tidy",
+        "label": "Finish every time"
+      }
+    ],
+    "steps": {
+      "title": "How Painting Contractor Works With Us",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Describe the painting contractor job by call or message, with a photo if that helps."
+        },
+        {
+          "title": "Get A Clear Quote",
+          "text": "We explain the options for interior wall painting and give you the price before anything starts."
+        },
+        {
+          "title": "We Do The Work",
+          "text": "Our team arrives at the agreed time and completes the exterior painting work with care."
+        },
+        {
+          "title": "Check And Follow Up",
+          "text": "We go through the result with you and stay reachable for questions on waterproofing and damp afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Do you explain the painting contractor work before starting?",
+        "a": "Always. We describe each step, the materials and the cost, and begin only when you are comfortable. That goes for waterproofing and damp and wood and metal polish too."
+      },
+      {
+        "q": "Can I ask questions after waterproofing and damp?",
+        "a": "Yes. Message us any time after the job and we will answer or come back to check. Ask us about texture and designer walls or office and shop painting and the answer is the same."
+      },
+      {
+        "q": "Do you handle small painting contractor jobs too?",
+        "a": "Yes. Small and large jobs get the same care, and we quote both in the same clear way. The same approach applies to interior wall painting and office and shop painting."
+      },
+      {
+        "q": "How do you charge for wood and metal polish?",
+        "a": "We quote by the job and tell you what is included, so the final bill matches what we agreed. This applies to interior wall painting, exterior painting and the rest of our painting contractor work."
+      },
+      {
+        "q": "How do I get a quote for interior wall painting?",
+        "a": "Send a message or call with a few details and we will reply with a clear price before any work starts. It is the same for exterior painting as it is for interior wall painting."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Book Painting Contractor Today?",
+      "button": "Get A Painting Quote"
+    },
+    "about": {
+      "title": "About Our Painting Contractor Team",
+      "paragraphs": [
+        "At {brand} we believe a good painting contractor job starts with a clear conversation. You hear the plan and the price first, and the work follows.",
+        "Our services include interior wall painting and exterior painting. Ask us about wood and metal polish or texture and designer walls too, and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Clear Quote Before Work",
+        "Friendly Local Team",
+        "Tidy Finish"
+      ]
+    },
+    "pricing": {
+      "title": "Painting Contractor Pricing",
+      "plans": [
+        {
+          "name": "Single Visit",
+          "price": "$22",
+          "period": "/room",
+          "perks": [
+            "Interior Wall Painting Only",
+            "Written Quote First",
+            "Time Slot You Choose"
+          ]
+        },
+        {
+          "name": "Regular Care",
+          "price": "$70",
+          "period": "/2 bhk home",
+          "perks": [
+            "Interior Wall Painting And Exterior Painting",
+            "Follow-Up Check",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Service",
+          "price": "$130",
+          "period": "/3 bhk home",
+          "perks": [
+            "Interior Wall Painting Plus Exterior Painting And Waterproofing And Damp",
+            "Extended Follow-Up",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Painting Contractor Work",
+      "captions": [
+        "Interior Wall Painting",
+        "Exterior Painting",
+        "Waterproofing And Damp",
+        "Wood And Metal Polish",
+        "Texture And Designer Walls",
+        "Office And Shop Painting"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Painting Contractor Technician",
+        "Interior Wall Painting Lead",
+        "Painting Contractor Support Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "The interior wall painting work was explained first and finished on the day we agreed.",
+        "role": "Home owner"
+      },
+      {
+        "quote": "Clear quote for exterior painting, no pressure, and the place was left tidy.",
+        "role": "Shop owner"
+      },
+      {
+        "quote": "They answered every question about waterproofing and damp before starting.",
+        "role": "Flat resident"
+      }
+    ],
+    "blog": {
+      "title": "From The Painting Contractor Desk",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "How To Choose A Painting Contractor Provider"
+        },
+        {
+          "tag": "Cost",
+          "title": "What Affects The Cost Of Interior Wall Painting"
+        },
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask Before Exterior Painting"
+        }
+      ]
+    },
+    "marquee": [
+      "Interior Wall",
+      "Exterior",
+      "Waterproofing",
+      "Metal Polish",
+      "Designer Walls",
+      "Free Quote",
+      "Local Team",
+      "Clear Pricing"
+    ],
+    "contactText": "Call or message {brand} to talk about interior wall painting or exterior painting. We reply with a clear price and a time that works for you."
+  },
+  {
+    "id": "carpentry_furniture",
+    "label": "Carpentry and custom furniture",
+    "theme": "creative_studio",
+    "keywords": [
+      "carpenter",
+      "custom furniture",
+      "modular wardrobe",
+      "furniture maker",
+      "wooden furniture repair",
+      "kitchen cabinets carpenter",
+      "badhai",
+      "बढ़ई",
+      "बढ़ई"
+    ],
+    "heroTitles": [
+      "Custom Wardrobes And Beds And Storage With Care",
+      "Carpentry And Custom Furniture That Starts With A Brief",
+      "Thoughtful Carpentry And Custom Furniture For Your Needs"
+    ],
+    "heroSubtitles": [
+      "Need custom wardrobes or doors and windows? {brand} sets out the scope and the cost first, then delivers in clear stages.",
+      "{brand} offers custom wardrobes, beds and storage and kitchen cabinets. Share your idea and get a clear plan, timeline and price before we begin.",
+      "Looking for help with carpentry and custom furniture? {brand} starts with a short brief, shows you the plan and works with your feedback."
+    ],
+    "button": "Get A Furniture Quote",
+    "featureTitle": "Our Carpentry And Custom Furniture Services",
+    "features": [
+      {
+        "title": "Custom Wardrobes",
+        "text": "Custom Wardrobes delivered in the format you need, with a final review before handover."
+      },
+      {
+        "title": "Beds And Storage",
+        "text": "Questions about beds and storage? Message us and we will walk you through the process."
+      },
+      {
+        "title": "Kitchen Cabinets",
+        "text": "We start kitchen cabinets with a short brief, so the scope, timing and cost are clear from day one."
+      },
+      {
+        "title": "TV Units And Shelves",
+        "text": "TV Units And Shelves shaped around your idea, with a draft you can comment on before it is final."
+      },
+      {
+        "title": "Doors And Windows",
+        "text": "Ask about doors and windows; we explain the options, show examples and agree what is included."
+      },
+      {
+        "title": "Repair And Polish",
+        "text": "For repair and polish, we work in clear stages and check each one with you."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Stage",
+        "label": "By stage reviews"
+      },
+      {
+        "value": "Open",
+        "label": "Feedback welcome"
+      },
+      {
+        "value": "Plain",
+        "label": "Language, no jargon"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Share Your Brief",
+          "text": "Tell us about your carpentry and custom furniture idea, the purpose and any references you like."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We outline the scope for custom wardrobes, the timeline and the cost, and confirm them with you."
+        },
+        {
+          "title": "Review The Draft",
+          "text": "You see the first version of the beds and storage work and tell us what to change."
+        },
+        {
+          "title": "Approve And Deliver",
+          "text": "We finalise kitchen cabinets, hand it over in the format you need and stay available for questions."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do you price beds and storage?",
+        "a": "We quote after the brief, listing what is included, so you know the cost before work begins. This applies to custom wardrobes, beds and storage and the rest of our carpentry and custom furniture work."
+      },
+      {
+        "q": "What do you need from me for kitchen cabinets?",
+        "a": "A clear idea of the purpose, any references and the date you need it; we will ask for the rest. It is the same for beds and storage as it is for custom wardrobes."
+      },
+      {
+        "q": "Can I ask for changes during carpentry and custom furniture work?",
+        "a": "Yes. Feedback is part of the process and we tell you upfront how revisions are handled. That goes for kitchen cabinets and TV units and shelves too."
+      },
+      {
+        "q": "What formats do you deliver custom wardrobes in?",
+        "a": "Tell us where it will be used and we will deliver in the formats that suit that purpose. Ask us about doors and windows or repair and polish and the answer is the same."
+      },
+      {
+        "q": "Do you take small carpentry and custom furniture jobs?",
+        "a": "Yes. Small projects follow the same clear steps, with a quote and a plan first. The same approach applies to custom wardrobes and repair and polish."
+      }
+    ],
+    "cta": {
+      "title": "Have An Idea For Carpentry And Custom Furniture?",
+      "button": "Get A Furniture Quote"
+    },
+    "about": {
+      "title": "About Our Carpentry And Custom Furniture Studio",
+      "paragraphs": [
+        "{brand} is a small team for carpentry and custom furniture. We start with your brief, agree the plan and keep you in the loop until you approve the result.",
+        "We handle custom wardrobes, beds and storage and kitchen cabinets, and we are happy to talk through your idea before you commit to anything."
+      ],
+      "points": [
+        "Clear Scope And Cost",
+        "Feedback Welcome",
+        "Friendly Team"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Carpentry And Custom Furniture",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$15",
+          "period": "/job",
+          "perks": [
+            "Custom Wardrobes Only",
+            "Written Quote First",
+            "One Round Of Feedback"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$60",
+          "period": "/piece",
+          "perks": [
+            "Custom Wardrobes And Beds And Storage",
+            "Two Rounds Of Feedback",
+            "Priority Scheduling"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$180",
+          "period": "/project",
+          "perks": [
+            "Custom Wardrobes Plus Beds And Storage And Kitchen Cabinets",
+            "Extended Feedback",
+            "Handover Support"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Carpentry And Custom Furniture Work",
+      "captions": [
+        "Custom Wardrobes",
+        "Beds And Storage",
+        "Kitchen Cabinets",
+        "TV Units And Shelves",
+        "Doors And Windows",
+        "Repair And Polish"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Carpentry And Custom Furniture Lead",
+        "Custom Wardrobes Specialist",
+        "Carpentry And Custom Furniture Client Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "The process for kitchen cabinets was explained simply and kept to the timeline we agreed.",
+        "role": "Family client"
+      },
+      {
+        "quote": "Friendly team, and the carpentry and custom furniture work matched what we discussed.",
+        "role": "Customer"
+      },
+      {
+        "quote": "I liked that custom wardrobes was planned in stages and I could comment on each.",
+        "role": "Startup founder"
+      }
+    ],
+    "blog": {
+      "title": "Carpentry And Custom Furniture Notes And Guides",
+      "posts": [
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask Before Beds And Storage"
+        },
+        {
+          "tag": "Planning",
+          "title": "Getting Ready For Kitchen Cabinets"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Simple Ways To Plan TV Units And Shelves"
+        }
+      ]
+    },
+    "marquee": [
+      "Custom Wardrobes",
+      "Beds",
+      "Kitchen Cabinets",
+      "TV Units",
+      "Doors",
+      "Clear Scope",
+      "Open Feedback",
+      "Plain Quotes"
+    ],
+    "contactText": "Message {brand} with your brief for custom wardrobes or beds and storage. We reply with a few questions and a clear outline of the next step."
+  },
+  {
+    "id": "cleaning_services",
+    "label": "Home and office cleaning",
+    "theme": "home_services",
+    "keywords": [
+      "cleaning service",
+      "home cleaning",
+      "deep cleaning",
+      "sofa cleaning",
+      "bathroom cleaning",
+      "office cleaning",
+      "safai",
+      "सफाई सेवा",
+      "सफाई सर्विस"
+    ],
+    "heroTitles": [
+      "Local Home And Office Cleaning You Can Count On",
+      "Home And Office Cleaning With A Clear Quote First",
+      "Straightforward Home And Office Cleaning For Your Home"
+    ],
+    "heroSubtitles": [
+      "Looking for help with home and office cleaning? {brand} explains the work, the cost and the timing first, then does the job tidily.",
+      "From full home deep cleaning to kitchen degreasing, {brand} keeps things simple: a short chat, a fair quote and a visit at a time that suits you.",
+      "{brand} offers full home deep cleaning, sofa and carpet cleaning and more. We listen first, quote clearly and leave the place as we found it."
+    ],
+    "button": "Book A Cleaning Visit",
+    "featureTitle": "Home And Office Cleaning Services We Offer",
+    "features": [
+      {
+        "title": "Full Home Deep Cleaning",
+        "text": "Ask about full home deep cleaning and get a clear quote, a time that suits you and a tidy finish."
+      },
+      {
+        "title": "Kitchen Degreasing",
+        "text": "For kitchen degreasing, we look at the place first, then suggest the simplest fix that lasts."
+      },
+      {
+        "title": "Bathroom Descaling",
+        "text": "Need bathroom descaling? Tell us what is wrong and we will say what can be done and when."
+      },
+      {
+        "title": "Sofa And Carpet Cleaning",
+        "text": "Sofa And Carpet Cleaning with a short check at the end, so you know the job is finished properly."
+      },
+      {
+        "title": "Move In And Move Out Clean",
+        "text": "We explain what move in and move out clean involves, the options and the cost before any work begins."
+      },
+      {
+        "title": "Office And Shop Cleaning",
+        "text": "Office And Shop Cleaning by a local team, with the price and timing agreed with you first."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First quote"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Local",
+        "label": "Team near you"
+      }
+    ],
+    "steps": {
+      "title": "How Home And Office Cleaning Works With Us",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Describe the home and office cleaning job by call or message, with a photo if that helps."
+        },
+        {
+          "title": "Get A Clear Quote",
+          "text": "We explain the options for full home deep cleaning and give you the price before anything starts."
+        },
+        {
+          "title": "We Do The Work",
+          "text": "Our team arrives at the agreed time and completes the kitchen degreasing work with care."
+        },
+        {
+          "title": "Check And Follow Up",
+          "text": "We go through the result with you and stay reachable for questions on bathroom descaling afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Is there a charge to look at a home and office cleaning job?",
+        "a": "Ask us when you book; any visit charge is told upfront, so there are no surprises later. It is the same for kitchen degreasing as it is for full home deep cleaning."
+      },
+      {
+        "q": "Can you work around my timings for kitchen degreasing?",
+        "a": "Yes. Tell us the days and times that suit you and we will fix a slot within them. That goes for bathroom descaling and sofa and carpet cleaning too."
+      },
+      {
+        "q": "What should I prepare before full home deep cleaning?",
+        "a": "A clear path to the work area and a few details about the problem are usually enough; we will tell you if more is needed. Ask us about move in and move out clean or office and shop cleaning and the answer is the same."
+      },
+      {
+        "q": "Do you explain the home and office cleaning work before starting?",
+        "a": "Always. We describe each step, the materials and the cost, and begin only when you are comfortable. The same approach applies to full home deep cleaning and office and shop cleaning."
+      },
+      {
+        "q": "Can I ask questions after bathroom descaling?",
+        "a": "Yes. Message us any time after the job and we will answer or come back to check. This applies to full home deep cleaning, kitchen degreasing and the rest of our home and office cleaning work."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Book Home And Office Cleaning Today?",
+      "button": "Book A Cleaning Visit"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} we believe a good home and office cleaning job starts with a clear conversation. You hear the plan and the price first, and the work follows.",
+        "Our services include full home deep cleaning and kitchen degreasing. Ask us about sofa and carpet cleaning or move in and move out clean too, and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Clear Quote Before Work",
+        "Friendly Local Team",
+        "Tidy Finish"
+      ]
+    },
+    "pricing": {
+      "title": "Home And Office Cleaning Pricing",
+      "plans": [
+        {
+          "name": "Single Visit",
+          "price": "$18",
+          "period": "/visit",
+          "perks": [
+            "Full Home Deep Cleaning Only",
+            "Written Quote First",
+            "Time Slot You Choose"
+          ]
+        },
+        {
+          "name": "Regular Care",
+          "price": "$50",
+          "period": "/deep clean",
+          "perks": [
+            "Full Home Deep Cleaning And Kitchen Degreasing",
+            "Follow-Up Check",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Service",
+          "price": "$110",
+          "period": "/month",
+          "perks": [
+            "Full Home Deep Cleaning Plus Kitchen Degreasing And Bathroom Descaling",
+            "Extended Follow-Up",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Home And Office Cleaning At Work",
+      "captions": [
+        "Full Home Deep Cleaning",
+        "Kitchen Degreasing",
+        "Bathroom Descaling",
+        "Sofa And Carpet Cleaning",
+        "Move In And Move",
+        "Office And Shop Cleaning"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Cleaning Supervisor",
+        "Deep Clean Specialist",
+        "Customer Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Clear quote for kitchen degreasing, no pressure, and the place was left tidy.",
+        "role": "Shop owner"
+      },
+      {
+        "quote": "They answered every question about bathroom descaling before starting.",
+        "role": "Flat resident"
+      },
+      {
+        "quote": "Easy to book, on time, and the home and office cleaning work looked neat at the end.",
+        "role": "Home owner"
+      }
+    ],
+    "blog": {
+      "title": "From The Home And Office Cleaning Desk",
+      "posts": [
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Move In And Move Out Clean"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Choose A Home And Office Cleaning Provider"
+        },
+        {
+          "tag": "Cost",
+          "title": "What Affects The Cost Of Full Home Deep Cleaning"
+        }
+      ]
+    },
+    "marquee": [
+      "Full Home",
+      "Kitchen",
+      "Bathroom",
+      "Carpet Cleaning",
+      "Out Clean",
+      "Free Quote",
+      "Local Team",
+      "Clear Pricing"
+    ],
+    "contactText": "Tell {brand} what you need: full home deep cleaning, bathroom descaling or anything close to it. We will answer with the next step and a clear quote."
+  },
+  {
+    "id": "laundry_drycleaning",
+    "label": "Laundry and dry cleaning",
+    "theme": "home_services",
+    "keywords": [
+      "laundry service",
+      "dry cleaning",
+      "dry cleaner",
+      "ironing service",
+      "wash and fold",
+      "laundry pickup",
+      "kapde dhulai",
+      "धुलाई",
+      "लॉन्ड्री सर्विस"
+    ],
+    "heroTitles": [
+      "Plain Answers On Wash And Fold",
+      "Laundry And Dry Cleaning Without The Runaround",
+      "Wash And Fold And Dry Cleaning Done Properly"
+    ],
+    "heroSubtitles": [
+      "Looking for help with laundry and dry cleaning? {brand} explains the work, the cost and the timing first, then does the job tidily.",
+      "From wash and fold to dry cleaning, {brand} keeps things simple: a short chat, a fair quote and a visit at a time that suits you.",
+      "{brand} offers wash and fold, woollen and winter wear and more. We listen first, quote clearly and leave the place as we found it."
+    ],
+    "button": "Book A Pickup",
+    "featureTitle": "Our Laundry And Dry Cleaning Services",
+    "features": [
+      {
+        "title": "Wash And Fold",
+        "text": "We explain what wash and fold involves, the options and the cost before any work begins."
+      },
+      {
+        "title": "Dry Cleaning",
+        "text": "Dry Cleaning by a local team, with the price and timing agreed with you first."
+      },
+      {
+        "title": "Steam Ironing",
+        "text": "Ask about steam ironing and get a clear quote, a time that suits you and a tidy finish."
+      },
+      {
+        "title": "Woollen And Winter Wear",
+        "text": "For woollen and winter wear, we look at the place first, then suggest the simplest fix that lasts."
+      },
+      {
+        "title": "Curtains And Bedding",
+        "text": "Need curtains and bedding? Tell us what is wrong and we will say what can be done and when."
+      },
+      {
+        "title": "Shoe And Bag Cleaning",
+        "text": "Shoe And Bag Cleaning with a short check at the end, so you know the job is finished properly."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Price before work"
+      },
+      {
+        "value": "Fixed",
+        "label": "Visit time you choose"
+      },
+      {
+        "value": "Tidy",
+        "label": "Finish every time"
+      }
+    ],
+    "steps": {
+      "title": "How Laundry And Dry Cleaning Works With Us",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Describe the laundry and dry cleaning job by call or message, with a photo if that helps."
+        },
+        {
+          "title": "Get A Clear Quote",
+          "text": "We explain the options for wash and fold and give you the price before anything starts."
+        },
+        {
+          "title": "We Do The Work",
+          "text": "Our team arrives at the agreed time and completes the dry cleaning work with care."
+        },
+        {
+          "title": "Check And Follow Up",
+          "text": "We go through the result with you and stay reachable for questions on steam ironing afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Do you handle small laundry and dry cleaning jobs too?",
+        "a": "Yes. Small and large jobs get the same care, and we quote both in the same clear way. It is the same for dry cleaning as it is for wash and fold."
+      },
+      {
+        "q": "How do you charge for woollen and winter wear?",
+        "a": "We quote by the job and tell you what is included, so the final bill matches what we agreed. That goes for steam ironing and woollen and winter wear too."
+      },
+      {
+        "q": "How do I get a quote for wash and fold?",
+        "a": "Send a message or call with a few details and we will reply with a clear price before any work starts. Ask us about curtains and bedding or shoe and bag cleaning and the answer is the same."
+      },
+      {
+        "q": "Is there a charge to look at a laundry and dry cleaning job?",
+        "a": "Ask us when you book; any visit charge is told upfront, so there are no surprises later. The same approach applies to wash and fold and shoe and bag cleaning."
+      },
+      {
+        "q": "Can you work around my timings for dry cleaning?",
+        "a": "Yes. Tell us the days and times that suit you and we will fix a slot within them. This applies to wash and fold, dry cleaning and the rest of our laundry and dry cleaning work."
+      }
+    ],
+    "cta": {
+      "title": "Want A Clear Quote For Wash And Fold?",
+      "button": "Book A Pickup"
+    },
+    "about": {
+      "title": "About Our Laundry And Dry Cleaning Team",
+      "paragraphs": [
+        "At {brand} we believe a good laundry and dry cleaning job starts with a clear conversation. You hear the plan and the price first, and the work follows.",
+        "Our services include wash and fold and dry cleaning. Ask us about woollen and winter wear or curtains and bedding too, and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Clear Quote Before Work",
+        "Friendly Local Team",
+        "Tidy Finish"
+      ]
+    },
+    "pricing": {
+      "title": "Laundry And Dry Cleaning Pricing",
+      "plans": [
+        {
+          "name": "Single Visit",
+          "price": "$1",
+          "period": "/kg",
+          "perks": [
+            "Wash And Fold Only",
+            "Written Quote First",
+            "Time Slot You Choose"
+          ]
+        },
+        {
+          "name": "Regular Care",
+          "price": "$12",
+          "period": "/week",
+          "perks": [
+            "Wash And Fold And Dry Cleaning",
+            "Follow-Up Check",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Service",
+          "price": "$40",
+          "period": "/month",
+          "perks": [
+            "Wash And Fold Plus Dry Cleaning And Steam Ironing",
+            "Extended Follow-Up",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Laundry And Dry Cleaning Work",
+      "captions": [
+        "Wash And Fold",
+        "Dry Cleaning",
+        "Steam Ironing",
+        "Woollen And Winter Wear",
+        "Curtains And Bedding",
+        "Shoe And Bag Cleaning"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Laundry And Dry Cleaning Technician",
+        "Wash And Fold Lead",
+        "Laundry And Dry Cleaning Support Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "They answered every question about steam ironing before starting.",
+        "role": "Flat resident"
+      },
+      {
+        "quote": "Easy to book, on time, and the laundry and dry cleaning work looked neat at the end.",
+        "role": "Home owner"
+      },
+      {
+        "quote": "I liked that wash and fold was priced upfront and nothing extra appeared later.",
+        "role": "Office manager"
+      }
+    ],
+    "blog": {
+      "title": "From The Laundry And Dry Cleaning Desk",
+      "posts": [
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask Before Dry Cleaning"
+        },
+        {
+          "tag": "Planning",
+          "title": "Preparing Your Place For Steam Ironing"
+        },
+        {
+          "tag": "Advice",
+          "title": "Small Signs You Need Woollen And Winter Wear"
+        }
+      ]
+    },
+    "marquee": [
+      "Wash",
+      "Dry Cleaning",
+      "Steam Ironing",
+      "Winter Wear",
+      "Curtains",
+      "Free Quote",
+      "Local Team",
+      "Clear Pricing"
+    ],
+    "contactText": "Call or message {brand} to talk about wash and fold or dry cleaning. We reply with a clear price and a time that works for you."
+  },
+  {
+    "id": "water_purifier_service",
+    "label": "Water purifier service",
+    "theme": "home_services",
+    "keywords": [
+      "water purifier service",
+      "ro service",
+      "ro repair",
+      "water filter installation",
+      "ro water purifier",
+      "filter change",
+      "ro theek karwana",
+      "आरओ सर्विस",
+      "वाटर प्यूरीफायर"
+    ],
+    "heroTitles": [
+      "Water Purifier Service Without The Runaround",
+      "Local Water Purifier Service You Can Count On",
+      "Water Purifier Service With A Clear Quote First"
+    ],
+    "heroSubtitles": [
+      "Looking for help with water purifier service? {brand} explains the work, the cost and the timing first, then does the job tidily.",
+      "{brand} offers RO service and cleaning, water quality test and more. We listen first, quote clearly and leave the place as we found it.",
+      "Need RO service and cleaning or leak and low flow repair? {brand} sends a local team, explains each step and keeps you informed until the job is done."
+    ],
+    "button": "Book A Service Visit",
+    "featureTitle": "Water Purifier Service Services We Offer",
+    "features": [
+      {
+        "title": "RO Service And Cleaning",
+        "text": "Ask about RO service and cleaning and get a clear quote, a time that suits you and a tidy finish."
+      },
+      {
+        "title": "Filter And Membrane Change",
+        "text": "For filter and membrane change, we look at the place first, then suggest the simplest fix that lasts."
+      },
+      {
+        "title": "New Purifier Installation",
+        "text": "Need new purifier installation? Tell us what is wrong and we will say what can be done and when."
+      },
+      {
+        "title": "Water Quality Test",
+        "text": "Water Quality Test with a short check at the end, so you know the job is finished properly."
+      },
+      {
+        "title": "Leak And Low Flow Repair",
+        "text": "We explain what leak and low flow repair involves, the options and the cost before any work begins."
+      },
+      {
+        "title": "Annual Service Plan",
+        "text": "Annual Service Plan by a local team, with the price and timing agreed with you first."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First quote"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Local",
+        "label": "Team near you"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Describe the water purifier service job by call or message, with a photo if that helps."
+        },
+        {
+          "title": "Get A Clear Quote",
+          "text": "We explain the options for RO service and cleaning and give you the price before anything starts."
+        },
+        {
+          "title": "We Do The Work",
+          "text": "Our team arrives at the agreed time and completes the filter and membrane change work with care."
+        },
+        {
+          "title": "Check And Follow Up",
+          "text": "We go through the result with you and stay reachable for questions on new purifier installation afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do you charge for water quality test?",
+        "a": "We quote by the job and tell you what is included, so the final bill matches what we agreed. Ask us about leak and low flow repair or annual service plan and the answer is the same."
+      },
+      {
+        "q": "How do I get a quote for RO service and cleaning?",
+        "a": "Send a message or call with a few details and we will reply with a clear price before any work starts. The same approach applies to RO service and cleaning and annual service plan."
+      },
+      {
+        "q": "Is there a charge to look at a water purifier service job?",
+        "a": "Ask us when you book; any visit charge is told upfront, so there are no surprises later. This applies to RO service and cleaning, filter and membrane change and the rest of our water purifier service work."
+      },
+      {
+        "q": "Can you work around my timings for filter and membrane change?",
+        "a": "Yes. Tell us the days and times that suit you and we will fix a slot within them. It is the same for filter and membrane change as it is for RO service and cleaning."
+      },
+      {
+        "q": "What should I prepare before RO service and cleaning?",
+        "a": "A clear path to the work area and a few details about the problem are usually enough; we will tell you if more is needed. That goes for new purifier installation and water quality test too."
+      }
+    ],
+    "cta": {
+      "title": "Need Water Purifier Service At Your Place?",
+      "button": "Book A Service Visit"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local team for water purifier service. We keep our work simple: listen to the problem, explain the options and do the job properly.",
+        "We cover RO service and cleaning, filter and membrane change and new purifier installation, and we are happy to talk it through with you before you decide on anything."
+      ],
+      "points": [
+        "Plain Explanations",
+        "Fixed Visit Times",
+        "Follow-Up On Request"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Water Purifier Service",
+      "plans": [
+        {
+          "name": "Single Visit",
+          "price": "$6",
+          "period": "/service",
+          "perks": [
+            "RO Service And Cleaning Only",
+            "Written Quote First",
+            "Time Slot You Choose"
+          ]
+        },
+        {
+          "name": "Regular Care",
+          "price": "$18",
+          "period": "/year plan",
+          "perks": [
+            "RO Service And Cleaning And Filter And Membrane Change",
+            "Follow-Up Check",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Service",
+          "price": "$45",
+          "period": "/filter set",
+          "perks": [
+            "RO Service And Cleaning Plus Filter And Membrane Change And New Purifier Installation",
+            "Extended Follow-Up",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Water Purifier Service At Work",
+      "captions": [
+        "RO Service And Cleaning",
+        "Filter And Membrane Change",
+        "New Purifier Installation",
+        "Water Quality Test",
+        "Leak And Low Flow",
+        "Annual Service Plan"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Water Purifier Service Technician",
+        "RO Service And Cleaning Lead",
+        "Water Purifier Service Support Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Clear quote for filter and membrane change, no pressure, and the place was left tidy.",
+        "role": "Shop owner"
+      },
+      {
+        "quote": "They answered every question about new purifier installation before starting.",
+        "role": "Flat resident"
+      },
+      {
+        "quote": "Easy to book, on time, and the water purifier service work looked neat at the end.",
+        "role": "Home owner"
+      }
+    ],
+    "blog": {
+      "title": "Water Purifier Service Tips And Guides",
+      "posts": [
+        {
+          "tag": "Planning",
+          "title": "Preparing Your Place For New Purifier Installation"
+        },
+        {
+          "tag": "Advice",
+          "title": "Small Signs You Need Water Quality Test"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Leak And Low Flow Repair"
+        }
+      ]
+    },
+    "marquee": [
+      "RO Service",
+      "Membrane Change",
+      "New Purifier",
+      "Water Quality",
+      "Flow Repair",
+      "Free Quote",
+      "Local Team",
+      "Clear Pricing"
+    ],
+    "contactText": "Tell {brand} what you need: RO service and cleaning, new purifier installation or anything close to it. We will answer with the next step and a clear quote."
+  }
+]

@@ -1,0 +1,106 @@
+{
+  "niche": "salon",
+  "requested_niche": "salon",
+  "fallback": false,
+  "reason": "business type salon",
+  "mood": "light",
+  "accent": "#cd1da3",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Glow Hair & Beauty Salon unisex salon pune haircuts facials bridal Haircuts Facials Bridal Makeup",
+    "niche": "salon",
+    "title": "Hair & beauty salon",
+    "fallback": false,
+    "mood": "light",
+    "accent": "#cd1da3",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 22,
+    "palette_family": 0.854,
+    "text_zone": "left",
+    "hero_contrast": 4.81,
+    "seconds": 6.47,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.854
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 37170,
+      "alt": "Illustration for Glow: Hair & beauty salon",
+      "text_color": "#0d0d14",
+      "contrast": 4.81,
+      "role": "hero",
+      "seed": 2
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 25502,
+      "alt": "About Glow: Hair & beauty salon",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1015
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 21781,
+        "alt": "Glow gallery picture: Hair & beauty salon",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2028
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 18606,
+        "alt": "Glow gallery picture: Hair & beauty salon",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3041
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 18588,
+        "alt": "Glow gallery picture: Hair & beauty salon",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4054
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 19241,
+        "alt": "Glow gallery picture: Hair & beauty salon",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5067
+      }
+    ]
+  }
+}

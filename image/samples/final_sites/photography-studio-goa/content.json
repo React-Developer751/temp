@@ -1,0 +1,181 @@
+{
+  "brand": "Photography Studio, Goa",
+  "niche": "portfolio",
+  "kind": "creative",
+  "profile": "",
+  "business_type": "photography",
+  "type_label": "Photography Studio",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "elegant",
+  "keywords": [
+    "wedding",
+    "photographer"
+  ],
+  "eyebrow": "Photography Studio · Goa",
+  "location": "Goa",
+  "audience": "",
+  "hero_heading": "Photography Studio in Goa",
+  "tagline": "Start a project and tell us what you need.",
+  "about_title": "About us",
+  "about": [
+    "Ask to see work like yours.",
+    "You'll find us in Goa. Message us a few notes and we will reply."
+  ],
+  "features_title": "Ways to work together",
+  "features": [
+    {
+      "title": "Shoots",
+      "text": "Shoots: ask for details before you decide."
+    },
+    {
+      "title": "Portraits",
+      "text": "Ask to see examples of Portraits before you decide."
+    },
+    {
+      "title": "Prints",
+      "text": "We shape Prints around where it will be used."
+    },
+    {
+      "title": "Frames",
+      "text": "Share what you like and we'll plan Frames around it."
+    },
+    {
+      "title": "Albums",
+      "text": "Feel free to ask us how Albums works and what to expect."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "A real person replies",
+      "text": "Not a form that goes nowhere."
+    },
+    {
+      "title": "Local and personal",
+      "text": "Run by people you can talk to."
+    },
+    {
+      "title": "Clear next steps",
+      "text": "You'll know what comes next."
+    }
+  ],
+  "stats_title": "At a glance",
+  "stats": [
+    {
+      "value": "Goa",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "Three simple steps",
+  "steps": [
+    {
+      "title": "Look at references",
+      "text": "Show us what you like."
+    },
+    {
+      "title": "Agree the plan",
+      "text": "Scope, schedule and the shape of."
+    },
+    {
+      "title": "Review and finish",
+      "text": "You give feedback; we polish until it's right."
+    }
+  ],
+  "faq_title": "Before you ask",
+  "faq": [
+    {
+      "q": "Where are you based?",
+      "a": "Find us in Goa."
+    },
+    {
+      "q": "Can I ask questions before I decide?",
+      "a": "Certainly; that's what the first conversation is for."
+    },
+    {
+      "q": "How do I pay?",
+      "a": "Feel free to ask us when you book and we will explain the options."
+    },
+    {
+      "q": "Is there anything I should prepare?",
+      "a": "We will tell you what to bring or prepare when you reach out."
+    }
+  ],
+  "blog_title": "Short guides",
+  "blog": [
+    {
+      "title": "When to ask for a second opinion",
+      "excerpt": "And how to do it politely."
+    },
+    {
+      "title": "Notes on getting started",
+      "excerpt": "The first steps, without the jargon."
+    },
+    {
+      "title": "Choosing references",
+      "excerpt": "What to send and what to leave out."
+    }
+  ],
+  "contact": {
+    "place": "Goa"
+  },
+  "cta_primary": "Start a project",
+  "cta_secondary": "See our work",
+  "cta_text": "Your project starts with a message.",
+  "cta_title": "Your next step is one message away",
+  "footer": "© Photography Studio, Goa. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Goa",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "photography (confidence high)",
+    "items_from_prompt": [],
+    "place": "Goa",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "creative"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Photography Studio, Goa' (not a name). Add your business name to replace it.",
+    "Typical photography studio offerings were used for: Shoots, Portraits, Prints, Frames, Albums. List your real services (3 or more) to replace them."
+  ]
+}

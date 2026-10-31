@@ -1,0 +1,106 @@
+{
+  "niche": "petshop",
+  "requested_niche": "petshop",
+  "fallback": false,
+  "reason": "business type petshop",
+  "mood": "light",
+  "accent": "#1aa268",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Daily Pet Shop Pet Shop chandigarh Collars Beds Leashes Foods Supplies",
+    "niche": "petshop",
+    "title": "Pet shop",
+    "fallback": false,
+    "mood": "light",
+    "accent": "#1aa268",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 14,
+    "palette_family": 0.83,
+    "text_zone": "left",
+    "hero_contrast": 4.87,
+    "seconds": 8.21,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.83
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 55477,
+      "alt": "Illustration for Daily Pet Shop: Pet shop",
+      "text_color": "#0d0d14",
+      "contrast": 4.87,
+      "role": "hero",
+      "seed": 3
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 39653,
+      "alt": "About Daily Pet Shop: Pet shop",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1016
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 24332,
+        "alt": "Daily Pet Shop gallery picture: Pet shop",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2029
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 24224,
+        "alt": "Daily Pet Shop gallery picture: Pet shop",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3042
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 23260,
+        "alt": "Daily Pet Shop gallery picture: Pet shop",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4055
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 24539,
+        "alt": "Daily Pet Shop gallery picture: Pet shop",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5068
+      }
+    ]
+  }
+}

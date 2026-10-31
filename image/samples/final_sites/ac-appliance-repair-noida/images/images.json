@@ -1,0 +1,106 @@
+{
+  "niche": "ac-repair",
+  "requested_niche": "ac-repair",
+  "fallback": false,
+  "reason": "business type ac",
+  "mood": "dark",
+  "accent": "#5b48da",
+  "text_zone": "left",
+  "report": {
+    "prompt": "AC & Appliance Repair, Noida AC & Appliance Repair service Repairs Services Checkups Cleanings Installations",
+    "niche": "ac-repair",
+    "title": "AC and appliance repair",
+    "fallback": false,
+    "mood": "dark",
+    "accent": "#5b48da",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 24,
+    "palette_family": 0.95,
+    "text_zone": "left",
+    "hero_contrast": 4.84,
+    "seconds": 6.77,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.95
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 45025,
+      "alt": "Illustration for AC & Appliance Repair, Noida: AC and appliance repair",
+      "text_color": "#ffffff",
+      "contrast": 4.84,
+      "role": "hero",
+      "seed": 5
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 32197,
+      "alt": "About AC & Appliance Repair, Noida: AC and appliance repair",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1018
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 15337,
+        "alt": "AC & Appliance Repair, Noida gallery picture: AC and appliance repair",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2031
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 12181,
+        "alt": "AC & Appliance Repair, Noida gallery picture: AC and appliance repair",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3044
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 18290,
+        "alt": "AC & Appliance Repair, Noida gallery picture: AC and appliance repair",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4057
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 22881,
+        "alt": "AC & Appliance Repair, Noida gallery picture: AC and appliance repair",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5070
+      }
+    ]
+  }
+}

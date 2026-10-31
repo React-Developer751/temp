@@ -1,0 +1,215 @@
+{
+  "brand": "Solar installer",
+  "niche": "solar_installer",
+  "kind": "home",
+  "profile": "",
+  "business_type": "solar_installer",
+  "type_label": "Solar installer",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "cool",
+  "keywords": [
+    "solar installer",
+    "solar panel installation",
+    "rooftop solar",
+    "solar system for home",
+    "net metering",
+    "solar water heater"
+  ],
+  "eyebrow": "Solar installer",
+  "location": "",
+  "audience": "",
+  "hero_heading": "Straightforward Solar Installer For Your Home",
+  "tagline": "From rooftop solar for homes to shop and factory solar, Solar installer keeps things simple: a short chat, a fair quote and a visit at a time that suits you.",
+  "about_title": "About us",
+  "about": [
+    "Solar installer is a local team for solar installer. We keep our work simple: listen to the problem, explain the options and do the job properly.",
+    "We cover rooftop solar for homes, shop and factory solar and net metering help, and we are happy to talk it through with you before you decide on anything."
+  ],
+  "features_title": "Our Solar Installer Services",
+  "features": [
+    {
+      "title": "Rooftop Solar For Homes",
+      "text": "For rooftop solar for homes, we look at the place first, then suggest the simplest fix that lasts."
+    },
+    {
+      "title": "Shop And Factory Solar",
+      "text": "Need shop and factory solar? Tell us what is wrong and we will say what can be done and when."
+    },
+    {
+      "title": "Net Metering Help",
+      "text": "Net Metering Help with a short check at the end, so you know the job is finished properly."
+    },
+    {
+      "title": "Solar Water Heaters",
+      "text": "We explain what solar water heaters involves, the options and the cost before any work begins."
+    },
+    {
+      "title": "Battery And Hybrid Setups",
+      "text": "Battery And Hybrid Setups by a local team, with the price and timing agreed with you first."
+    },
+    {
+      "title": "Cleaning And Annual Service",
+      "text": "Ask about cleaning and annual service and get a clear quote, a time that suits you and a tidy finish."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Plain Explanations",
+      "text": "Clear: Price before work."
+    },
+    {
+      "title": "Fixed Visit Times",
+      "text": "Fixed: Visit time you choose."
+    },
+    {
+      "title": "Follow-Up On Request",
+      "text": "Tidy: Finish every time."
+    }
+  ],
+  "stats_title": "At a glance",
+  "stats": [
+    {
+      "value": "Clear",
+      "label": "Price before work"
+    },
+    {
+      "value": "Fixed",
+      "label": "Visit time you choose"
+    },
+    {
+      "value": "Tidy",
+      "label": "Finish every time"
+    }
+  ],
+  "steps_title": "How It Works",
+  "steps": [
+    {
+      "title": "Tell Us What You Need",
+      "text": "Describe the solar installer job by call or message, with a photo if that helps."
+    },
+    {
+      "title": "Get A Clear Quote",
+      "text": "We explain the options for rooftop solar for homes and give you the price before anything starts."
+    },
+    {
+      "title": "We Do The Work",
+      "text": "Our team arrives at the agreed time and completes the shop and factory solar work with care."
+    },
+    {
+      "title": "Check And Follow Up",
+      "text": "We go through the result with you and stay reachable for questions on net metering help afterwards."
+    }
+  ],
+  "faq_title": "Good questions",
+  "faq": [
+    {
+      "q": "Do you explain the solar installer work before starting?",
+      "a": "Always. We describe each step, the materials and the cost, and begin only when you are comfortable. That goes for net metering help and solar water heaters too."
+    },
+    {
+      "q": "Can I ask questions after net metering help?",
+      "a": "Yes. Message us any time after the job and we will answer or come back to check. Ask us about battery and hybrid setups or cleaning and annual service and the answer is the same."
+    },
+    {
+      "q": "Do you handle small solar installer jobs too?",
+      "a": "Yes. Small and large jobs get the same care, and we quote both in the same clear way. The same approach applies to rooftop solar for homes and cleaning and annual service."
+    },
+    {
+      "q": "How do you charge for solar water heaters?",
+      "a": "We quote by the job and tell you what is included, so the final bill matches what we agreed. This applies to rooftop solar for homes, shop and factory solar and the rest of our solar installer work."
+    },
+    {
+      "q": "How do I get a quote for rooftop solar for homes?",
+      "a": "Send a message or call with a few details and we will reply with a clear price before any work starts. It is the same for shop and factory solar as it is for rooftop solar for homes."
+    }
+  ],
+  "blog_title": "Solar Installer Tips And Guides",
+  "blog": [
+    {
+      "title": "Questions To Ask Before Shop And Factory Solar",
+      "excerpt": "Checklist notes for people looking into solar installer."
+    },
+    {
+      "title": "Preparing Your Place For Net Metering Help",
+      "excerpt": "Planning notes for people looking into solar installer."
+    },
+    {
+      "title": "Small Signs You Need Solar Water Heaters",
+      "excerpt": "Advice notes for people looking into solar installer."
+    }
+  ],
+  "contact": {},
+  "cta_primary": "Book A Site Survey",
+  "cta_secondary": "FAQ",
+  "cta_text": "Call or message Solar installer to talk about rooftop solar for homes or shop and factory solar. We reply with a clear price and a time that works for you.",
+  "cta_title": "Ready To Book Solar Installer Today?",
+  "footer": "© Solar installer. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "pricing": [
+    {
+      "name": "Single Visit",
+      "price": "Free site survey"
+    },
+    {
+      "name": "Regular Care",
+      "price": "Rs 104,000 /3 kW system"
+    },
+    {
+      "name": "Full Service",
+      "price": "Rs 168,000 /5 kW system"
+    }
+  ],
+  "facts_used": {},
+  "missing": [
+    "name",
+    "phone",
+    "email",
+    "address",
+    "hours"
+  ],
+  "generated_by": {
+    "business_type": "solar_installer (niche pack)",
+    "items_from_prompt": [
+      "Rooftop Solar For Homes",
+      "Shop And Factory Solar",
+      "Net Metering Help",
+      "Solar Water Heaters",
+      "Battery And Hybrid Setups",
+      "Cleaning And Annual Service"
+    ],
+    "place": "",
+    "mode": "niche pack",
+    "copy": "pack text from the training spec"
+  },
+  "needs_review": [
+    "This page uses the solar_installer niche pack. Replace the sample prices (USD x 80) and add your real phone, address and hours before publishing.",
+    "No business name was given, so the heading is 'Solar installer' (not a name).",
+    "No picture style fits this kind of business (no picture niche for business type 'solar_installer'): the pictures are a neutral abstract in the brand colour, not a wrong scene."
+  ]
+}

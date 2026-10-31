@@ -2,3 +2,28 @@ node_modules
 .DS_Store
 __pycache__/
 *.pyc
+
+# Text scraped from third-party company websites (and the crawl logs / models built from it):
+# used only for local training, never published.
+cont/data/corpus*.json
+cont/data/model.json
+cont/data/done_sites.json
+cont/data/fetch*.log
+content/data/corpus*.json
+content/data/profile_corpus.json
+content/data/profile_holdout.json
+content/data/model.json
+content/data/done_sites.json
+content/data/profile_done.json
+content/data/fetch*.log
+# Example sites built around real businesses (real names and phone numbers)
+content/output/real_examples/
+# Demo photos of unknown origin
+image/business_check/own_images_blend_demo.png
+image/business_check/own_images_training_demo.png
+# Large regenerable outputs (evaluation renders)
+image/samples/spec_run/
+image/business_check/images/
+image/business_check/holdout_images/
+image/business_check/holdout2_images/
+image/business_check/holdout3_images/

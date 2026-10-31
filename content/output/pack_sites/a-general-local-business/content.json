@@ -1,0 +1,215 @@
+{
+  "brand": "A general local business",
+  "niche": "type_general_business",
+  "kind": "home",
+  "profile": "",
+  "business_type": "type_general_business",
+  "type_label": "A general local business",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "friendly",
+  "keywords": [
+    "local business",
+    "small business",
+    "business website",
+    "local shop",
+    "neighbourhood business",
+    "unique website"
+  ],
+  "eyebrow": "A general local business",
+  "location": "",
+  "audience": "",
+  "hero_heading": "Local Local Business You Can Count On",
+  "tagline": "A general local business handles friendly local service, clear pricing and easy contact. Tell us what you need and get a clear plan and price before we start.",
+  "about_title": "About us",
+  "about": [
+    "At A general local business we believe a good local business job starts with a clear conversation. You hear the plan and the price first, and the work follows.",
+    "Our services include friendly local service and clear pricing. Ask us about honest advice or on time updates too, and we will tell you plainly what is possible."
+  ],
+  "features_title": "What Local Business Covers Here",
+  "features": [
+    {
+      "title": "Friendly Local Service",
+      "text": "For friendly local service, we look at the place first, then suggest the simplest fix that lasts."
+    },
+    {
+      "title": "Clear Pricing",
+      "text": "Need clear pricing? Tell us what is wrong and we will say what can be done and when."
+    },
+    {
+      "title": "Easy Contact",
+      "text": "Easy Contact with a short check at the end, so you know the job is finished properly."
+    },
+    {
+      "title": "Honest Advice",
+      "text": "We explain what honest advice involves, the options and the cost before any work begins."
+    },
+    {
+      "title": "On Time Updates",
+      "text": "On Time Updates by a local team, with the price and timing agreed with you first."
+    },
+    {
+      "title": "Quick Replies",
+      "text": "Ask about quick replies and get a clear quote, a time that suits you and a tidy finish."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Clear Quote Before Work",
+      "text": "Free: First quote."
+    },
+    {
+      "title": "Friendly Local Team",
+      "text": "Same day: Replies to messages."
+    },
+    {
+      "title": "Tidy Finish",
+      "text": "Local: Team near you."
+    }
+  ],
+  "stats_title": "At a glance",
+  "stats": [
+    {
+      "value": "Free",
+      "label": "First quote"
+    },
+    {
+      "value": "Same day",
+      "label": "Replies to messages"
+    },
+    {
+      "value": "Local",
+      "label": "Team near you"
+    }
+  ],
+  "steps_title": "How Local Business Works With Us",
+  "steps": [
+    {
+      "title": "Tell Us What You Need",
+      "text": "Describe the local business job by call or message, with a photo if that helps."
+    },
+    {
+      "title": "Get A Clear Quote",
+      "text": "We explain the options for friendly local service and give you the price before anything starts."
+    },
+    {
+      "title": "We Do The Work",
+      "text": "Our team arrives at the agreed time and completes the clear pricing work with care."
+    },
+    {
+      "title": "Check And Follow Up",
+      "text": "We go through the result with you and stay reachable for questions on easy contact afterwards."
+    }
+  ],
+  "faq_title": "Good questions",
+  "faq": [
+    {
+      "q": "What should I prepare before friendly local service?",
+      "a": "A clear path to the work area and a few details about the problem are usually enough; we will tell you if more is needed. Ask us about on time updates or quick replies and the answer is the same."
+    },
+    {
+      "q": "Do you explain the local business work before starting?",
+      "a": "Always. We describe each step, the materials and the cost, and begin only when you are comfortable. The same approach applies to friendly local service and quick replies."
+    },
+    {
+      "q": "Can I ask questions after easy contact?",
+      "a": "Yes. Message us any time after the job and we will answer or come back to check. This applies to friendly local service, clear pricing and the rest of our local business work."
+    },
+    {
+      "q": "Do you handle small local business jobs too?",
+      "a": "Yes. Small and large jobs get the same care, and we quote both in the same clear way. It is the same for clear pricing as it is for friendly local service."
+    },
+    {
+      "q": "How do you charge for honest advice?",
+      "a": "We quote by the job and tell you what is included, so the final bill matches what we agreed. That goes for easy contact and honest advice too."
+    }
+  ],
+  "blog_title": "From The Local Business Desk",
+  "blog": [
+    {
+      "title": "Preparing Your Place For Easy Contact",
+      "excerpt": "Planning notes for people looking into a general local business."
+    },
+    {
+      "title": "Small Signs You Need Honest Advice",
+      "excerpt": "Advice notes for people looking into a general local business."
+    },
+    {
+      "title": "A Simple Guide To On Time Updates",
+      "excerpt": "Basics notes for people looking into a general local business."
+    }
+  ],
+  "contact": {},
+  "cta_primary": "Contact Us Today",
+  "cta_secondary": "FAQ",
+  "cta_text": "Tell A general local business what you need: friendly local service, easy contact or anything close to it. We will answer with the next step and a clear quote.",
+  "cta_title": "Need Local Business At Your Place?",
+  "footer": "© A general local business. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "pricing": [
+    {
+      "name": "Single Visit",
+      "price": "Rs 400 /job"
+    },
+    {
+      "name": "Regular Care",
+      "price": "Rs 1,600 /job"
+    },
+    {
+      "name": "Full Service",
+      "price": "Rs 4,800 /job"
+    }
+  ],
+  "facts_used": {},
+  "missing": [
+    "name",
+    "phone",
+    "email",
+    "address",
+    "hours"
+  ],
+  "generated_by": {
+    "business_type": "type_general_business (niche pack)",
+    "items_from_prompt": [
+      "Friendly Local Service",
+      "Clear Pricing",
+      "Easy Contact",
+      "Honest Advice",
+      "On Time Updates",
+      "Quick Replies"
+    ],
+    "place": "",
+    "mode": "niche pack",
+    "copy": "pack text from the training spec"
+  },
+  "needs_review": [
+    "This page uses the type_general_business niche pack. Replace the sample prices (USD x 80) and add your real phone, address and hours before publishing.",
+    "No business name was given, so the heading is 'A general local business' (not a name).",
+    "No picture style fits this kind of business (no picture niche for business type 'type_general_business'): the pictures are a neutral abstract in the brand colour, not a wrong scene."
+  ]
+}

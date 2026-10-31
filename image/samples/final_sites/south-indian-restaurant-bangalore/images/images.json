@@ -1,0 +1,106 @@
+{
+  "niche": "south-indian",
+  "requested_niche": "south-indian",
+  "fallback": false,
+  "reason": "sub-niche south_indian",
+  "mood": "warm",
+  "accent": "#c37e27",
+  "text_zone": "left",
+  "report": {
+    "prompt": "South Indian restaurant, Bangalore South Indian restaurant tiffin centre Starters Mains Desserts Drinks",
+    "niche": "south-indian",
+    "title": "South Indian restaurant",
+    "fallback": false,
+    "mood": "warm",
+    "accent": "#c37e27",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 22,
+    "palette_family": 0.899,
+    "text_zone": "left",
+    "hero_contrast": 4.78,
+    "seconds": 8.78,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.899
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 48377,
+      "alt": "Illustration for South Indian restaurant, Bangalore: South Indian restaurant",
+      "text_color": "#0d0d14",
+      "contrast": 4.78,
+      "role": "hero",
+      "seed": 5
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 32766,
+      "alt": "About South Indian restaurant, Bangalore: South Indian restaurant",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1018
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 24794,
+        "alt": "South Indian restaurant, Bangalore gallery picture: South Indian restaurant",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2031
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 22832,
+        "alt": "South Indian restaurant, Bangalore gallery picture: South Indian restaurant",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3044
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 23617,
+        "alt": "South Indian restaurant, Bangalore gallery picture: South Indian restaurant",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4057
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 24985,
+        "alt": "South Indian restaurant, Bangalore gallery picture: South Indian restaurant",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5070
+      }
+    ]
+  }
+}

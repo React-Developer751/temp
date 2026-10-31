@@ -1,0 +1,180 @@
+{
+  "brand": "Play School & Daycare, Ahmedabad",
+  "niche": "education",
+  "kind": "education",
+  "profile": "",
+  "business_type": "playschool",
+  "type_label": "Play School & Daycare",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "playful",
+  "keywords": [
+    "education"
+  ],
+  "eyebrow": "Play School & Daycare · Ahmedabad",
+  "location": "Ahmedabad",
+  "audience": "",
+  "hero_heading": "Play School & Daycare in Ahmedabad",
+  "tagline": "Small steps, then bigger ones.",
+  "about_title": "About us",
+  "about": [
+    "Parents are kept in the loop.",
+    "You will find us in Ahmedabad. Feel free to ask us anything before you make up your mind."
+  ],
+  "features_title": "Courses and batches",
+  "features": [
+    {
+      "title": "Games",
+      "text": "Message us about Games; we reply to every enquiry."
+    },
+    {
+      "title": "Rhymes",
+      "text": "Feel free to ask us about Rhymes when you visit."
+    },
+    {
+      "title": "Celebrations",
+      "text": "Curious about Celebrations? Come and see it in action."
+    },
+    {
+      "title": "Outings",
+      "text": "Ask how Outings fits into the school day."
+    },
+    {
+      "title": "Activities",
+      "text": "Activities: ask for details before you decide."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Easy to reach",
+      "text": "Message or call."
+    },
+    {
+      "title": "Caring teachers",
+      "text": "Someone knows your child by name."
+    },
+    {
+      "title": "Easy to ask",
+      "text": "Questions are always welcome."
+    }
+  ],
+  "stats_title": "Details at a glance",
+  "stats": [
+    {
+      "value": "Ahmedabad",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "Getting started",
+  "steps": [
+    {
+      "title": "Get in touch",
+      "text": "Message us or use the contact details on this page."
+    },
+    {
+      "title": "See for yourself",
+      "text": "Walk through the school and meet the teachers."
+    },
+    {
+      "title": "Join the class",
+      "text": "We confirm the details and the first day with you."
+    }
+  ],
+  "faq_title": "Good questions",
+  "faq": [
+    {
+      "q": "Which classes do you teach?",
+      "a": "Tell us your child's age and we will point you to the right class."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Ahmedabad; get in touch for directions."
+    },
+    {
+      "q": "Can I change my plans?",
+      "a": "Let us know as early as you can and we will look at what's possible."
+    },
+    {
+      "q": "Can someone else book for me?",
+      "a": "Certainly; share the details and we will take it from there."
+    }
+  ],
+  "blog_title": "Worth reading",
+  "blog": [
+    {
+      "title": "Why we answer every message",
+      "excerpt": "Replies are part of the service."
+    },
+    {
+      "title": "Helping your child with homework",
+      "excerpt": "Routines that make evenings calmer."
+    },
+    {
+      "title": "How to choose a good play school & daycare",
+      "excerpt": "Five questions worth asking before you decide."
+    }
+  ],
+  "contact": {
+    "place": "Ahmedabad"
+  },
+  "cta_primary": "Ask about admission",
+  "cta_secondary": "See the classes",
+  "cta_text": "Ask about admission and let us know your child's class.",
+  "cta_title": "Ready when you are",
+  "footer": "© Play School & Daycare, Ahmedabad. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Ahmedabad",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "playschool (confidence high)",
+    "items_from_prompt": [],
+    "place": "Ahmedabad",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "education"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Play School & Daycare, Ahmedabad' (not a name). Add your business name to replace it.",
+    "Typical play school & daycare offerings were used for: Games, Rhymes, Celebrations, Outings, Activities. List your real services (3 or more) to replace them."
+  ]
+}

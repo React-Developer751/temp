@@ -1,0 +1,750 @@
+{
+ "pest-control": [
+  "shield and house",
+  "Water tank fogging (pest control)",
+  "Technician at work (pest control)",
+  "Mosquito Control: Fogging and larvae treatment around drains, gardens and water tanks before the rainy season",
+  "Pre Construction Treatment: Soil treatment before the floor is laid, so your new building is protected from termites early"
+ ],
+ "movers": [
+  "packers and movers with a truck",
+  "Office shifting (packers and movers)",
+  "Unloading at site (packers and movers)",
+  "Transit Insurance Cover: Optional cover for your goods in transit, so a damaged item is not your loss alone",
+  "Short Term Storage: A clean, dry godown if your new home is not ready, and we deliver when you are"
+ ],
+ "solar-energy": [
+  "wind turbine and solar panels",
+  "Shop roof system (solar installer)",
+  "Cleaning visit (solar installer)",
+  "Battery And Hybrid Setups: Inverter with battery backup for areas with long power cuts, or a hybrid grid system",
+  "Cleaning And Annual Service: Panel cleaning, wiring checks and inverter health checks so output stays steady"
+ ],
+ "security": [
+  "shield",
+  "Door phone fitting (cctv and security installation)",
+  "Neat cabling (cctv and security installation)",
+  "Biometric Attendance: Fingerprint or face machines for staff attendance and door access in shops and offices",
+  "AMC And Repairs: Yearly service for cameras, DVR and cabling, and quick repair if a camera stops recording",
+  "shield and a building",
+  "Morning briefing (security guard agency)",
+  "Supervisor inspection (security guard agency)",
+  "Trained And Briefed Staff: Every guard has police verification and ID checks, plus training in basic fire safety and emergency response",
+  "Supervisors And Replacements: Field supervisors inspect posts and a guard is replaced the same day if someone is absent or unsuitable"
+ ],
+ "ac-repair": [
+  "repair workshop",
+  "Filter cleaning (ac repair and service)",
+  "Cooling test (ac repair and service)",
+  "Uninstall And Relocate: Safe gas pump down, removal and refitting if you move to a new flat or change rooms",
+  "PCB And Compressor Repair: Diagnosis of dead boards, fan motors and compressors, with the cost shared before we repair"
+ ],
+ "painting": [
+  "paint roller and ladder",
+  "Door polish (painting contractor)",
+  "Finished living room (painting contractor)",
+  "Texture And Designer Walls: Accent walls with texture, stencils or two-tone colour to give a room its own look",
+  "Office And Shop Painting: Quick repainting in off hours or over a weekend so your business loses very little time"
+ ],
+ "carpentry": [
+  "workshop with a saw",
+  "Kitchen cabinets (carpentry and custom furniture)",
+  "Polished table (carpentry and custom furniture)",
+  "Doors And Windows: Teak and engineered wood doors, frames and window shutters, fitted and polished",
+  "Repair And Polish: Loose joints tightened, broken parts replaced and old furniture sanded and re-polished"
+ ],
+ "cleaning": [
+  "cleaning service",
+  "Floor scrubbing (home and office cleaning)",
+  "Office desk clean (home and office cleaning)",
+  "Move In And Move Out Clean: A full clean before you move in or hand over the flat, so it is ready right away",
+  "Office And Shop Cleaning: Regular or one-time cleaning of desks, floors, washrooms and glass, outside working hours"
+ ],
+ "laundry": [
+  "clothes and shirts",
+  "Quilt washing (laundry and dry cleaning)",
+  "Ready for delivery (laundry and dry cleaning)",
+  "Curtains And Bedding: Heavy quilts, blankets, bedsheets and curtains washed in large machines and dried fully",
+  "Shoe And Bag Cleaning: Sneakers and leather bags cleaned and freshened, with stain treatment where needed"
+ ],
+ "water-purifier": [
+  "wrench and tap",
+  "Tank cleaning (water purifier service)",
+  "Wall mounted RO (water purifier service)",
+  "Leak And Low Flow Repair: Fixing leaking tubes, weak pumps, faulty valves and low water flow from the tap",
+  "Annual Service Plan: Scheduled visits with filter changes and cleaning at a fixed price for the whole year"
+ ],
+ "car-rental": [
+  "cars on a road",
+  "Clean interior (car rental)",
+  "Ready for pickup (car rental)",
+  "Monthly And Corporate Hire: Dedicated cars for companies and long-stay visitors, billed monthly with one fixed rate",
+  "Outstation Tours: Round-trip and one-way trips to hill stations and temples, with route advice and toll details"
+ ],
+ "driving-school": [
+  "student with a car",
+  "Instructor guidance (driving school)",
+  "Test preparation (driving school)",
+  "Licence Paperwork Help: We help with learner licence forms, slot booking and test preparation at the RTO",
+  "Refresher And Highway Class: Short courses for licence holders who want more confidence, highway or night driving"
+ ],
+ "mobile-repair": [
+  "repair workshop with a phone",
+  "Charging port fix (mobile phone repair)",
+  "Tested and ready (mobile phone repair)",
+  "Software And Data Help: Hang, boot loop, update trouble and data backup or recovery wherever it is possible",
+  "Speaker, Mic And Camera Fix: Replacing faulty speakers, microphones and camera modules so calls and photos work again"
+ ],
+ "bike-garage": [
+  "mechanic with a bicycle",
+  "Scooter service (bike and scooter garage)",
+  "Washed and ready (bike and scooter garage)",
+  "Electrical And Battery: Self start, lights, horn, wiring faults and battery testing or replacement",
+  "Scooter Care: CVT, belt, variator and brake service for scooters, plus carburettor or injector cleaning"
+ ],
+ "interior-design": [
+  "bedroom with a bed and lamp",
+  "Kids room (interior designer)",
+  "Study corner (interior designer)",
+  "False Ceiling And Lighting: Ceiling designs and layered lighting that set the mood of a room without overheating it",
+  "Turnkey Execution: Civil work, carpentry, electrical, painting and décor handled by one team under one schedule"
+ ],
+ "bar-lounge": [
+  "restaurant interior",
+  "Quiz night crowd (craft brewery and taproom)",
+  "Growler fill station (craft brewery and taproom)",
+  "Growlers And Cans: Fill a growler or grab chilled cans from the counter to enjoy your favourite pour at home",
+  "Events And Private Hosting: Trivia nights, live acoustic sets and birthday tables can be booked with a set menu and a reserved corner"
+ ],
+ "cloud-kitchen": [
+  "delivery van with food",
+  "Rider handover (cloud kitchen)",
+  "Dessert cups ready (cloud kitchen)",
+  "Multiple Brands, One Kitchen: Choose north Indian, biryani, rolls or healthy bowls from separate menus cooked in the same facility",
+  "Live Order Tracking: Get message updates when your food is being cooked, packed and handed to the rider"
+ ],
+ "tiffin-service": [
+  "chef and a delivery van",
+  "Packed for delivery (tiffin service)",
+  "Sunday special thali (tiffin service)",
+  "Steel Dabba Delivery: Food arrives in a clean steel tiffin and we collect the empty one on the next delivery",
+  "Pause And Resume Easily: Going home for a week? Tell us a day ahead and we skip the delivery without any fuss"
+ ],
+ "sweet-shop": [
+  "gift box and cake",
+  "Silver leaf barfi (sweet shop (mithai))",
+  "Counter at Diwali (sweet shop (mithai))",
+  "Sugar-Free Choices: Dates and dry fruit sweets made without added sugar for those who need to watch their intake",
+  "Namkeen And Farsan Counter: Take home fresh samosa, kachori and sev along with your sweets for the full tea-time spread"
+ ],
+ "ice-cream": [
+  "ice cream and cupcake",
+  "Sprinkle toppings bar (ice cream parlour)",
+  "Pastel freezer counter (ice cream parlour)",
+  "Shakes And Floats: Thick milkshakes and soda floats are blended to order for hot afternoons",
+  "Party Tubs: Take home a one-litre or two-litre tub of your chosen flavours for birthdays and family gatherings"
+ ],
+ "juice-bar": [
+  "cafe with juice",
+  "Cold bottle rack (juice and smoothie bar)",
+  "Mixed berry blend (juice and smoothie bar)",
+  "Fruit Bowls And Salads: Chopped seasonal fruit with chaat masala or honey, packed as a quick snack or breakfast",
+  "Weekly Juice Packs: Subscribe to a pack of cold bottles delivered to your door each morning for a week or a month"
+ ],
+ "catering": [
+  "party buffet with a chef",
+  "Starter platters (catering service)",
+  "Service team ready (catering service)",
+  "Trained Service Staff: Uniformed waiters, buffet helpers and a captain keep service smooth and plates clean",
+  "Tasting Before You Book: Taste a few menu items at our kitchen before you finalise, so you are sure about the flavours"
+ ],
+ "grocery": [
+  "grocery store",
+  "Fresh fruit counter (kirana and grocery store)",
+  "Delivery bags ready (kirana and grocery store)",
+  "Dairy, Bread And Eggs: Milk, curd, paneer, bread and eggs are kept in the fridge and delivered along with your items",
+  "Household And Pooja Items: Cleaning supplies, toiletries, agarbatti and pooja samagri are all kept at the same counter"
+ ],
+ "bookstore": [
+  "reading a book",
+  "Reading circle evening (bookstore)",
+  "Textbook section (bookstore)",
+  "Gift Wrapping: Choose a book, add a note, and we wrap it in paper with a ribbon for birthdays and festivals",
+  "Reading Circle Nights: Monthly meets where readers share a book of the month and swap recommendations over tea"
+ ],
+ "gift-shop": [
+  "gift box shop",
+  "Festival gift table (gift shop)",
+  "Handwritten card corner (gift shop)",
+  "Wedding And Anniversary Gifts: Couple frames, decor pieces and silver-look gift items packed in elegant boxes",
+  "Gift Wrapping And Cards: Choose a wrapping theme, add a card and ribbon, and we pack it so it is ready to hand over"
+ ],
+ "florist": [
+  "bouquet in a shop",
+  "Pastel flower box (florist)",
+  "Morning flower market (florist)",
+  "Indoor Plants And Vases: Small potted plants and vase arrangements for desks, tables and gift-giving",
+  "Flower Subscriptions: A fresh bunch sent each week to your home or office reception without having to reorder"
+ ],
+ "printing": [
+  "documents and a pencil",
+  "Folded brochures (printing press)",
+  "Cutting and binding (printing press)",
+  "Bill Books And Stationery: Invoice books, letterheads, envelopes and carbonless forms printed with your business details",
+  "Design And Proof Service: Our designer prepares or fixes your artwork and shares a proof for approval before printing"
+ ],
+ "jewellery": [
+  "luxury watch product shot",
+  "Karigar at work (jewellery shop)",
+  "Gift box packing (jewellery shop)",
+  "Custom Designs: Share a sketch or a picture and our karigar will craft a ring, pendant or bangle to your size",
+  "Exchange And Repair: Exchange old gold for new, resize rings, polish pieces and repair clasps at the same showroom",
+  "gold mandala on black",
+  "golden desert at sunset with a big sun",
+  "night sky with stars and moon"
+ ],
+ "mobile-store": [
+  "phones and tablets",
+  "Demo counter (mobile phone store)",
+  "New arrivals shelf (mobile phone store)",
+  "Cases, Chargers, Earbuds: Covers, fast chargers, cables, power banks and earbuds in stock for popular models",
+  "Data Transfer And Setup: We move your contacts, photos and chats to the new phone and set up apps and security before handover"
+ ],
+ "tailor": [
+  "scissors thread and shirt",
+  "Pressed and packed (tailoring and alterations)",
+  "Thread and buttons wall (tailoring and alterations)",
+  "Bridal And Festive Wear: Lehengas, sherwanis and gowns stitched with trials, so the fit is right before the wedding day",
+  "Kids And School Uniforms: School uniforms and small festive outfits stitched in strong fabric with room for growth"
+ ],
+ "accounting-finance": [
+  "office with documents and a laptop",
+  "Audit working papers (chartered accountant)",
+  "Consultation meeting (chartered accountant)",
+  "Audit And Assurance: Statutory and tax audit support with working papers, schedules and the required reports prepared for signing",
+  "Notices And Assessments: Reading income tax and GST notices, drafting replies and attending to follow-ups with the department"
+ ],
+ "insurance": [
+  "family and a shield",
+  "Proposal form help (insurance agent)",
+  "Advisor desk (insurance agent)",
+  "Claim Assistance: Help with intimation, document lists and follow-ups with the insurer when a claim is being made",
+  "Renewal Tracking: A list of your policy dates, so renewals are not missed and cover continues without a gap"
+ ],
+ "loan-finance": [
+  "loan documents and coins",
+  "Property paper check (loan and finance agent)",
+  "Client meeting (loan and finance agent)",
+  "Vehicle Loans: New and used car or two-wheeler finance with down payment and EMI options set out clearly",
+  "Credit Report Guidance: Reading your credit report together and noting entries that may need correction before applying"
+ ],
+ "astrology": [
+  "galaxy with stars and a planet",
+  "Floor plan review (astrologer and vastu consultant)",
+  "Consultation desk (astrologer and vastu consultant)",
+  "Vastu For Shops: Counter, cash box and entrance placement reviewed for shops, clinics and small offices",
+  "Remedy Guidance: Traditional practices such as mantra, puja timing or gemstone discussion, shared as options for you"
+ ],
+ "coaching-tuition": [
+  "globe and chat bubbles",
+  "Batch classroom (ielts and language coaching)",
+  "Trainer feedback (ielts and language coaching)",
+  "Mock Speaking Interviews: Recorded practice interviews with a trainer, followed by notes on fluency and answer structure",
+  "German And French Basics: Beginner levels A1 and A2 for students planning study or work abroad",
+  "teacher in a classroom",
+  "Parent meeting (tuition centre)",
+  "Library corner (tuition centre)",
+  "Board Exam Revision: Sample papers, formula sheets and timed practice for CBSE, ICSE and state board students",
+  "Parent Updates: Attendance and test marks shared by message, with a parent meeting at regular intervals",
+  "students studying with books",
+  "Course notes (online coach and courses)",
+  "Community chat (online coach and courses)",
+  "Study Material: Get notes, templates and worksheets that you can download and keep after the course ends",
+  "Community Group: Share progress, doubts and wins with other learners in a friendly chat group"
+ ],
+ "music-academy": [
+  "mandala and music",
+  "Recital stage (music and dance classes)",
+  "Instrument wall (music and dance classes)",
+  "Western And Bollywood Dance: Fun, high-energy routines for kids, teens and adults, with warm-ups and stretching included",
+  "Exam Preparation: Guidance for graded music and dance examinations, with theory notes and practice sessions"
+ ],
+ "ayurveda": [
+  "green plants and candles",
+  "Steam therapy room (ayurveda and panchakarma clinic)",
+  "Herb garden corner (ayurveda and panchakarma clinic)",
+  "Herbal Medicines: Churna, vati and kashayam prescribed after consultation and explained with dose and timing",
+  "Diet And Routine Advice: Seasonal food, daily routine and simple yoga suggestions fitted to your lifestyle"
+ ],
+ "physio": [
+  "yoga studio",
+  "Resistance bands (physiotherapy clinic)",
+  "Assessment room (physiotherapy clinic)",
+  "Neuro Rehabilitation: Balance, gait and strength training for people recovering from stroke or nerve conditions",
+  "Home Visits: Therapy at home for patients who cannot travel, with simple equipment brought along"
+ ],
+ "diagnostic-lab": [
+  "hospital with a medical cross",
+  "Home collection kit (diagnostic lab)",
+  "Microscope station (diagnostic lab)",
+  "Urine And Stool Tests: Routine and culture tests with clear collection instructions and labelled containers",
+  "Report Delivery: Reports sent by WhatsApp or email and printed on request, with reference ranges shown"
+ ],
+ "pharmacy": [
+  "medicine and medical cross",
+  "Baby care section (pharmacy)",
+  "Cold storage (pharmacy)",
+  "Health Devices: BP monitors, glucometers, thermometers and nebulisers, with a demo of how to use them",
+  "Baby And Elder Care: Diapers, baby food, supplements and mobility aids kept in stock for families"
+ ],
+ "counselling": [
+  "calm green plants and lotus",
+  "Online session setup (counselling and therapy practice)",
+  "Calming corner (counselling and therapy practice)",
+  "Family Sessions: A guided space for families to talk through changes, caregiving strain and misunderstandings",
+  "Online Sessions: Secure video sessions for people who prefer privacy at home or live in another city"
+ ],
+ "visa": [
+  "globe with an airplane and documents",
+  "Application folder (immigration consultant)",
+  "Interview practice (immigration consultant)",
+  "Statement And Document Review: Reading statements of purpose, bank documents and certificates for gaps before submission",
+  "Pre-Departure Briefing: Notes on accommodation, banking, health cover and settling in before you fly"
+ ],
+ "notary-documents": [
+  "document and pencil",
+  "Document filing (notary and documentation service)",
+  "Signing desk (notary and documentation service)",
+  "Name Change Papers: Affidavit and publication steps explained for name change in records and certificates",
+  "Power Of Attorney: General and special power of attorney drafts prepared for you to review before execution"
+ ],
+ "digital-agency": [
+  "laptop with a growth chart",
+  "Website mockup (digital marketing agency)",
+  "Client strategy meeting (digital marketing agency)",
+  "Website And Landing Pages: Simple, fast pages with enquiry forms and click-to-call buttons built for mobile visitors",
+  "Reporting And Tracking: Call, form and WhatsApp enquiry tracking with a monthly summary of what worked",
+  "futuristic cyberpunk city at night",
+  "Code review session (web and app development company)",
+  "Team sprint board (web and app development company)",
+  "API And Integrations: Connect payment gateways, WhatsApp, maps and your accounting software to the product you own",
+  "Maintenance And Support: Bug fixes, updates and hosting care after launch, so your app keeps running as phones and browsers change"
+ ],
+ "tattoo": [
+  "geometric tiles in black and red",
+  "Realistic portrait (tattoo studio)",
+  "Minimal symbols (tattoo studio)",
+  "Body Piercing: Ear, nose and navel piercings done with sterile equipment, proper jewellery and clear healing instructions",
+  "Aftercare Guidance: You leave with written aftercare steps, a healing balm and a free touch-up check once the skin has settled"
+ ],
+ "drone-photography": [
+  "city skyline at sunset",
+  "Festival crowd (drone photography)",
+  "Resort at dusk (drone photography)",
+  "Inspection And Survey Shots: Rooftops, towers and large solar plants checked from the air, with close images of problem areas",
+  "Editing And Delivery: Footage is colour graded, trimmed with music if you want it, and delivered as reel, full video and raw photos"
+ ],
+ "dj-sound": [
+  "wedding celebration with music",
+  "Lawn sound setup (wedding dj and sound)",
+  "Cold spark finale (wedding dj and sound)",
+  "Mics And Stage Audio: Wireless handhelds and lapel mics for speeches, anchors and live singers, tested before the first guest arrives",
+  "Corporate And Birthday Gigs: Smaller setups for office parties, birthdays and house parties, with a DJ who keeps the volume friendly"
+ ],
+ "event-party": [
+  "birthday party cake and balloons",
+  "Candle table setting (event decor and planning)",
+  "Baby shower backdrop (event decor and planning)",
+  "Birthday And Baby Showers: Balloon work, theme backdrops and cake tables for home or hall celebrations of every size",
+  "Vendor Coordination: We line up caterers, photographers and artists on a single schedule, with one person you can call on the day"
+ ],
+ "bridal-makeup": [
+  "salon with scissors and comb",
+  "Bridal hairstyle (bridal makeup)",
+  "Mehendi day look (bridal makeup)",
+  "Family And Guest Makeup: Mother, sisters and bridesmaids can book the same artist team, so everyone is ready on schedule",
+  "Skin Prep And Touch-Up Kit: Skin is prepped with suitable products for your type, and you get a small kit for lips and shine control"
+ ],
+ "video-editing": [
+  "camera and laptop",
+  "Podcast clips (video editing studio)",
+  "Motion title intro (video editing studio)",
+  "Colour And Sound Cleanup: Skin tones corrected, shots matched and background noise reduced so voices stay clear",
+  "Motion Graphics And Intros: Logo animations, animated titles and simple explainer graphics designed in your brand colours"
+ ],
+ "funeral-services": [
+  "moon with stars over mountains",
+  "Seating for family (funeral services)",
+  "Cremation ground (funeral services)",
+  "Documents And Certificates: We guide you on the death certificate, municipal records and other papers the family will need later",
+  "Ashes And Final Rites: Collection of ashes and arrangements for immersion or later rituals can be planned with your family"
+ ],
+ "scrap-recycling": [
+  "factory with a truck",
+  "Loaded pickup truck (scrap and recycling)",
+  "Mixed plastic bales (scrap and recycling)",
+  "Bulk And Industrial Scrap: Factory offcuts, machinery, drums and demolition metal cleared with a truck and a loading crew",
+  "Home And Office Clearance: Old furniture, appliances and storeroom junk removed in one visit, with usable items priced fairly"
+ ],
+ "coworking": [
+  "city skyline at day with an office",
+  "Phone booth (coworking space)",
+  "Reception desk (coworking space)",
+  "Fast Wi-Fi And Backup: Dual internet lines and power backup keep calls and deployments running through outages",
+  "Business Address: Use our address for registration and mail handling, along with a reception that signs for your parcels"
+ ],
+ "yoga": [
+  "meditation by a lake at sunrise",
+  "Quiet guest room (yoga retreat)",
+  "Evening satsang (yoga retreat)",
+  "Teacher Training Courses: Structured teacher training modules covering asana, anatomy and philosophy for those who wish to teach",
+  "Nature Walks And Satsang: Gentle guided walks and evening reflection circles to unwind after the day's practice",
+  "pink sunrise with flowers and a lake",
+  "Evening wind down (yoga studio)",
+  "Studio corner (yoga studio)",
+  "Small Batches: Limited mat space in every class, so your teacher can correct posture and offer an easier variation",
+  "Private Sessions: One to one classes at home or in the studio for a specific need, schedule or comfort level"
+ ],
+ "farm-stay": [
+  "cottage with grass and flowers on a sunny day",
+  "Bonfire evening (farm stay and homestay)",
+  "Cosy farm room (farm stay and homestay)",
+  "Village Walks And Cycling: Guided walks to ponds, temples and local markets, with cycles available for the shorter routes",
+  "Family And Group Stays: Larger groups, kids and grandparents can stay together with extra beds and flexible meal timings"
+ ],
+ "pg-hostel": [
+  "student room with a bed and a chair",
+  "Laundry area (pg and hostel)",
+  "Gated entrance (pg and hostel)",
+  "Laundry And Housekeeping: Rooms are cleaned regularly and washing machines are available in a separate, tidy laundry area",
+  "Study And Common Areas: Quiet study room, TV lounge and a water purifier on each floor, with dining space for residents"
+ ],
+ "temple": [
+  "mandala in orange and gold",
+  "Diya lighting (temple trust)",
+  "Evening bhajan (temple trust)",
+  "Dharamshala Stay: Simple, clean rooms for pilgrims and visiting families, booked ahead on a donation basis",
+  "Donations And Seva: Contribute towards temple upkeep, annadaan or education seva, with a receipt for every offering"
+ ],
+ "taxi": [
+  "taxi and a map pin",
+  "SUV for families (cab and taxi service)",
+  "Night highway drive (cab and taxi service)",
+  "Wedding And Event Cars: Decorated cars and shuttle service for guests, planned with timings for the baraat, hotel and venue",
+  "Corporate Travel: Monthly cab accounts for companies with staff pickups, client rides and a single invoice"
+ ],
+ "gym": [
+  "big red sun over dark mountains",
+  "Group conditioning (gym and fitness studio)",
+  "Stretch corner (gym and fitness studio)",
+  "Fitness Assessment: A basic check of weight, mobility and strength so your first plan starts from where you really are",
+  "Open Slots: Early morning to late evening timings, so work and college hours do not block your workout",
+  "big red sun over dark mountains",
+  "cricket set",
+  "stormy mountains with a road"
+ ],
+ "dental": [
+  "hospital building with a doctor",
+  "Children's corner (dental clinic)",
+  "Consultation desk (dental clinic)",
+  "Crowns And Dentures: Caps, bridges and dentures made to restore chewing, with careful matching of fit and shade",
+  "Children's Dentistry: Gentle check ups and advice for little ones, so the first dental visits are not scary"
+ ],
+ "salon": [
+  "pink sunrise with flowers and a lake",
+  "Fresh haircut (hair salon and spa)",
+  "Reception (hair salon and spa)",
+  "Waxing And Threading: Hygienic waxing and threading with fresh strips and disposable items for each client",
+  "Manicure And Pedicure: Nail shaping, soaking and massage, with a quiet corner to put your feet up"
+ ],
+ "barber": [
+  "big red sun over dark mountains",
+  "Straight razor (barber shop)",
+  "Shop front (barber shop)",
+  "Hair Colour And Beard Colour: Colour for grey hair or a style change, applied neatly with a patch test if required",
+  "Head Massage And Facial: Short relaxing head massage and men's cleanup to refresh tired skin"
+ ],
+ "cafe": [
+  "coffee shop",
+  "Barista at work (cafe, coffee and tea)",
+  "Cosy corner (cafe, coffee and tea)",
+  "Desserts And Bakes: Brownies, cakes and cookies, baked fresh and displayed at the counter each day",
+  "Cosy Seating: Comfortable tables, power sockets and wifi for working, reading or meeting friends",
+  "meadow with flowers and a tree on a sunny day",
+  "Tea flight (tea house)",
+  "Fresh pastries (tea house)",
+  "Tea Tastings: Try three leaves side by side and learn how each one is grown and brewed",
+  "Leaves To Take Home: Buy loose leaf tea by the pack, with brewing notes written on the label",
+  "coffee shop",
+  "Bratwurst Lunch (german cafe)",
+  "Cafe Corner (german cafe)",
+  "Filter Coffee: Freshly brewed filter coffee by the cup or the pot, the German way to start a slow morning",
+  "Kaffee Und Kuchen: A pot of coffee and a slice of cake in the afternoon, a German habit we are happy to share"
+ ],
+ "restaurant": [
+  "coffee shop",
+  "Dessert counter (restaurant)",
+  "Family table (restaurant)",
+  "Takeaway And Delivery: Meals packed carefully for takeaway, and delivery within the nearby areas",
+  "Chef's Specials: A short list of seasonal specials cooked by our chef on selected days",
+  "coffee shop",
+  "ice cream",
+  "plate of pasta"
+ ],
+ "bakery": [
+  "coffee shop",
+  "Wedding tiers (bakery and cake shop)",
+  "Bakery counter (bakery and cake shop)",
+  "Wedding And Party Orders: Tiered cakes and dessert boxes for larger events, planned with you in advance",
+  "Home Delivery: Careful local delivery in a sturdy box so your cake arrives in good shape"
+ ],
+ "pet-clinic": [
+  "veterinary clinic with a dog",
+  "Play yard (pet care and vet)",
+  "Pet supplies (pet care and vet)",
+  "Pet Food And Supplies: Food, treats, leashes, beds and toys, and advice on what suits your pet's age and size",
+  "Cat And Small Pet Care: Grooming and basic care for cats, rabbits and other small pets with calm handling",
+  "veterinary clinic with a dog",
+  "horse",
+  "green meadow with a tree and birds on a sunny day"
+ ],
+ "skin-clinic": [
+  "hospital building with a doctor",
+  "Skin care shelf (skin clinic)",
+  "Waiting area (skin clinic)",
+  "Skin Allergies And Rashes: Examination of rashes, itching and sensitivity, with advice on triggers and treatment",
+  "Peels And Facials: Medical facials and peels suggested only when suitable for your skin type"
+ ],
+ "nutritionist": [
+  "hospital building with a doctor",
+  "Portion guide (dietitian and nutritionist)",
+  "Consultation desk (dietitian and nutritionist)",
+  "Sports And Muscle Nutrition: Protein and energy planning for people who train, based on your schedule and diet preferences",
+  "Weekly Follow Ups: Regular check ins to review your progress and adjust meals when life gets in the way"
+ ],
+ "clinic-doctor": [
+  "hospital building with a doctor",
+  "Vaccination corner (general physician clinic)",
+  "Records desk (general physician clinic)",
+  "Minor Procedures: Dressing, injection and simple procedures done under proper hygiene in the clinic",
+  "Records And Referrals: Your history is kept on file, and we refer you to a specialist when you need one",
+  "hospital building with a doctor",
+  "ambulance",
+  "blue and green abstract tiles"
+ ],
+ "real-estate": [
+  "real estate villa with swimming pool",
+  "Shop on main road (real estate agent)",
+  "Balcony view (real estate agent)",
+  "Shop And Office Space: Ground floor shops and small offices for rent or sale, on roads where customers actually walk by",
+  "Sell Your Property: We list your flat or plot, bring genuine buyers for visits and keep you updated after every viewing",
+  "real estate villa with swimming pool",
+  "map pin",
+  "bungalow with a garden"
+ ],
+ "law-firm": [
+  "city skyline at day with a road",
+  "Document review (law firm and advocate)",
+  "Client meeting (law firm and advocate)",
+  "Property Documents: Drafting and reviewing sale deeds, wills and agreements before you sign anything",
+  "Legal Notices: Drafting and replying to legal notices so your side is recorded properly and on time"
+ ],
+ "hotel": [
+  "mountain hiking adventure with tent",
+  "Garden sit out (hotel and guest house)",
+  "Entrance (hotel and guest house)",
+  "Travel Desk: Help with local taxis, railway pickup and drop, and suggestions for places worth visiting",
+  "Parking And Reception: Safe parking for cars and bikes and a reception desk that is staffed through the night"
+ ],
+ "school": [
+  "students studying with books",
+  "Rhyme time (school and preschool)",
+  "Annual day (school and preschool)",
+  "Outdoor Play: A safe play area for running, swings and group games, supervised by a teacher",
+  "Day Care: Extended hours with meals, rest and homework help for working parents who need a safe place",
+  "students studying with books",
+  "light bulb idea",
+  "certificate"
+ ],
+ "photography": [
+  "mandala in magenta and teal",
+  "Family group (photography studio)",
+  "Studio portrait (photography studio)",
+  "Product And Business Shoots: Clean photos of products, shops and food for your website and social media pages",
+  "Photo Albums And Prints: Selected photos designed into printed albums and framed prints that last on the shelf"
+ ],
+ "plumbing": [
+  "painter with a paint roller",
+  "Pipe joint (plumber and electrician)",
+  "Fan installation (plumber and electrician)",
+  "Fan, Light And Geyser Fitting: Fitting ceiling fans, tube lights, chandeliers and geysers with proper wiring and earthing",
+  "MCB And Wiring Work: Checking tripping MCBs, loose wiring and overloaded circuits, and fixing the fault safely",
+  "painter with a paint roller",
+  "helmet",
+  "house with a tree"
+ ],
+ "car-wash": [
+  "garage with a mechanic",
+  "Coating work (car wash and detailing)",
+  "Final shine (car wash and detailing)",
+  "Interior Detailing: Deep cleaning of upholstery, AC vents and plastics with products suited to each surface",
+  "Underbody And Engine Wash: Careful cleaning of the underbody and engine bay, done with water kept away from sensitive parts"
+ ],
+ "car-showroom": [
+  "garage with a mechanic",
+  "Engine bay (used car dealer)",
+  "Ready for delivery (used car dealer)",
+  "Sell Your Car: Bring your car for a check and we give you an offer along with the process, with no pressure",
+  "Finance And Transfer: We guide you on car loans and help with RC transfer so ownership changes smoothly"
+ ],
+ "architect": [
+  "real estate villa with swimming pool",
+  "Renovated kitchen (architect and construction)",
+  "Finished home (architect and construction)",
+  "Commercial Construction: Shops, showrooms and small offices built to the plan and timeline agreed with you",
+  "Site Supervision: A regular engineer visit to check quality, measurements and material use at each stage"
+ ],
+ "travel-agency": [
+  "mountain hiking adventure with tent",
+  "Mountain road (travel agency)",
+  "Hotel stay (travel agency)",
+  "Hotel And Cab Booking: Hotel stays and cab transfers booked for the dates and number of guests you tell us",
+  "Group And Family Tours: Trips for friends, families and offices, planned with shared costs and a clear schedule",
+  "mountain hiking adventure with tent",
+  "boat on the sea at sunset",
+  "desert at sunset"
+ ],
+ "banquet-hall": [
+  "mandala in red and gold",
+  "Entrance gate (banquet hall and venue)",
+  "Dining area (banquet hall and venue)",
+  "Parking And Power Backup: Parking space for guests and generator support so the function does not stop",
+  "Kitchen And Dining Area: A kitchen space and dining hall for your own caterer, or tie-ups we can introduce"
+ ],
+ "landscape": [
+  "meadow with flowers and a tree on a sunny day",
+  "Drip pipes (landscaping and gardening)",
+  "Garden path (landscaping and gardening)",
+  "Monthly Garden Maintenance: Pruning, watering plans, fertiliser and pest care by a regular visiting gardener",
+  "Drip Irrigation Setup: Pipes and drippers for pots and beds that give plants water on time and cut waste"
+ ],
+ "saas": [
+  "futuristic cyberpunk city at night",
+  "Mobile view (saas startup)",
+  "Settings panel (saas startup)",
+  "Reports And Exports: Build clear weekly reports and download them as a sheet or PDF to share with managers and clients",
+  "Secure Access: Sign in with email or single sign on, set permissions and keep a log of who changed what",
+  "futuristic cyberpunk city at night",
+  "growth chart",
+  "security shield"
+ ],
+ "ecommerce": [
+  "businessperson in an office",
+  "Unboxing moment (online store)",
+  "Seasonal collection (online store)",
+  "Gift Wrap Option: Add a gift note and wrapping at checkout and send an order straight to a friend",
+  "Customer Support: Reach us on chat or email for sizing help, order changes or a delivery question"
+ ],
+ "fashion-boutique": [
+  "shopping bag sale",
+  "Dupatta wall (fashion boutique)",
+  "Trial room corner (fashion boutique)",
+  "Dupattas And Accessories: Dupattas, stoles and potli bags to finish an outfit without the hunt through other shops",
+  "Fitting Help: Our staff can suggest a style and arrange blouse fitting through a tailor partner",
+  "shopping bag sale",
+  "scissors and thread",
+  "sale tag"
+ ],
+ "furniture": [
+  "gold mandala on black",
+  "Decor wall (furniture showroom)",
+  "Delivery and fitting (furniture showroom)",
+  "Home Decor: Mirrors, lamps, wall art and cushions to finish a room after the main furniture is placed",
+  "Delivery And Fitting: Careful delivery to your floor and assembly by trained staff, with packing removed after fitting"
+ ],
+ "ngo": [
+  "tree and sunrise over a green field",
+  "Festival celebration (ngo and charity)",
+  "Skill class (ngo and charity)",
+  "Women Skill Training: Short courses in stitching and basic computers so women can earn at home",
+  "Volunteer Programs: Weekend and holiday volunteering for students and professionals who want to help on the ground",
+  "tree and sunrise over a green field",
+  "plants in a garden",
+  "hill at dawn with a rainbow"
+ ],
+ "recruitment": [
+  "city skyline at day with a road",
+  "Training session (recruitment agency)",
+  "Offer letter signing (recruitment agency)",
+  "Walk In Drives: We arrange and manage walk in interviews for companies that need many people quickly",
+  "HR Documentation: Offer letters, joining forms and basic HR paperwork support for small businesses without an HR team"
+ ],
+ "logistics": [
+  "garage with a mechanic",
+  "Tracking desk (courier and logistics)",
+  "Packed shipments (courier and logistics)",
+  "Business Shipping: Regular pickups for online sellers and shops, with monthly billing and bulk labels",
+  "Tracking And Support: Follow your consignment by phone or web, and reach a person if there is any delay"
+ ],
+ "sports-academy": [
+  "big red sun over dark mountains",
+  "Belt grading day (martial arts and dance fitness)",
+  "Kids batch (martial arts and dance fitness)",
+  "Aerobics: Low and high impact routines to raise your heart rate and build everyday stamina",
+  "Self Defence For Women: Practical techniques and awareness skills taught in a calm, supportive women only batch"
+ ],
+ "animal-welfare": [
+  "tree and sunrise over a green field",
+  "Recovery ward (animal welfare and rescue)",
+  "Volunteer walk (animal welfare and rescue)",
+  "Adoption: Healthy, vaccinated animals matched with families who are ready for them",
+  "Volunteer Walks: Weekend shifts for walking, cleaning and caring for animals in the shelter"
+ ],
+ "toy-store": [
+  "kids playground",
+  "Ride-ons (toy store)",
+  "Gift wrapping (toy store)",
+  "Outdoor And Ride-ons: Cycles, balls and ride-ons for the park and the garden",
+  "Gift Wrapping: Birthday gifts wrapped neatly and ready to hand over at the party",
+  "kids playground",
+  "football",
+  "rainbow with clouds"
+ ],
+ "chai-stall": [
+  "coffee shop",
+  "Takeaway cups (chai stall)",
+  "Evening crowd (chai stall)",
+  "Cold Coffee And Lemon Tea: Cold coffee and lemon tea for hot afternoons when chai feels heavy",
+  "Takeaway Cups: Your chai to go in a sturdy cup that will not leak on the way"
+ ],
+ "agriculture-farm": [
+  "meadow with flowers and a tree on a sunny day",
+  "tree and grass at sunrise",
+  "mountain with forest and fog at dawn"
+ ],
+ "consulting": [
+  "city skyline at day with a road",
+  "suitcase",
+  "blue geometric tiles"
+ ],
+ "design-studio": [
+  "mandala in magenta and teal",
+  "light bulb idea",
+  "pink sunset over a city"
+ ],
+ "car-repair": [
+  "garage with a mechanic",
+  "scooter",
+  "gear"
+ ],
+ "spa": [
+  "pink sunrise with flowers and a lake",
+  "flower bouquet",
+  "mandala in pink and gold"
+ ],
+ "wedding": [
+  "mandala in red and gold",
+  "gift box",
+  "gold mandala"
+ ]
+}

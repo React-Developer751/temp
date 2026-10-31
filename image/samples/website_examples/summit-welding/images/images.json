@@ -1,0 +1,106 @@
+{
+  "niche": "welding",
+  "requested_niche": "welding",
+  "fallback": false,
+  "reason": "business type welding",
+  "mood": "dark",
+  "accent": "#d73123",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Summit Welding Fabrication & Welding fabrication works rajkot Gates Staircases Sheds Repairs Railings",
+    "niche": "welding",
+    "title": "Fabrication and welding",
+    "fallback": false,
+    "mood": "dark",
+    "accent": "#d73123",
+    "count": 6,
+    "redrawn": 1,
+    "min_distance": 16,
+    "palette_family": 0.935,
+    "text_zone": "left",
+    "hero_contrast": 4.8,
+    "seconds": 7.42,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.935
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 35666,
+      "alt": "Illustration for Summit Welding: Fabrication and welding",
+      "text_color": "#ffffff",
+      "contrast": 4.8,
+      "role": "hero",
+      "seed": 3
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 28164,
+      "alt": "About Summit Welding: Fabrication and welding",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1016
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 21454,
+        "alt": "Summit Welding gallery picture: Fabrication and welding",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2029
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 21119,
+        "alt": "Summit Welding gallery picture: Fabrication and welding",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3042
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 22218,
+        "alt": "Summit Welding gallery picture: Fabrication and welding",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 9054
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 20440,
+        "alt": "Summit Welding gallery picture: Fabrication and welding",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5068
+      }
+    ]
+  }
+}

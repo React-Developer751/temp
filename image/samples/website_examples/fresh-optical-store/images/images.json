@@ -1,0 +1,106 @@
+{
+  "niche": "optical",
+  "requested_niche": "optical",
+  "fallback": false,
+  "reason": "business type optical",
+  "mood": "cool",
+  "accent": "#2370d7",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Fresh Optical Store Optical Store lucknow Contact Lenses Eyeglasses Lenses Frames Eye Tests",
+    "niche": "optical",
+    "title": "Optical store / eyewear",
+    "fallback": false,
+    "mood": "cool",
+    "accent": "#2370d7",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 14,
+    "palette_family": 0.625,
+    "text_zone": "left",
+    "hero_contrast": 4.72,
+    "seconds": 5.67,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.625
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 41498,
+      "alt": "Illustration for Fresh Optical Store: Optical store / eyewear",
+      "text_color": "#0d0d14",
+      "contrast": 4.72,
+      "role": "hero",
+      "seed": 3
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 28217,
+      "alt": "About Fresh Optical Store: Optical store / eyewear",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1016
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 21146,
+        "alt": "Fresh Optical Store gallery picture: Optical store / eyewear",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2029
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 19453,
+        "alt": "Fresh Optical Store gallery picture: Optical store / eyewear",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3042
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 21365,
+        "alt": "Fresh Optical Store gallery picture: Optical store / eyewear",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4055
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 21054,
+        "alt": "Fresh Optical Store gallery picture: Optical store / eyewear",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5068
+      }
+    ]
+  }
+}

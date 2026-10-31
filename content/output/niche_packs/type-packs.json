@@ -1,0 +1,4486 @@
+[
+  {
+    "id": "type_modern_tech",
+    "label": "Software, SaaS, IT and technology",
+    "theme": "modern_tech",
+    "keywords": [
+      "software",
+      "saas",
+      "it company",
+      "software company",
+      "app development",
+      "tech startup",
+      "cloud software",
+      "b2b software"
+    ],
+    "heroTitles": [
+      "Software And IT Without The Complexity",
+      "Software And IT That Fits Your Workflow",
+      "Software And IT Built For Real Teams"
+    ],
+    "heroSubtitles": [
+      "{brand} offers clear onboarding and regular updates. Tell us about your team and we will show what is useful and what is not.",
+      "Need clear onboarding or careful data handling? {brand} will explain how it works, how to start and what support you get.",
+      "{brand} gives you clear onboarding, simple setup and friendly support. Book a demo, ask your questions and see how it fits your work."
+    ],
+    "button": "Book A Demo",
+    "featureTitle": "Software And IT Features You Get",
+    "features": [
+      {
+        "title": "Clear Onboarding",
+        "text": "Clear Onboarding with clear controls and help close at hand when you have a question."
+      },
+      {
+        "title": "Simple Setup",
+        "text": "Questions about simple setup? Message us and we will answer before you start."
+      },
+      {
+        "title": "Friendly Support",
+        "text": "Friendly Support set up in a few simple steps, with plain guidance if you need it."
+      },
+      {
+        "title": "Regular Updates",
+        "text": "We show how regular updates fits your daily work before you decide to use it."
+      },
+      {
+        "title": "Careful Data Handling",
+        "text": "Ask about careful data handling; we explain what it does, what it needs and where it helps most."
+      },
+      {
+        "title": "Flexible Plans",
+        "text": "For flexible plans, we start with your workflow and suggest only what is useful."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Plain",
+        "label": "Documentation"
+      },
+      {
+        "value": "Open",
+        "label": "Questions welcome"
+      },
+      {
+        "value": "Flexible",
+        "label": "Plans for small teams"
+      }
+    ],
+    "steps": {
+      "title": "How To Get Started",
+      "items": [
+        {
+          "title": "Book A Demo",
+          "text": "Message us to see software and IT in action and ask about your use case."
+        },
+        {
+          "title": "Choose What You Need",
+          "text": "We help you pick the right setup for clear onboarding and explain what is optional."
+        },
+        {
+          "title": "Set Up Together",
+          "text": "We guide you through simple setup and answer questions as you go."
+        },
+        {
+          "title": "Use And Improve",
+          "text": "Tell us how friendly support is working for your team and we will help you refine it."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Where is my data stored for software and IT?",
+        "a": "Ask us for the details when you book a demo and we will explain in plain words. It is the same for simple setup as it is for clear onboarding."
+      },
+      {
+        "q": "How do I get help with careful data handling?",
+        "a": "Message us on this page and a team member will reply. That goes for friendly support and regular updates too."
+      },
+      {
+        "q": "What is the first step with clear onboarding?",
+        "a": "Book a demo or send us a message, and we will explain the setup in simple steps. Ask us about careful data handling or flexible plans and the answer is the same."
+      },
+      {
+        "q": "Can I try simple setup before deciding?",
+        "a": "Ask for a demo and we will show how it works with your own use case. The same approach applies to clear onboarding and flexible plans."
+      },
+      {
+        "q": "What support do you give for software and IT?",
+        "a": "We answer questions by message and guide you through setup; ask us about the options. This applies to clear onboarding, simple setup and the rest of our software and IT work."
+      }
+    ],
+    "cta": {
+      "title": "Ready To See Software And IT In Action?",
+      "button": "Book A Demo"
+    },
+    "about": {
+      "title": "About Our Software And IT Team",
+      "paragraphs": [
+        "At {brand} good software and IT means clear features, honest explanations and support when you need it.",
+        "Our product includes clear onboarding and simple setup. Ask about regular updates or careful data handling too and we will say plainly what it can do."
+      ],
+      "points": [
+        "Simple Setup",
+        "Plain Explanations",
+        "Support When Needed"
+      ]
+    },
+    "pricing": {
+      "title": "Software And IT Plans",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$9",
+          "period": "/month",
+          "perks": [
+            "Clear Onboarding Basics",
+            "Setup Guidance",
+            "Email Support"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$29",
+          "period": "/month",
+          "perks": [
+            "Clear Onboarding And Simple Setup",
+            "Priority Support",
+            "Shared Workspace"
+          ]
+        },
+        {
+          "name": "Business",
+          "price": "$79",
+          "period": "/month",
+          "perks": [
+            "Clear Onboarding Plus Simple Setup And Friendly Support",
+            "Extended Support",
+            "Custom Setup Help"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "A Look At Software And IT",
+      "captions": [
+        "Clear Onboarding",
+        "Simple Setup",
+        "Friendly Support",
+        "Regular Updates",
+        "Careful Data Handling",
+        "Flexible Plans"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Software And IT Engineer",
+        "Clear Onboarding Specialist",
+        "Customer Success Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Honest answers about friendly support and what we actually needed.",
+        "role": "Operations manager"
+      },
+      {
+        "quote": "Friendly team, and software and IT fits our daily work.",
+        "role": "Team member"
+      },
+      {
+        "quote": "I liked that clear onboarding started small and grew with us.",
+        "role": "Founder"
+      }
+    ],
+    "blog": {
+      "title": "From The Software And IT Team",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "How To Get Started With Clear Onboarding"
+        },
+        {
+          "tag": "Tips",
+          "title": "Simple Ways To Use Simple Setup"
+        },
+        {
+          "tag": "Setup",
+          "title": "A Quick Setup Guide For Friendly Support"
+        }
+      ]
+    },
+    "marquee": [
+      "Clear Onboarding",
+      "Simple Setup",
+      "Friendly Support",
+      "Regular Updates",
+      "Careful Data",
+      "Free Demo",
+      "Plain Docs",
+      "Open Feedback"
+    ],
+    "contactText": "Message {brand} to book a demo of clear onboarding or ask about simple setup. We reply with a time and a short list of questions."
+  },
+  {
+    "id": "type_organic_nature",
+    "label": "Organic, farm, nature and eco",
+    "theme": "organic_nature",
+    "keywords": [
+      "organic",
+      "organic store",
+      "organic farm",
+      "farm fresh",
+      "natural products",
+      "eco friendly",
+      "organic food",
+      "farm produce"
+    ],
+    "heroTitles": [
+      "Organic And Farm That Is Easy To Shop",
+      "A Friendly Organic And Farm Near You",
+      "Organic And Farm With Honest Advice"
+    ],
+    "heroSubtitles": [
+      "Looking for help with organic and farm? {brand} keeps things simple: honest advice, clear prices and help choosing what fits.",
+      "From fresh produce to seasonal picks, {brand} helps you find the right thing without pressure, in store or by message.",
+      "{brand} offers fresh produce and simple ordering. Tell us what you need and we will show you the options and the prices."
+    ],
+    "button": "Order Fresh",
+    "featureTitle": "What You Will Find Here",
+    "features": [
+      {
+        "title": "Fresh Produce",
+        "text": "Ask about fresh produce and we will show what is available, with prices told clearly."
+      },
+      {
+        "title": "Seasonal Picks",
+        "text": "Seasonal Picks chosen with care, with honest advice on what suits your need."
+      },
+      {
+        "title": "Clear Sourcing Details",
+        "text": "Looking for clear sourcing details? Tell us your budget and we will suggest options that fit."
+      },
+      {
+        "title": "Simple Ordering",
+        "text": "For simple ordering, we explain the differences simply so you can pick with confidence."
+      },
+      {
+        "title": "Local Delivery Help",
+        "text": "Local Delivery Help available to see in store or ask about by message before you come."
+      },
+      {
+        "title": "Honest Labels",
+        "text": "Questions about honest labels? Message us and we will check availability for you."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Prices told upfront"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Easy",
+        "label": "Help choosing"
+      }
+    ],
+    "steps": {
+      "title": "How Ordering Works",
+      "items": [
+        {
+          "title": "Tell Us What You Want",
+          "text": "Message or visit with the organic and farm item you are looking for and your budget."
+        },
+        {
+          "title": "See The Options",
+          "text": "We show what is available in fresh produce, with prices and simple advice."
+        },
+        {
+          "title": "Choose And Confirm",
+          "text": "Pick what suits you and we confirm the order for seasonal picks, with the total told clearly."
+        },
+        {
+          "title": "Collect Or Receive",
+          "text": "Take your clear sourcing details from the store, or ask how delivery works for your area."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I check organic and farm stock before I come?",
+        "a": "Yes. Send us a message and we will confirm what is available before you make the trip. That goes for clear sourcing details and simple ordering too."
+      },
+      {
+        "q": "What if I am unsure about fresh produce?",
+        "a": "Ask us. We explain the differences in plain words and let you decide in your own time. Ask us about local delivery help or honest labels and the answer is the same."
+      },
+      {
+        "q": "Do you offer delivery for simple ordering?",
+        "a": "Ask us about your area and we will tell you plainly what is possible. The same approach applies to fresh produce and honest labels."
+      },
+      {
+        "q": "Can I ask about returns on seasonal picks?",
+        "a": "Yes. Ask before you buy and we will explain how returns or exchanges work for the item. This applies to fresh produce, seasonal picks and the rest of our organic and farm work."
+      },
+      {
+        "q": "Do you take special requests for local delivery help?",
+        "a": "Tell us what you are looking for; if we cannot get it, we will say so honestly. It is the same for seasonal picks as it is for fresh produce."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Find Your Organic And Farm Pick?",
+      "button": "Order Fresh"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} we believe good organic and farm service is honest advice and clear prices, so you leave with what suits you.",
+        "Our range includes fresh produce and seasonal picks. Ask about simple ordering or local delivery help too and we will say plainly what we can get."
+      ],
+      "points": [
+        "Honest Advice",
+        "Prices Told Upfront",
+        "Help Choosing"
+      ]
+    },
+    "pricing": {
+      "title": "Organic And Farm Price Guide",
+      "plans": [
+        {
+          "name": "Everyday",
+          "price": "$3",
+          "period": "/small order",
+          "perks": [
+            "Everyday Fresh Produce",
+            "Prices Told First",
+            "Help Choosing"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$12",
+          "period": "/weekly box",
+          "perks": [
+            "Fresh Produce And Seasonal Picks",
+            "Priority Help",
+            "Availability Checks"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$30",
+          "period": "/family box",
+          "perks": [
+            "Fresh Produce Plus Seasonal Picks And Clear Sourcing Details",
+            "Personal Shopping Help",
+            "Early Access To New Fresh Produce"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Organic And Farm Picks",
+      "captions": [
+        "Fresh Produce",
+        "Seasonal Picks",
+        "Clear Sourcing Details",
+        "Simple Ordering",
+        "Local Delivery Help",
+        "Honest Labels"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Organic And Farm Advisor",
+        "Fresh Produce Specialist",
+        "Organic And Farm Order Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Friendly service, and the organic and farm range matched what I asked for.",
+        "role": "Customer"
+      },
+      {
+        "quote": "I liked that fresh produce was explained simply and the price was clear.",
+        "role": "First time buyer"
+      },
+      {
+        "quote": "Quick reply about simple ordering and a straight answer.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "From The Organic And Farm Shelf",
+      "posts": [
+        {
+          "tag": "Care",
+          "title": "Getting The Most From Simple Ordering"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Simple Ideas For Local Delivery Help"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Honest Labels"
+        }
+      ]
+    },
+    "marquee": [
+      "Fresh Produce",
+      "Seasonal Picks",
+      "Clear Sourcing",
+      "Simple Ordering",
+      "Local Delivery",
+      "New Stock",
+      "Clear Prices",
+      "Friendly Advice"
+    ],
+    "contactText": "Tell {brand} what you are looking for: fresh produce, clear sourcing details or something close. We will answer with options and prices."
+  },
+  {
+    "id": "type_bold_fitness",
+    "label": "Gym, sports and fitness",
+    "theme": "bold_fitness",
+    "keywords": [
+      "gym",
+      "fitness",
+      "sports club",
+      "personal training",
+      "workout",
+      "fitness centre",
+      "sports academy",
+      "crossfit"
+    ],
+    "heroTitles": [
+      "Welcome To Gym And Fitness",
+      "Gym And Fitness Planned Around You",
+      "Feel Good With Gym And Fitness"
+    ],
+    "heroSubtitles": [
+      "From beginner friendly sessions to coach guidance, {brand} helps you feel looked after, with time to talk through what you want.",
+      "{brand} provides beginner friendly sessions and progress check ins. Tell us your preferences and we will plan a session around them.",
+      "Want beginner friendly sessions or group and solo training? {brand} will explain the options, the time needed and what to bring."
+    ],
+    "button": "Book A Trial",
+    "featureTitle": "Gym And Fitness Sessions We Offer",
+    "features": [
+      {
+        "title": "Beginner Friendly Sessions",
+        "text": "Beginner Friendly Sessions booked at a time that works for you, in a friendly space and without any rush."
+      },
+      {
+        "title": "Coach Guidance",
+        "text": "Ask about coach guidance; we explain the options simply and let you choose."
+      },
+      {
+        "title": "Flexible Timings",
+        "text": "For flexible timings, we listen to your preferences and plan the session around them."
+      },
+      {
+        "title": "Progress Check Ins",
+        "text": "Progress Check Ins delivered with care, with tips on how to keep the results going."
+      },
+      {
+        "title": "Group And Solo Training",
+        "text": "Questions about group and solo training? Message us and we will answer before you book."
+      },
+      {
+        "title": "Trial Visit On Request",
+        "text": "We talk through trial visit on request first, so the session matches what you want and what suits you."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Booked",
+        "label": "Time that suits you"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Friendly",
+        "label": "Welcome for everyone"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Pick A Time",
+          "text": "Message or call to book your gym and fitness session and tell us what you would like."
+        },
+        {
+          "title": "Talk It Through",
+          "text": "We discuss beginner friendly sessions with you, so the plan matches your preferences."
+        },
+        {
+          "title": "Enjoy The Session",
+          "text": "Relax while we take care of coach guidance, with time for your questions."
+        },
+        {
+          "title": "Keep It Going",
+          "text": "We share simple tips for flexible timings and help you plan the next session."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I bring a friend to group and solo training?",
+        "a": "Tell us when you book and we will make room, where the session allows. That goes for flexible timings and progress check ins too."
+      },
+      {
+        "q": "How do I book beginner friendly sessions?",
+        "a": "Message or call, tell us what you would like and choose a time that suits you. Ask us about group and solo training or trial visit on request and the answer is the same."
+      },
+      {
+        "q": "Can I ask about coach guidance before booking?",
+        "a": "Of course. Message us and we will explain what is involved and how long it takes. The same approach applies to beginner friendly sessions and trial visit on request."
+      },
+      {
+        "q": "What should I bring to a gym and fitness session?",
+        "a": "Comfortable clothes and any questions you have; we will tell you if anything else is useful. This applies to beginner friendly sessions, coach guidance and the rest of our gym and fitness work."
+      },
+      {
+        "q": "Can I change my time for flexible timings?",
+        "a": "Yes. Tell us as early as you can and we will offer the nearest free slot. It is the same for coach guidance as it is for beginner friendly sessions."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Get Started With Gym And Fitness?",
+      "button": "Book A Trial"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a friendly gym and fitness space. We listen first, plan the session around you and keep things relaxed from start to finish.",
+        "We offer beginner friendly sessions, coach guidance and flexible timings, and we are happy to talk through your preferences before you decide."
+      ],
+      "points": [
+        "Plain Advice",
+        "Friendly Team",
+        "Booking That Fits"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Gym And Fitness",
+      "plans": [
+        {
+          "name": "Single Session",
+          "price": "$15",
+          "period": "/month",
+          "perks": [
+            "Beginner Friendly Sessions Session",
+            "Time You Choose",
+            "Tips To Take Home"
+          ]
+        },
+        {
+          "name": "Regular Sessions",
+          "price": "$40",
+          "period": "/quarter",
+          "perks": [
+            "Beginner Friendly Sessions And Coach Guidance",
+            "Flexible Timing",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Programme",
+          "price": "$120",
+          "period": "/year",
+          "perks": [
+            "Beginner Friendly Sessions Plus Coach Guidance And Flexible Timings",
+            "Extended Support",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Our Gym And Fitness Space",
+      "captions": [
+        "Beginner Friendly Sessions",
+        "Coach Guidance",
+        "Flexible Timings",
+        "Progress Check Ins",
+        "Group And Solo Training",
+        "Trial Visit On Request"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Gym And Fitness Specialist",
+        "Beginner Friendly Sessions Expert",
+        "Welcome Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Quick reply about progress check ins and a time that suited me.",
+        "role": "Customer"
+      },
+      {
+        "quote": "The beginner friendly sessions session felt relaxed and exactly what I asked for.",
+        "role": "Regular guest"
+      },
+      {
+        "quote": "Easy to book coach guidance, and the team listened to what I wanted.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "Gym And Fitness Tips And Ideas",
+      "posts": [
+        {
+          "tag": "Habits",
+          "title": "Small Habits That Support Trial Visit On Request"
+        },
+        {
+          "tag": "Guide",
+          "title": "What To Expect From Beginner Friendly Sessions"
+        },
+        {
+          "tag": "Prepare",
+          "title": "How To Prepare For Coach Guidance"
+        }
+      ]
+    },
+    "marquee": [
+      "Beginner",
+      "Coach Guidance",
+      "Flexible Timings",
+      "Progress Check",
+      "Solo Training",
+      "Warm Welcome",
+      "Easy Booking",
+      "Plain Advice"
+    ],
+    "contactText": "Tell {brand} what you would like: beginner friendly sessions, flexible timings or something close. We will answer with options and a time."
+  },
+  {
+    "id": "type_luxury_minimal",
+    "label": "Luxury and high-end brands",
+    "theme": "luxury_minimal",
+    "keywords": [
+      "luxury brand",
+      "luxury store",
+      "high end brand",
+      "premium brand",
+      "luxury boutique",
+      "designer brand",
+      "luxury goods"
+    ],
+    "heroTitles": [
+      "Luxury With Honest Advice",
+      "Luxury That Is Easy To Shop",
+      "A Friendly Luxury Near You"
+    ],
+    "heroSubtitles": [
+      "Looking for help with luxury? {brand} keeps things simple: honest advice, clear prices and help choosing what fits.",
+      "From careful selection to personal service, {brand} helps you find the right thing without pressure, in store or by message.",
+      "{brand} offers careful selection and quality finishing. Tell us what you need and we will show you the options and the prices."
+    ],
+    "button": "Book A Private Visit",
+    "featureTitle": "What You Will Find Here",
+    "features": [
+      {
+        "title": "Careful Selection",
+        "text": "Careful Selection available to see in store or ask about by message before you come."
+      },
+      {
+        "title": "Personal Service",
+        "text": "Questions about personal service? Message us and we will check availability for you."
+      },
+      {
+        "title": "Private Appointments",
+        "text": "Ask about private appointments and we will show what is available, with prices told clearly."
+      },
+      {
+        "title": "Quality Finishing",
+        "text": "Quality Finishing chosen with care, with honest advice on what suits your need."
+      },
+      {
+        "title": "Gift Presentation",
+        "text": "Looking for gift presentation? Tell us your budget and we will suggest options that fit."
+      },
+      {
+        "title": "After Sales Care",
+        "text": "For after sales care, we explain the differences simply so you can pick with confidence."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Local",
+        "label": "Shop near you"
+      },
+      {
+        "value": "Plain",
+        "label": "Advice, no pressure"
+      },
+      {
+        "value": "Free",
+        "label": "Questions answered"
+      }
+    ],
+    "steps": {
+      "title": "How Ordering Works",
+      "items": [
+        {
+          "title": "Tell Us What You Want",
+          "text": "Message or visit with the luxury item you are looking for and your budget."
+        },
+        {
+          "title": "See The Options",
+          "text": "We show what is available in careful selection, with prices and simple advice."
+        },
+        {
+          "title": "Choose And Confirm",
+          "text": "Pick what suits you and we confirm the order for personal service, with the total told clearly."
+        },
+        {
+          "title": "Collect Or Receive",
+          "text": "Take your private appointments from the store, or ask how delivery works for your area."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What if I am unsure about careful selection?",
+        "a": "Ask us. We explain the differences in plain words and let you decide in your own time. Ask us about gift presentation or after sales care and the answer is the same."
+      },
+      {
+        "q": "Do you offer delivery for quality finishing?",
+        "a": "Ask us about your area and we will tell you plainly what is possible. The same approach applies to careful selection and after sales care."
+      },
+      {
+        "q": "Can I ask about returns on personal service?",
+        "a": "Yes. Ask before you buy and we will explain how returns or exchanges work for the item. This applies to careful selection, personal service and the rest of our luxury work."
+      },
+      {
+        "q": "Do you take special requests for gift presentation?",
+        "a": "Tell us what you are looking for; if we cannot get it, we will say so honestly. It is the same for personal service as it is for careful selection."
+      },
+      {
+        "q": "How do I order careful selection?",
+        "a": "Message us the item and your preferences, or visit the store, and we will confirm availability and price. That goes for private appointments and quality finishing too."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Find Your Luxury Pick?",
+      "button": "Book A Private Visit"
+    },
+    "about": {
+      "title": "About Our Luxury Shop",
+      "paragraphs": [
+        "At {brand} we believe good luxury service is honest advice and clear prices, so you leave with what suits you.",
+        "Our range includes careful selection and personal service. Ask about quality finishing or gift presentation too and we will say plainly what we can get."
+      ],
+      "points": [
+        "Honest Advice",
+        "Prices Told Upfront",
+        "Help Choosing"
+      ]
+    },
+    "pricing": {
+      "title": "Luxury Price Guide",
+      "plans": [
+        {
+          "name": "Everyday",
+          "price": "$0",
+          "period": "/consultation",
+          "perks": [
+            "Everyday Careful Selection",
+            "Prices Told First",
+            "Help Choosing"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$100",
+          "period": "/piece",
+          "perks": [
+            "Careful Selection And Personal Service",
+            "Priority Help",
+            "Availability Checks"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$300",
+          "period": "/premium piece",
+          "perks": [
+            "Careful Selection Plus Personal Service And Private Appointments",
+            "Personal Shopping Help",
+            "Early Access To New Careful Selection"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside The Luxury Shop",
+      "captions": [
+        "Careful Selection",
+        "Personal Service",
+        "Private Appointments",
+        "Quality Finishing",
+        "Gift Presentation",
+        "After Sales Care"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Luxury Advisor",
+        "Careful Selection Specialist",
+        "Luxury Order Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Easy to check private appointments by message before going to the shop.",
+        "role": "Customer"
+      },
+      {
+        "quote": "Friendly service, and the luxury range matched what I asked for.",
+        "role": "Customer"
+      },
+      {
+        "quote": "I liked that careful selection was explained simply and the price was clear.",
+        "role": "First time buyer"
+      }
+    ],
+    "blog": {
+      "title": "From The Luxury Shelf",
+      "posts": [
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask About Private Appointments"
+        },
+        {
+          "tag": "Care",
+          "title": "Getting The Most From Quality Finishing"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Simple Ideas For Gift Presentation"
+        }
+      ]
+    },
+    "marquee": [
+      "Careful",
+      "Personal Service",
+      "Private",
+      "Quality",
+      "Gift",
+      "New Stock",
+      "Clear Prices",
+      "Friendly Advice"
+    ],
+    "contactText": "Message {brand} to ask about careful selection or personal service. We reply with what is available, the price and how to get it."
+  },
+  {
+    "id": "type_playful_vibrant",
+    "label": "Kids, toys, fun and colourful brands",
+    "theme": "playful_vibrant",
+    "keywords": [
+      "kids brand",
+      "kids store",
+      "toys",
+      "children products",
+      "kids party",
+      "kids fun",
+      "colourful brand",
+      "baby products"
+    ],
+    "heroTitles": [
+      "A Friendly Kids And Toys Near You",
+      "Kids And Toys With Honest Advice",
+      "Kids And Toys That Is Easy To Shop"
+    ],
+    "heroSubtitles": [
+      "{brand} stocks age wise choices, safe materials details and gift ideas. Ask us anything, see what is available and pick what suits you.",
+      "Looking for help with kids and toys? {brand} keeps things simple: honest advice, clear prices and help choosing what fits.",
+      "From age wise choices to safe materials details, {brand} helps you find the right thing without pressure, in store or by message."
+    ],
+    "button": "Find A Gift",
+    "featureTitle": "Kids And Toys Range We Offer",
+    "features": [
+      {
+        "title": "Age Wise Choices",
+        "text": "Looking for age wise choices? Tell us your budget and we will suggest options that fit."
+      },
+      {
+        "title": "Safe Materials Details",
+        "text": "For safe materials details, we explain the differences simply so you can pick with confidence."
+      },
+      {
+        "title": "Gift Ideas",
+        "text": "Gift Ideas available to see in store or ask about by message before you come."
+      },
+      {
+        "title": "Birthday Help",
+        "text": "Questions about birthday help? Message us and we will check availability for you."
+      },
+      {
+        "title": "Easy Returns Advice",
+        "text": "Ask about easy returns advice and we will show what is available, with prices told clearly."
+      },
+      {
+        "title": "Friendly Service",
+        "text": "Friendly Service chosen with care, with honest advice on what suits your need."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Local",
+        "label": "Shop near you"
+      },
+      {
+        "value": "Plain",
+        "label": "Advice, no pressure"
+      },
+      {
+        "value": "Free",
+        "label": "Questions answered"
+      }
+    ],
+    "steps": {
+      "title": "How Ordering Works",
+      "items": [
+        {
+          "title": "Tell Us What You Want",
+          "text": "Message or visit with the kids and toys item you are looking for and your budget."
+        },
+        {
+          "title": "See The Options",
+          "text": "We show what is available in age wise choices, with prices and simple advice."
+        },
+        {
+          "title": "Choose And Confirm",
+          "text": "Pick what suits you and we confirm the order for safe materials details, with the total told clearly."
+        },
+        {
+          "title": "Collect Or Receive",
+          "text": "Take your gift ideas from the store, or ask how delivery works for your area."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Do you help me choose gift ideas?",
+        "a": "Of course. Tell us what you need and your budget and we will suggest suitable options. Ask us about easy returns advice or friendly service and the answer is the same."
+      },
+      {
+        "q": "Can I check kids and toys stock before I come?",
+        "a": "Yes. Send us a message and we will confirm what is available before you make the trip. The same approach applies to age wise choices and friendly service."
+      },
+      {
+        "q": "What if I am unsure about age wise choices?",
+        "a": "Ask us. We explain the differences in plain words and let you decide in your own time. This applies to age wise choices, safe materials details and the rest of our kids and toys work."
+      },
+      {
+        "q": "Do you offer delivery for birthday help?",
+        "a": "Ask us about your area and we will tell you plainly what is possible. It is the same for safe materials details as it is for age wise choices."
+      },
+      {
+        "q": "Can I ask about returns on safe materials details?",
+        "a": "Yes. Ask before you buy and we will explain how returns or exchanges work for the item. That goes for gift ideas and birthday help too."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Find Your Kids And Toys Pick?",
+      "button": "Find A Gift"
+    },
+    "about": {
+      "title": "About Our Kids And Toys Shop",
+      "paragraphs": [
+        "At {brand} we believe good kids and toys service is honest advice and clear prices, so you leave with what suits you.",
+        "Our range includes age wise choices and safe materials details. Ask about birthday help or easy returns advice too and we will say plainly what we can get."
+      ],
+      "points": [
+        "Honest Advice",
+        "Prices Told Upfront",
+        "Help Choosing"
+      ]
+    },
+    "pricing": {
+      "title": "Kids And Toys Price Guide",
+      "plans": [
+        {
+          "name": "Everyday",
+          "price": "$4",
+          "period": "/toy",
+          "perks": [
+            "Everyday Age Wise Choices",
+            "Prices Told First",
+            "Help Choosing"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$15",
+          "period": "/gift set",
+          "perks": [
+            "Age Wise Choices And Safe Materials Details",
+            "Priority Help",
+            "Availability Checks"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$40",
+          "period": "/party set",
+          "perks": [
+            "Age Wise Choices Plus Safe Materials Details And Gift Ideas",
+            "Personal Shopping Help",
+            "Early Access To New Age Wise Choices"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside The Kids And Toys Shop",
+      "captions": [
+        "Age Wise Choices",
+        "Safe Materials Details",
+        "Gift Ideas",
+        "Birthday Help",
+        "Easy Returns Advice",
+        "Friendly Service"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Kids And Toys Advisor",
+        "Age Wise Choices Specialist",
+        "Kids And Toys Order Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "I liked that age wise choices was explained simply and the price was clear.",
+        "role": "First time buyer"
+      },
+      {
+        "quote": "Quick reply about birthday help and a straight answer.",
+        "role": "Customer"
+      },
+      {
+        "quote": "They showed me the options for age wise choices and told me the prices clearly.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "From The Kids And Toys Shelf",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "How To Choose Age Wise Choices"
+        },
+        {
+          "tag": "Cost",
+          "title": "What To Know Before Buying Safe Materials Details"
+        },
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask About Gift Ideas"
+        }
+      ]
+    },
+    "marquee": [
+      "Age Wise",
+      "Safe Materials",
+      "Gift Ideas",
+      "Birthday Help",
+      "Easy Returns",
+      "New Stock",
+      "Clear Prices",
+      "Friendly Advice"
+    ],
+    "contactText": "Message {brand} to ask about age wise choices or safe materials details. We reply with what is available, the price and how to get it."
+  },
+  {
+    "id": "type_professional_services",
+    "label": "Consulting, legal, finance and other professionals",
+    "theme": "professional_services",
+    "keywords": [
+      "consulting",
+      "consultant",
+      "legal services",
+      "finance advisor",
+      "professional services",
+      "business consultant",
+      "advisory firm"
+    ],
+    "heroTitles": [
+      "Consulting And Legal Without The Jargon",
+      "Consulting And Legal That Starts With Listening",
+      "Consulting And Legal In Plain Words"
+    ],
+    "heroSubtitles": [
+      "From clear first call to plain advice, {brand} keeps it simple: a short call, honest advice and a clear way forward.",
+      "{brand} handles clear first call and fees told upfront. We explain what is needed, what it costs and how long it takes.",
+      "Need help with clear first call or private handling? {brand} will say what applies to you and what to prepare first."
+    ],
+    "button": "Book A Consultation",
+    "featureTitle": "Our Consulting And Legal Services",
+    "features": [
+      {
+        "title": "Clear First Call",
+        "text": "Clear First Call explained without jargon, so you know what applies to you and why."
+      },
+      {
+        "title": "Plain Advice",
+        "text": "Questions about plain advice? Message us and we will answer before you commit."
+      },
+      {
+        "title": "Written Next Steps",
+        "text": "We explain written next steps in plain words, with the steps, the papers needed and the cost upfront."
+      },
+      {
+        "title": "Fees Told Upfront",
+        "text": "Fees Told Upfront handled with care, with a clear next step after every conversation."
+      },
+      {
+        "title": "Private Handling",
+        "text": "Ask about private handling; we describe the options simply and let you decide at your own pace."
+      },
+      {
+        "title": "Regular Updates",
+        "text": "For regular updates, we start by listening to your situation and then outline a clear plan."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Plain",
+        "label": "Language, no jargon"
+      },
+      {
+        "value": "Private",
+        "label": "Details kept private"
+      },
+      {
+        "value": "Easy",
+        "label": "Booking a call"
+      }
+    ],
+    "steps": {
+      "title": "How We Work With You",
+      "items": [
+        {
+          "title": "Tell Us Your Situation",
+          "text": "Share your consulting and legal question by call or message, with any papers you have."
+        },
+        {
+          "title": "We Explain The Options",
+          "text": "You hear what clear first call involves, what it costs and how long it takes."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We confirm the steps for plain advice and what we need from you."
+        },
+        {
+          "title": "We Handle And Update",
+          "text": "We take care of written next steps and keep you updated until it is complete."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I ask a question before hiring you for clear first call?",
+        "a": "Of course. A first conversation is the right place to ask anything. The same approach applies to clear first call and regular updates."
+      },
+      {
+        "q": "How long does fees told upfront take?",
+        "a": "It depends on the case; we give an honest estimate and update you if anything changes. This applies to clear first call, plain advice and the rest of our consulting and legal work."
+      },
+      {
+        "q": "Do you help small cases in consulting and legal?",
+        "a": "Yes. Every case gets the same clear explanation and the same careful handling. It is the same for plain advice as it is for clear first call."
+      },
+      {
+        "q": "Can I get updates on private handling?",
+        "a": "Yes. Tell us how you prefer to be updated and we will keep to it. That goes for written next steps and fees told upfront too."
+      },
+      {
+        "q": "How do I start with clear first call?",
+        "a": "Call or message us with a short description of your situation and we will reply with the next step. Ask us about private handling or regular updates and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Talk About Consulting And Legal?",
+      "button": "Book A Consultation"
+    },
+    "about": {
+      "title": "About Our Consulting And Legal Practice",
+      "paragraphs": [
+        "At {brand} good consulting and legal begins with a clear conversation. You hear the plan and the cost first, and the work follows.",
+        "Our work includes clear first call and plain advice. Ask about fees told upfront or private handling too and we will say plainly what we can do."
+      ],
+      "points": [
+        "Plain Explanations",
+        "Fees Told Upfront",
+        "Private Handling"
+      ]
+    },
+    "pricing": {
+      "title": "Consulting And Legal Fees",
+      "plans": [
+        {
+          "name": "First Step",
+          "price": "$0",
+          "period": "/consultation",
+          "perks": [
+            "Clear First Call Discussion",
+            "Written Next Steps",
+            "Fees Explained"
+          ]
+        },
+        {
+          "name": "Standard Help",
+          "price": "$40",
+          "period": "/review",
+          "perks": [
+            "Clear First Call And Plain Advice",
+            "Progress Updates",
+            "Document Checklist"
+          ]
+        },
+        {
+          "name": "Full Support",
+          "price": "$150",
+          "period": "/case support",
+          "perks": [
+            "Clear First Call Plus Plain Advice And Written Next Steps",
+            "Extended Support",
+            "Priority Replies"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Consulting And Legal Practice",
+      "captions": [
+        "Clear First Call",
+        "Plain Advice",
+        "Written Next Steps",
+        "Fees Told Upfront",
+        "Private Handling",
+        "Regular Updates"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Consulting And Legal Advisor",
+        "Clear First Call Specialist",
+        "Client Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Patient answers about written next steps, with no pressure.",
+        "role": "Client"
+      },
+      {
+        "quote": "Friendly team, and the consulting and legal advice was easy to follow.",
+        "role": "Client"
+      },
+      {
+        "quote": "I liked that clear first call was broken into simple steps with a clear list.",
+        "role": "Family client"
+      }
+    ],
+    "blog": {
+      "title": "From The Consulting And Legal Desk",
+      "posts": [
+        {
+          "tag": "Questions",
+          "title": "Questions To Ask About Written Next Steps"
+        },
+        {
+          "tag": "Planning",
+          "title": "Planning Ahead For Fees Told Upfront"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Private Handling"
+        }
+      ]
+    },
+    "marquee": [
+      "Clear First",
+      "Plain Advice",
+      "Written Next",
+      "Fees Told",
+      "Private Handling",
+      "Fees Upfront",
+      "Private",
+      "Clear Steps"
+    ],
+    "contactText": "Message {brand} about clear first call or plain advice. We reply with a short list of questions and the next step."
+  },
+  {
+    "id": "type_healthcare",
+    "label": "Clinics, hospitals and medical",
+    "theme": "healthcare",
+    "keywords": [
+      "hospital",
+      "medical centre",
+      "doctor",
+      "healthcare",
+      "medical clinic",
+      "nursing home",
+      "health centre",
+      "family clinic"
+    ],
+    "heroTitles": [
+      "Calm And Clear Clinic And Medical",
+      "Clinic And Medical Care That Starts By Listening",
+      "Clinic And Medical In A Welcoming Space"
+    ],
+    "heroSubtitles": [
+      "Looking for help with clinic and medical? {brand} listens first, explains the options and lets you decide at your own pace.",
+      "From easy appointments to time for questions, {brand} keeps care simple: a short chat, a clear plan and time for your questions.",
+      "{brand} provides easy appointments and follow up guidance. We explain what to expect, what it involves and how to prepare."
+    ],
+    "button": "Book An Appointment",
+    "featureTitle": "Clinic And Medical Services We Offer",
+    "features": [
+      {
+        "title": "Easy Appointments",
+        "text": "Easy Appointments booked at a time that suits you, with guidance on how to prepare."
+      },
+      {
+        "title": "Time For Questions",
+        "text": "Questions about time for questions? Message us and we will answer before you book."
+      },
+      {
+        "title": "Plain Explanations",
+        "text": "We explain what plain explanations involves, how it is done and what to expect before we begin."
+      },
+      {
+        "title": "Follow Up Guidance",
+        "text": "Follow Up Guidance with time for your questions, and a plain explanation of the next step."
+      },
+      {
+        "title": "Clear Fees",
+        "text": "Ask about clear fees; we describe the options simply and let you decide at your own pace."
+      },
+      {
+        "title": "Calm Waiting Area",
+        "text": "For calm waiting area, we start by listening to your concern and then suggest a clear plan."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Explanations"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Booked",
+        "label": "Time that suits you"
+      }
+    ],
+    "steps": {
+      "title": "How A Visit Works",
+      "items": [
+        {
+          "title": "Book A Visit",
+          "text": "Message or call to book your clinic and medical appointment and tell us your main concern."
+        },
+        {
+          "title": "Talk It Through",
+          "text": "We listen, ask questions and explain the options for easy appointments in plain words."
+        },
+        {
+          "title": "Get A Clear Plan",
+          "text": "You hear what time for questions involves, how long it takes and what to expect."
+        },
+        {
+          "title": "Follow Up",
+          "text": "We answer questions after plain explanations and tell you when to come back, if needed."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I prepare for follow up guidance?",
+        "a": "We tell you what to do when you book, so you arrive knowing what to expect. This applies to easy appointments, time for questions and the rest of our clinic and medical work."
+      },
+      {
+        "q": "Can a family member come with me for easy appointments?",
+        "a": "Yes. Tell us when you book and we will make sure there is room. It is the same for time for questions as it is for easy appointments."
+      },
+      {
+        "q": "What if I am unsure about clear fees?",
+        "a": "Ask us. We explain the options calmly and never rush your decision. That goes for plain explanations and follow up guidance too."
+      },
+      {
+        "q": "How do I book easy appointments?",
+        "a": "Call or message us, say what you need and choose a time that suits you. Ask us about clear fees or calm waiting area and the answer is the same."
+      },
+      {
+        "q": "What should I bring to a clinic and medical visit?",
+        "a": "Any earlier reports or notes, and a list of your questions; we will tell you if anything else is needed. The same approach applies to easy appointments and calm waiting area."
+      }
+    ],
+    "cta": {
+      "title": "Need Clinic And Medical Advice?",
+      "button": "Book An Appointment"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good clinic and medical begins with a conversation. You hear the plan in plain words before anything is done.",
+        "Our care includes easy appointments and time for questions. Ask about follow up guidance or clear fees too and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Time For Questions",
+        "Plain Explanations",
+        "Calm Welcome"
+      ]
+    },
+    "pricing": {
+      "title": "Clinic And Medical Fees",
+      "plans": [
+        {
+          "name": "First Visit",
+          "price": "$4",
+          "period": "/consultation",
+          "perks": [
+            "Easy Appointments Discussion",
+            "Plain Explanation",
+            "Time For Questions"
+          ]
+        },
+        {
+          "name": "Care Plan",
+          "price": "$15",
+          "period": "/checkup",
+          "perks": [
+            "Easy Appointments And Time For Questions",
+            "Follow-Up Check",
+            "Reminders When Due"
+          ]
+        },
+        {
+          "name": "Extended Care",
+          "price": "$40",
+          "period": "/care plan",
+          "perks": [
+            "Easy Appointments Plus Time For Questions And Plain Explanations",
+            "Extended Follow-Up",
+            "Priority Booking"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Our Clinic And Medical Space",
+      "captions": [
+        "Easy Appointments",
+        "Time For Questions",
+        "Plain Explanations",
+        "Follow Up Guidance",
+        "Clear Fees",
+        "Calm Waiting Area"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Clinic And Medical Practitioner",
+        "Easy Appointments Specialist",
+        "Patient Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Quick reply about follow up guidance and a clear answer.",
+        "role": "Patient"
+      },
+      {
+        "quote": "They explained easy appointments calmly and gave me time to ask everything.",
+        "role": "Patient"
+      },
+      {
+        "quote": "Easy booking for time for questions, and a clear plan afterwards.",
+        "role": "Patient"
+      }
+    ],
+    "blog": {
+      "title": "From The Clinic And Medical Desk",
+      "posts": [
+        {
+          "tag": "Habits",
+          "title": "Small Habits That Support Calm Waiting Area"
+        },
+        {
+          "tag": "Guide",
+          "title": "What To Expect From Easy Appointments"
+        },
+        {
+          "tag": "Prepare",
+          "title": "How To Prepare For Time For Questions"
+        }
+      ]
+    },
+    "marquee": [
+      "Easy",
+      "Time",
+      "Plain",
+      "Follow Up",
+      "Clear Fees",
+      "Plain Answers",
+      "Calm Visits",
+      "Easy Booking"
+    ],
+    "contactText": "Tell {brand} about your concern: easy appointments, plain explanations or something close. We will answer with the next step and a time."
+  },
+  {
+    "id": "type_food_dining",
+    "label": "Restaurants, cafes and food",
+    "theme": "food_dining",
+    "keywords": [
+      "restaurant",
+      "cafe",
+      "food business",
+      "eatery",
+      "dining",
+      "food court",
+      "fast food",
+      "tiffin"
+    ],
+    "heroTitles": [
+      "Simple Restaurant And Cafe Done Well",
+      "Restaurant And Cafe For Every Appetite",
+      "A Warm Restaurant And Cafe Welcome, Good Food"
+    ],
+    "heroSubtitles": [
+      "Craving fresh cooking or takeaway options? {brand} will tell you what is ready, what pairs well and how to order.",
+      "{brand} serves fresh cooking, easy ordering and table reservations. Come in, take your time and ask what is good today.",
+      "Looking for help with restaurant and cafe? {brand} keeps it simple: honest food, a warm table and a menu that is easy to read."
+    ],
+    "button": "Order Or Reserve",
+    "featureTitle": "Restaurant And Cafe Favourites",
+    "features": [
+      {
+        "title": "Fresh Cooking",
+        "text": "Fresh Cooking on offer today; message us to check what is ready before you come."
+      },
+      {
+        "title": "Easy Ordering",
+        "text": "Questions about easy ordering? Ask us about ingredients or any dietary need before you order."
+      },
+      {
+        "title": "Table Reservations",
+        "text": "Ask about table reservations and we will tell you what goes into it and how it is best enjoyed."
+      },
+      {
+        "title": "Dietary Questions Welcome",
+        "text": "Dietary Questions Welcome prepared fresh, with the team happy to explain the details."
+      },
+      {
+        "title": "Takeaway Options",
+        "text": "Craving takeaway options? Order ahead or drop in and we will point you to what suits your mood."
+      },
+      {
+        "title": "Friendly Service",
+        "text": "For friendly service, we keep the flavours honest and let the ingredients do the work."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Warm",
+        "label": "Welcome for all"
+      },
+      {
+        "value": "Clear",
+        "label": "Menu without surprises"
+      },
+      {
+        "value": "Easy",
+        "label": "Ordering by message"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Pick What You Like",
+          "text": "Browse the restaurant and cafe menu and choose fresh cooking or anything that catches your eye."
+        },
+        {
+          "title": "Tell Us How",
+          "text": "Order by message, reserve a table or just walk in for easy ordering."
+        },
+        {
+          "title": "We Prepare It Fresh",
+          "text": "The kitchen prepares table reservations when you order, so it reaches you at its best."
+        },
+        {
+          "title": "Enjoy And Tell Us",
+          "text": "Enjoy your dietary questions welcome and tell us what you liked, so we can keep improving."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Do you cater to dietary needs for easy ordering?",
+        "a": "Tell us your needs before you order and the team will explain what is possible. Ask us about takeaway options or friendly service and the answer is the same."
+      },
+      {
+        "q": "What goes into table reservations?",
+        "a": "Ask us when you order. The team is happy to describe ingredients and how it is made. The same approach applies to fresh cooking and friendly service."
+      },
+      {
+        "q": "Can I take fresh cooking away?",
+        "a": "Yes. Ask about takeaway when you order and we will pack it carefully. This applies to fresh cooking, easy ordering and the rest of our restaurant and cafe work."
+      },
+      {
+        "q": "Do you take large orders for dietary questions welcome?",
+        "a": "Yes. Tell us the date and numbers and we will say what we can do. It is the same for easy ordering as it is for fresh cooking."
+      },
+      {
+        "q": "How fresh is the restaurant and cafe food?",
+        "a": "We prepare it each day and tell you honestly if something is not available. That goes for table reservations and dietary questions welcome too."
+      }
+    ],
+    "cta": {
+      "title": "Hungry For Restaurant And Cafe?",
+      "button": "Order Or Reserve"
+    },
+    "about": {
+      "title": "About Our Kitchen",
+      "paragraphs": [
+        "{brand} is a local restaurant and cafe place. We cook with care, keep the menu honest and welcome you the way a neighbour would.",
+        "We serve fresh cooking, easy ordering and table reservations, and we love hearing what you enjoyed and what you would like to see next."
+      ],
+      "points": [
+        "Made With Care",
+        "Easy Ordering",
+        "Friendly Team"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Restaurant And Cafe",
+      "plans": [
+        {
+          "name": "Single Order",
+          "price": "$4",
+          "period": "/main course",
+          "perks": [
+            "Fresh Cooking Portion",
+            "Prepared Fresh",
+            "Takeaway Or Dine In"
+          ]
+        },
+        {
+          "name": "Popular Combo",
+          "price": "$8",
+          "period": "/combo",
+          "perks": [
+            "Fresh Cooking And Easy Ordering",
+            "Prepared Fresh",
+            "Takeaway Or Dine In"
+          ]
+        },
+        {
+          "name": "Family Table",
+          "price": "$25",
+          "period": "/family table",
+          "perks": [
+            "Fresh Cooking Plus Easy Ordering And Table Reservations",
+            "Shared Portions",
+            "Table Held For Fresh Cooking"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "A Taste Of Restaurant And Cafe",
+      "captions": [
+        "Fresh Cooking",
+        "Easy Ordering",
+        "Table Reservations",
+        "Dietary Questions Welcome",
+        "Takeaway Options",
+        "Friendly Service"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Head Cook",
+        "Fresh Cooking Specialist",
+        "Guest Host"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "I liked that fresh cooking was explained simply and there were no surprises.",
+        "role": "Customer"
+      },
+      {
+        "quote": "Quick reply about dietary questions welcome and everything was ready on time.",
+        "role": "Customer"
+      },
+      {
+        "quote": "The fresh cooking tasted fresh and the team explained what was in it.",
+        "role": "Regular guest"
+      }
+    ],
+    "blog": {
+      "title": "Restaurant And Cafe Notes And Stories",
+      "posts": [
+        {
+          "tag": "Pairing",
+          "title": "Good Company For Table Reservations"
+        },
+        {
+          "tag": "Kitchen",
+          "title": "How We Prepare Dietary Questions Welcome"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Simple Ways To Enjoy Takeaway Options"
+        }
+      ]
+    },
+    "marquee": [
+      "Fresh Cooking",
+      "Easy Ordering",
+      "Table",
+      "Dietary",
+      "Takeaway Options",
+      "Fresh Daily",
+      "Takeaway",
+      "Warm Welcome"
+    ],
+    "contactText": "Message {brand} to order fresh cooking or easy ordering, or to reserve a table. We reply with what is ready and when to come.",
+    "menu": {
+      "title": "On The Menu",
+      "lead": "A simple menu of fresh favourites, made to order. Ask the team about ingredients or any dietary need.",
+      "categories": [
+        {
+          "name": "Starters",
+          "items": [
+            "Soup of the day",
+            "Veg spring rolls",
+            "Grilled paneer | with mint dip",
+            "Crispy corn",
+            "Fresh salad"
+          ]
+        },
+        {
+          "name": "Main Course",
+          "items": [
+            "Dal and rice",
+            "Paneer curry",
+            "Veg pulao | gently spiced",
+            "Pasta of the day",
+            "Grilled sandwich",
+            "Chef's special | ask the team"
+          ]
+        },
+        {
+          "name": "Desserts",
+          "items": [
+            "Gulab jamun | with warm syrup",
+            "Ice cream",
+            "Brownie",
+            "Fruit custard",
+            "Kulfi | on a stick"
+          ]
+        },
+        {
+          "name": "Drinks",
+          "items": [
+            "Masala chai",
+            "Cold coffee",
+            "Fresh lime soda",
+            "Lassi | sweet or salted",
+            "Seasonal juice"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "type_education",
+    "label": "Schools, coaching and training",
+    "theme": "education",
+    "keywords": [
+      "school",
+      "coaching",
+      "training institute",
+      "classes",
+      "tuition",
+      "academy",
+      "learning centre",
+      "education"
+    ],
+    "heroTitles": [
+      "School And Coaching That Builds Confidence",
+      "School And Coaching With Time For Questions",
+      "Welcome To School And Coaching"
+    ],
+    "heroSubtitles": [
+      "From demo class option to small batches, {brand} helps learners move one step at a time, with feedback they can use.",
+      "{brand} offers demo class option and progress updates. Tell us the level and the goal and we will suggest a suitable batch.",
+      "Want to learn demo class option or doubt clearing? {brand} will explain how classes run, what to bring and how progress is shared."
+    ],
+    "button": "Book A Demo Class",
+    "featureTitle": "School And Coaching Courses We Offer",
+    "features": [
+      {
+        "title": "Demo Class Option",
+        "text": "We explain how demo class option is taught, what to practise and how progress is shared."
+      },
+      {
+        "title": "Small Batches",
+        "text": "Small Batches taught step by step, with time for questions and regular practice."
+      },
+      {
+        "title": "Regular Practice",
+        "text": "Ask about regular practice; we describe the batch, the timings and what suits your level."
+      },
+      {
+        "title": "Progress Updates",
+        "text": "For progress updates, we start from where you are and build up at a comfortable pace."
+      },
+      {
+        "title": "Doubt Clearing",
+        "text": "Doubt Clearing with simple feedback after each class, so you know what to improve."
+      },
+      {
+        "title": "Flexible Timings",
+        "text": "Questions about flexible timings? Message us and we will answer before you enrol."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Step",
+        "label": "By step teaching"
+      },
+      {
+        "value": "Open",
+        "label": "Doubts welcome"
+      },
+      {
+        "value": "Flexible",
+        "label": "Batch timings"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Visit A Demo Class",
+          "text": "Message or call to join a school and coaching demo class and meet the teacher."
+        },
+        {
+          "title": "Choose Your Batch",
+          "text": "We suggest a batch for demo class option that fits your level and your timings."
+        },
+        {
+          "title": "Learn And Practise",
+          "text": "Attend classes for small batches, practise between sessions and ask questions freely."
+        },
+        {
+          "title": "Review Progress",
+          "text": "We share simple feedback on regular practice and plan the next steps with you."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do you share progress in demo class option?",
+        "a": "We give simple feedback after classes and talk to you about the next goals. Ask us about doubt clearing or flexible timings and the answer is the same."
+      },
+      {
+        "q": "Are the school and coaching batches small?",
+        "a": "We keep batches manageable so each learner gets attention; ask us about current timings. The same approach applies to demo class option and flexible timings."
+      },
+      {
+        "q": "What do I need to bring for progress updates?",
+        "a": "We tell you when you enrol, usually a notebook and the materials for that course. This applies to demo class option, small batches and the rest of our school and coaching work."
+      },
+      {
+        "q": "Can I change my batch for doubt clearing?",
+        "a": "Tell us as early as you can and we will see what is available. It is the same for small batches as it is for demo class option."
+      },
+      {
+        "q": "Can I try a class for demo class option first?",
+        "a": "Yes. Ask for a demo class and see how the teaching works before you decide. That goes for regular practice and progress updates too."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Join School And Coaching?",
+      "button": "Book A Demo Class"
+    },
+    "about": {
+      "title": "About Our School And Coaching Classes",
+      "paragraphs": [
+        "{brand} is a local school and coaching centre. We teach step by step, keep batches manageable and leave room for every question.",
+        "We teach demo class option, small batches and regular practice, and we are glad to talk through your goals before you enrol."
+      ],
+      "points": [
+        "Simple Feedback",
+        "Friendly Teachers",
+        "Flexible Batches"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Fees For School And Coaching",
+      "plans": [
+        {
+          "name": "Trial",
+          "price": "$12",
+          "period": "/month",
+          "perks": [
+            "Demo Class Option Demo Class",
+            "Meet The Teacher",
+            "Batch Advice"
+          ]
+        },
+        {
+          "name": "Monthly",
+          "price": "$30",
+          "period": "/month",
+          "perks": [
+            "Demo Class Option And Small Batches",
+            "Regular Feedback",
+            "Doubt Sessions"
+          ]
+        },
+        {
+          "name": "Full Course",
+          "price": "$60",
+          "period": "/month",
+          "perks": [
+            "Demo Class Option Plus Small Batches And Regular Practice",
+            "Extended Practice",
+            "Progress Reviews"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Learning At School And Coaching",
+      "captions": [
+        "Demo Class Option",
+        "Small Batches",
+        "Regular Practice",
+        "Progress Updates",
+        "Doubt Clearing",
+        "Flexible Timings"
+      ]
+    },
+    "team": {
+      "title": "Meet The Teachers",
+      "roles": [
+        "School And Coaching Teacher",
+        "Demo Class Option Mentor",
+        "Admissions Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "A friendly start to regular practice with no pressure.",
+        "role": "Learner"
+      },
+      {
+        "quote": "Small batch, and the school and coaching teaching matched my level.",
+        "role": "Student"
+      },
+      {
+        "quote": "I liked that demo class option was taught step by step with regular practice.",
+        "role": "Parent"
+      }
+    ],
+    "blog": {
+      "title": "School And Coaching Study Tips",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "How To Start Learning Demo Class Option"
+        },
+        {
+          "tag": "Practice",
+          "title": "Simple Ways To Practise Small Batches"
+        },
+        {
+          "tag": "Habits",
+          "title": "Study Habits That Help With Regular Practice"
+        }
+      ]
+    },
+    "marquee": [
+      "Demo Class",
+      "Small Batches",
+      "Regular Practice",
+      "Progress Updates",
+      "Doubt Clearing",
+      "Doubts Welcome",
+      "Flexible Timings",
+      "School"
+    ],
+    "contactText": "Message {brand} to ask about demo class option or small batches, or to book a demo class. We reply with batch timings and what to bring."
+  },
+  {
+    "id": "type_creative_studio",
+    "label": "Design, photo, video and creative studios",
+    "theme": "creative_studio",
+    "keywords": [
+      "design studio",
+      "creative studio",
+      "photo studio",
+      "video studio",
+      "graphic design",
+      "creative agency",
+      "branding studio",
+      "production house"
+    ],
+    "heroTitles": [
+      "Thoughtful Design And Creative For Your Needs",
+      "Design And Creative Planned Around You",
+      "Clear Steps For Your Design And Creative"
+    ],
+    "heroSubtitles": [
+      "{brand} offers brief first approach, draft reviews and clear timelines. Share your idea and get a clear plan, timeline and price before we begin.",
+      "Looking for help with design and creative? {brand} starts with a short brief, shows you the plan and works with your feedback.",
+      "From brief first approach to draft reviews, {brand} keeps each project simple: a brief, a draft you can react to and a finish you approve."
+    ],
+    "button": "Start Your Project",
+    "featureTitle": "What Design And Creative Covers Here",
+    "features": [
+      {
+        "title": "Brief First Approach",
+        "text": "For brief first approach, we work in clear stages and check each one with you."
+      },
+      {
+        "title": "Draft Reviews",
+        "text": "Draft Reviews delivered in the format you need, with a final review before handover."
+      },
+      {
+        "title": "Clear Timelines",
+        "text": "Questions about clear timelines? Message us and we will walk you through the process."
+      },
+      {
+        "title": "Format Delivery",
+        "text": "We start format delivery with a short brief, so the scope, timing and cost are clear from day one."
+      },
+      {
+        "title": "Revision Rounds",
+        "text": "Revision Rounds shaped around your idea, with a draft you can comment on before it is final."
+      },
+      {
+        "title": "Friendly Collaboration",
+        "text": "Ask about friendly collaboration; we explain the options, show examples and agree what is included."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Stage",
+        "label": "By stage reviews"
+      },
+      {
+        "value": "Open",
+        "label": "Feedback welcome"
+      },
+      {
+        "value": "Plain",
+        "label": "Language, no jargon"
+      }
+    ],
+    "steps": {
+      "title": "How A Project Runs",
+      "items": [
+        {
+          "title": "Share Your Brief",
+          "text": "Tell us about your design and creative idea, the purpose and any references you like."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We outline the scope for brief first approach, the timeline and the cost, and confirm them with you."
+        },
+        {
+          "title": "Review The Draft",
+          "text": "You see the first version of the draft reviews work and tell us what to change."
+        },
+        {
+          "title": "Approve And Deliver",
+          "text": "We finalise clear timelines, hand it over in the format you need and stay available for questions."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I ask for changes during design and creative work?",
+        "a": "Yes. Feedback is part of the process and we tell you upfront how revisions are handled. The same approach applies to brief first approach and friendly collaboration."
+      },
+      {
+        "q": "What formats do you deliver brief first approach in?",
+        "a": "Tell us where it will be used and we will deliver in the formats that suit that purpose. This applies to brief first approach, draft reviews and the rest of our design and creative work."
+      },
+      {
+        "q": "Do you take small design and creative jobs?",
+        "a": "Yes. Small projects follow the same clear steps, with a quote and a plan first. It is the same for draft reviews as it is for brief first approach."
+      },
+      {
+        "q": "How long does format delivery take?",
+        "a": "It depends on the scope; we give a timeline with the quote and update you if anything changes. That goes for clear timelines and format delivery too."
+      },
+      {
+        "q": "How do I start a design and creative project?",
+        "a": "Send us a short brief by message or call, and we will reply with questions and a first outline. Ask us about revision rounds or friendly collaboration and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Start Your Design And Creative Project?",
+      "button": "Start Your Project"
+    },
+    "about": {
+      "title": "About Our Design And Creative Studio",
+      "paragraphs": [
+        "At {brand} good design and creative begins with listening. You hear the plan and the cost first, and the work follows in clear stages.",
+        "Our work includes brief first approach and draft reviews. Ask about format delivery or revision rounds too and we will say plainly what is possible."
+      ],
+      "points": [
+        "Brief Before Work",
+        "Drafts You Can Review",
+        "Plain Language"
+      ]
+    },
+    "pricing": {
+      "title": "Design And Creative Pricing",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$60",
+          "period": "/project",
+          "perks": [
+            "Brief First Approach Only",
+            "Written Quote First",
+            "One Round Of Feedback"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$200",
+          "period": "/project",
+          "perks": [
+            "Brief First Approach And Draft Reviews",
+            "Two Rounds Of Feedback",
+            "Priority Scheduling"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$500",
+          "period": "/project",
+          "perks": [
+            "Brief First Approach Plus Draft Reviews And Clear Timelines",
+            "Extended Feedback",
+            "Handover Support"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Design And Creative Work",
+      "captions": [
+        "Brief First Approach",
+        "Draft Reviews",
+        "Clear Timelines",
+        "Format Delivery",
+        "Revision Rounds",
+        "Friendly Collaboration"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Design And Creative Lead",
+        "Brief First Approach Specialist",
+        "Design And Creative Client Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "They listened to the brief for brief first approach and the first draft was close to what I imagined.",
+        "role": "Small business owner"
+      },
+      {
+        "quote": "Clear quote for draft reviews, with feedback built into the plan.",
+        "role": "Customer"
+      },
+      {
+        "quote": "The process for clear timelines was explained simply and kept to the timeline we agreed.",
+        "role": "Family client"
+      }
+    ],
+    "blog": {
+      "title": "From The Design And Creative Desk",
+      "posts": [
+        {
+          "tag": "Ideas",
+          "title": "Simple Ways To Plan Format Delivery"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Revision Rounds"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Brief A Design And Creative Provider"
+        }
+      ]
+    },
+    "marquee": [
+      "Brief First",
+      "Draft Reviews",
+      "Clear Timelines",
+      "Format Delivery",
+      "Revision Rounds",
+      "Clear Scope",
+      "Open Feedback",
+      "Plain Quotes"
+    ],
+    "contactText": "Message {brand} with your brief for brief first approach or draft reviews. We reply with a few questions and a clear outline of the next step."
+  },
+  {
+    "id": "type_general_business",
+    "label": "A general local business",
+    "theme": "general_business",
+    "keywords": [
+      "local business",
+      "small business",
+      "business website",
+      "local shop",
+      "neighbourhood business",
+      "unique website",
+      "company website"
+    ],
+    "heroTitles": [
+      "Local Local Business You Can Count On",
+      "Local Business With A Clear Quote First",
+      "Straightforward Local Business For Your Home"
+    ],
+    "heroSubtitles": [
+      "{brand} handles friendly local service, clear pricing and easy contact. Tell us what you need and get a clear plan and price before we start.",
+      "Looking for help with local business? {brand} explains the work, the cost and the timing first, then does the job tidily.",
+      "From friendly local service to clear pricing, {brand} keeps things simple: a short chat, a fair quote and a visit at a time that suits you."
+    ],
+    "button": "Contact Us Today",
+    "featureTitle": "What Local Business Covers Here",
+    "features": [
+      {
+        "title": "Friendly Local Service",
+        "text": "For friendly local service, we look at the place first, then suggest the simplest fix that lasts."
+      },
+      {
+        "title": "Clear Pricing",
+        "text": "Need clear pricing? Tell us what is wrong and we will say what can be done and when."
+      },
+      {
+        "title": "Easy Contact",
+        "text": "Easy Contact with a short check at the end, so you know the job is finished properly."
+      },
+      {
+        "title": "Honest Advice",
+        "text": "We explain what honest advice involves, the options and the cost before any work begins."
+      },
+      {
+        "title": "On Time Updates",
+        "text": "On Time Updates by a local team, with the price and timing agreed with you first."
+      },
+      {
+        "title": "Quick Replies",
+        "text": "Ask about quick replies and get a clear quote, a time that suits you and a tidy finish."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First quote"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Local",
+        "label": "Team near you"
+      }
+    ],
+    "steps": {
+      "title": "How Local Business Works With Us",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Describe the local business job by call or message, with a photo if that helps."
+        },
+        {
+          "title": "Get A Clear Quote",
+          "text": "We explain the options for friendly local service and give you the price before anything starts."
+        },
+        {
+          "title": "We Do The Work",
+          "text": "Our team arrives at the agreed time and completes the clear pricing work with care."
+        },
+        {
+          "title": "Check And Follow Up",
+          "text": "We go through the result with you and stay reachable for questions on easy contact afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What should I prepare before friendly local service?",
+        "a": "A clear path to the work area and a few details about the problem are usually enough; we will tell you if more is needed. Ask us about on time updates or quick replies and the answer is the same."
+      },
+      {
+        "q": "Do you explain the local business work before starting?",
+        "a": "Always. We describe each step, the materials and the cost, and begin only when you are comfortable. The same approach applies to friendly local service and quick replies."
+      },
+      {
+        "q": "Can I ask questions after easy contact?",
+        "a": "Yes. Message us any time after the job and we will answer or come back to check. This applies to friendly local service, clear pricing and the rest of our local business work."
+      },
+      {
+        "q": "Do you handle small local business jobs too?",
+        "a": "Yes. Small and large jobs get the same care, and we quote both in the same clear way. It is the same for clear pricing as it is for friendly local service."
+      },
+      {
+        "q": "How do you charge for honest advice?",
+        "a": "We quote by the job and tell you what is included, so the final bill matches what we agreed. That goes for easy contact and honest advice too."
+      }
+    ],
+    "cta": {
+      "title": "Need Local Business At Your Place?",
+      "button": "Contact Us Today"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} we believe a good local business job starts with a clear conversation. You hear the plan and the price first, and the work follows.",
+        "Our services include friendly local service and clear pricing. Ask us about honest advice or on time updates too, and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Clear Quote Before Work",
+        "Friendly Local Team",
+        "Tidy Finish"
+      ]
+    },
+    "pricing": {
+      "title": "Local Business Pricing",
+      "plans": [
+        {
+          "name": "Single Visit",
+          "price": "$5",
+          "period": "/job",
+          "perks": [
+            "Friendly Local Service Only",
+            "Written Quote First",
+            "Time Slot You Choose"
+          ]
+        },
+        {
+          "name": "Regular Care",
+          "price": "$20",
+          "period": "/job",
+          "perks": [
+            "Friendly Local Service And Clear Pricing",
+            "Follow-Up Check",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Service",
+          "price": "$60",
+          "period": "/job",
+          "perks": [
+            "Friendly Local Service Plus Clear Pricing And Easy Contact",
+            "Extended Follow-Up",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Local Business At Work",
+      "captions": [
+        "Friendly Local Service",
+        "Clear Pricing",
+        "Easy Contact",
+        "Honest Advice",
+        "On Time Updates",
+        "Quick Replies"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Local Business Technician",
+        "Friendly Local Service Lead",
+        "Local Business Support Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Clear quote for clear pricing, no pressure, and the place was left tidy.",
+        "role": "Shop owner"
+      },
+      {
+        "quote": "They answered every question about easy contact before starting.",
+        "role": "Flat resident"
+      },
+      {
+        "quote": "Easy to book, on time, and the local business work looked neat at the end.",
+        "role": "Home owner"
+      }
+    ],
+    "blog": {
+      "title": "From The Local Business Desk",
+      "posts": [
+        {
+          "tag": "Planning",
+          "title": "Preparing Your Place For Easy Contact"
+        },
+        {
+          "tag": "Advice",
+          "title": "Small Signs You Need Honest Advice"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To On Time Updates"
+        }
+      ]
+    },
+    "marquee": [
+      "Friendly Local",
+      "Clear Pricing",
+      "Easy Contact",
+      "Honest Advice",
+      "Time Updates",
+      "Free Quote",
+      "Local Team",
+      "Tidy Work"
+    ],
+    "contactText": "Tell {brand} what you need: friendly local service, easy contact or anything close to it. We will answer with the next step and a clear quote."
+  },
+  {
+    "id": "type_real_estate",
+    "label": "Property, builders and rentals",
+    "theme": "real_estate",
+    "keywords": [
+      "property",
+      "real estate",
+      "builders",
+      "rentals",
+      "house for rent",
+      "flats",
+      "construction company",
+      "property dealer"
+    ],
+    "heroTitles": [
+      "Property And Rentals You Can Talk To",
+      "Property And Rentals With Honest Advice",
+      "Find The Right Place With Property And Rentals"
+    ],
+    "heroSubtitles": [
+      "Need help with clear listings or cost explanations? {brand} will explain the steps, the papers and the costs first.",
+      "{brand} helps with clear listings, honest details and viewing support. Tell us what you are looking for and we will show suitable options.",
+      "Looking for help with property and rentals? {brand} listens first, explains the process and shares details honestly."
+    ],
+    "button": "Book A Viewing",
+    "featureTitle": "Our Property And Rentals Services",
+    "features": [
+      {
+        "title": "Clear Listings",
+        "text": "For clear listings, we start with your needs and budget and shortlist what suits."
+      },
+      {
+        "title": "Honest Details",
+        "text": "Honest Details explained without pressure, so you can compare and choose in your own time."
+      },
+      {
+        "title": "Viewing Support",
+        "text": "Questions about viewing support? Message us and we will answer before you commit."
+      },
+      {
+        "title": "Paperwork Guidance",
+        "text": "We explain paperwork guidance in plain words, with the steps, the papers and the costs upfront."
+      },
+      {
+        "title": "Cost Explanations",
+        "text": "Cost Explanations handled with care, with honest details shared before you decide."
+      },
+      {
+        "title": "Friendly Advice",
+        "text": "Ask about friendly advice; we describe the options simply and arrange viewings that fit."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First consultation"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Clear",
+        "label": "Costs told upfront"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Share your property and rentals requirement, your budget and the areas you prefer."
+        },
+        {
+          "title": "See The Options",
+          "text": "We shortlist choices for clear listings and share honest details of each."
+        },
+        {
+          "title": "Visit And Compare",
+          "text": "We arrange viewings for honest details at times that suit you and answer your questions."
+        },
+        {
+          "title": "Complete Step By Step",
+          "text": "We explain the papers for viewing support and stay with you until it is done."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can you help with cost explanations?",
+        "a": "Tell us what you need and we will say plainly what we can do. This applies to clear listings, honest details and the rest of our property and rentals work."
+      },
+      {
+        "q": "How do I start with clear listings?",
+        "a": "Message or call with your needs and budget, and we will share suitable options. It is the same for honest details as it is for clear listings."
+      },
+      {
+        "q": "Can I see a place for honest details first?",
+        "a": "Yes. We arrange viewings at times that suit you. That goes for viewing support and paperwork guidance too."
+      },
+      {
+        "q": "Do you explain the costs of viewing support?",
+        "a": "Yes. We tell you the costs and what they cover before you decide. Ask us about cost explanations or friendly advice and the answer is the same."
+      },
+      {
+        "q": "What papers do I need for property and rentals?",
+        "a": "We give you a clear list once we know your case, so you only gather what is needed. The same approach applies to clear listings and friendly advice."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Find Your Place?",
+      "button": "Book A Viewing"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local property and rentals business. We listen to your needs, share details honestly and guide you through each step.",
+        "We help with clear listings, honest details and viewing support, and we are glad to talk through your plans before you decide."
+      ],
+      "points": [
+        "Clear Steps",
+        "Friendly Team",
+        "Flexible Viewings"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Fees For Property And Rentals",
+      "plans": [
+        {
+          "name": "First Step",
+          "price": "$0",
+          "period": "/consultation",
+          "perks": [
+            "Clear Listings Discussion",
+            "Shortlist Of Options",
+            "Costs Explained"
+          ]
+        },
+        {
+          "name": "Standard Help",
+          "price": "$30",
+          "period": "/property search",
+          "perks": [
+            "Clear Listings And Honest Details",
+            "Viewings Arranged",
+            "Paper Checklist"
+          ]
+        },
+        {
+          "name": "Full Support",
+          "price": "$80",
+          "period": "/full service",
+          "perks": [
+            "Clear Listings Plus Honest Details And Viewing Support",
+            "Extended Support",
+            "Priority Replies"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Property And Rentals Spaces",
+      "captions": [
+        "Clear Listings",
+        "Honest Details",
+        "Viewing Support",
+        "Paperwork Guidance",
+        "Cost Explanations",
+        "Friendly Advice"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Property And Rentals Advisor",
+        "Clear Listings Specialist",
+        "Client Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Easy to arrange a viewing for honest details, with no pressure.",
+        "role": "Tenant"
+      },
+      {
+        "quote": "Clear steps for viewing support, and answers whenever I asked.",
+        "role": "Family client"
+      },
+      {
+        "quote": "Friendly team, and the property and rentals advice was easy to follow.",
+        "role": "Client"
+      }
+    ],
+    "blog": {
+      "title": "Property And Rentals Notes And Guides",
+      "posts": [
+        {
+          "tag": "Mistakes",
+          "title": "Common Slips With Friendly Advice"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Approach Clear Listings"
+        },
+        {
+          "tag": "Costs",
+          "title": "What To Know About The Cost Of Honest Details"
+        }
+      ]
+    },
+    "marquee": [
+      "Clear Listings",
+      "Honest Details",
+      "Viewing Support",
+      "Paperwork",
+      "Cost",
+      "Easy Viewings",
+      "Costs Upfront",
+      "No Pressure"
+    ],
+    "contactText": "Tell {brand} what you need: clear listings, viewing support or something close. We will answer with options and a time to view."
+  },
+  {
+    "id": "type_travel_tourism",
+    "label": "Travel, tours and hotels",
+    "theme": "travel_tourism",
+    "keywords": [
+      "travel",
+      "tours",
+      "hotel",
+      "tour operator",
+      "holiday packages",
+      "resort",
+      "travel company",
+      "trip planner"
+    ],
+    "heroTitles": [
+      "Travel And Hotel Made Easy",
+      "Welcome To Travel And Hotel",
+      "Travel And Hotel That Feels Like Home"
+    ],
+    "heroSubtitles": [
+      "{brand} provides custom itineraries and local tips. Share your plans and we will suggest what suits your group.",
+      "Planning custom itineraries or flexible plans? {brand} will tell you what is included and how to book.",
+      "{brand} offers custom itineraries, clear inclusions and easy booking. Tell us your dates and we will confirm what is available and the price."
+    ],
+    "button": "Plan My Trip",
+    "featureTitle": "Our Travel And Hotel Choices",
+    "features": [
+      {
+        "title": "Custom Itineraries",
+        "text": "Questions about custom itineraries? Message us and we will answer before you book."
+      },
+      {
+        "title": "Clear Inclusions",
+        "text": "Ask about clear inclusions and we will tell you what is included, the price and how to book."
+      },
+      {
+        "title": "Easy Booking",
+        "text": "Easy Booking described honestly, with the details you need to decide."
+      },
+      {
+        "title": "Local Tips",
+        "text": "Planning local tips? Share your dates and group size and we will suggest what fits."
+      },
+      {
+        "title": "Flexible Plans",
+        "text": "For flexible plans, we explain the options simply and confirm what is available."
+      },
+      {
+        "title": "Quick Replies",
+        "text": "Quick Replies confirmed in writing, so you know what to expect when you arrive."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Prices told upfront"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Easy",
+        "label": "Booking by message"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Send Your Dates",
+          "text": "Message or call with your dates, group size and the travel and hotel option you like."
+        },
+        {
+          "title": "We Confirm Availability",
+          "text": "We reply with what is available for custom itineraries and the price."
+        },
+        {
+          "title": "Confirm Your Booking",
+          "text": "Agree the details of clear inclusions and we confirm everything in writing."
+        },
+        {
+          "title": "Arrive And Enjoy",
+          "text": "We help with easy booking on arrival, and you can ask us for anything during your stay."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can you suggest options for travel and hotel?",
+        "a": "Yes. Tell us your plans and budget and we will suggest what fits. That goes for easy booking and local tips too."
+      },
+      {
+        "q": "Can I change my dates for custom itineraries?",
+        "a": "Tell us as early as you can and we will explain what is possible. Ask us about flexible plans or quick replies and the answer is the same."
+      },
+      {
+        "q": "How do I find you for local tips?",
+        "a": "We send clear directions when you book, and you can call us on the way. The same approach applies to custom itineraries and quick replies."
+      },
+      {
+        "q": "Do you take group bookings for travel and hotel?",
+        "a": "Yes. Tell us the group size and dates and we will say what we can arrange. This applies to custom itineraries, clear inclusions and the rest of our travel and hotel work."
+      },
+      {
+        "q": "Can I ask for something special with flexible plans?",
+        "a": "Tell us when you book and we will do what we can, and be honest if we cannot. It is the same for clear inclusions as it is for custom itineraries."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Book Travel And Hotel?",
+      "button": "Plan My Trip"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local travel and hotel business. We describe things honestly, answer quickly and look after the details of your stay.",
+        "We offer custom itineraries, clear inclusions and easy booking, and we are glad to talk through your plans before you decide."
+      ],
+      "points": [
+        "Quick Replies",
+        "Clear Directions",
+        "Flexible Plans"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Travel And Hotel",
+      "plans": [
+        {
+          "name": "Basic Stay",
+          "price": "$0",
+          "period": "/planning chat",
+          "perks": [
+            "Custom Itineraries Option",
+            "Price Told First",
+            "Written Confirmation"
+          ]
+        },
+        {
+          "name": "Comfort Stay",
+          "price": "$50",
+          "period": "/itinerary",
+          "perks": [
+            "Custom Itineraries And Clear Inclusions",
+            "Flexible Timing",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Extended Stay",
+          "price": "$120",
+          "period": "/full trip",
+          "perks": [
+            "Custom Itineraries Plus Clear Inclusions And Easy Booking",
+            "Extended Support",
+            "Special Requests Noted"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "A Look At Travel And Hotel",
+      "captions": [
+        "Custom Itineraries",
+        "Clear Inclusions",
+        "Easy Booking",
+        "Local Tips",
+        "Flexible Plans",
+        "Quick Replies"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Travel And Hotel Host",
+        "Custom Itineraries Coordinator",
+        "Guest Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Easy to book clear inclusions, and they replied quickly with the price.",
+        "role": "Traveller"
+      },
+      {
+        "quote": "Friendly welcome and a clear explanation of easy booking.",
+        "role": "Guest"
+      },
+      {
+        "quote": "A calm place, and the travel and hotel booking was straightforward.",
+        "role": "Family guest"
+      }
+    ],
+    "blog": {
+      "title": "Travel And Hotel Guides And Ideas",
+      "posts": [
+        {
+          "tag": "Tips",
+          "title": "Small Tips For Quick Replies"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Choose Custom Itineraries"
+        },
+        {
+          "tag": "Planning",
+          "title": "Planning Your Dates For Clear Inclusions"
+        }
+      ]
+    },
+    "marquee": [
+      "Custom",
+      "Clear Inclusions",
+      "Easy Booking",
+      "Local Tips",
+      "Flexible Plans",
+      "Honest Details",
+      "Friendly Welcome",
+      "Clear Prices"
+    ],
+    "contactText": "Tell {brand} your plans: custom itineraries, easy booking or something close. We will answer with options and a clear price."
+  },
+  {
+    "id": "type_automotive",
+    "label": "Cars, bikes, garages and dealers",
+    "theme": "automotive",
+    "keywords": [
+      "cars",
+      "bikes",
+      "garage",
+      "car dealer",
+      "bike showroom",
+      "auto workshop",
+      "vehicle service",
+      "auto dealer"
+    ],
+    "heroTitles": [
+      "Car And Bike With Clear Prices",
+      "Car And Bike Without The Waiting Around",
+      "Simple Car And Bike For Every Day"
+    ],
+    "heroSubtitles": [
+      "{brand} offers clear estimates, slot booking and plain explanations. Tell us what you need and get a clear price and a time that suits you.",
+      "Looking for help with car and bike? {brand} explains the work and the cost first, then gets on with it.",
+      "From clear estimates to update messages, {brand} keeps it simple: a short chat, a clear price and a booking that fits your day."
+    ],
+    "button": "Book A Slot",
+    "featureTitle": "Our Car And Bike Services",
+    "features": [
+      {
+        "title": "Clear Estimates",
+        "text": "Clear Estimates booked at a time that suits you, with an update when it is done."
+      },
+      {
+        "title": "Slot Booking",
+        "text": "Questions about slot booking? Message us and we will answer before you book."
+      },
+      {
+        "title": "Plain Explanations",
+        "text": "We tell you what plain explanations involves, how long it takes and the cost before we start."
+      },
+      {
+        "title": "Update Messages",
+        "text": "Update Messages with the price and timing agreed up front, so there are no surprises."
+      },
+      {
+        "title": "Careful Handling",
+        "text": "Ask about careful handling; we explain the options in plain words and let you decide."
+      },
+      {
+        "title": "Friendly Service",
+        "text": "For friendly service, we check the basics first and suggest only what is actually needed."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Price before work"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Free",
+        "label": "Quote on request"
+      }
+    ],
+    "steps": {
+      "title": "How Booking Works",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Share the car and bike requirement by call or message, with the vehicle details."
+        },
+        {
+          "title": "Get A Clear Price",
+          "text": "We explain clear estimates and the options, and tell you the cost before we begin."
+        },
+        {
+          "title": "Pick A Time",
+          "text": "Choose a slot that suits you and we confirm it, so the slot booking work fits your day."
+        },
+        {
+          "title": "Collect And Review",
+          "text": "We go through what was done on plain explanations and answer any questions afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Do you tell me the cost of slot booking first?",
+        "a": "Yes. We explain what is needed and what it costs before any work begins. This applies to clear estimates, slot booking and the rest of our car and bike work."
+      },
+      {
+        "q": "Can I ask about plain explanations before booking?",
+        "a": "Of course. Message us your questions and we will answer plainly, with no pressure. It is the same for slot booking as it is for clear estimates."
+      },
+      {
+        "q": "What details do you need for car and bike?",
+        "a": "The vehicle type, what you need done and a day that suits you; we will ask for anything else. That goes for plain explanations and update messages too."
+      },
+      {
+        "q": "Can you work to my timings for clear estimates?",
+        "a": "Tell us what suits you and we will offer the nearest slot that fits. Ask us about careful handling or friendly service and the answer is the same."
+      },
+      {
+        "q": "How do you explain update messages?",
+        "a": "We say what it is, why it matters and what it costs, then leave the decision to you. The same approach applies to clear estimates and friendly service."
+      }
+    ],
+    "cta": {
+      "title": "Need Car And Bike Soon?",
+      "button": "Book A Slot"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} a good car and bike experience starts with a clear conversation, and the work follows from what we agreed.",
+        "Our work includes clear estimates and slot booking. Ask about update messages or careful handling too and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Price Before Work",
+        "Plain Explanations",
+        "Slots That Fit You"
+      ]
+    },
+    "pricing": {
+      "title": "Car And Bike Pricing",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "$6",
+          "period": "/check",
+          "perks": [
+            "Clear Estimates Only",
+            "Price Told First",
+            "Slot You Choose"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$20",
+          "period": "/service",
+          "perks": [
+            "Clear Estimates And Slot Booking",
+            "Update When Done",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$60",
+          "period": "/full service",
+          "perks": [
+            "Clear Estimates Plus Slot Booking And Plain Explanations",
+            "Follow-Up Check",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Car And Bike At Work",
+      "captions": [
+        "Clear Estimates",
+        "Slot Booking",
+        "Plain Explanations",
+        "Update Messages",
+        "Careful Handling",
+        "Friendly Service"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Car And Bike Specialist",
+        "Clear Estimates Lead",
+        "Car And Bike Support Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "The team kept me updated while the car and bike work was going on.",
+        "role": "Customer"
+      },
+      {
+        "quote": "I liked that clear estimates came with a price upfront and nothing extra later.",
+        "role": "Business owner"
+      },
+      {
+        "quote": "Friendly people and a clear explanation of update messages.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "From The Car And Bike Desk",
+      "posts": [
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Careful Handling"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Choose A Car And Bike Provider"
+        },
+        {
+          "tag": "Cost",
+          "title": "What Affects The Cost Of Clear Estimates"
+        }
+      ]
+    },
+    "marquee": [
+      "Clear Estimates",
+      "Slot Booking",
+      "Plain",
+      "Update Messages",
+      "Careful Handling",
+      "Free Quote",
+      "Clear Pricing",
+      "Local Team"
+    ],
+    "contactText": "Tell {brand} what you need: clear estimates, plain explanations or something close. We will answer with the next step and a clear price."
+  },
+  {
+    "id": "type_beauty_wellness",
+    "label": "Salon, spa, yoga and wellness",
+    "theme": "beauty_wellness",
+    "keywords": [
+      "salon",
+      "spa",
+      "yoga",
+      "wellness",
+      "beauty parlour",
+      "wellness centre",
+      "massage",
+      "beauty"
+    ],
+    "heroTitles": [
+      "Salon And Wellness Planned Around You",
+      "Feel Good With Salon And Wellness",
+      "Salon And Wellness In A Friendly Space"
+    ],
+    "heroSubtitles": [
+      "{brand} offers relaxed sessions, personal plans and easy booking. Book a time, tell us what you would like and we will take it from there.",
+      "Looking for help with salon and wellness? {brand} keeps it relaxed: a warm welcome, a clear plan and a session that fits your day.",
+      "From relaxed sessions to personal plans, {brand} helps you feel looked after, with time to talk through what you want."
+    ],
+    "button": "Book A Session",
+    "featureTitle": "Our Salon And Wellness Services",
+    "features": [
+      {
+        "title": "Relaxed Sessions",
+        "text": "Relaxed Sessions delivered with care, with tips on how to keep the results going."
+      },
+      {
+        "title": "Personal Plans",
+        "text": "Questions about personal plans? Message us and we will answer before you book."
+      },
+      {
+        "title": "Easy Booking",
+        "text": "We talk through easy booking first, so the session matches what you want and what suits you."
+      },
+      {
+        "title": "Clean Spaces",
+        "text": "Clean Spaces booked at a time that works for you, in a friendly space and without any rush."
+      },
+      {
+        "title": "Friendly Team",
+        "text": "Ask about friendly team; we explain the options simply and let you choose."
+      },
+      {
+        "title": "Aftercare Tips",
+        "text": "For aftercare tips, we listen to your preferences and plan the session around them."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Plain",
+        "label": "Advice, no pressure"
+      },
+      {
+        "value": "Easy",
+        "label": "Session booking"
+      },
+      {
+        "value": "Calm",
+        "label": "Unhurried sessions"
+      }
+    ],
+    "steps": {
+      "title": "How A Session Works",
+      "items": [
+        {
+          "title": "Pick A Time",
+          "text": "Message or call to book your salon and wellness session and tell us what you would like."
+        },
+        {
+          "title": "Talk It Through",
+          "text": "We discuss relaxed sessions with you, so the plan matches your preferences."
+        },
+        {
+          "title": "Enjoy The Session",
+          "text": "Relax while we take care of personal plans, with time for your questions."
+        },
+        {
+          "title": "Keep It Going",
+          "text": "We share simple tips for easy booking and help you plan the next session."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I book relaxed sessions?",
+        "a": "Message or call, tell us what you would like and choose a time that suits you. That goes for easy booking and clean spaces too."
+      },
+      {
+        "q": "Can I ask about personal plans before booking?",
+        "a": "Of course. Message us and we will explain what is involved and how long it takes. Ask us about friendly team or aftercare tips and the answer is the same."
+      },
+      {
+        "q": "What should I bring to a salon and wellness session?",
+        "a": "Comfortable clothes and any questions you have; we will tell you if anything else is useful. The same approach applies to relaxed sessions and aftercare tips."
+      },
+      {
+        "q": "Can I change my time for easy booking?",
+        "a": "Yes. Tell us as early as you can and we will offer the nearest free slot. This applies to relaxed sessions, personal plans and the rest of our salon and wellness work."
+      },
+      {
+        "q": "Is relaxed sessions suitable for beginners?",
+        "a": "Yes. Tell us your level and we will adjust the session to suit you. It is the same for personal plans as it is for relaxed sessions."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Get Started With Salon And Wellness?",
+      "button": "Book A Session"
+    },
+    "about": {
+      "title": "About Our Salon And Wellness Space",
+      "paragraphs": [
+        "At {brand} good salon and wellness begins with a conversation about what you want, followed by a session that fits.",
+        "Our sessions include relaxed sessions and personal plans. Ask about clean spaces or friendly team too and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Warm Welcome",
+        "Plans Around You",
+        "Unhurried Sessions"
+      ]
+    },
+    "pricing": {
+      "title": "Salon And Wellness Price Guide",
+      "plans": [
+        {
+          "name": "Single Session",
+          "price": "$5",
+          "period": "/session",
+          "perks": [
+            "Relaxed Sessions Session",
+            "Time You Choose",
+            "Tips To Take Home"
+          ]
+        },
+        {
+          "name": "Regular Sessions",
+          "price": "$15",
+          "period": "/session",
+          "perks": [
+            "Relaxed Sessions And Personal Plans",
+            "Flexible Timing",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Programme",
+          "price": "$40",
+          "period": "/package",
+          "perks": [
+            "Relaxed Sessions Plus Personal Plans And Easy Booking",
+            "Extended Support",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "A Look At Salon And Wellness",
+      "captions": [
+        "Relaxed Sessions",
+        "Personal Plans",
+        "Easy Booking",
+        "Clean Spaces",
+        "Friendly Team",
+        "Aftercare Tips"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Salon And Wellness Specialist",
+        "Relaxed Sessions Expert",
+        "Welcome Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "I liked that relaxed sessions was planned around me with no pressure.",
+        "role": "Customer"
+      },
+      {
+        "quote": "Quick reply about clean spaces and a time that suited me.",
+        "role": "Customer"
+      },
+      {
+        "quote": "The relaxed sessions session felt relaxed and exactly what I asked for.",
+        "role": "Regular guest"
+      }
+    ],
+    "blog": {
+      "title": "From The Salon And Wellness Space",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "What To Expect From Relaxed Sessions"
+        },
+        {
+          "tag": "Prepare",
+          "title": "How To Prepare For Personal Plans"
+        },
+        {
+          "tag": "Care",
+          "title": "Looking After Yourself After Easy Booking"
+        }
+      ]
+    },
+    "marquee": [
+      "Relaxed Sessions",
+      "Personal Plans",
+      "Easy Booking",
+      "Clean Spaces",
+      "Friendly Team",
+      "Warm Welcome",
+      "Plain Advice",
+      "Aftercare Tips"
+    ],
+    "contactText": "Message {brand} to book relaxed sessions or ask about personal plans. We reply with a time that suits you and what to bring."
+  },
+  {
+    "id": "type_events_wedding",
+    "label": "Weddings, events and decor",
+    "theme": "events_wedding",
+    "keywords": [
+      "wedding",
+      "events",
+      "decor",
+      "event planner",
+      "wedding planner",
+      "party planner",
+      "event management",
+      "decorator"
+    ],
+    "heroTitles": [
+      "Wedding And Event Without The Stress",
+      "Wedding And Event For Your Big Day",
+      "Wedding And Event Planned Around You"
+    ],
+    "heroSubtitles": [
+      "Planning an event? {brand} offers wedding and event with clear steps, a written quote and a team that listens.",
+      "From planning support to checklist approach, {brand} keeps your event organised, with updates at each stage.",
+      "{brand} provides planning support and decor ideas. Tell us the date, the guest numbers and the mood you want."
+    ],
+    "button": "Plan Your Event",
+    "featureTitle": "Wedding And Event Services We Offer",
+    "features": [
+      {
+        "title": "Planning Support",
+        "text": "Planning Support coordinated with the rest of your event, so nothing is left to chance."
+      },
+      {
+        "title": "Checklist Approach",
+        "text": "Questions about checklist approach? Message us and we will walk you through it."
+      },
+      {
+        "title": "Vendor Coordination",
+        "text": "We plan vendor coordination around your date and guest numbers, with the cost explained first."
+      },
+      {
+        "title": "Decor Ideas",
+        "text": "Decor Ideas arranged with care, with a clear checklist and updates before the day."
+      },
+      {
+        "title": "Day Of Support",
+        "text": "Ask about day of support; we describe the options, show examples and agree what is included."
+      },
+      {
+        "title": "Clear Quotes",
+        "text": "For clear quotes, we listen to your ideas and then suggest a simple, workable plan."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First planning call"
+      },
+      {
+        "value": "Written",
+        "label": "Quote before booking"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      }
+    ],
+    "steps": {
+      "title": "How We Plan Your Event",
+      "items": [
+        {
+          "title": "Share Your Date",
+          "text": "Tell us the date, the guest numbers and your ideas for the wedding and event plan."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We outline planning support, the timings and the cost, and confirm them with you."
+        },
+        {
+          "title": "Prepare Together",
+          "text": "We organise checklist approach and send updates, so you always know where things stand."
+        },
+        {
+          "title": "Enjoy The Day",
+          "text": "Our team looks after vendor coordination on the day, so you can enjoy it."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What do you need from me for decor ideas?",
+        "a": "The date, the guest numbers, the place and a few ideas; we will ask for anything else. That goes for vendor coordination and decor ideas too."
+      },
+      {
+        "q": "Do you handle small wedding and event events?",
+        "a": "Yes. Small and large events get the same clear planning and the same care. Ask us about day of support or clear quotes and the answer is the same."
+      },
+      {
+        "q": "How do I get updates on day of support?",
+        "a": "We agree how you prefer to be updated and keep to it until the day. The same approach applies to planning support and clear quotes."
+      },
+      {
+        "q": "How do I book planning support?",
+        "a": "Message or call with your date and a few details, and we will reply with availability and a quote. This applies to planning support, checklist approach and the rest of our wedding and event work."
+      },
+      {
+        "q": "Can you work to my budget for checklist approach?",
+        "a": "Tell us your budget and we will suggest what fits and be honest about what does not. It is the same for checklist approach as it is for planning support."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Get Started With Wedding And Event?",
+      "button": "Plan Your Event"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good wedding and event begins with a calm conversation. You hear the plan and the cost first, and the preparation follows.",
+        "Our work includes planning support and checklist approach. Ask about decor ideas or day of support too and we will say plainly what is possible."
+      ],
+      "points": [
+        "Clear Checklist",
+        "Quote Before Booking",
+        "Calm Planning"
+      ]
+    },
+    "pricing": {
+      "title": "Wedding And Event Price Guide",
+      "plans": [
+        {
+          "name": "Essentials",
+          "price": "$150",
+          "period": "/event",
+          "perks": [
+            "Planning Support Only",
+            "Written Quote First",
+            "Planning Call"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$500",
+          "period": "/wedding",
+          "perks": [
+            "Planning Support And Checklist Approach",
+            "Checklist And Updates",
+            "Priority Scheduling"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$1500",
+          "period": "/large wedding",
+          "perks": [
+            "Planning Support Plus Checklist Approach And Vendor Coordination",
+            "Team On The Day",
+            "Extended Support"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Wedding And Event Moments",
+      "captions": [
+        "Planning Support",
+        "Checklist Approach",
+        "Vendor Coordination",
+        "Decor Ideas",
+        "Day Of Support",
+        "Clear Quotes"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Wedding And Event Coordinator",
+        "Planning Support Lead",
+        "Client Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Friendly team, and the wedding and event plan matched what we discussed.",
+        "role": "Host"
+      },
+      {
+        "quote": "I liked that planning support came with a checklist and no surprises.",
+        "role": "Event organiser"
+      },
+      {
+        "quote": "Quick reply about decor ideas and an honest quote.",
+        "role": "Host"
+      }
+    ],
+    "blog": {
+      "title": "From The Wedding And Event Desk",
+      "posts": [
+        {
+          "tag": "Budget",
+          "title": "What Affects The Cost Of Checklist Approach"
+        },
+        {
+          "tag": "Checklist",
+          "title": "A Simple Checklist For Vendor Coordination"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Fresh Ideas For Decor Ideas"
+        }
+      ]
+    },
+    "marquee": [
+      "Planning Support",
+      "Checklist",
+      "Vendor",
+      "Decor Ideas",
+      "Day",
+      "Clear Checklist",
+      "Calm Planning",
+      "Local Team"
+    ],
+    "contactText": "Tell {brand} about your event: planning support, vendor coordination or something close. We will answer with a plan and an honest quote."
+  },
+  {
+    "id": "type_pets_animals",
+    "label": "Pets, vets and animal care",
+    "theme": "pets_animals",
+    "keywords": [
+      "pets",
+      "vet",
+      "pet care",
+      "animal care",
+      "pet shop",
+      "veterinary",
+      "pet clinic",
+      "dog care"
+    ],
+    "heroTitles": [
+      "Pet And Vet That Listens First",
+      "Calm And Clear Pet And Vet",
+      "Pet And Vet Care That Starts By Listening"
+    ],
+    "heroSubtitles": [
+      "From gentle handling to booked visits, {brand} keeps care simple: a short chat, a clear plan and time for your questions.",
+      "{brand} provides gentle handling and fair fee talk. We explain what to expect, what it involves and how to prepare.",
+      "Need gentle handling or friendly team? {brand} will tell you what the visit involves and what to bring before you come."
+    ],
+    "button": "Book A Pet Visit",
+    "featureTitle": "Our Pet And Vet Services",
+    "features": [
+      {
+        "title": "Gentle Handling",
+        "text": "For gentle handling, we start by listening to your concern and then suggest a clear plan."
+      },
+      {
+        "title": "Booked Visits",
+        "text": "Booked Visits booked at a time that suits you, with guidance on how to prepare."
+      },
+      {
+        "title": "Care Advice",
+        "text": "Questions about care advice? Message us and we will answer before you book."
+      },
+      {
+        "title": "Fair Fee Talk",
+        "text": "We explain what fair fee talk involves, how it is done and what to expect before we begin."
+      },
+      {
+        "title": "Friendly Team",
+        "text": "Friendly Team with time for your questions, and a plain explanation of the next step."
+      },
+      {
+        "title": "Follow Up Help",
+        "text": "Ask about follow up help; we describe the options simply and let you decide at your own pace."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Calm",
+        "label": "Unhurried visits"
+      },
+      {
+        "value": "Plain",
+        "label": "Language, no jargon"
+      },
+      {
+        "value": "Easy",
+        "label": "Appointment booking"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Book A Visit",
+          "text": "Message or call to book your pet and vet appointment and tell us your main concern."
+        },
+        {
+          "title": "Talk It Through",
+          "text": "We listen, ask questions and explain the options for gentle handling in plain words."
+        },
+        {
+          "title": "Get A Clear Plan",
+          "text": "You hear what booked visits involves, how long it takes and what to expect."
+        },
+        {
+          "title": "Follow Up",
+          "text": "We answer questions after care advice and tell you when to come back, if needed."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I book gentle handling?",
+        "a": "Call or message us, say what you need and choose a time that suits you. It is the same for booked visits as it is for gentle handling."
+      },
+      {
+        "q": "What should I bring to a pet and vet visit?",
+        "a": "Any earlier reports or notes, and a list of your questions; we will tell you if anything else is needed. That goes for care advice and fair fee talk too."
+      },
+      {
+        "q": "Will you explain booked visits first?",
+        "a": "Yes. We describe what is involved and what to expect, and begin only when you are comfortable. Ask us about friendly team or follow up help and the answer is the same."
+      },
+      {
+        "q": "Can I ask questions before care advice?",
+        "a": "Of course. Message us any time and we will answer in plain words. The same approach applies to gentle handling and follow up help."
+      },
+      {
+        "q": "Do I need an appointment for pet and vet?",
+        "a": "Booking ahead helps us give you time. Message us and we will find a slot that suits you. This applies to gentle handling, booked visits and the rest of our pet and vet work."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Book Your Pet And Vet Visit?",
+      "button": "Book A Pet Visit"
+    },
+    "about": {
+      "title": "About Our Pet And Vet Care",
+      "paragraphs": [
+        "{brand} is a local pet and vet practice. We listen first, explain clearly and give you time to ask questions at every step.",
+        "We provide gentle handling, booked visits and care advice, and we are happy to talk through your concern before you decide."
+      ],
+      "points": [
+        "Clear Plans",
+        "Friendly Team",
+        "Booking That Fits You"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Pet And Vet",
+      "plans": [
+        {
+          "name": "First Visit",
+          "price": "$10",
+          "period": "/visit",
+          "perks": [
+            "Gentle Handling Discussion",
+            "Plain Explanation",
+            "Time For Questions"
+          ]
+        },
+        {
+          "name": "Care Plan",
+          "price": "$25",
+          "period": "/consultation",
+          "perks": [
+            "Gentle Handling And Booked Visits",
+            "Follow-Up Check",
+            "Reminders When Due"
+          ]
+        },
+        {
+          "name": "Extended Care",
+          "price": "$60",
+          "period": "/week",
+          "perks": [
+            "Gentle Handling Plus Booked Visits And Care Advice",
+            "Extended Follow-Up",
+            "Priority Booking"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Pet And Vet Practice",
+      "captions": [
+        "Gentle Handling",
+        "Booked Visits",
+        "Care Advice",
+        "Fair Fee Talk",
+        "Friendly Team",
+        "Follow Up Help"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Pet And Vet Practitioner",
+        "Gentle Handling Specialist",
+        "Patient Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Friendly team who made care advice feel straightforward.",
+        "role": "Family member"
+      },
+      {
+        "quote": "A welcoming place, and the pet and vet visit was unhurried.",
+        "role": "Patient"
+      },
+      {
+        "quote": "I liked that gentle handling was described in plain words with no pressure.",
+        "role": "Patient"
+      }
+    ],
+    "blog": {
+      "title": "Pet And Vet Notes And Guides",
+      "posts": [
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Friendly Team"
+        },
+        {
+          "tag": "Habits",
+          "title": "Small Habits That Support Follow Up Help"
+        },
+        {
+          "tag": "Guide",
+          "title": "What To Expect From Gentle Handling"
+        }
+      ]
+    },
+    "marquee": [
+      "Gentle Handling",
+      "Booked Visits",
+      "Care Advice",
+      "Fair Fee",
+      "Friendly Team",
+      "Plain Answers",
+      "Calm Visits",
+      "Easy Booking"
+    ],
+    "contactText": "Message {brand} to book gentle handling or ask about booked visits. We reply with a time that suits you and what to bring."
+  },
+  {
+    "id": "type_fashion_retail",
+    "label": "Clothing, boutique and fashion shops",
+    "theme": "fashion_retail",
+    "keywords": [
+      "clothing",
+      "boutique",
+      "fashion shop",
+      "clothes shop",
+      "apparel",
+      "garments",
+      "fashion store",
+      "ethnic wear"
+    ],
+    "heroTitles": [
+      "A Friendly Clothing And Boutique Near You",
+      "Clothing And Boutique With Honest Advice",
+      "Clothing And Boutique That Is Easy To Shop"
+    ],
+    "heroSubtitles": [
+      "{brand} offers honest sizing advice and gift wrapping. Tell us what you need and we will show you the options and the prices.",
+      "Need honest sizing advice or festive collections? {brand} will tell you what is in stock, what it costs and how to get it.",
+      "{brand} stocks honest sizing advice, careful selection and easy exchange advice. Ask us anything, see what is available and pick what suits you."
+    ],
+    "button": "Browse The Collection",
+    "featureTitle": "Our Clothing And Boutique Range",
+    "features": [
+      {
+        "title": "Honest Sizing Advice",
+        "text": "Looking for honest sizing advice? Tell us your budget and we will suggest options that fit."
+      },
+      {
+        "title": "Careful Selection",
+        "text": "For careful selection, we explain the differences simply so you can pick with confidence."
+      },
+      {
+        "title": "Easy Exchange Advice",
+        "text": "Easy Exchange Advice available to see in store or ask about by message before you come."
+      },
+      {
+        "title": "Gift Wrapping",
+        "text": "Questions about gift wrapping? Message us and we will check availability for you."
+      },
+      {
+        "title": "Festive Collections",
+        "text": "Ask about festive collections and we will show what is available, with prices told clearly."
+      },
+      {
+        "title": "Helpful Staff",
+        "text": "Helpful Staff chosen with care, with honest advice on what suits your need."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Prices told upfront"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Easy",
+        "label": "Help choosing"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us What You Want",
+          "text": "Message or visit with the clothing and boutique item you are looking for and your budget."
+        },
+        {
+          "title": "See The Options",
+          "text": "We show what is available in honest sizing advice, with prices and simple advice."
+        },
+        {
+          "title": "Choose And Confirm",
+          "text": "Pick what suits you and we confirm the order for careful selection, with the total told clearly."
+        },
+        {
+          "title": "Collect Or Receive",
+          "text": "Take your easy exchange advice from the store, or ask how delivery works for your area."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can you tell me the price of careful selection first?",
+        "a": "Yes. We always say the price before you decide, so there are no surprises at the till. Ask us about festive collections or helpful staff and the answer is the same."
+      },
+      {
+        "q": "Do you help me choose easy exchange advice?",
+        "a": "Of course. Tell us what you need and your budget and we will suggest suitable options. The same approach applies to honest sizing advice and helpful staff."
+      },
+      {
+        "q": "Can I check clothing and boutique stock before I come?",
+        "a": "Yes. Send us a message and we will confirm what is available before you make the trip. This applies to honest sizing advice, careful selection and the rest of our clothing and boutique work."
+      },
+      {
+        "q": "What if I am unsure about honest sizing advice?",
+        "a": "Ask us. We explain the differences in plain words and let you decide in your own time. It is the same for careful selection as it is for honest sizing advice."
+      },
+      {
+        "q": "Do you offer delivery for gift wrapping?",
+        "a": "Ask us about your area and we will tell you plainly what is possible. That goes for easy exchange advice and gift wrapping too."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Find Your Clothing And Boutique Pick?",
+      "button": "Browse The Collection"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local clothing and boutique business. We keep shopping simple: listen to what you need, show the options and tell you the prices plainly.",
+        "We stock honest sizing advice, careful selection and easy exchange advice, and we are happy to talk it through with you before you decide."
+      ],
+      "points": [
+        "Friendly Service",
+        "Checked Availability",
+        "No Pressure"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Clothing And Boutique",
+      "plans": [
+        {
+          "name": "Everyday",
+          "price": "$10",
+          "period": "/piece",
+          "perks": [
+            "Everyday Honest Sizing Advice",
+            "Prices Told First",
+            "Help Choosing"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$35",
+          "period": "/set",
+          "perks": [
+            "Honest Sizing Advice And Careful Selection",
+            "Priority Help",
+            "Availability Checks"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$90",
+          "period": "/festive outfit",
+          "perks": [
+            "Honest Sizing Advice Plus Careful Selection And Easy Exchange Advice",
+            "Personal Shopping Help",
+            "Early Access To New Honest Sizing Advice"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Clothing And Boutique Picks",
+      "captions": [
+        "Honest Sizing Advice",
+        "Careful Selection",
+        "Easy Exchange Advice",
+        "Gift Wrapping",
+        "Festive Collections",
+        "Helpful Staff"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Clothing And Boutique Advisor",
+        "Honest Sizing Advice Specialist",
+        "Clothing And Boutique Order Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Helpful advice on careful selection, and no pressure to buy.",
+        "role": "Regular shopper"
+      },
+      {
+        "quote": "Easy to check easy exchange advice by message before going to the shop.",
+        "role": "Customer"
+      },
+      {
+        "quote": "Friendly service, and the clothing and boutique range matched what I asked for.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "Clothing And Boutique Tips And Guides",
+      "posts": [
+        {
+          "tag": "Care",
+          "title": "Getting The Most From Gift Wrapping"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Simple Ideas For Festive Collections"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Helpful Staff"
+        }
+      ]
+    },
+    "marquee": [
+      "Honest Sizing",
+      "Careful",
+      "Easy Exchange",
+      "Gift Wrapping",
+      "Festive",
+      "New Stock",
+      "Clear Prices",
+      "Friendly Advice"
+    ],
+    "contactText": "Tell {brand} what you are looking for: honest sizing advice, easy exchange advice or something close. We will answer with options and prices."
+  },
+  {
+    "id": "type_home_services",
+    "label": "Plumber, electrician, cleaning, repair and other home services",
+    "theme": "home_services",
+    "keywords": [
+      "plumber",
+      "electrician",
+      "home services",
+      "cleaning",
+      "repair",
+      "handyman",
+      "home repair",
+      "maintenance"
+    ],
+    "heroTitles": [
+      "Home Service Without The Runaround",
+      "Local Home Service You Can Count On",
+      "Home Service With A Clear Quote First"
+    ],
+    "heroSubtitles": [
+      "{brand} handles clear quotes, local team and tidy work. Tell us what you need and get a clear plan and price before we start.",
+      "Looking for help with home service? {brand} explains the work, the cost and the timing first, then does the job tidily.",
+      "From clear quotes to local team, {brand} keeps things simple: a short chat, a fair quote and a visit at a time that suits you."
+    ],
+    "button": "Book A Home Visit",
+    "featureTitle": "What Home Service Covers Here",
+    "features": [
+      {
+        "title": "Clear Quotes",
+        "text": "For clear quotes, we look at the place first, then suggest the simplest fix that lasts."
+      },
+      {
+        "title": "Local Team",
+        "text": "Need local team? Tell us what is wrong and we will say what can be done and when."
+      },
+      {
+        "title": "Tidy Work",
+        "text": "Tidy Work with a short check at the end, so you know the job is finished properly."
+      },
+      {
+        "title": "Time Slots",
+        "text": "We explain what time slots involves, the options and the cost before any work begins."
+      },
+      {
+        "title": "Plain Explanations",
+        "text": "Plain Explanations by a local team, with the price and timing agreed with you first."
+      },
+      {
+        "title": "Follow Up Care",
+        "text": "Ask about follow up care and get a clear quote, a time that suits you and a tidy finish."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Price before work"
+      },
+      {
+        "value": "Fixed",
+        "label": "Visit time you choose"
+      },
+      {
+        "value": "Tidy",
+        "label": "Finish every time"
+      }
+    ],
+    "steps": {
+      "title": "How Home Service Works With Us",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Describe the home service job by call or message, with a photo if that helps."
+        },
+        {
+          "title": "Get A Clear Quote",
+          "text": "We explain the options for clear quotes and give you the price before anything starts."
+        },
+        {
+          "title": "We Do The Work",
+          "text": "Our team arrives at the agreed time and completes the local team work with care."
+        },
+        {
+          "title": "Check And Follow Up",
+          "text": "We go through the result with you and stay reachable for questions on tidy work afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can you work around my timings for local team?",
+        "a": "Yes. Tell us the days and times that suit you and we will fix a slot within them. This applies to clear quotes, local team and the rest of our home service work."
+      },
+      {
+        "q": "What should I prepare before clear quotes?",
+        "a": "A clear path to the work area and a few details about the problem are usually enough; we will tell you if more is needed. It is the same for local team as it is for clear quotes."
+      },
+      {
+        "q": "Do you explain the home service work before starting?",
+        "a": "Always. We describe each step, the materials and the cost, and begin only when you are comfortable. That goes for tidy work and time slots too."
+      },
+      {
+        "q": "Can I ask questions after tidy work?",
+        "a": "Yes. Message us any time after the job and we will answer or come back to check. Ask us about plain explanations or follow up care and the answer is the same."
+      },
+      {
+        "q": "Do you handle small home service jobs too?",
+        "a": "Yes. Small and large jobs get the same care, and we quote both in the same clear way. The same approach applies to clear quotes and follow up care."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Book Home Service Today?",
+      "button": "Book A Home Visit"
+    },
+    "about": {
+      "title": "About Our Home Service Team",
+      "paragraphs": [
+        "At {brand} we believe a good home service job starts with a clear conversation. You hear the plan and the price first, and the work follows.",
+        "Our services include clear quotes and local team. Ask us about time slots or plain explanations too, and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Clear Quote Before Work",
+        "Friendly Local Team",
+        "Tidy Finish"
+      ]
+    },
+    "pricing": {
+      "title": "Home Service Pricing",
+      "plans": [
+        {
+          "name": "Single Visit",
+          "price": "$8",
+          "period": "/visit",
+          "perks": [
+            "Clear Quotes Only",
+            "Written Quote First",
+            "Time Slot You Choose"
+          ]
+        },
+        {
+          "name": "Regular Care",
+          "price": "$25",
+          "period": "/job",
+          "perks": [
+            "Clear Quotes And Local Team",
+            "Follow-Up Check",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Service",
+          "price": "$60",
+          "period": "/project",
+          "perks": [
+            "Clear Quotes Plus Local Team And Tidy Work",
+            "Extended Follow-Up",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Home Service Work",
+      "captions": [
+        "Clear Quotes",
+        "Local Team",
+        "Tidy Work",
+        "Time Slots",
+        "Plain Explanations",
+        "Follow Up Care"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Home Service Technician",
+        "Clear Quotes Lead",
+        "Home Service Support Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "The clear quotes work was explained first and finished on the day we agreed.",
+        "role": "Home owner"
+      },
+      {
+        "quote": "Clear quote for local team, no pressure, and the place was left tidy.",
+        "role": "Shop owner"
+      },
+      {
+        "quote": "They answered every question about tidy work before starting.",
+        "role": "Flat resident"
+      }
+    ],
+    "blog": {
+      "title": "From The Home Service Desk",
+      "posts": [
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask Before Local Team"
+        },
+        {
+          "tag": "Planning",
+          "title": "Preparing Your Place For Tidy Work"
+        },
+        {
+          "tag": "Advice",
+          "title": "Small Signs You Need Time Slots"
+        }
+      ]
+    },
+    "marquee": [
+      "Clear Quotes",
+      "Local Team",
+      "Tidy Work",
+      "Time Slots",
+      "Plain",
+      "Free Quote",
+      "Clear Pricing",
+      "Follow Up"
+    ],
+    "contactText": "Call or message {brand} to talk about clear quotes or local team. We reply with a clear price and a time that works for you."
+  },
+  {
+    "id": "type_nonprofit",
+    "label": "NGO, charity and foundation",
+    "theme": "nonprofit",
+    "keywords": [
+      "ngo",
+      "charity",
+      "foundation",
+      "nonprofit",
+      "trust",
+      "social work",
+      "donate",
+      "volunteer"
+    ],
+    "heroTitles": [
+      "Nonprofit And Foundation That Welcomes You In",
+      "Nonprofit And Foundation Built On Care",
+      "Nonprofit And Foundation Made Simple And Clear"
+    ],
+    "heroSubtitles": [
+      "{brand} focuses on open reporting and community programmes. Ask us how to volunteer, donate or spread the word.",
+      "Want to help with open reporting or event updates? {brand} will tell you plainly what is needed and how to take part.",
+      "{brand} works on open reporting, volunteer roles and donation options. Learn how we work, see how you can help and get in touch."
+    ],
+    "button": "Support Our Work",
+    "featureTitle": "Our Nonprofit And Foundation Work",
+    "features": [
+      {
+        "title": "Open Reporting",
+        "text": "For open reporting, we work with the community and keep our methods open and clear."
+      },
+      {
+        "title": "Volunteer Roles",
+        "text": "Volunteer Roles supported by volunteers and donors, with updates you can ask for any time."
+      },
+      {
+        "title": "Donation Options",
+        "text": "Questions about donation options? Message us and we will answer openly."
+      },
+      {
+        "title": "Community Programmes",
+        "text": "We explain how community programmes works, what is needed and how you can take part."
+      },
+      {
+        "title": "Event Updates",
+        "text": "Event Updates carried out with care, and we share plain updates on what is done."
+      },
+      {
+        "title": "Easy Contact",
+        "text": "Ask about easy contact; we describe the need simply and show ways to help."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Open",
+        "label": "Doors for volunteers"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Clear",
+        "label": "Updates on our work"
+      }
+    ],
+    "steps": {
+      "title": "How To Take Part",
+      "items": [
+        {
+          "title": "Get In Touch",
+          "text": "Message or call to ask how you can help with nonprofit and foundation and what is needed now."
+        },
+        {
+          "title": "Choose How To Help",
+          "text": "Give time, items or funds for open reporting, whichever suits you."
+        },
+        {
+          "title": "Take Part",
+          "text": "Join an activity for volunteer roles or send your support, and we will guide you through it."
+        },
+        {
+          "title": "See The Result",
+          "text": "We share simple updates on donation options so you can see what your help made possible."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I volunteer for volunteer roles?",
+        "a": "Yes. Tell us your availability and skills and we will find a suitable role. It is the same for volunteer roles as it is for open reporting."
+      },
+      {
+        "q": "How is support for nonprofit and foundation used?",
+        "a": "We tell you plainly what the support is used for and share updates when you ask. That goes for donation options and community programmes too."
+      },
+      {
+        "q": "Can I donate items for donation options?",
+        "a": "Ask us what is needed right now and we will explain how to send or hand it over. Ask us about event updates or easy contact and the answer is the same."
+      },
+      {
+        "q": "Can I visit and see open reporting first?",
+        "a": "Message us and we will arrange a time when it is convenient to visit. The same approach applies to open reporting and easy contact."
+      },
+      {
+        "q": "How do I stay informed about community programmes?",
+        "a": "Tell us how you prefer to hear from us and we will keep you updated. This applies to open reporting, volunteer roles and the rest of our nonprofit and foundation work."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Help With Nonprofit And Foundation?",
+      "button": "Support Our Work"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good nonprofit and foundation work starts with listening. You can ask us anything about how we work and how support is used.",
+        "Our work includes open reporting and volunteer roles. Ask about community programmes or event updates too and we will say plainly what is needed."
+      ],
+      "points": [
+        "Open About Our Work",
+        "Every Help Welcome",
+        "Plain Updates"
+      ]
+    },
+    "pricing": {
+      "title": "Nonprofit And Foundation Giving Options",
+      "plans": [
+        {
+          "name": "Small Gift",
+          "price": "$2",
+          "period": "/month",
+          "perks": [
+            "A Gift Towards Open Reporting",
+            "Plain Update",
+            "Thank You Note"
+          ]
+        },
+        {
+          "name": "Regular Gift",
+          "price": "$10",
+          "period": "/month",
+          "perks": [
+            "Open Reporting And Volunteer Roles",
+            "Regular Updates",
+            "Invitation To Events"
+          ]
+        },
+        {
+          "name": "Major Gift",
+          "price": "$30",
+          "period": "/month",
+          "perks": [
+            "Open Reporting Plus Volunteer Roles And Donation Options",
+            "Personal Briefing",
+            "Visit Our Work"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Moments From Nonprofit And Foundation",
+      "captions": [
+        "Open Reporting",
+        "Volunteer Roles",
+        "Donation Options",
+        "Community Programmes",
+        "Event Updates",
+        "Easy Contact"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Nonprofit And Foundation Coordinator",
+        "Open Reporting Lead",
+        "Volunteer Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "A friendly team, and the nonprofit and foundation work felt open and honest.",
+        "role": "Supporter"
+      },
+      {
+        "quote": "I liked that open reporting came with plain updates and no pressure.",
+        "role": "Volunteer"
+      },
+      {
+        "quote": "Quick reply about community programmes and a clear answer.",
+        "role": "Supporter"
+      }
+    ],
+    "blog": {
+      "title": "From The Nonprofit And Foundation Team",
+      "posts": [
+        {
+          "tag": "Thanks",
+          "title": "A Thank You For Easy Contact"
+        },
+        {
+          "tag": "Story",
+          "title": "How Open Reporting Began"
+        },
+        {
+          "tag": "Update",
+          "title": "What Support For Volunteer Roles Makes Possible"
+        }
+      ]
+    },
+    "marquee": [
+      "Open Reporting",
+      "Volunteer Roles",
+      "Donation Options",
+      "Community",
+      "Event Updates",
+      "Volunteer",
+      "Give Time",
+      "Plain Updates"
+    ],
+    "contactText": "Tell {brand} how you would like to help: open reporting, donation options or something else. We will answer with the next step."
+  }
+]

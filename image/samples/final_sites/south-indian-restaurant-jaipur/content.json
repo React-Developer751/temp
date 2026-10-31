@@ -1,0 +1,176 @@
+{
+  "brand": "South Indian restaurant, Jaipur",
+  "niche": "restaurant",
+  "kind": "food",
+  "profile": "south_indian",
+  "business_type": "restaurant",
+  "type_label": "South Indian restaurant",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "warm",
+  "keywords": [
+    "family"
+  ],
+  "eyebrow": "South Indian restaurant · Jaipur",
+  "location": "Jaipur",
+  "audience": "",
+  "hero_heading": "South Indian restaurant in Jaipur",
+  "tagline": "Book a table and tell us what you need.",
+  "about_title": "About us",
+  "about": [
+    "Small questions are always welcome too.",
+    "You'll find us in Jaipur. Let us know when you're coming and we will set a table."
+  ],
+  "features_title": "From the kitchen",
+  "features": [
+    {
+      "title": "Starters",
+      "text": "Curious about Starters? Ask, and we'll talk you through it."
+    },
+    {
+      "title": "Mains",
+      "text": "Feel free to ask us how Mains works and what to expect."
+    },
+    {
+      "title": "Desserts",
+      "text": "A good place to start if you like Desserts."
+    },
+    {
+      "title": "Drinks",
+      "text": "Order Drinks for the table, or keep it to yourself."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "A real person replies",
+      "text": "Not a form that goes nowhere."
+    },
+    {
+      "title": "Questions welcome",
+      "text": "Big or small."
+    },
+    {
+      "title": "No hard sell",
+      "text": "Take your time."
+    }
+  ],
+  "stats_title": "Where and when",
+  "stats": [
+    {
+      "value": "Jaipur",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "Three simple steps",
+  "steps": [
+    {
+      "title": "Pick a day",
+      "text": "Tell us the day and the size of the group."
+    },
+    {
+      "title": "We talk it through",
+      "text": "We explain the options in plain words."
+    },
+    {
+      "title": "Eat well",
+      "text": "Take your time; the table is yours."
+    }
+  ],
+  "faq_title": "Quick answers",
+  "faq": [
+    {
+      "q": "Where are you?",
+      "a": "Find us in Jaipur. Message us and we'll send directions."
+    },
+    {
+      "q": "Can I change my plans?",
+      "a": "Send us a message and we'll explain the options."
+    },
+    {
+      "q": "Can I ask questions before I decide?",
+      "a": "Certainly; that's what the first conversation is for."
+    },
+    {
+      "q": "What if I'm not sure what I need?",
+      "a": "Let us know what you're trying to achieve and we will point you in the right direction."
+    }
+  ],
+  "blog_title": "Notes and guides",
+  "blog": [
+    {
+      "title": "Questions to ask before you book",
+      "excerpt": "Plain answers beat long brochures."
+    },
+    {
+      "title": "Making the most of your first visit",
+      "excerpt": "A short list to bring with you."
+    },
+    {
+      "title": "Notes on getting started",
+      "excerpt": "The first steps, without the jargon."
+    }
+  ],
+  "contact": {
+    "place": "Jaipur"
+  },
+  "cta_primary": "Book a table",
+  "cta_secondary": "See the menu",
+  "cta_text": "Hungry? Book a table.",
+  "cta_title": "Your next step is one message away",
+  "footer": "© South Indian restaurant, Jaipur. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Jaipur",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "restaurant (confidence high)",
+    "items_from_prompt": [],
+    "place": "Jaipur",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "south_indian",
+    "kind": "food"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'South Indian restaurant, Jaipur' (not a name). Add your business name to replace it.",
+    "Typical south indian restaurant offerings were used for: Starters, Mains, Desserts, Drinks. List your real services (3 or more) to replace them."
+  ]
+}

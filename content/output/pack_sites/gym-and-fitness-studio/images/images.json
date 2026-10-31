@@ -1,0 +1,106 @@
+{
+  "niche": null,
+  "requested_niche": null,
+  "fallback": true,
+  "reason": "no picture niche for business type 'gym_fitness_studio'",
+  "mood": "dark",
+  "accent": "#d86027",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Gym and fitness studio Gym and fitness studio gym membership fitness centre crossfit box personal trainer weight training gym gym near me Strength Floor Cardio Zone Personal Training Group Classes Fitness Assessment Open Slots",
+    "niche": null,
+    "title": "Abstract",
+    "fallback": true,
+    "mood": "dark",
+    "accent": "#d86027",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 20,
+    "palette_family": 0.893,
+    "text_zone": "left",
+    "hero_contrast": 4.66,
+    "seconds": 6.25,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.893
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 16762,
+      "alt": "Illustration for Gym and fitness studio",
+      "text_color": "#ffffff",
+      "contrast": 4.66,
+      "role": "hero",
+      "seed": 1
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 8520,
+      "alt": "About Gym and fitness studio",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1014
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 6945,
+        "alt": "Gym and fitness studio gallery picture",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2027
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 5603,
+        "alt": "Gym and fitness studio gallery picture",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3040
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 7152,
+        "alt": "Gym and fitness studio gallery picture",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4053
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 6371,
+        "alt": "Gym and fitness studio gallery picture",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5066
+      }
+    ]
+  }
+}

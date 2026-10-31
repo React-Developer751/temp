@@ -1,0 +1,2316 @@
+[
+  {
+    "id": "juice_smoothie_bar",
+    "label": "Juice and smoothie bar",
+    "theme": "organic_nature",
+    "keywords": [
+      "juice bar",
+      "smoothie bar",
+      "fresh juice",
+      "cold pressed juice",
+      "juice centre",
+      "protein smoothie",
+      "detox juice",
+      "जूस सेंटर",
+      "स्मूदी बार"
+    ],
+    "heroTitles": [
+      "Order Fresh Pressed Juices The Easy Way",
+      "Juice And Smoothie Bar The Way It Should Taste",
+      "Fresh Fresh Pressed Juices, Ready When You Are"
+    ],
+    "heroSubtitles": [
+      "Craving fresh pressed juices or fruit bowls and salads? {brand} will tell you what is ready, what goes well with it and how to order.",
+      "Looking for help with juice and smoothie bar? {brand} keeps it simple: honest food, easy ordering and a menu that is easy to read.",
+      "From fresh pressed juices to whole fruit smoothies, {brand} makes things with care and takes your order the way a neighbour would."
+    ],
+    "button": "Order A Fresh Juice",
+    "featureTitle": "Juice And Smoothie Bar Favourites",
+    "features": [
+      {
+        "title": "Fresh Pressed Juices",
+        "text": "Craving fresh pressed juices? Order ahead or drop in and we will point you to what suits your mood."
+      },
+      {
+        "title": "Whole Fruit Smoothies",
+        "text": "For whole fruit smoothies, we keep the flavours honest and let the ingredients do the work."
+      },
+      {
+        "title": "Protein Shakes",
+        "text": "Protein Shakes on offer today; message us to check what is ready before you come."
+      },
+      {
+        "title": "Green And Detox Blends",
+        "text": "Questions about green and detox blends? Ask us about ingredients or any dietary need before you order."
+      },
+      {
+        "title": "Fruit Bowls And Salads",
+        "text": "Ask about fruit bowls and salads and we will tell you what goes into it and how it is best enjoyed."
+      },
+      {
+        "title": "Weekly Juice Packs",
+        "text": "Weekly Juice Packs prepared fresh, with the team happy to explain the details."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Fresh",
+        "label": "Made each day"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Easy",
+        "label": "Ordering by message"
+      }
+    ],
+    "steps": {
+      "title": "How Ordering Works",
+      "items": [
+        {
+          "title": "Pick What You Like",
+          "text": "Browse the juice and smoothie bar menu and choose fresh pressed juices or anything that catches your eye."
+        },
+        {
+          "title": "Place Your Order",
+          "text": "Order by message or call, or walk in, for whole fruit smoothies and anything alongside it."
+        },
+        {
+          "title": "We Make It Fresh",
+          "text": "The kitchen prepares protein shakes so it reaches you at its best."
+        },
+        {
+          "title": "Collect And Enjoy",
+          "text": "Pick it up, enjoy it, and tell us what you liked so we can keep improving green and detox blends."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I place an advance order for juice and smoothie bar?",
+        "a": "Yes. Tell us the day and what you need and we will confirm what we can make. It is the same for whole fruit smoothies as it is for fresh pressed juices."
+      },
+      {
+        "q": "Do you cater to dietary needs for whole fruit smoothies?",
+        "a": "Tell us your needs before you order and the team will explain what is possible. That goes for protein shakes and green and detox blends too."
+      },
+      {
+        "q": "What goes into protein shakes?",
+        "a": "Ask us when you order. The team is happy to describe ingredients and how it is made. Ask us about fruit bowls and salads or weekly juice packs and the answer is the same."
+      },
+      {
+        "q": "Can I take fresh pressed juices away?",
+        "a": "Yes. Ask about takeaway when you order and we will pack it carefully. The same approach applies to fresh pressed juices and weekly juice packs."
+      },
+      {
+        "q": "Do you take large orders for green and detox blends?",
+        "a": "Yes. Tell us the date and numbers and we will say what we can do. This applies to fresh pressed juices, whole fruit smoothies and the rest of our juice and smoothie bar work."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Order Fresh Pressed Juices?",
+      "button": "Order A Fresh Juice"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good juice and smoothie bar means fresh food, a clear menu and a team that is happy to answer questions.",
+        "Our table includes fresh pressed juices and whole fruit smoothies. Ask about green and detox blends or fruit bowls and salads too and we will tell you what is ready today."
+      ],
+      "points": [
+        "Fresh Every Day",
+        "Honest Menu",
+        "Warm Welcome"
+      ]
+    },
+    "pricing": {
+      "title": "Juice And Smoothie Bar Price Guide",
+      "plans": [
+        {
+          "name": "Single Order",
+          "price": "$2",
+          "period": "/glass",
+          "perks": [
+            "Fresh Pressed Juices Portion",
+            "Made Fresh",
+            "Takeaway On Request"
+          ]
+        },
+        {
+          "name": "Popular Combo",
+          "price": "$6",
+          "period": "/week pack",
+          "perks": [
+            "Fresh Pressed Juices And Whole Fruit Smoothies",
+            "Made Fresh",
+            "Takeaway On Request"
+          ]
+        },
+        {
+          "name": "Large Order",
+          "price": "$22",
+          "period": "/month pack",
+          "perks": [
+            "Fresh Pressed Juices Plus Whole Fruit Smoothies And Protein Shakes",
+            "Shared Portions",
+            "Advance Order Welcome"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "From Our Juice And Smoothie Bar Kitchen",
+      "captions": [
+        "Fresh Pressed Juices",
+        "Whole Fruit Smoothies",
+        "Protein Shakes",
+        "Green And Detox Blends",
+        "Fruit Bowls And Salads",
+        "Weekly Juice Packs"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Head Cook",
+        "Fresh Pressed Juices Specialist",
+        "Guest Host"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Easy to order whole fruit smoothies by message, and it was ready when they said.",
+        "role": "Office lunch group"
+      },
+      {
+        "quote": "Warm welcome and a clear menu; protein shakes was a good choice.",
+        "role": "First time visitor"
+      },
+      {
+        "quote": "Friendly staff and the juice and smoothie bar food was served with care.",
+        "role": "Family guest"
+      }
+    ],
+    "blog": {
+      "title": "From The Juice And Smoothie Bar Kitchen",
+      "posts": [
+        {
+          "tag": "Menu",
+          "title": "What To Try First With Whole Fruit Smoothies"
+        },
+        {
+          "tag": "Pairing",
+          "title": "Good Company For Protein Shakes"
+        },
+        {
+          "tag": "Kitchen",
+          "title": "How We Prepare Green And Detox Blends"
+        }
+      ]
+    },
+    "marquee": [
+      "Fresh Pressed",
+      "Whole Fruit",
+      "Protein Shakes",
+      "Detox Blends",
+      "Fruit Bowls",
+      "Fresh Daily",
+      "Takeaway",
+      "Easy Ordering"
+    ],
+    "contactText": "Tell {brand} what you fancy: fresh pressed juices, protein shakes or something else. We will answer with what is ready and how to order.",
+    "menu": {
+      "title": "On The Menu",
+      "lead": "Juices and smoothies pressed and blended to order. Tell us what you like and we will suggest a mix.",
+      "categories": [
+        {
+          "name": "Fresh Juices",
+          "items": [
+            "Orange",
+            "Watermelon",
+            "Pineapple",
+            "Mosambi",
+            "Pomegranate",
+            "Sugarcane | fresh pressed"
+          ]
+        },
+        {
+          "name": "Smoothies",
+          "items": [
+            "Banana oats",
+            "Mango yoghurt",
+            "Berry blend",
+            "Protein shake",
+            "Green smoothie",
+            "Peanut butter shake"
+          ]
+        },
+        {
+          "name": "Cold Pressed",
+          "items": [
+            "Beetroot and carrot",
+            "Amla and ginger",
+            "Green apple and mint",
+            "Cucumber and lemon",
+            "Pineapple and basil"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "catering_service",
+    "label": "Catering service",
+    "theme": "events_wedding",
+    "keywords": [
+      "catering service",
+      "caterer",
+      "wedding catering",
+      "party catering",
+      "event catering",
+      "buffet catering",
+      "bulk food order",
+      "कैटरिंग सर्विस",
+      "शादी की कैटरिंग"
+    ],
+    "heroTitles": [
+      "Catering Service For Your Big Day",
+      "Catering Service Planned Around You",
+      "Calm Planning For Wedding And Reception Menus"
+    ],
+    "heroSubtitles": [
+      "{brand} provides wedding and reception menus and live counters. Tell us the date, the guest numbers and the mood you want.",
+      "Need wedding and reception menus or trained service staff? {brand} will explain the options, the timing and the cost first.",
+      "Planning an event? {brand} offers catering service with clear steps, a written quote and a team that listens."
+    ],
+    "button": "Get A Catering Quote",
+    "featureTitle": "Catering Service Services We Offer",
+    "features": [
+      {
+        "title": "Wedding And Reception Menus",
+        "text": "Ask about wedding and reception menus; we describe the options, show examples and agree what is included."
+      },
+      {
+        "title": "Birthday And House Parties",
+        "text": "For birthday and house parties, we listen to your ideas and then suggest a simple, workable plan."
+      },
+      {
+        "title": "Corporate Lunch Boxes",
+        "text": "Corporate Lunch Boxes coordinated with the rest of your event, so nothing is left to chance."
+      },
+      {
+        "title": "Live Counters",
+        "text": "Questions about live counters? Message us and we will walk you through it."
+      },
+      {
+        "title": "Trained Service Staff",
+        "text": "We plan trained service staff around your date and guest numbers, with the cost explained first."
+      },
+      {
+        "title": "Tasting Before You Book",
+        "text": "Tasting Before You Book arranged with care, with a clear checklist and updates before the day."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Checklist for events"
+      },
+      {
+        "value": "Calm",
+        "label": "Planning, no stress"
+      },
+      {
+        "value": "Local",
+        "label": "Team on the day"
+      }
+    ],
+    "steps": {
+      "title": "How We Plan Your Event",
+      "items": [
+        {
+          "title": "Share Your Date",
+          "text": "Tell us the date, the guest numbers and your ideas for the catering service plan."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We outline wedding and reception menus, the timings and the cost, and confirm them with you."
+        },
+        {
+          "title": "Prepare Together",
+          "text": "We organise birthday and house parties and send updates, so you always know where things stand."
+        },
+        {
+          "title": "Enjoy The Day",
+          "text": "Our team looks after corporate lunch boxes on the day, so you can enjoy it."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I book wedding and reception menus?",
+        "a": "Message or call with your date and a few details, and we will reply with availability and a quote. It is the same for birthday and house parties as it is for wedding and reception menus."
+      },
+      {
+        "q": "Can you work to my budget for birthday and house parties?",
+        "a": "Tell us your budget and we will suggest what fits and be honest about what does not. That goes for corporate lunch boxes and live counters too."
+      },
+      {
+        "q": "How early should I plan catering service?",
+        "a": "As early as you can; share your date and we will say what is possible. Ask us about trained service staff or tasting before you book and the answer is the same."
+      },
+      {
+        "q": "Do you visit the venue for corporate lunch boxes?",
+        "a": "Ask us when you book; we will tell you plainly what site visits are possible. The same approach applies to wedding and reception menus and tasting before you book."
+      },
+      {
+        "q": "Can I change plans for wedding and reception menus?",
+        "a": "Yes. Tell us early and we will explain what can change and how it affects the plan. This applies to wedding and reception menus, birthday and house parties and the rest of our catering service work."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Plan Wedding And Reception Menus For Your Event?",
+      "button": "Get A Catering Quote"
+    },
+    "about": {
+      "title": "About Our Catering Service Team",
+      "paragraphs": [
+        "At {brand} good catering service begins with a calm conversation. You hear the plan and the cost first, and the preparation follows.",
+        "Our work includes wedding and reception menus and birthday and house parties. Ask about live counters or trained service staff too and we will say plainly what is possible."
+      ],
+      "points": [
+        "Clear Checklist",
+        "Quote Before Booking",
+        "Calm Planning"
+      ]
+    },
+    "pricing": {
+      "title": "Catering Service Price Guide",
+      "plans": [
+        {
+          "name": "Essentials",
+          "price": "$6",
+          "period": "/plate",
+          "perks": [
+            "Wedding And Reception Menus Only",
+            "Written Quote First",
+            "Planning Call"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$9",
+          "period": "/premium plate",
+          "perks": [
+            "Wedding And Reception Menus And Birthday And House Parties",
+            "Checklist And Updates",
+            "Priority Scheduling"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$14",
+          "period": "/royal plate",
+          "perks": [
+            "Wedding And Reception Menus Plus Birthday And House Parties And Corporate Lunch Boxes",
+            "Team On The Day",
+            "Extended Support"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Catering Service Work",
+      "captions": [
+        "Wedding And Reception Menus",
+        "Birthday And House Parties",
+        "Corporate Lunch Boxes",
+        "Live Counters",
+        "Trained Service Staff",
+        "Tasting Before You Book"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Catering Service Coordinator",
+        "Wedding And Reception Menus Lead",
+        "Client Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "They planned wedding and reception menus around our date and explained the cost first.",
+        "role": "Host"
+      },
+      {
+        "quote": "Clear steps for birthday and house parties, with updates before the day.",
+        "role": "Family host"
+      },
+      {
+        "quote": "Calm and organised about corporate lunch boxes, which made planning easier.",
+        "role": "Host"
+      }
+    ],
+    "blog": {
+      "title": "From The Catering Service Desk",
+      "posts": [
+        {
+          "tag": "Checklist",
+          "title": "A Simple Checklist For Corporate Lunch Boxes"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Fresh Ideas For Live Counters"
+        },
+        {
+          "tag": "Timing",
+          "title": "When To Book Trained Service Staff"
+        }
+      ]
+    },
+    "marquee": [
+      "Reception Menus",
+      "House Parties",
+      "Corporate Lunch",
+      "Live Counters",
+      "Trained Service",
+      "Clear Checklist",
+      "Calm Planning",
+      "Local Team"
+    ],
+    "contactText": "Message {brand} with your date to talk about wedding and reception menus or birthday and house parties. We reply with availability and a clear quote.",
+    "menu": {
+      "title": "Menu Styles",
+      "lead": "Menus planned around your event, your guest numbers and your tastes. Ask for a tasting before you decide.",
+      "categories": [
+        {
+          "name": "Starters",
+          "items": [
+            "Paneer tikka",
+            "Veg cutlet",
+            "Hara bhara kebab",
+            "Mini samosa",
+            "Crispy corn",
+            "Soup of the day"
+          ]
+        },
+        {
+          "name": "Main Course",
+          "items": [
+            "Dal makhani",
+            "Paneer butter masala",
+            "Mixed vegetable",
+            "Veg pulao",
+            "Chole",
+            "Raita"
+          ]
+        },
+        {
+          "name": "Breads And Rice",
+          "items": [
+            "Butter naan",
+            "Tandoori roti",
+            "Jeera rice",
+            "Veg biryani",
+            "Lachha paratha"
+          ]
+        },
+        {
+          "name": "Desserts",
+          "items": [
+            "Gulab jamun",
+            "Gajar halwa",
+            "Ice cream",
+            "Rasmalai",
+            "Fruit custard"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "kirana_grocery",
+    "label": "Kirana and grocery store",
+    "theme": "general_business",
+    "keywords": [
+      "kirana store",
+      "kirana",
+      "grocery store",
+      "grocery delivery",
+      "provision store",
+      "monthly ration",
+      "किराना दुकान",
+      "राशन की दुकान"
+    ],
+    "heroTitles": [
+      "A Friendly Kirana And Grocery Store Near You",
+      "Choose Daily Essentials With Confidence",
+      "Kirana And Grocery Store With Honest Advice"
+    ],
+    "heroSubtitles": [
+      "{brand} offers daily essentials and monthly basket. Tell us what you need and we will show you the options and the prices.",
+      "Need daily essentials or dairy, bread and eggs? {brand} will tell you what is in stock, what it costs and how to get it.",
+      "{brand} stocks daily essentials, fresh fruit and vegetables and free home delivery. Ask us anything, see what is available and pick what suits you."
+    ],
+    "button": "Order Groceries",
+    "featureTitle": "What You Will Find Here",
+    "features": [
+      {
+        "title": "Daily Essentials",
+        "text": "For daily essentials, we explain the differences simply so you can pick with confidence."
+      },
+      {
+        "title": "Fresh Fruit And Vegetables",
+        "text": "Fresh Fruit And Vegetables available to see in store or ask about by message before you come."
+      },
+      {
+        "title": "Free Home Delivery",
+        "text": "Questions about free home delivery? Message us and we will check availability for you."
+      },
+      {
+        "title": "Monthly Basket",
+        "text": "Ask about monthly basket and we will show what is available, with prices told clearly."
+      },
+      {
+        "title": "Dairy, Bread And Eggs",
+        "text": "Dairy, Bread And Eggs chosen with care, with honest advice on what suits your need."
+      },
+      {
+        "title": "Household And Pooja Items",
+        "text": "Looking for household and pooja items? Tell us your budget and we will suggest options that fit."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Local",
+        "label": "Shop near you"
+      },
+      {
+        "value": "Plain",
+        "label": "Advice, no pressure"
+      },
+      {
+        "value": "Free",
+        "label": "Questions answered"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us What You Want",
+          "text": "Message or visit with the kirana and grocery store item you are looking for and your budget."
+        },
+        {
+          "title": "See The Options",
+          "text": "We show what is available in daily essentials, with prices and simple advice."
+        },
+        {
+          "title": "Choose And Confirm",
+          "text": "Pick what suits you and we confirm the order for fresh fruit and vegetables, with the total told clearly."
+        },
+        {
+          "title": "Collect Or Receive",
+          "text": "Take your free home delivery from the store, or ask how delivery works for your area."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What if I am unsure about daily essentials?",
+        "a": "Ask us. We explain the differences in plain words and let you decide in your own time. That goes for free home delivery and monthly basket too."
+      },
+      {
+        "q": "Do you offer delivery for monthly basket?",
+        "a": "Ask us about your area and we will tell you plainly what is possible. Ask us about dairy, bread and eggs or household and pooja items and the answer is the same."
+      },
+      {
+        "q": "Can I ask about returns on fresh fruit and vegetables?",
+        "a": "Yes. Ask before you buy and we will explain how returns or exchanges work for the item. The same approach applies to daily essentials and household and pooja items."
+      },
+      {
+        "q": "Do you take special requests for dairy, bread and eggs?",
+        "a": "Tell us what you are looking for; if we cannot get it, we will say so honestly. This applies to daily essentials, fresh fruit and vegetables and the rest of our kirana and grocery store work."
+      },
+      {
+        "q": "How do I order daily essentials?",
+        "a": "Message us the item and your preferences, or visit the store, and we will confirm availability and price. It is the same for fresh fruit and vegetables as it is for daily essentials."
+      }
+    ],
+    "cta": {
+      "title": "Want Help Choosing Fresh Fruit And Vegetables?",
+      "button": "Order Groceries"
+    },
+    "about": {
+      "title": "About Our Kirana And Grocery Store Shop",
+      "paragraphs": [
+        "{brand} is a local kirana and grocery store business. We keep shopping simple: listen to what you need, show the options and tell you the prices plainly.",
+        "We stock daily essentials, fresh fruit and vegetables and free home delivery, and we are happy to talk it through with you before you decide."
+      ],
+      "points": [
+        "Friendly Service",
+        "Checked Availability",
+        "No Pressure"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Kirana And Grocery Store",
+      "plans": [
+        {
+          "name": "Everyday",
+          "price": "$3",
+          "period": "/trial basket",
+          "perks": [
+            "Everyday Daily Essentials",
+            "Prices Told First",
+            "Help Choosing"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$50",
+          "period": "/monthly basket",
+          "perks": [
+            "Daily Essentials And Fresh Fruit And Vegetables",
+            "Priority Help",
+            "Availability Checks"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$110",
+          "period": "/family basket",
+          "perks": [
+            "Daily Essentials Plus Fresh Fruit And Vegetables And Free Home Delivery",
+            "Personal Shopping Help",
+            "Early Access To New Daily Essentials"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside The Kirana And Grocery Store Shop",
+      "captions": [
+        "Daily Essentials",
+        "Fresh Fruit And Vegetables",
+        "Free Home Delivery",
+        "Monthly Basket",
+        "Dairy Bread And Eggs",
+        "Household And Pooja Items"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Store Owner",
+        "Delivery Partner",
+        "Order Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Easy to check free home delivery by message before going to the shop.",
+        "role": "Customer"
+      },
+      {
+        "quote": "Friendly service, and the kirana and grocery store range matched what I asked for.",
+        "role": "Customer"
+      },
+      {
+        "quote": "I liked that daily essentials was explained simply and the price was clear.",
+        "role": "First time buyer"
+      }
+    ],
+    "blog": {
+      "title": "Kirana And Grocery Store Tips And Guides",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "How To Choose Daily Essentials"
+        },
+        {
+          "tag": "Cost",
+          "title": "What To Know Before Buying Fresh Fruit And Vegetables"
+        },
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask About Free Home Delivery"
+        }
+      ]
+    },
+    "marquee": [
+      "Daily Essentials",
+      "Fresh Fruit",
+      "Free Home",
+      "Monthly Basket",
+      "Dairy Bread",
+      "New Stock",
+      "Clear Prices",
+      "Friendly Advice"
+    ],
+    "contactText": "Message {brand} to ask about daily essentials or fresh fruit and vegetables. We reply with what is available, the price and how to get it."
+  },
+  {
+    "id": "bookstore",
+    "label": "Bookstore",
+    "theme": "education",
+    "keywords": [
+      "bookstore",
+      "book shop",
+      "bookshop",
+      "books online",
+      "children's books",
+      "textbooks",
+      "second hand books",
+      "किताबों की दुकान",
+      "बुक स्टोर"
+    ],
+    "heroTitles": [
+      "Bookstore With Honest Advice",
+      "Find Fiction And Non-Fiction And More",
+      "Bookstore That Is Easy To Shop"
+    ],
+    "heroSubtitles": [
+      "Looking for help with bookstore? {brand} keeps things simple: honest advice, clear prices and help choosing what fits.",
+      "From fiction and non-fiction to children's corner, {brand} helps you find the right thing without pressure, in store or by message.",
+      "{brand} offers fiction and non-fiction and special orders. Tell us what you need and we will show you the options and the prices."
+    ],
+    "button": "Find A Book",
+    "featureTitle": "What You Will Find Here",
+    "features": [
+      {
+        "title": "Fiction And Non-Fiction",
+        "text": "Fiction And Non-Fiction available to see in store or ask about by message before you come."
+      },
+      {
+        "title": "Children's Corner",
+        "text": "Questions about children's corner? Message us and we will check availability for you."
+      },
+      {
+        "title": "Textbooks And Exam Guides",
+        "text": "Ask about textbooks and exam guides and we will show what is available, with prices told clearly."
+      },
+      {
+        "title": "Special Orders",
+        "text": "Special Orders chosen with care, with honest advice on what suits your need."
+      },
+      {
+        "title": "Gift Wrapping",
+        "text": "Looking for gift wrapping? Tell us your budget and we will suggest options that fit."
+      },
+      {
+        "title": "Reading Circle Nights",
+        "text": "For reading circle nights, we explain the differences simply so you can pick with confidence."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Prices told upfront"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Easy",
+        "label": "Help choosing"
+      }
+    ],
+    "steps": {
+      "title": "How Ordering Works",
+      "items": [
+        {
+          "title": "Tell Us What You Want",
+          "text": "Message or visit with the bookstore item you are looking for and your budget."
+        },
+        {
+          "title": "See The Options",
+          "text": "We show what is available in fiction and non-fiction, with prices and simple advice."
+        },
+        {
+          "title": "Choose And Confirm",
+          "text": "Pick what suits you and we confirm the order for children's corner, with the total told clearly."
+        },
+        {
+          "title": "Collect Or Receive",
+          "text": "Take your textbooks and exam guides from the store, or ask how delivery works for your area."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Do you offer delivery for special orders?",
+        "a": "Ask us about your area and we will tell you plainly what is possible. Ask us about gift wrapping or reading circle nights and the answer is the same."
+      },
+      {
+        "q": "Can I ask about returns on children's corner?",
+        "a": "Yes. Ask before you buy and we will explain how returns or exchanges work for the item. The same approach applies to fiction and non-fiction and reading circle nights."
+      },
+      {
+        "q": "Do you take special requests for gift wrapping?",
+        "a": "Tell us what you are looking for; if we cannot get it, we will say so honestly. This applies to fiction and non-fiction, children's corner and the rest of our bookstore work."
+      },
+      {
+        "q": "How do I order fiction and non-fiction?",
+        "a": "Message us the item and your preferences, or visit the store, and we will confirm availability and price. It is the same for children's corner as it is for fiction and non-fiction."
+      },
+      {
+        "q": "Can you tell me the price of children's corner first?",
+        "a": "Yes. We always say the price before you decide, so there are no surprises at the till. That goes for textbooks and exam guides and special orders too."
+      }
+    ],
+    "cta": {
+      "title": "Looking For Fiction And Non-Fiction?",
+      "button": "Find A Book"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} we believe good bookstore service is honest advice and clear prices, so you leave with what suits you.",
+        "Our range includes fiction and non-fiction and children's corner. Ask about special orders or gift wrapping too and we will say plainly what we can get."
+      ],
+      "points": [
+        "Honest Advice",
+        "Prices Told Upfront",
+        "Help Choosing"
+      ]
+    },
+    "pricing": {
+      "title": "Bookstore Price Guide",
+      "plans": [
+        {
+          "name": "Everyday",
+          "price": "$3",
+          "period": "/book",
+          "perks": [
+            "Everyday Fiction And Non-Fiction",
+            "Prices Told First",
+            "Help Choosing"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$12",
+          "period": "/set",
+          "perks": [
+            "Fiction And Non-Fiction And Children's Corner",
+            "Priority Help",
+            "Availability Checks"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$35",
+          "period": "/library bundle",
+          "perks": [
+            "Fiction And Non-Fiction Plus Children's Corner And Textbooks And Exam Guides",
+            "Personal Shopping Help",
+            "Early Access To New Fiction And Non-Fiction"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Bookstore Picks",
+      "captions": [
+        "Fiction And Non-Fiction",
+        "Children's Corner",
+        "Textbooks And Exam Guides",
+        "Special Orders",
+        "Gift Wrapping",
+        "Reading Circle Nights"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Bookstore Advisor",
+        "Fiction And Non-Fiction Specialist",
+        "Bookstore Order Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Quick reply about special orders and a straight answer.",
+        "role": "Customer"
+      },
+      {
+        "quote": "They showed me the options for fiction and non-fiction and told me the prices clearly.",
+        "role": "Customer"
+      },
+      {
+        "quote": "Helpful advice on children's corner, and no pressure to buy.",
+        "role": "Regular shopper"
+      }
+    ],
+    "blog": {
+      "title": "From The Bookstore Shelf",
+      "posts": [
+        {
+          "tag": "Cost",
+          "title": "What To Know Before Buying Children's Corner"
+        },
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask About Textbooks And Exam Guides"
+        },
+        {
+          "tag": "Care",
+          "title": "Getting The Most From Special Orders"
+        }
+      ]
+    },
+    "marquee": [
+      "Fiction",
+      "Children's",
+      "Exam Guides",
+      "Special Orders",
+      "Gift Wrapping",
+      "New Stock",
+      "Clear Prices",
+      "Friendly Advice"
+    ],
+    "contactText": "Tell {brand} what you are looking for: fiction and non-fiction, textbooks and exam guides or something close. We will answer with options and prices."
+  },
+  {
+    "id": "gift_shop",
+    "label": "Gift shop",
+    "theme": "fashion_retail",
+    "keywords": [
+      "gift shop",
+      "gift store",
+      "return gifts",
+      "personalised gifts",
+      "gift hamper",
+      "birthday gift",
+      "corporate gifts",
+      "गिफ्ट शॉप",
+      "रिटर्न गिफ्ट"
+    ],
+    "heroTitles": [
+      "Personalised Gifts And Gift Hampers For Everyone",
+      "Gift Shop With Honest Advice",
+      "Find Personalised Gifts And More"
+    ],
+    "heroSubtitles": [
+      "From personalised gifts to gift hampers, {brand} helps you find the right thing without pressure, in store or by message.",
+      "{brand} offers personalised gifts and corporate gifting. Tell us what you need and we will show you the options and the prices.",
+      "Need personalised gifts or wedding and anniversary gifts? {brand} will tell you what is in stock, what it costs and how to get it."
+    ],
+    "button": "Find A Gift",
+    "featureTitle": "What You Will Find Here",
+    "features": [
+      {
+        "title": "Personalised Gifts",
+        "text": "Personalised Gifts chosen with care, with honest advice on what suits your need."
+      },
+      {
+        "title": "Gift Hampers",
+        "text": "Looking for gift hampers? Tell us your budget and we will suggest options that fit."
+      },
+      {
+        "title": "Return Gifts For Kids",
+        "text": "For return gifts for kids, we explain the differences simply so you can pick with confidence."
+      },
+      {
+        "title": "Corporate Gifting",
+        "text": "Corporate Gifting available to see in store or ask about by message before you come."
+      },
+      {
+        "title": "Wedding And Anniversary Gifts",
+        "text": "Questions about wedding and anniversary gifts? Message us and we will check availability for you."
+      },
+      {
+        "title": "Gift Wrapping And Cards",
+        "text": "Ask about gift wrapping and cards and we will show what is available, with prices told clearly."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Local",
+        "label": "Shop near you"
+      },
+      {
+        "value": "Plain",
+        "label": "Advice, no pressure"
+      },
+      {
+        "value": "Free",
+        "label": "Questions answered"
+      }
+    ],
+    "steps": {
+      "title": "How Ordering Works",
+      "items": [
+        {
+          "title": "Tell Us What You Want",
+          "text": "Message or visit with the gift shop item you are looking for and your budget."
+        },
+        {
+          "title": "See The Options",
+          "text": "We show what is available in personalised gifts, with prices and simple advice."
+        },
+        {
+          "title": "Choose And Confirm",
+          "text": "Pick what suits you and we confirm the order for gift hampers, with the total told clearly."
+        },
+        {
+          "title": "Collect Or Receive",
+          "text": "Take your return gifts for kids from the store, or ask how delivery works for your area."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What if I am unsure about personalised gifts?",
+        "a": "Ask us. We explain the differences in plain words and let you decide in your own time. It is the same for gift hampers as it is for personalised gifts."
+      },
+      {
+        "q": "Do you offer delivery for corporate gifting?",
+        "a": "Ask us about your area and we will tell you plainly what is possible. That goes for return gifts for kids and corporate gifting too."
+      },
+      {
+        "q": "Can I ask about returns on gift hampers?",
+        "a": "Yes. Ask before you buy and we will explain how returns or exchanges work for the item. Ask us about wedding and anniversary gifts or gift wrapping and cards and the answer is the same."
+      },
+      {
+        "q": "Do you take special requests for wedding and anniversary gifts?",
+        "a": "Tell us what you are looking for; if we cannot get it, we will say so honestly. The same approach applies to personalised gifts and gift wrapping and cards."
+      },
+      {
+        "q": "How do I order personalised gifts?",
+        "a": "Message us the item and your preferences, or visit the store, and we will confirm availability and price. This applies to personalised gifts, gift hampers and the rest of our gift shop work."
+      }
+    ],
+    "cta": {
+      "title": "Looking For Personalised Gifts?",
+      "button": "Find A Gift"
+    },
+    "about": {
+      "title": "About Our Gift Shop Shop",
+      "paragraphs": [
+        "At {brand} we believe good gift shop service is honest advice and clear prices, so you leave with what suits you.",
+        "Our range includes personalised gifts and gift hampers. Ask about corporate gifting or wedding and anniversary gifts too and we will say plainly what we can get."
+      ],
+      "points": [
+        "Honest Advice",
+        "Prices Told Upfront",
+        "Help Choosing"
+      ]
+    },
+    "pricing": {
+      "title": "Gift Shop Price Guide",
+      "plans": [
+        {
+          "name": "Everyday",
+          "price": "$4",
+          "period": "/gift",
+          "perks": [
+            "Everyday Personalised Gifts",
+            "Prices Told First",
+            "Help Choosing"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$12",
+          "period": "/hamper",
+          "perks": [
+            "Personalised Gifts And Gift Hampers",
+            "Priority Help",
+            "Availability Checks"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$40",
+          "period": "/premium hamper",
+          "perks": [
+            "Personalised Gifts Plus Gift Hampers And Return Gifts For Kids",
+            "Personal Shopping Help",
+            "Early Access To New Personalised Gifts"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside The Gift Shop Shop",
+      "captions": [
+        "Personalised Gifts",
+        "Gift Hampers",
+        "Return Gifts For Kids",
+        "Corporate Gifting",
+        "Wedding And Anniversary Gifts",
+        "Gift Wrapping And Cards"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Gift Shop Advisor",
+        "Personalised Gifts Specialist",
+        "Gift Shop Order Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "I liked that personalised gifts was explained simply and the price was clear.",
+        "role": "First time buyer"
+      },
+      {
+        "quote": "Quick reply about corporate gifting and a straight answer.",
+        "role": "Customer"
+      },
+      {
+        "quote": "They showed me the options for personalised gifts and told me the prices clearly.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "From The Gift Shop Shelf",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "How To Choose Personalised Gifts"
+        },
+        {
+          "tag": "Cost",
+          "title": "What To Know Before Buying Gift Hampers"
+        },
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask About Return Gifts For Kids"
+        }
+      ]
+    },
+    "marquee": [
+      "Personalised",
+      "Gift Hampers",
+      "Return Gifts",
+      "Corporate",
+      "Wedding",
+      "New Stock",
+      "Clear Prices",
+      "Friendly Advice"
+    ],
+    "contactText": "Message {brand} to ask about personalised gifts or gift hampers. We reply with what is available, the price and how to get it."
+  },
+  {
+    "id": "florist",
+    "label": "Florist",
+    "theme": "organic_nature",
+    "keywords": [
+      "florist",
+      "flower shop",
+      "bouquet",
+      "flower delivery",
+      "wedding flowers",
+      "flower decoration",
+      "fresh flowers",
+      "फूल वाला",
+      "फूलों की दुकान"
+    ],
+    "heroTitles": [
+      "Florist That Is Easy To Shop",
+      "A Friendly Florist Near You",
+      "Choose Hand-Tied Bouquets With Confidence"
+    ],
+    "heroSubtitles": [
+      "Looking for help with florist? {brand} keeps things simple: honest advice, clear prices and help choosing what fits.",
+      "From hand-tied bouquets to same-day delivery, {brand} helps you find the right thing without pressure, in store or by message.",
+      "{brand} offers hand-tied bouquets and daily pooja flowers. Tell us what you need and we will show you the options and the prices."
+    ],
+    "button": "Order Flowers",
+    "featureTitle": "What You Will Find Here",
+    "features": [
+      {
+        "title": "Hand-Tied Bouquets",
+        "text": "Hand-Tied Bouquets available to see in store or ask about by message before you come."
+      },
+      {
+        "title": "Same-Day Delivery",
+        "text": "Questions about same-day delivery? Message us and we will check availability for you."
+      },
+      {
+        "title": "Wedding Flower Decor",
+        "text": "Ask about wedding flower decor and we will show what is available, with prices told clearly."
+      },
+      {
+        "title": "Daily Pooja Flowers",
+        "text": "Daily Pooja Flowers chosen with care, with honest advice on what suits your need."
+      },
+      {
+        "title": "Indoor Plants And Vases",
+        "text": "Looking for indoor plants and vases? Tell us your budget and we will suggest options that fit."
+      },
+      {
+        "title": "Flower Subscriptions",
+        "text": "For flower subscriptions, we explain the differences simply so you can pick with confidence."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Local",
+        "label": "Shop near you"
+      },
+      {
+        "value": "Plain",
+        "label": "Advice, no pressure"
+      },
+      {
+        "value": "Free",
+        "label": "Questions answered"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us What You Want",
+          "text": "Message or visit with the florist item you are looking for and your budget."
+        },
+        {
+          "title": "See The Options",
+          "text": "We show what is available in hand-tied bouquets, with prices and simple advice."
+        },
+        {
+          "title": "Choose And Confirm",
+          "text": "Pick what suits you and we confirm the order for same-day delivery, with the total told clearly."
+        },
+        {
+          "title": "Collect Or Receive",
+          "text": "Take your wedding flower decor from the store, or ask how delivery works for your area."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What if I am unsure about hand-tied bouquets?",
+        "a": "Ask us. We explain the differences in plain words and let you decide in your own time. Ask us about indoor plants and vases or flower subscriptions and the answer is the same."
+      },
+      {
+        "q": "Do you offer delivery for daily pooja flowers?",
+        "a": "Ask us about your area and we will tell you plainly what is possible. The same approach applies to hand-tied bouquets and flower subscriptions."
+      },
+      {
+        "q": "Can I ask about returns on same-day delivery?",
+        "a": "Yes. Ask before you buy and we will explain how returns or exchanges work for the item. This applies to hand-tied bouquets, same-day delivery and the rest of our florist work."
+      },
+      {
+        "q": "Do you take special requests for indoor plants and vases?",
+        "a": "Tell us what you are looking for; if we cannot get it, we will say so honestly. It is the same for same-day delivery as it is for hand-tied bouquets."
+      },
+      {
+        "q": "How do I order hand-tied bouquets?",
+        "a": "Message us the item and your preferences, or visit the store, and we will confirm availability and price. That goes for wedding flower decor and daily pooja flowers too."
+      }
+    ],
+    "cta": {
+      "title": "Looking For Hand-Tied Bouquets?",
+      "button": "Order Flowers"
+    },
+    "about": {
+      "title": "About Our Florist Shop",
+      "paragraphs": [
+        "{brand} is a local florist business. We keep shopping simple: listen to what you need, show the options and tell you the prices plainly.",
+        "We stock hand-tied bouquets, same-day delivery and wedding flower decor, and we are happy to talk it through with you before you decide."
+      ],
+      "points": [
+        "Friendly Service",
+        "Checked Availability",
+        "No Pressure"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Florist",
+      "plans": [
+        {
+          "name": "Everyday",
+          "price": "$5",
+          "period": "/bouquet",
+          "perks": [
+            "Everyday Hand-Tied Bouquets",
+            "Prices Told First",
+            "Help Choosing"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$15",
+          "period": "/large bouquet",
+          "perks": [
+            "Hand-Tied Bouquets And Same-Day Delivery",
+            "Priority Help",
+            "Availability Checks"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$60",
+          "period": "/event decor",
+          "perks": [
+            "Hand-Tied Bouquets Plus Same-Day Delivery And Wedding Flower Decor",
+            "Personal Shopping Help",
+            "Early Access To New Hand-Tied Bouquets"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside The Florist Shop",
+      "captions": [
+        "Hand-Tied Bouquets",
+        "Same-Day Delivery",
+        "Wedding Flower Decor",
+        "Daily Pooja Flowers",
+        "Indoor Plants And Vases",
+        "Flower Subscriptions"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Florist Advisor",
+        "Hand-Tied Bouquets Specialist",
+        "Florist Order Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Easy to check wedding flower decor by message before going to the shop.",
+        "role": "Customer"
+      },
+      {
+        "quote": "Friendly service, and the florist range matched what I asked for.",
+        "role": "Customer"
+      },
+      {
+        "quote": "I liked that hand-tied bouquets was explained simply and the price was clear.",
+        "role": "First time buyer"
+      }
+    ],
+    "blog": {
+      "title": "Florist Tips And Guides",
+      "posts": [
+        {
+          "tag": "Ideas",
+          "title": "Simple Ideas For Indoor Plants And Vases"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Flower Subscriptions"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Choose Hand-Tied Bouquets"
+        }
+      ]
+    },
+    "marquee": [
+      "Hand-Tied",
+      "Same-Day",
+      "Wedding Flower",
+      "Daily Pooja",
+      "Indoor Plants",
+      "New Stock",
+      "Clear Prices",
+      "Friendly Advice"
+    ],
+    "contactText": "Message {brand} to ask about hand-tied bouquets or same-day delivery. We reply with what is available, the price and how to get it."
+  },
+  {
+    "id": "printing_press",
+    "label": "Printing press",
+    "theme": "creative_studio",
+    "keywords": [
+      "printing press",
+      "digital printing",
+      "offset printing",
+      "flex banner printing",
+      "visiting card printing",
+      "wedding card printing",
+      "brochure printing",
+      "प्रिंटिंग प्रेस",
+      "विजिटिंग कार्ड प्रिंटिंग"
+    ],
+    "heroTitles": [
+      "Printing Press Planned Around You",
+      "Clear Steps For Your Printing Press",
+      "Printing Press Done The Careful Way"
+    ],
+    "heroSubtitles": [
+      "Looking for help with printing press? {brand} starts with a short brief, shows you the plan and works with your feedback.",
+      "From visiting cards to brochures and flyers, {brand} keeps each project simple: a brief, a draft you can react to and a finish you approve.",
+      "{brand} creates visiting cards and wedding and invitation cards. We listen to the idea first, agree the scope and keep you informed along the way."
+    ],
+    "button": "Get A Print Quote",
+    "featureTitle": "What Printing Press Covers Here",
+    "features": [
+      {
+        "title": "Visiting Cards",
+        "text": "Visiting Cards shaped around your idea, with a draft you can comment on before it is final."
+      },
+      {
+        "title": "Brochures And Flyers",
+        "text": "Ask about brochures and flyers; we explain the options, show examples and agree what is included."
+      },
+      {
+        "title": "Flex And Vinyl Banners",
+        "text": "For flex and vinyl banners, we work in clear stages and check each one with you."
+      },
+      {
+        "title": "Wedding And Invitation Cards",
+        "text": "Wedding And Invitation Cards delivered in the format you need, with a final review before handover."
+      },
+      {
+        "title": "Bill Books And Stationery",
+        "text": "Questions about bill books and stationery? Message us and we will walk you through the process."
+      },
+      {
+        "title": "Design And Proof Service",
+        "text": "We start design and proof service with a short brief, so the scope, timing and cost are clear from day one."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First consultation"
+      },
+      {
+        "value": "Clear",
+        "label": "Scope and timeline"
+      },
+      {
+        "value": "Written",
+        "label": "Quote before work"
+      }
+    ],
+    "steps": {
+      "title": "How A Project Runs",
+      "items": [
+        {
+          "title": "Share Your Brief",
+          "text": "Tell us about your printing press idea, the purpose and any references you like."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We outline the scope for visiting cards, the timeline and the cost, and confirm them with you."
+        },
+        {
+          "title": "Review The Draft",
+          "text": "You see the first version of the brochures and flyers work and tell us what to change."
+        },
+        {
+          "title": "Approve And Deliver",
+          "text": "We finalise flex and vinyl banners, hand it over in the format you need and stay available for questions."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What do you need from me for flex and vinyl banners?",
+        "a": "A clear idea of the purpose, any references and the date you need it; we will ask for the rest. It is the same for brochures and flyers as it is for visiting cards."
+      },
+      {
+        "q": "Can I ask for changes during printing press work?",
+        "a": "Yes. Feedback is part of the process and we tell you upfront how revisions are handled. That goes for flex and vinyl banners and wedding and invitation cards too."
+      },
+      {
+        "q": "What formats do you deliver visiting cards in?",
+        "a": "Tell us where it will be used and we will deliver in the formats that suit that purpose. Ask us about bill books and stationery or design and proof service and the answer is the same."
+      },
+      {
+        "q": "Do you take small printing press jobs?",
+        "a": "Yes. Small projects follow the same clear steps, with a quote and a plan first. The same approach applies to visiting cards and design and proof service."
+      },
+      {
+        "q": "How long does wedding and invitation cards take?",
+        "a": "It depends on the scope; we give a timeline with the quote and update you if anything changes. This applies to visiting cards, brochures and flyers and the rest of our printing press work."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Start Your Printing Press Project?",
+      "button": "Get A Print Quote"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good printing press begins with listening. You hear the plan and the cost first, and the work follows in clear stages.",
+        "Our work includes visiting cards and brochures and flyers. Ask about wedding and invitation cards or bill books and stationery too and we will say plainly what is possible."
+      ],
+      "points": [
+        "Brief Before Work",
+        "Drafts You Can Review",
+        "Plain Language"
+      ]
+    },
+    "pricing": {
+      "title": "Printing Press Pricing",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$3",
+          "period": "/100 cards",
+          "perks": [
+            "Visiting Cards Only",
+            "Written Quote First",
+            "One Round Of Feedback"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$12",
+          "period": "/banner",
+          "perks": [
+            "Visiting Cards And Brochures And Flyers",
+            "Two Rounds Of Feedback",
+            "Priority Scheduling"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$50",
+          "period": "/campaign pack",
+          "perks": [
+            "Visiting Cards Plus Brochures And Flyers And Flex And Vinyl Banners",
+            "Extended Feedback",
+            "Handover Support"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Printing Press Work",
+      "captions": [
+        "Visiting Cards",
+        "Brochures And Flyers",
+        "Flex And Vinyl Banners",
+        "Wedding And Invitation Cards",
+        "Bill Books And Stationery",
+        "Design And Proof Service"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Printing Press Lead",
+        "Visiting Cards Specialist",
+        "Printing Press Client Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Clear quote for brochures and flyers, with feedback built into the plan.",
+        "role": "Customer"
+      },
+      {
+        "quote": "The process for flex and vinyl banners was explained simply and kept to the timeline we agreed.",
+        "role": "Family client"
+      },
+      {
+        "quote": "Friendly team, and the printing press work matched what we discussed.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "From The Printing Press Desk",
+      "posts": [
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Bill Books And Stationery"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Brief A Printing Press Provider"
+        },
+        {
+          "tag": "Cost",
+          "title": "What Affects The Cost Of Visiting Cards"
+        }
+      ]
+    },
+    "marquee": [
+      "Visiting Cards",
+      "Brochures",
+      "Vinyl Banners",
+      "Invitation Cards",
+      "Bill Books",
+      "Clear Scope",
+      "Open Feedback",
+      "Plain Quotes"
+    ],
+    "contactText": "Tell {brand} about your idea: visiting cards, flex and vinyl banners or something close. We will answer with a plan and an honest quote."
+  },
+  {
+    "id": "jewellery_shop",
+    "label": "Jewellery shop",
+    "theme": "luxury_minimal",
+    "keywords": [
+      "jewellery shop",
+      "jeweller",
+      "gold jewellery",
+      "diamond jewellery",
+      "silver jewellery",
+      "bridal jewellery",
+      "gold ring",
+      "ज्वेलरी शॉप",
+      "सोने के गहने"
+    ],
+    "heroTitles": [
+      "Gold Jewellery And Diamond Collection For Everyone",
+      "Jewellery Shop With Honest Advice",
+      "Find Gold Jewellery And More"
+    ],
+    "heroSubtitles": [
+      "{brand} offers gold jewellery and silver gifts. Tell us what you need and we will show you the options and the prices.",
+      "Need gold jewellery or custom designs? {brand} will tell you what is in stock, what it costs and how to get it.",
+      "{brand} stocks gold jewellery, diamond collection and bridal sets. Ask us anything, see what is available and pick what suits you."
+    ],
+    "button": "Book A Jewellery Visit",
+    "featureTitle": "Jewellery Shop Range We Offer",
+    "features": [
+      {
+        "title": "Gold Jewellery",
+        "text": "Questions about gold jewellery? Message us and we will check availability for you."
+      },
+      {
+        "title": "Diamond Collection",
+        "text": "Ask about diamond collection and we will show what is available, with prices told clearly."
+      },
+      {
+        "title": "Bridal Sets",
+        "text": "Bridal Sets chosen with care, with honest advice on what suits your need."
+      },
+      {
+        "title": "Silver Gifts",
+        "text": "Looking for silver gifts? Tell us your budget and we will suggest options that fit."
+      },
+      {
+        "title": "Custom Designs",
+        "text": "For custom designs, we explain the differences simply so you can pick with confidence."
+      },
+      {
+        "title": "Exchange And Repair",
+        "text": "Exchange And Repair available to see in store or ask about by message before you come."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Prices told upfront"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Easy",
+        "label": "Help choosing"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us What You Want",
+          "text": "Message or visit with the jewellery shop item you are looking for and your budget."
+        },
+        {
+          "title": "See The Options",
+          "text": "We show what is available in gold jewellery, with prices and simple advice."
+        },
+        {
+          "title": "Choose And Confirm",
+          "text": "Pick what suits you and we confirm the order for diamond collection, with the total told clearly."
+        },
+        {
+          "title": "Collect Or Receive",
+          "text": "Take your bridal sets from the store, or ask how delivery works for your area."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Do you offer delivery for silver gifts?",
+        "a": "Ask us about your area and we will tell you plainly what is possible. It is the same for diamond collection as it is for gold jewellery."
+      },
+      {
+        "q": "Can I ask about returns on diamond collection?",
+        "a": "Yes. Ask before you buy and we will explain how returns or exchanges work for the item. That goes for bridal sets and silver gifts too."
+      },
+      {
+        "q": "Do you take special requests for custom designs?",
+        "a": "Tell us what you are looking for; if we cannot get it, we will say so honestly. Ask us about custom designs or exchange and repair and the answer is the same."
+      },
+      {
+        "q": "How do I order gold jewellery?",
+        "a": "Message us the item and your preferences, or visit the store, and we will confirm availability and price. The same approach applies to gold jewellery and exchange and repair."
+      },
+      {
+        "q": "Can you tell me the price of diamond collection first?",
+        "a": "Yes. We always say the price before you decide, so there are no surprises at the till. This applies to gold jewellery, diamond collection and the rest of our jewellery shop work."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Find Your Jewellery Shop Pick?",
+      "button": "Book A Jewellery Visit"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local jewellery shop business. We keep shopping simple: listen to what you need, show the options and tell you the prices plainly.",
+        "We stock gold jewellery, diamond collection and bridal sets, and we are happy to talk it through with you before you decide."
+      ],
+      "points": [
+        "Friendly Service",
+        "Checked Availability",
+        "No Pressure"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Jewellery Shop",
+      "plans": [
+        {
+          "name": "Everyday",
+          "price": "$0",
+          "period": "/consultation",
+          "perks": [
+            "Everyday Gold Jewellery",
+            "Prices Told First",
+            "Help Choosing"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$60",
+          "period": "/custom design",
+          "perks": [
+            "Gold Jewellery And Diamond Collection",
+            "Priority Help",
+            "Availability Checks"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$150",
+          "period": "/bridal design",
+          "perks": [
+            "Gold Jewellery Plus Diamond Collection And Bridal Sets",
+            "Personal Shopping Help",
+            "Early Access To New Gold Jewellery"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Jewellery Shop Picks",
+      "captions": [
+        "Gold Jewellery",
+        "Diamond Collection",
+        "Bridal Sets",
+        "Silver Gifts",
+        "Custom Designs",
+        "Exchange And Repair"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Jewellery Shop Advisor",
+        "Gold Jewellery Specialist",
+        "Jewellery Shop Order Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Friendly service, and the jewellery shop range matched what I asked for.",
+        "role": "Customer"
+      },
+      {
+        "quote": "I liked that gold jewellery was explained simply and the price was clear.",
+        "role": "First time buyer"
+      },
+      {
+        "quote": "Quick reply about silver gifts and a straight answer.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "Jewellery Shop Tips And Guides",
+      "posts": [
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Exchange And Repair"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Choose Gold Jewellery"
+        },
+        {
+          "tag": "Cost",
+          "title": "What To Know Before Buying Diamond Collection"
+        }
+      ]
+    },
+    "marquee": [
+      "Gold Jewellery",
+      "Diamond",
+      "Bridal Sets",
+      "Silver Gifts",
+      "Custom Designs",
+      "New Stock",
+      "Clear Prices",
+      "Friendly Advice"
+    ],
+    "contactText": "Tell {brand} what you are looking for: gold jewellery, bridal sets or something close. We will answer with options and prices."
+  },
+  {
+    "id": "mobile_phone_store",
+    "label": "Mobile phone store",
+    "theme": "modern_tech",
+    "keywords": [
+      "mobile shop",
+      "mobile phone store",
+      "smartphone store",
+      "phone accessories",
+      "second hand mobile",
+      "screen guard",
+      "मोबाइल शॉप",
+      "स्मार्टफोन स्टोर"
+    ],
+    "heroTitles": [
+      "Choose New Smartphones With Confidence",
+      "New Smartphones And Easy EMI Plans For Everyone",
+      "Mobile Phone Store With Honest Advice"
+    ],
+    "heroSubtitles": [
+      "{brand} stocks new smartphones, easy EMI plans and screen and battery repair. Ask us anything, see what is available and pick what suits you.",
+      "Looking for help with mobile phone store? {brand} keeps things simple: honest advice, clear prices and help choosing what fits.",
+      "From new smartphones to easy EMI plans, {brand} helps you find the right thing without pressure, in store or by message."
+    ],
+    "button": "Find Your Phone",
+    "featureTitle": "What You Will Find Here",
+    "features": [
+      {
+        "title": "New Smartphones",
+        "text": "Ask about new smartphones and we will show what is available, with prices told clearly."
+      },
+      {
+        "title": "Easy EMI Plans",
+        "text": "Easy EMI Plans chosen with care, with honest advice on what suits your need."
+      },
+      {
+        "title": "Screen And Battery Repair",
+        "text": "Looking for screen and battery repair? Tell us your budget and we will suggest options that fit."
+      },
+      {
+        "title": "Old Phone Exchange",
+        "text": "For old phone exchange, we explain the differences simply so you can pick with confidence."
+      },
+      {
+        "title": "Cases, Chargers, Earbuds",
+        "text": "Cases, Chargers, Earbuds available to see in store or ask about by message before you come."
+      },
+      {
+        "title": "Data Transfer And Setup",
+        "text": "Questions about data transfer and setup? Message us and we will check availability for you."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Prices told upfront"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Easy",
+        "label": "Help choosing"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us What You Want",
+          "text": "Message or visit with the mobile phone store item you are looking for and your budget."
+        },
+        {
+          "title": "See The Options",
+          "text": "We show what is available in new smartphones, with prices and simple advice."
+        },
+        {
+          "title": "Choose And Confirm",
+          "text": "Pick what suits you and we confirm the order for easy EMI plans, with the total told clearly."
+        },
+        {
+          "title": "Collect Or Receive",
+          "text": "Take your screen and battery repair from the store, or ask how delivery works for your area."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I check mobile phone store stock before I come?",
+        "a": "Yes. Send us a message and we will confirm what is available before you make the trip. The same approach applies to new smartphones and data transfer and setup."
+      },
+      {
+        "q": "What if I am unsure about new smartphones?",
+        "a": "Ask us. We explain the differences in plain words and let you decide in your own time. This applies to new smartphones, easy EMI plans and the rest of our mobile phone store work."
+      },
+      {
+        "q": "Do you offer delivery for old phone exchange?",
+        "a": "Ask us about your area and we will tell you plainly what is possible. It is the same for easy EMI plans as it is for new smartphones."
+      },
+      {
+        "q": "Can I ask about returns on easy EMI plans?",
+        "a": "Yes. Ask before you buy and we will explain how returns or exchanges work for the item. That goes for screen and battery repair and old phone exchange too."
+      },
+      {
+        "q": "Do you take special requests for cases, chargers, earbuds?",
+        "a": "Tell us what you are looking for; if we cannot get it, we will say so honestly. Ask us about cases, chargers, earbuds or data transfer and setup and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Find Your Mobile Phone Store Pick?",
+      "button": "Find Your Phone"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local mobile phone store business. We keep shopping simple: listen to what you need, show the options and tell you the prices plainly.",
+        "We stock new smartphones, easy EMI plans and screen and battery repair, and we are happy to talk it through with you before you decide."
+      ],
+      "points": [
+        "Friendly Service",
+        "Checked Availability",
+        "No Pressure"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Mobile Phone Store",
+      "plans": [
+        {
+          "name": "Everyday",
+          "price": "$4",
+          "period": "/accessory",
+          "perks": [
+            "Everyday New Smartphones",
+            "Prices Told First",
+            "Help Choosing"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$25",
+          "period": "/repair",
+          "perks": [
+            "New Smartphones And Easy EMI Plans",
+            "Priority Help",
+            "Availability Checks"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$100",
+          "period": "/budget phone",
+          "perks": [
+            "New Smartphones Plus Easy EMI Plans And Screen And Battery Repair",
+            "Personal Shopping Help",
+            "Early Access To New New Smartphones"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Mobile Phone Store Picks",
+      "captions": [
+        "New Smartphones",
+        "Easy EMI Plans",
+        "Screen And Battery Repair",
+        "Old Phone Exchange",
+        "Cases Chargers Earbuds",
+        "Data Transfer And Setup"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Mobile Phone Store Advisor",
+        "New Smartphones Specialist",
+        "Mobile Phone Store Order Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Quick reply about old phone exchange and a straight answer.",
+        "role": "Customer"
+      },
+      {
+        "quote": "They showed me the options for new smartphones and told me the prices clearly.",
+        "role": "Customer"
+      },
+      {
+        "quote": "Helpful advice on easy EMI plans, and no pressure to buy.",
+        "role": "Regular shopper"
+      }
+    ],
+    "blog": {
+      "title": "Mobile Phone Store Tips And Guides",
+      "posts": [
+        {
+          "tag": "Care",
+          "title": "Getting The Most From Old Phone Exchange"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Simple Ideas For Cases, Chargers, Earbuds"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Data Transfer And Setup"
+        }
+      ]
+    },
+    "marquee": [
+      "New Smartphones",
+      "Easy EMI",
+      "Battery Repair",
+      "Old Phone",
+      "Cases Chargers",
+      "New Stock",
+      "Clear Prices",
+      "Friendly Advice"
+    ],
+    "contactText": "Tell {brand} what you are looking for: new smartphones, screen and battery repair or something close. We will answer with options and prices."
+  },
+  {
+    "id": "tailoring_alterations",
+    "label": "Tailoring and alterations",
+    "theme": "fashion_retail",
+    "keywords": [
+      "tailor",
+      "tailoring shop",
+      "alterations",
+      "blouse stitching",
+      "suit stitching",
+      "ladies tailor",
+      "clothes alteration",
+      "दर्जी",
+      "कपड़े की सिलाई"
+    ],
+    "heroTitles": [
+      "Tailoring And Alterations Planned Around You",
+      "Clear Steps For Your Tailoring And Alterations",
+      "Tailoring And Alterations Done The Careful Way"
+    ],
+    "heroSubtitles": [
+      "Looking for help with tailoring and alterations? {brand} starts with a short brief, shows you the plan and works with your feedback.",
+      "From blouse stitching to salwar suits and kurtas, {brand} keeps each project simple: a brief, a draft you can react to and a finish you approve.",
+      "{brand} creates blouse stitching and alterations and repairs. We listen to the idea first, agree the scope and keep you informed along the way."
+    ],
+    "button": "Book A Fitting",
+    "featureTitle": "What Tailoring And Alterations Covers Here",
+    "features": [
+      {
+        "title": "Blouse Stitching",
+        "text": "For blouse stitching, we work in clear stages and check each one with you."
+      },
+      {
+        "title": "Salwar Suits And Kurtas",
+        "text": "Salwar Suits And Kurtas delivered in the format you need, with a final review before handover."
+      },
+      {
+        "title": "Shirts, Pants And Suits",
+        "text": "Questions about shirts, pants and suits? Message us and we will walk you through the process."
+      },
+      {
+        "title": "Alterations And Repairs",
+        "text": "We start alterations and repairs with a short brief, so the scope, timing and cost are clear from day one."
+      },
+      {
+        "title": "Bridal And Festive Wear",
+        "text": "Bridal And Festive Wear shaped around your idea, with a draft you can comment on before it is final."
+      },
+      {
+        "title": "Kids And School Uniforms",
+        "text": "Ask about kids and school uniforms; we explain the options, show examples and agree what is included."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Stage",
+        "label": "By stage reviews"
+      },
+      {
+        "value": "Open",
+        "label": "Feedback welcome"
+      },
+      {
+        "value": "Plain",
+        "label": "Language, no jargon"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Share Your Brief",
+          "text": "Tell us about your tailoring and alterations idea, the purpose and any references you like."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We outline the scope for blouse stitching, the timeline and the cost, and confirm them with you."
+        },
+        {
+          "title": "Review The Draft",
+          "text": "You see the first version of the salwar suits and kurtas work and tell us what to change."
+        },
+        {
+          "title": "Approve And Deliver",
+          "text": "We finalise shirts, pants and suits, hand it over in the format you need and stay available for questions."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I start a tailoring and alterations project?",
+        "a": "Send us a short brief by message or call, and we will reply with questions and a first outline. This applies to blouse stitching, salwar suits and kurtas and the rest of our tailoring and alterations work."
+      },
+      {
+        "q": "Can I see a draft of blouse stitching first?",
+        "a": "Yes. We share a draft at the agreed stage so you can comment before the final version. It is the same for salwar suits and kurtas as it is for blouse stitching."
+      },
+      {
+        "q": "How do you price salwar suits and kurtas?",
+        "a": "We quote after the brief, listing what is included, so you know the cost before work begins. That goes for shirts, pants and suits and alterations and repairs too."
+      },
+      {
+        "q": "What do you need from me for shirts, pants and suits?",
+        "a": "A clear idea of the purpose, any references and the date you need it; we will ask for the rest. Ask us about bridal and festive wear or kids and school uniforms and the answer is the same."
+      },
+      {
+        "q": "Can I ask for changes during tailoring and alterations work?",
+        "a": "Yes. Feedback is part of the process and we tell you upfront how revisions are handled. The same approach applies to blouse stitching and kids and school uniforms."
+      }
+    ],
+    "cta": {
+      "title": "Want A Quote For Blouse Stitching?",
+      "button": "Book A Fitting"
+    },
+    "about": {
+      "title": "About Our Tailoring And Alterations Studio",
+      "paragraphs": [
+        "{brand} is a small team for tailoring and alterations. We start with your brief, agree the plan and keep you in the loop until you approve the result.",
+        "We handle blouse stitching, salwar suits and kurtas and shirts, pants and suits, and we are happy to talk through your idea before you commit to anything."
+      ],
+      "points": [
+        "Clear Scope And Cost",
+        "Feedback Welcome",
+        "Friendly Team"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Tailoring And Alterations",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$5",
+          "period": "/alteration",
+          "perks": [
+            "Blouse Stitching Only",
+            "Written Quote First",
+            "One Round Of Feedback"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$18",
+          "period": "/blouse",
+          "perks": [
+            "Blouse Stitching And Salwar Suits And Kurtas",
+            "Two Rounds Of Feedback",
+            "Priority Scheduling"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$60",
+          "period": "/suit",
+          "perks": [
+            "Blouse Stitching Plus Salwar Suits And Kurtas And Shirts, Pants And Suits",
+            "Extended Feedback",
+            "Handover Support"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Tailoring And Alterations Work",
+      "captions": [
+        "Blouse Stitching",
+        "Salwar Suits And Kurtas",
+        "Shirts Pants And Suits",
+        "Alterations And Repairs",
+        "Bridal And Festive Wear",
+        "Kids And School Uniforms"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Tailoring And Alterations Lead",
+        "Blouse Stitching Specialist",
+        "Tailoring And Alterations Client Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "The process for shirts, pants and suits was explained simply and kept to the timeline we agreed.",
+        "role": "Family client"
+      },
+      {
+        "quote": "Friendly team, and the tailoring and alterations work matched what we discussed.",
+        "role": "Customer"
+      },
+      {
+        "quote": "I liked that blouse stitching was planned in stages and I could comment on each.",
+        "role": "Startup founder"
+      }
+    ],
+    "blog": {
+      "title": "Tailoring And Alterations Notes And Guides",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "How To Brief A Tailoring And Alterations Provider"
+        },
+        {
+          "tag": "Cost",
+          "title": "What Affects The Cost Of Blouse Stitching"
+        },
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask Before Salwar Suits And Kurtas"
+        }
+      ]
+    },
+    "marquee": [
+      "Blouse Stitching",
+      "Salwar Suits",
+      "Shirts Pants",
+      "Alterations",
+      "Festive Wear",
+      "Clear Scope",
+      "Open Feedback",
+      "Plain Quotes"
+    ],
+    "contactText": "Message {brand} with your brief for blouse stitching or salwar suits and kurtas. We reply with a few questions and a clear outline of the next step."
+  }
+]

@@ -1,0 +1,180 @@
+{
+  "brand": "Vehicle Showroom, Nagpur",
+  "niche": "shop",
+  "kind": "retail",
+  "profile": "autosales",
+  "business_type": "autosales",
+  "type_label": "Vehicle Showroom",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "bold",
+  "keywords": [
+    "bike"
+  ],
+  "eyebrow": "Vehicle Showroom · Nagpur",
+  "location": "Nagpur",
+  "audience": "",
+  "hero_heading": "Vehicle Showroom in Nagpur",
+  "tagline": "Shop now and tell us what you need.",
+  "about_title": "About us",
+  "about": [
+    "Take your time looking around.",
+    "You will find us in Nagpur. Ask for details before you commit."
+  ],
+  "features_title": "Shop by category",
+  "features": [
+    {
+      "title": "Motorcycles",
+      "text": "We'll explain Motorcycles in plain words."
+    },
+    {
+      "title": "Jackets",
+      "text": "Message us about Jackets; we reply to every enquiry."
+    },
+    {
+      "title": "Helmets",
+      "text": "Protective headgear in several sizes and styles."
+    },
+    {
+      "title": "Riding Gear",
+      "text": "Bring your questions about Riding Gear."
+    },
+    {
+      "title": "Servicing",
+      "text": "Not sure which Servicing to pick? Describe how you'll use it."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Honest advice",
+      "text": "We'll say if something isn't right for you."
+    },
+    {
+      "title": "Questions welcome",
+      "text": "Big or small."
+    },
+    {
+      "title": "Compare in person",
+      "text": "See and handle before you decide."
+    }
+  ],
+  "stats_title": "At a glance",
+  "stats": [
+    {
+      "value": "Nagpur",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "What happens next",
+  "steps": [
+    {
+      "title": "Say hello",
+      "text": "Let us know what you have in mind."
+    },
+    {
+      "title": "We talk it through",
+      "text": "We explain the options in plain words."
+    },
+    {
+      "title": "Take it home",
+      "text": "Message us to ask about stock, and we will confirm how to receive it."
+    }
+  ],
+  "faq_title": "Good questions",
+  "faq": [
+    {
+      "q": "Can I pay in instalments?",
+      "a": "Message us and we will explain the options."
+    },
+    {
+      "q": "Where are you?",
+      "a": "Find us in Nagpur. Send us a message and we'll send directions."
+    },
+    {
+      "q": "Can I change my plans?",
+      "a": "Tell us as early as you can and we will look at what's possible."
+    },
+    {
+      "q": "Can someone else book for me?",
+      "a": "Of course; share the details and we will take it from there."
+    }
+  ],
+  "blog_title": "Notes and guides",
+  "blog": [
+    {
+      "title": "What to bring when you get in touch",
+      "excerpt": "A short list that saves a second message."
+    },
+    {
+      "title": "How long things really take",
+      "excerpt": "Setting expectations on both sides."
+    },
+    {
+      "title": "Questions to ask before you book",
+      "excerpt": "Plain answers beat long brochures."
+    }
+  ],
+  "contact": {
+    "place": "Nagpur"
+  },
+  "cta_primary": "Shop now",
+  "cta_secondary": "Visit the store",
+  "cta_text": "Ask what's new.",
+  "cta_title": "Ready when you are",
+  "footer": "© Vehicle Showroom, Nagpur. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Nagpur",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "autosales (confidence high)",
+    "items_from_prompt": [],
+    "place": "Nagpur",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "autosales",
+    "kind": "retail"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Vehicle Showroom, Nagpur' (not a name). Add your business name to replace it.",
+    "Typical vehicle showroom offerings were used for: Motorcycles, Jackets, Helmets, Riding Gear, Servicing. List your real services (3 or more) to replace them."
+  ]
+}

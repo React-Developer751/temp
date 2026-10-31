@@ -1,0 +1,225 @@
+{
+  "id": "gym_fitness_studio",
+  "label": "Gym and fitness studio",
+  "theme": "bold_fitness",
+  "keywords": [
+    "gym membership",
+    "fitness centre",
+    "crossfit box",
+    "personal trainer",
+    "weight training gym",
+    "gym near me",
+    "gym ki membership",
+    "gym",
+    "fitness studio",
+    "जिम",
+    "फिटनेस सेंटर"
+  ],
+  "heroTitles": [
+    "Time Well Spent On Strength Floor",
+    "Welcome To Gym And Fitness Studio",
+    "Strength Floor And Cardio Zone Your Way"
+  ],
+  "heroSubtitles": [
+    "Looking for help with gym and fitness studio? {brand} keeps it relaxed: a warm welcome, a clear plan and a session that fits your day.",
+    "From strength floor to cardio zone, {brand} helps you feel looked after, with time to talk through what you want.",
+    "{brand} provides strength floor and group classes. Tell us your preferences and we will plan a session around them."
+  ],
+  "button": "Book A Free Trial",
+  "featureTitle": "Our Gym And Fitness Studio Services",
+  "features": [
+    {
+      "title": "Strength Floor",
+      "text": "We talk through strength floor first, so the session matches what you want and what suits you."
+    },
+    {
+      "title": "Cardio Zone",
+      "text": "Cardio Zone booked at a time that works for you, in a friendly space and without any rush."
+    },
+    {
+      "title": "Personal Training",
+      "text": "Ask about personal training; we explain the options simply and let you choose."
+    },
+    {
+      "title": "Group Classes",
+      "text": "For group classes, we listen to your preferences and plan the session around them."
+    },
+    {
+      "title": "Fitness Assessment",
+      "text": "Fitness Assessment delivered with care, with tips on how to keep the results going."
+    },
+    {
+      "title": "Open Slots",
+      "text": "Questions about open slots? Message us and we will answer before you book."
+    }
+  ],
+  "stats": [
+    {
+      "value": "Booked",
+      "label": "Time that suits you"
+    },
+    {
+      "value": "Same day",
+      "label": "Replies to messages"
+    },
+    {
+      "value": "Friendly",
+      "label": "Welcome for everyone"
+    }
+  ],
+  "steps": {
+    "title": "How It Works",
+    "items": [
+      {
+        "title": "Pick A Time",
+        "text": "Message or call to book your gym and fitness studio session and tell us what you would like."
+      },
+      {
+        "title": "Talk It Through",
+        "text": "We discuss strength floor with you, so the plan matches your preferences."
+      },
+      {
+        "title": "Enjoy The Session",
+        "text": "Relax while we take care of cardio zone, with time for your questions."
+      },
+      {
+        "title": "Keep It Going",
+        "text": "We share simple tips for personal training and help you plan the next session."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "Can I bring a friend to fitness assessment?",
+      "a": "Tell us when you book and we will make room, where the session allows. It is the same for cardio zone as it is for strength floor."
+    },
+    {
+      "q": "How do I book strength floor?",
+      "a": "Message or call, tell us what you would like and choose a time that suits you. That goes for personal training and group classes too."
+    },
+    {
+      "q": "Can I ask about cardio zone before booking?",
+      "a": "Of course. Message us and we will explain what is involved and how long it takes. Ask us about fitness assessment or open slots and the answer is the same."
+    },
+    {
+      "q": "What should I bring to a gym and fitness studio session?",
+      "a": "Comfortable clothes and any questions you have; we will tell you if anything else is useful. The same approach applies to strength floor and open slots."
+    },
+    {
+      "q": "Can I change my time for personal training?",
+      "a": "Yes. Tell us as early as you can and we will offer the nearest free slot. This applies to strength floor, cardio zone and the rest of our gym and fitness studio work."
+    }
+  ],
+  "cta": {
+    "title": "Ready To Try Strength Floor?",
+    "button": "Book A Free Trial"
+  },
+  "about": {
+    "title": "Who We Are",
+    "paragraphs": [
+      "{brand} is a friendly gym and fitness studio space. We listen first, plan the session around you and keep things relaxed from start to finish.",
+      "We offer strength floor, cardio zone and personal training, and we are happy to talk through your preferences before you decide."
+    ],
+    "points": [
+      "Plain Advice",
+      "Friendly Team",
+      "Booking That Fits"
+    ]
+  },
+  "pricing": {
+    "title": "Simple Pricing For Gym And Fitness Studio",
+    "plans": [
+      {
+        "name": "Single Session",
+        "price": "$15",
+        "period": "/month",
+        "perks": [
+          "Strength Floor Session",
+          "Time You Choose",
+          "Tips To Take Home"
+        ]
+      },
+      {
+        "name": "Regular Sessions",
+        "price": "$40",
+        "period": "/quarter",
+        "perks": [
+          "Strength Floor And Cardio Zone",
+          "Flexible Timing",
+          "Priority Booking"
+        ]
+      },
+      {
+        "name": "Full Programme",
+        "price": "$120",
+        "period": "/year",
+        "perks": [
+          "Strength Floor Plus Cardio Zone And Personal Training",
+          "Extended Support",
+          "Reminders When Due"
+        ]
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Inside Our Gym And Fitness Studio Space",
+    "captions": [
+      "Strength Floor",
+      "Cardio Zone",
+      "Personal Training",
+      "Group Classes",
+      "Fitness Assessment",
+      "Open Slots"
+    ]
+  },
+  "team": {
+    "title": "Meet The Team",
+    "roles": [
+      "Head Trainer",
+      "Fitness Coach",
+      "Front Desk"
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "Friendly space, and the gym and fitness studio session never felt rushed.",
+      "role": "Customer"
+    },
+    {
+      "quote": "I liked that strength floor was planned around me with no pressure.",
+      "role": "Customer"
+    },
+    {
+      "quote": "Quick reply about group classes and a time that suited me.",
+      "role": "Customer"
+    }
+  ],
+  "blog": {
+    "title": "Gym And Fitness Studio Tips And Ideas",
+    "posts": [
+      {
+        "tag": "Habits",
+        "title": "Small Habits That Support Open Slots"
+      },
+      {
+        "tag": "Guide",
+        "title": "What To Expect From Strength Floor"
+      },
+      {
+        "tag": "Prepare",
+        "title": "How To Prepare For Cardio Zone"
+      }
+    ]
+  },
+  "marquee": [
+    "Strength Floor",
+    "Cardio Zone",
+    "Personal",
+    "Group Classes",
+    "Fitness",
+    "Warm Welcome",
+    "Easy Booking",
+    "Plain Advice"
+  ],
+  "contactText": "Tell {brand} what you would like: strength floor, personal training or something close. We will answer with options and a time."
+}

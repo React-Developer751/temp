@@ -1,0 +1,180 @@
+{
+  "brand": "Insight Driving School",
+  "niche": "education",
+  "kind": "education",
+  "profile": "",
+  "business_type": "driving",
+  "type_label": "Driving School",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "bold",
+  "keywords": [
+    "indore"
+  ],
+  "eyebrow": "Driving School · Indore",
+  "location": "Indore",
+  "audience": "",
+  "hero_heading": "Driving School in Indore",
+  "tagline": "Practice makes it stick.",
+  "about_title": "About us",
+  "about": [
+    "Bring last week's questions.",
+    "You'll find us in Indore. Ask for details before you commit."
+  ],
+  "features_title": "What we teach",
+  "features": [
+    {
+      "title": "Tests",
+      "text": "Curious about Tests? Ask us anything."
+    },
+    {
+      "title": "Licences",
+      "text": "Curious about Licences? Sit in on a demo."
+    },
+    {
+      "title": "Theory Classes",
+      "text": "Not sure about Theory Classes? Start with a short conversation."
+    },
+    {
+      "title": "Sessions",
+      "text": "Bring your questions about Sessions."
+    },
+    {
+      "title": "Practice Sessions",
+      "text": "Practice Sessions is taught step by step, and doubts are welcome at any point."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Doubts welcome",
+      "text": "Ask until it makes sense."
+    },
+    {
+      "title": "A real person replies",
+      "text": "Not a form that goes nowhere."
+    },
+    {
+      "title": "Progress you can see",
+      "text": "Regular check-ins."
+    }
+  ],
+  "stats_title": "Details at a glance",
+  "stats": [
+    {
+      "value": "Indore",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "Three simple steps",
+  "steps": [
+    {
+      "title": "Get in touch",
+      "text": "Send a message or call and let us know what you need."
+    },
+    {
+      "title": "Try a class",
+      "text": "See how are taught."
+    },
+    {
+      "title": "Practise and improve",
+      "text": "Practice after every topic; ask doubts any time."
+    }
+  ],
+  "faq_title": "Questions we get asked",
+  "faq": [
+    {
+      "q": "Can I attend a demo class?",
+      "a": "Message us and we'll arrange a first visit."
+    },
+    {
+      "q": "Do parents get updates?",
+      "a": "Message us and we'll explain how updates work."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Indore; get in touch for directions."
+    },
+    {
+      "q": "Can I change my plans?",
+      "a": "Message us and we will explain the options."
+    }
+  ],
+  "blog_title": "Short guides",
+  "blog": [
+    {
+      "title": "How to use a past paper",
+      "excerpt": "Time yourself, mark honestly, learn from the gaps."
+    },
+    {
+      "title": "Small things that make a difference",
+      "excerpt": "Notes from everyday experience."
+    },
+    {
+      "title": "When to ask for a second opinion",
+      "excerpt": "And how to do it politely."
+    }
+  ],
+  "contact": {
+    "place": "Indore"
+  },
+  "cta_primary": "Book a free demo",
+  "cta_secondary": "See the batches",
+  "cta_text": "Book a free demo; we'll suggest a batch.",
+  "cta_title": "Come and see for yourself",
+  "footer": "© Insight Driving School. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Indore",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "driving (confidence high)",
+    "items_from_prompt": [],
+    "place": "Indore",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "education"
+  },
+  "needs_review": [
+    "No business name was given; 'Insight Driving School' is a placeholder.",
+    "Typical driving school offerings were used for: Tests, Licences, Theory Classes, Sessions, Practice Sessions. List your real services (3 or more) to replace them."
+  ]
+}

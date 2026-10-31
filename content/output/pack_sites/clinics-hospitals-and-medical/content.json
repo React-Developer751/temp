@@ -1,0 +1,215 @@
+{
+  "brand": "Clinics, hospitals and medical",
+  "niche": "type_healthcare",
+  "kind": "home",
+  "profile": "",
+  "business_type": "type_healthcare",
+  "type_label": "Clinics, hospitals and medical",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "calm",
+  "keywords": [
+    "hospital",
+    "medical centre",
+    "doctor",
+    "healthcare",
+    "medical clinic",
+    "nursing home"
+  ],
+  "eyebrow": "Clinics, hospitals and medical",
+  "location": "",
+  "audience": "",
+  "hero_heading": "Calm And Clear Clinic And Medical",
+  "tagline": "Looking for help with clinic and medical? Clinics, hospitals and medical listens first, explains the options and lets you decide at your own pace.",
+  "about_title": "About us",
+  "about": [
+    "At Clinics, hospitals and medical good clinic and medical begins with a conversation. You hear the plan in plain words before anything is done.",
+    "Our care includes easy appointments and time for questions. Ask about follow up guidance or clear fees too and we will tell you plainly what is possible."
+  ],
+  "features_title": "Clinic And Medical Services We Offer",
+  "features": [
+    {
+      "title": "Easy Appointments",
+      "text": "Easy Appointments booked at a time that suits you, with guidance on how to prepare."
+    },
+    {
+      "title": "Time For Questions",
+      "text": "Questions about time for questions? Message us and we will answer before you book."
+    },
+    {
+      "title": "Plain Explanations",
+      "text": "We explain what plain explanations involves, how it is done and what to expect before we begin."
+    },
+    {
+      "title": "Follow Up Guidance",
+      "text": "Follow Up Guidance with time for your questions, and a plain explanation of the next step."
+    },
+    {
+      "title": "Clear Fees",
+      "text": "Ask about clear fees; we describe the options simply and let you decide at your own pace."
+    },
+    {
+      "title": "Calm Waiting Area",
+      "text": "For calm waiting area, we start by listening to your concern and then suggest a clear plan."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Time For Questions",
+      "text": "Clear: Explanations."
+    },
+    {
+      "title": "Plain Explanations",
+      "text": "Same day: Replies to messages."
+    },
+    {
+      "title": "Calm Welcome",
+      "text": "Booked: Time that suits you."
+    }
+  ],
+  "stats_title": "At a glance",
+  "stats": [
+    {
+      "value": "Clear",
+      "label": "Explanations"
+    },
+    {
+      "value": "Same day",
+      "label": "Replies to messages"
+    },
+    {
+      "value": "Booked",
+      "label": "Time that suits you"
+    }
+  ],
+  "steps_title": "How A Visit Works",
+  "steps": [
+    {
+      "title": "Book A Visit",
+      "text": "Message or call to book your clinic and medical appointment and tell us your main concern."
+    },
+    {
+      "title": "Talk It Through",
+      "text": "We listen, ask questions and explain the options for easy appointments in plain words."
+    },
+    {
+      "title": "Get A Clear Plan",
+      "text": "You hear what time for questions involves, how long it takes and what to expect."
+    },
+    {
+      "title": "Follow Up",
+      "text": "We answer questions after plain explanations and tell you when to come back, if needed."
+    }
+  ],
+  "faq_title": "Good questions",
+  "faq": [
+    {
+      "q": "How do I prepare for follow up guidance?",
+      "a": "We tell you what to do when you book, so you arrive knowing what to expect. This applies to easy appointments, time for questions and the rest of our clinic and medical work."
+    },
+    {
+      "q": "Can a family member come with me for easy appointments?",
+      "a": "Yes. Tell us when you book and we will make sure there is room. It is the same for time for questions as it is for easy appointments."
+    },
+    {
+      "q": "What if I am unsure about clear fees?",
+      "a": "Ask us. We explain the options calmly and never rush your decision. That goes for plain explanations and follow up guidance too."
+    },
+    {
+      "q": "How do I book easy appointments?",
+      "a": "Call or message us, say what you need and choose a time that suits you. Ask us about clear fees or calm waiting area and the answer is the same."
+    },
+    {
+      "q": "What should I bring to a clinic and medical visit?",
+      "a": "Any earlier reports or notes, and a list of your questions; we will tell you if anything else is needed. The same approach applies to easy appointments and calm waiting area."
+    }
+  ],
+  "blog_title": "From The Clinic And Medical Desk",
+  "blog": [
+    {
+      "title": "Small Habits That Support Calm Waiting Area",
+      "excerpt": "Habits notes for people looking into clinics, hospitals and medical."
+    },
+    {
+      "title": "What To Expect From Easy Appointments",
+      "excerpt": "Guide notes for people looking into clinics, hospitals and medical."
+    },
+    {
+      "title": "How To Prepare For Time For Questions",
+      "excerpt": "Prepare notes for people looking into clinics, hospitals and medical."
+    }
+  ],
+  "contact": {},
+  "cta_primary": "Book An Appointment",
+  "cta_secondary": "FAQ",
+  "cta_text": "Tell Clinics, hospitals and medical about your concern: easy appointments, plain explanations or something close. We will answer with the next step and a time.",
+  "cta_title": "Need Clinic And Medical Advice?",
+  "footer": "© Clinics, hospitals and medical. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "pricing": [
+    {
+      "name": "First Visit",
+      "price": "Rs 320 /consultation"
+    },
+    {
+      "name": "Care Plan",
+      "price": "Rs 1,200 /checkup"
+    },
+    {
+      "name": "Extended Care",
+      "price": "Rs 3,200 /care plan"
+    }
+  ],
+  "facts_used": {},
+  "missing": [
+    "name",
+    "phone",
+    "email",
+    "address",
+    "hours"
+  ],
+  "generated_by": {
+    "business_type": "type_healthcare (niche pack)",
+    "items_from_prompt": [
+      "Easy Appointments",
+      "Time For Questions",
+      "Plain Explanations",
+      "Follow Up Guidance",
+      "Clear Fees",
+      "Calm Waiting Area"
+    ],
+    "place": "",
+    "mode": "niche pack",
+    "copy": "pack text from the training spec"
+  },
+  "needs_review": [
+    "This page uses the type_healthcare niche pack. Replace the sample prices (USD x 80) and add your real phone, address and hours before publishing.",
+    "No business name was given, so the heading is 'Clinics, hospitals and medical' (not a name).",
+    "No picture style fits this kind of business (no picture niche for business type 'type_healthcare'): the pictures are a neutral abstract in the brand colour, not a wrong scene."
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "brand": "Glow",
+  "niche": "care",
+  "kind": "beauty",
+  "profile": "",
+  "business_type": "salon",
+  "type_label": "Hair & Beauty Salon",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "playful",
+  "keywords": [
+    "unisex",
+    "salon",
+    "pune",
+    "haircuts",
+    "facials",
+    "bridal"
+  ],
+  "eyebrow": "Hair & Beauty Salon · Pune",
+  "location": "Pune",
+  "audience": "",
+  "hero_heading": "Haircuts and facials, with time for you",
+  "tagline": "Glow offers bridal makeup in Pune.",
+  "about_title": "About Glow",
+  "about": [
+    "No hard sell; ask whatever you like. Glow offers bridal makeup, haircuts and facials in Pune.",
+    "You will find Glow in Pune. Book a time and let us know what you'd like done."
+  ],
+  "features_title": "Book a service",
+  "features": [
+    {
+      "title": "Haircuts",
+      "text": "Haircuts is planned around you, not a template."
+    },
+    {
+      "title": "Facials",
+      "text": "Feel free to ask us how facials works and what to expect."
+    },
+    {
+      "title": "Bridal Makeup",
+      "text": "Ask what to expect from bridal makeup before you book."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "No hard sell",
+      "text": "Take your time."
+    },
+    {
+      "title": "Details explained",
+      "text": "Before anything begins."
+    },
+    {
+      "title": "For every occasion",
+      "text": "Everyday, party or wedding."
+    }
+  ],
+  "stats_title": "Where and when",
+  "stats": [
+    {
+      "value": "Pune",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "What happens next",
+  "steps": [
+    {
+      "title": "Get in touch",
+      "text": "Send a message or call and tell us what you need."
+    },
+    {
+      "title": "Choose your service",
+      "text": "Pick from haircuts or facials, or ask for a suggestion."
+    },
+    {
+      "title": "The appointment",
+      "text": "Unhurried, with no step skipped."
+    }
+  ],
+  "faq_title": "Before you ask",
+  "faq": [
+    {
+      "q": "Do you do bridal or party looks?",
+      "a": "Ask us at the time of booking and we'll tell you what is possible for your date."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Pune; reach out for directions."
+    },
+    {
+      "q": "Can I ask about haircuts?",
+      "a": "Yes; tell us what you'd like to know about haircuts."
+    },
+    {
+      "q": "Can I change my plans?",
+      "a": "Let us know as early as you can and we'll look at what's possible."
+    }
+  ],
+  "blog_title": "Worth reading",
+  "blog": [
+    {
+      "title": "How long things really take",
+      "excerpt": "Setting expectations on both sides."
+    },
+    {
+      "title": "Looking after the result of bridal makeup",
+      "excerpt": "Simple habits for the week afterwards."
+    },
+    {
+      "title": "What to bring when you get in touch",
+      "excerpt": "A short list that saves a second message."
+    }
+  ],
+  "contact": {
+    "place": "Pune"
+  },
+  "cta_primary": "Book an appointment",
+  "cta_secondary": "Call the salon",
+  "cta_text": "Ask about facials at the time of booking.",
+  "cta_title": "Tell us what you need",
+  "footer": "© Glow. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "name": {
+      "value": "Glow",
+      "source": "prompt"
+    },
+    "city": {
+      "value": "Pune",
+      "source": "prompt"
+    },
+    "services": {
+      "value": [
+        "haircuts",
+        "facials",
+        "bridal makeup"
+      ],
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "salon (confidence high)",
+    "items_from_prompt": [
+      "haircuts",
+      "facials",
+      "bridal makeup"
+    ],
+    "place": "Pune",
+    "mode": "strict (your phrases only)",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "beauty"
+  },
+  "needs_review": []
+}

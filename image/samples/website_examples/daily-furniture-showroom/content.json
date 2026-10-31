@@ -1,0 +1,180 @@
+{
+  "brand": "Daily Furniture Showroom",
+  "niche": "store",
+  "kind": "retail",
+  "profile": "",
+  "business_type": "furniture",
+  "type_label": "Furniture Showroom",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "warm",
+  "keywords": [
+    "surat"
+  ],
+  "eyebrow": "Furniture Showroom · Surat",
+  "location": "Surat",
+  "audience": "",
+  "hero_heading": "Furniture Showroom in Surat",
+  "tagline": "Tell us what you need and we will point you to it.",
+  "about_title": "About us",
+  "about": [
+    "Message first if you prefer.",
+    "You'll find us in Surat. Message us a few notes and we'll reply."
+  ],
+  "features_title": "What you'll find",
+  "features": [
+    {
+      "title": "Dining Sets",
+      "text": "Bring your questions about Dining Sets."
+    },
+    {
+      "title": "Beds",
+      "text": "Beds: ask for details before you make up your mind."
+    },
+    {
+      "title": "Cabinets",
+      "text": "Looking for Cabinets? Feel free to ask us what's in stock and what suits you."
+    },
+    {
+      "title": "Shelves",
+      "text": "We can tell you what to look for in Shelves."
+    },
+    {
+      "title": "Tables",
+      "text": "Ask for a photo or a video of Tables before you decide."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Easy to reach",
+      "text": "Message us or visit."
+    },
+    {
+      "title": "No hard sell",
+      "text": "Take your time."
+    },
+    {
+      "title": "Local and personal",
+      "text": "Run by people you can talk to."
+    }
+  ],
+  "stats_title": "Good to know",
+  "stats": [
+    {
+      "value": "Surat",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "Three simple steps",
+  "steps": [
+    {
+      "title": "Get in touch",
+      "text": "Send a message or call and let us know what you need."
+    },
+    {
+      "title": "Compare options",
+      "text": "We'll show you what we have in."
+    },
+    {
+      "title": "Get started",
+      "text": "We begin when you're ready."
+    }
+  ],
+  "faq_title": "Before you ask",
+  "faq": [
+    {
+      "q": "Can I return or exchange something?",
+      "a": "Ask us about returns before you buy; we're happy to explain."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Surat; reach out for directions."
+    },
+    {
+      "q": "Does it come with a warranty?",
+      "a": "Feel free to ask us about warranty for the item you are considering."
+    },
+    {
+      "q": "Do you reply to messages?",
+      "a": "Send a message and you'll hear from us."
+    }
+  ],
+  "blog_title": "Our notes",
+  "blog": [
+    {
+      "title": "How long things really take",
+      "excerpt": "Setting expectations on both sides."
+    },
+    {
+      "title": "Keeping track of your plans",
+      "excerpt": "A simple way to stay organised."
+    },
+    {
+      "title": "Planning ahead",
+      "excerpt": "How to give yourself time."
+    }
+  ],
+  "contact": {
+    "place": "Surat"
+  },
+  "cta_primary": "Shop now",
+  "cta_secondary": "Visit the store",
+  "cta_text": "Tell us what you need.",
+  "cta_title": "Let's talk",
+  "footer": "© Daily Furniture Showroom. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Surat",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "furniture (confidence high)",
+    "items_from_prompt": [],
+    "place": "Surat",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "retail"
+  },
+  "needs_review": [
+    "No business name was given; 'Daily Furniture Showroom' is a placeholder.",
+    "Typical furniture showroom offerings were used for: Dining Sets, Beds, Cabinets, Shelves, Tables. List your real services (3 or more) to replace them."
+  ]
+}

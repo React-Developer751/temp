@@ -1,0 +1,106 @@
+{
+  "niche": null,
+  "requested_niche": null,
+  "fallback": true,
+  "reason": "no picture niche for business type 'chai_tea_stall'",
+  "mood": "dark",
+  "accent": "#d89927",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Chai stall, Pune Chai stall chai ki tapri chai tapri tea stall chai stall chai shop Kadak Masala Chai Bun Maska And Toast Pakoda And Samosa Cutting Chai Cold Coffee And Lemon Tea Takeaway Cups",
+    "niche": null,
+    "title": "Abstract",
+    "fallback": true,
+    "mood": "dark",
+    "accent": "#d89927",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 22,
+    "palette_family": 0.986,
+    "text_zone": "left",
+    "hero_contrast": 4.84,
+    "seconds": 6.49,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.986
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 15764,
+      "alt": "Illustration for Chai stall, Pune",
+      "text_color": "#ffffff",
+      "contrast": 4.84,
+      "role": "hero",
+      "seed": 1
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 9108,
+      "alt": "About Chai stall, Pune",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1014
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 7319,
+        "alt": "Chai stall, Pune gallery picture",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2027
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 5899,
+        "alt": "Chai stall, Pune gallery picture",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3040
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 7552,
+        "alt": "Chai stall, Pune gallery picture",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4053
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 6766,
+        "alt": "Chai stall, Pune gallery picture",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5066
+      }
+    ]
+  }
+}

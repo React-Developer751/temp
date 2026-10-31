@@ -1,0 +1,221 @@
+{
+  "id": "type_general_business",
+  "label": "A general local business",
+  "theme": "general_business",
+  "keywords": [
+    "local business",
+    "small business",
+    "business website",
+    "local shop",
+    "neighbourhood business",
+    "unique website",
+    "company website"
+  ],
+  "heroTitles": [
+    "Local Local Business You Can Count On",
+    "Local Business With A Clear Quote First",
+    "Straightforward Local Business For Your Home"
+  ],
+  "heroSubtitles": [
+    "{brand} handles friendly local service, clear pricing and easy contact. Tell us what you need and get a clear plan and price before we start.",
+    "Looking for help with local business? {brand} explains the work, the cost and the timing first, then does the job tidily.",
+    "From friendly local service to clear pricing, {brand} keeps things simple: a short chat, a fair quote and a visit at a time that suits you."
+  ],
+  "button": "Contact Us Today",
+  "featureTitle": "What Local Business Covers Here",
+  "features": [
+    {
+      "title": "Friendly Local Service",
+      "text": "For friendly local service, we look at the place first, then suggest the simplest fix that lasts."
+    },
+    {
+      "title": "Clear Pricing",
+      "text": "Need clear pricing? Tell us what is wrong and we will say what can be done and when."
+    },
+    {
+      "title": "Easy Contact",
+      "text": "Easy Contact with a short check at the end, so you know the job is finished properly."
+    },
+    {
+      "title": "Honest Advice",
+      "text": "We explain what honest advice involves, the options and the cost before any work begins."
+    },
+    {
+      "title": "On Time Updates",
+      "text": "On Time Updates by a local team, with the price and timing agreed with you first."
+    },
+    {
+      "title": "Quick Replies",
+      "text": "Ask about quick replies and get a clear quote, a time that suits you and a tidy finish."
+    }
+  ],
+  "stats": [
+    {
+      "value": "Free",
+      "label": "First quote"
+    },
+    {
+      "value": "Same day",
+      "label": "Replies to messages"
+    },
+    {
+      "value": "Local",
+      "label": "Team near you"
+    }
+  ],
+  "steps": {
+    "title": "How Local Business Works With Us",
+    "items": [
+      {
+        "title": "Tell Us What You Need",
+        "text": "Describe the local business job by call or message, with a photo if that helps."
+      },
+      {
+        "title": "Get A Clear Quote",
+        "text": "We explain the options for friendly local service and give you the price before anything starts."
+      },
+      {
+        "title": "We Do The Work",
+        "text": "Our team arrives at the agreed time and completes the clear pricing work with care."
+      },
+      {
+        "title": "Check And Follow Up",
+        "text": "We go through the result with you and stay reachable for questions on easy contact afterwards."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "What should I prepare before friendly local service?",
+      "a": "A clear path to the work area and a few details about the problem are usually enough; we will tell you if more is needed. Ask us about on time updates or quick replies and the answer is the same."
+    },
+    {
+      "q": "Do you explain the local business work before starting?",
+      "a": "Always. We describe each step, the materials and the cost, and begin only when you are comfortable. The same approach applies to friendly local service and quick replies."
+    },
+    {
+      "q": "Can I ask questions after easy contact?",
+      "a": "Yes. Message us any time after the job and we will answer or come back to check. This applies to friendly local service, clear pricing and the rest of our local business work."
+    },
+    {
+      "q": "Do you handle small local business jobs too?",
+      "a": "Yes. Small and large jobs get the same care, and we quote both in the same clear way. It is the same for clear pricing as it is for friendly local service."
+    },
+    {
+      "q": "How do you charge for honest advice?",
+      "a": "We quote by the job and tell you what is included, so the final bill matches what we agreed. That goes for easy contact and honest advice too."
+    }
+  ],
+  "cta": {
+    "title": "Need Local Business At Your Place?",
+    "button": "Contact Us Today"
+  },
+  "about": {
+    "title": "Who We Are",
+    "paragraphs": [
+      "At {brand} we believe a good local business job starts with a clear conversation. You hear the plan and the price first, and the work follows.",
+      "Our services include friendly local service and clear pricing. Ask us about honest advice or on time updates too, and we will tell you plainly what is possible."
+    ],
+    "points": [
+      "Clear Quote Before Work",
+      "Friendly Local Team",
+      "Tidy Finish"
+    ]
+  },
+  "pricing": {
+    "title": "Local Business Pricing",
+    "plans": [
+      {
+        "name": "Single Visit",
+        "price": "$5",
+        "period": "/job",
+        "perks": [
+          "Friendly Local Service Only",
+          "Written Quote First",
+          "Time Slot You Choose"
+        ]
+      },
+      {
+        "name": "Regular Care",
+        "price": "$20",
+        "period": "/job",
+        "perks": [
+          "Friendly Local Service And Clear Pricing",
+          "Follow-Up Check",
+          "Priority Booking"
+        ]
+      },
+      {
+        "name": "Full Service",
+        "price": "$60",
+        "period": "/job",
+        "perks": [
+          "Friendly Local Service Plus Clear Pricing And Easy Contact",
+          "Extended Follow-Up",
+          "Reminders When Due"
+        ]
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Local Business At Work",
+    "captions": [
+      "Friendly Local Service",
+      "Clear Pricing",
+      "Easy Contact",
+      "Honest Advice",
+      "On Time Updates",
+      "Quick Replies"
+    ]
+  },
+  "team": {
+    "title": "Meet The Team",
+    "roles": [
+      "Local Business Technician",
+      "Friendly Local Service Lead",
+      "Local Business Support Desk"
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "Clear quote for clear pricing, no pressure, and the place was left tidy.",
+      "role": "Shop owner"
+    },
+    {
+      "quote": "They answered every question about easy contact before starting.",
+      "role": "Flat resident"
+    },
+    {
+      "quote": "Easy to book, on time, and the local business work looked neat at the end.",
+      "role": "Home owner"
+    }
+  ],
+  "blog": {
+    "title": "From The Local Business Desk",
+    "posts": [
+      {
+        "tag": "Planning",
+        "title": "Preparing Your Place For Easy Contact"
+      },
+      {
+        "tag": "Advice",
+        "title": "Small Signs You Need Honest Advice"
+      },
+      {
+        "tag": "Basics",
+        "title": "A Simple Guide To On Time Updates"
+      }
+    ]
+  },
+  "marquee": [
+    "Friendly Local",
+    "Clear Pricing",
+    "Easy Contact",
+    "Honest Advice",
+    "Time Updates",
+    "Free Quote",
+    "Local Team",
+    "Tidy Work"
+  ],
+  "contactText": "Tell {brand} what you need: friendly local service, easy contact or anything close to it. We will answer with the next step and a clear quote."
+}

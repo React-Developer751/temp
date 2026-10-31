@@ -1,0 +1,189 @@
+{
+  "brand": "AC & Appliance Repair, Noida",
+  "niche": "business",
+  "kind": "trades",
+  "profile": "",
+  "business_type": "ac",
+  "type_label": "AC & Appliance Repair",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "cool",
+  "keywords": [
+    "service"
+  ],
+  "eyebrow": "AC & Appliance Repair · Noida",
+  "location": "Noida",
+  "audience": "",
+  "hero_heading": "Repairs and services in Noida",
+  "tagline": "We'd rather you knew exactly what to expect.",
+  "about_title": "About us",
+  "about": [
+    "We fix services and repairs in Noida. Describe the problem; we will tell you what we think.",
+    "You'll find us in Noida. Ask what's included before you decide."
+  ],
+  "features_title": "Services",
+  "features": [
+    {
+      "title": "Repairs",
+      "text": "Repairs: ask for details before you decide."
+    },
+    {
+      "title": "Services",
+      "text": "Ask us how services works and what to expect."
+    },
+    {
+      "title": "Checkups",
+      "text": "Message us about Checkups; we reply to every enquiry."
+    },
+    {
+      "title": "Cleanings",
+      "text": "Book Cleanings for a time that suits you."
+    },
+    {
+      "title": "Installations",
+      "text": "Ask what parts Installations involves and what they do."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Straight answers",
+      "text": "Ask and we'll say it plainly."
+    },
+    {
+      "title": "A real person replies",
+      "text": "Not a form that goes nowhere."
+    },
+    {
+      "title": "Checked with you",
+      "text": "We test it together."
+    }
+  ],
+  "stats_title": "In short",
+  "stats": [
+    {
+      "value": "Noida",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "How it works",
+  "steps": [
+    {
+      "title": "Send details",
+      "text": "A photo or a short note helps."
+    },
+    {
+      "title": "We talk it through",
+      "text": "We explain the options in plain words."
+    },
+    {
+      "title": "Check the result",
+      "text": "We show you the work and test it."
+    }
+  ],
+  "faq_title": "Questions we get asked",
+  "faq": [
+    {
+      "q": "Do you cover my area?",
+      "a": "Message your location and we'll say if we can come."
+    },
+    {
+      "q": "Where are you based?",
+      "a": "Find us in Noida."
+    },
+    {
+      "q": "Can you do repairs?",
+      "a": "Tell us what repairs involves for you and we'll advise."
+    },
+    {
+      "q": "Can I ask questions before I decide?",
+      "a": "Certainly; that's what the first conversation is for."
+    }
+  ],
+  "blog_title": "Worth reading",
+  "blog": [
+    {
+      "title": "Notes on getting started",
+      "excerpt": "The first steps, without the jargon."
+    },
+    {
+      "title": "What to bring when you get in touch",
+      "excerpt": "A short list that saves a second message."
+    },
+    {
+      "title": "Making the most of your first visit",
+      "excerpt": "A short list to bring with you."
+    }
+  ],
+  "contact": {
+    "place": "Noida"
+  },
+  "cta_primary": "Get a free quote",
+  "cta_secondary": "Call now",
+  "cta_text": "Ask how repairs is done.",
+  "cta_title": "Start with a conversation",
+  "footer": "© AC & Appliance Repair, Noida. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Noida",
+      "source": "prompt"
+    },
+    "services": {
+      "value": [
+        "repairs",
+        "services"
+      ],
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "ac (confidence high)",
+    "items_from_prompt": [
+      "repairs",
+      "services"
+    ],
+    "place": "Noida",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "trades"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'AC & Appliance Repair, Noida' (not a name). Add your business name to replace it.",
+    "Typical ac & appliance repair offerings were used for: Checkups, Cleanings, Installations. List your real services (3 or more) to replace them."
+  ]
+}

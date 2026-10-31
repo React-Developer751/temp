@@ -1,0 +1,180 @@
+{
+  "brand": "Law Firm, Delhi",
+  "niche": "pro",
+  "kind": "pro",
+  "profile": "",
+  "business_type": "law",
+  "type_label": "Law Firm",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "calm",
+  "keywords": [
+    "pro"
+  ],
+  "eyebrow": "Law Firm · Delhi",
+  "location": "Delhi",
+  "audience": "",
+  "hero_heading": "Law Firm in Delhi",
+  "tagline": "A real person replies to every message.",
+  "about_title": "About us",
+  "about": [
+    "Small questions are always welcome too.",
+    "You'll find us in Delhi. Ask what to bring to the first meeting."
+  ],
+  "features_title": "Areas we advise on",
+  "features": [
+    {
+      "title": "Hearings",
+      "text": "Ask us how Hearings works and what to expect."
+    },
+    {
+      "title": "Agreements",
+      "text": "Agreements: a short call first, then a clear plan."
+    },
+    {
+      "title": "Petitions",
+      "text": "We will explain Petitions in plain words."
+    },
+    {
+      "title": "Documents",
+      "text": "Ask us about Documents; we will explain the steps in plain words."
+    },
+    {
+      "title": "Contracts",
+      "text": "Let us know your deadline for Contracts and we'll plan around it."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Questions welcome",
+      "text": "At any stage."
+    },
+    {
+      "title": "Written summaries",
+      "text": "Ask and we will send one."
+    },
+    {
+      "title": "Questions welcome",
+      "text": "Big or small."
+    }
+  ],
+  "stats_title": "Details at a glance",
+  "stats": [
+    {
+      "value": "Delhi",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "Getting started",
+  "steps": [
+    {
+      "title": "Share your question",
+      "text": "A few lines is enough."
+    },
+    {
+      "title": "Get a clear plan",
+      "text": "We explain the steps for and what they cost."
+    },
+    {
+      "title": "Get started",
+      "text": "We begin when you're ready."
+    }
+  ],
+  "faq_title": "Questions we get asked",
+  "faq": [
+    {
+      "q": "What should I bring?",
+      "a": "Any documents related to your matter, and a list of questions."
+    },
+    {
+      "q": "How do your fees work?",
+      "a": "We explain the fees before work begins."
+    },
+    {
+      "q": "Where are you based?",
+      "a": "Find us in Delhi."
+    },
+    {
+      "q": "Can someone else book for me?",
+      "a": "Yes; just let us know who the booking is for."
+    }
+  ],
+  "blog_title": "Our notes",
+  "blog": [
+    {
+      "title": "What a good first meeting looks like",
+      "excerpt": "And what to expect afterwards."
+    },
+    {
+      "title": "Questions to ask before you hire an adviser",
+      "excerpt": "Fees, timing and who does the work."
+    },
+    {
+      "title": "Deadlines that matter",
+      "excerpt": "How to plan backwards."
+    }
+  ],
+  "contact": {
+    "place": "Delhi"
+  },
+  "cta_primary": "Book a consultation",
+  "cta_secondary": "Call the office",
+  "cta_text": "A short call is the easiest start.",
+  "cta_title": "We'd like to hear from you",
+  "footer": "© Law Firm, Delhi. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Delhi",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "law (confidence high)",
+    "items_from_prompt": [],
+    "place": "Delhi",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "pro"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Law Firm, Delhi' (not a name). Add your business name to replace it.",
+    "Typical law firm offerings were used for: Hearings, Agreements, Petitions, Documents, Contracts. List your real services (3 or more) to replace them."
+  ]
+}

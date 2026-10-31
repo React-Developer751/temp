@@ -1,0 +1,445 @@
+[
+ {
+  "n": 1,
+  "cat": "Hospitality & travel",
+  "prompt": "luxury beach resort at sunset",
+  "mode": "landscape",
+  "time": "sunset",
+  "flags": [],
+  "recognised": [
+   "beach",
+   "hotel"
+  ],
+  "ignored": [
+   "luxury"
+  ]
+ },
+ {
+  "n": 2,
+  "cat": "Hospitality & travel",
+  "prompt": "hotel in the mountains at night",
+  "mode": "landscape",
+  "time": "night",
+  "flags": [],
+  "recognised": [
+   "hotel",
+   "3 mountain"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 3,
+  "cat": "Hospitality & travel",
+  "prompt": "tropical island with palm trees and blue sea",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "island",
+   "palm",
+   "4 tree",
+   "25/63/eb sea"
+  ],
+  "ignored": [
+   "tropical"
+  ]
+ },
+ {
+  "n": 4,
+  "cat": "Hospitality & travel",
+  "prompt": "camping tent in the forest",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "tent",
+   "tent",
+   "forest"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 5,
+  "cat": "Food",
+  "prompt": "fresh pizza",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "pizza"
+  ],
+  "ignored": [
+   "fresh"
+  ]
+ },
+ {
+  "n": 6,
+  "cat": "Food",
+  "prompt": "coffee shop",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "cafe"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 7,
+  "cat": "Food",
+  "prompt": "bakery with fresh bread",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "bakery",
+   "bread"
+  ],
+  "ignored": [
+   "fresh"
+  ]
+ },
+ {
+  "n": 8,
+  "cat": "Food",
+  "prompt": "restaurant dining table",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "restaurant"
+  ],
+  "ignored": [
+   "dining",
+   "table"
+  ]
+ },
+ {
+  "n": 9,
+  "cat": "Real estate",
+  "prompt": "modern house with a garden",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "house",
+   "grass"
+  ],
+  "ignored": [
+   "modern"
+  ]
+ },
+ {
+  "n": 10,
+  "cat": "Real estate",
+  "prompt": "city apartment buildings at dusk",
+  "mode": "landscape",
+  "time": "sunset",
+  "flags": [],
+  "recognised": [
+   "city",
+   "apartment",
+   "3 city"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 11,
+  "cat": "Real estate",
+  "prompt": "red house with a tree",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "dc/26/26 house",
+   "tree"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 12,
+  "cat": "Real estate",
+  "prompt": "villa near the sea",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "villa",
+   "sea"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 13,
+  "cat": "Tech / SaaS",
+  "prompt": "software company dashboard",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "monitor",
+   "laptop",
+   "monitor"
+  ],
+  "ignored": [
+   "company"
+  ]
+ },
+ {
+  "n": 14,
+  "cat": "Tech / SaaS",
+  "prompt": "futuristic cyberpunk city at night",
+  "mode": "landscape",
+  "time": "night",
+  "flags": [
+   "cyberpunk"
+  ],
+  "recognised": [
+   "city"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 15,
+  "cat": "Tech / SaaS",
+  "prompt": "blue abstract technology background",
+  "mode": "abstract",
+  "time": null,
+  "flags": [
+   "abstract"
+  ],
+  "recognised": [],
+  "ignored": [
+   "technology"
+  ]
+ },
+ {
+  "n": 16,
+  "cat": "Tech / SaaS",
+  "prompt": "laptop on a desk",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "laptop"
+  ],
+  "ignored": [
+   "desk"
+  ]
+ },
+ {
+  "n": 17,
+  "cat": "Wellness",
+  "prompt": "yoga studio",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "yogi"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 18,
+  "cat": "Wellness",
+  "prompt": "green nature meditation",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "yogi"
+  ],
+  "ignored": [
+   "nature"
+  ]
+ },
+ {
+  "n": 19,
+  "cat": "Wellness",
+  "prompt": "mandala pattern",
+  "mode": "mandala",
+  "time": null,
+  "flags": [
+   "mandala",
+   "tiles"
+  ],
+  "recognised": [],
+  "ignored": []
+ },
+ {
+  "n": 20,
+  "cat": "Wellness",
+  "prompt": "doctor and medical clinic",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "doctor",
+   "hospital"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 21,
+  "cat": "Education / translation",
+  "prompt": "students studying with books",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "3 student",
+   "3 book"
+  ],
+  "ignored": [
+   "studying"
+  ]
+ },
+ {
+  "n": 22,
+  "cat": "Education / translation",
+  "prompt": "certified translation documents",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "document",
+   "globe",
+   "document",
+   "chat",
+   "3 document"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 23,
+  "cat": "Education / translation",
+  "prompt": "graduation cap",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "gradcap"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 24,
+  "cat": "Education / translation",
+  "prompt": "university campus",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "university",
+   "university"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 25,
+  "cat": "Retail",
+  "prompt": "red shoes product photo",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "3 dc/26/26 shoe"
+  ],
+  "ignored": [
+   "product"
+  ]
+ },
+ {
+  "n": 26,
+  "cat": "Retail",
+  "prompt": "gift box",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "giftbox"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 27,
+  "cat": "Retail",
+  "prompt": "shopping bag sale",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "shoppingbag",
+   "tag"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 28,
+  "cat": "Retail",
+  "prompt": "red heart",
+  "mode": "shapes",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "dc/26/26 heart"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 29,
+  "cat": "Auto / events / logo",
+  "prompt": "car driving on a road at sunset",
+  "mode": "landscape",
+  "time": "sunset",
+  "flags": [],
+  "recognised": [
+   "car",
+   "car",
+   "road"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 30,
+  "cat": "Auto / events / logo",
+  "prompt": "wedding celebration",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "weddingcouple",
+   "bouquet",
+   "balloons",
+   "cake",
+   "giftbox"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 31,
+  "cat": "Auto / events / logo",
+  "prompt": "birthday balloons",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "balloons"
+  ],
+  "ignored": []
+ },
+ {
+  "n": 32,
+  "cat": "Auto / events / logo",
+  "prompt": "blue circle logo on white background",
+  "mode": "shapes",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "25/63/eb circle"
+  ],
+  "ignored": [
+   "logo"
+  ]
+ }
+]

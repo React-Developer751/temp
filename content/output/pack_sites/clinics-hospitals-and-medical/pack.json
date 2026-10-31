@@ -1,0 +1,222 @@
+{
+  "id": "type_healthcare",
+  "label": "Clinics, hospitals and medical",
+  "theme": "healthcare",
+  "keywords": [
+    "hospital",
+    "medical centre",
+    "doctor",
+    "healthcare",
+    "medical clinic",
+    "nursing home",
+    "health centre",
+    "family clinic"
+  ],
+  "heroTitles": [
+    "Calm And Clear Clinic And Medical",
+    "Clinic And Medical Care That Starts By Listening",
+    "Clinic And Medical In A Welcoming Space"
+  ],
+  "heroSubtitles": [
+    "Looking for help with clinic and medical? {brand} listens first, explains the options and lets you decide at your own pace.",
+    "From easy appointments to time for questions, {brand} keeps care simple: a short chat, a clear plan and time for your questions.",
+    "{brand} provides easy appointments and follow up guidance. We explain what to expect, what it involves and how to prepare."
+  ],
+  "button": "Book An Appointment",
+  "featureTitle": "Clinic And Medical Services We Offer",
+  "features": [
+    {
+      "title": "Easy Appointments",
+      "text": "Easy Appointments booked at a time that suits you, with guidance on how to prepare."
+    },
+    {
+      "title": "Time For Questions",
+      "text": "Questions about time for questions? Message us and we will answer before you book."
+    },
+    {
+      "title": "Plain Explanations",
+      "text": "We explain what plain explanations involves, how it is done and what to expect before we begin."
+    },
+    {
+      "title": "Follow Up Guidance",
+      "text": "Follow Up Guidance with time for your questions, and a plain explanation of the next step."
+    },
+    {
+      "title": "Clear Fees",
+      "text": "Ask about clear fees; we describe the options simply and let you decide at your own pace."
+    },
+    {
+      "title": "Calm Waiting Area",
+      "text": "For calm waiting area, we start by listening to your concern and then suggest a clear plan."
+    }
+  ],
+  "stats": [
+    {
+      "value": "Clear",
+      "label": "Explanations"
+    },
+    {
+      "value": "Same day",
+      "label": "Replies to messages"
+    },
+    {
+      "value": "Booked",
+      "label": "Time that suits you"
+    }
+  ],
+  "steps": {
+    "title": "How A Visit Works",
+    "items": [
+      {
+        "title": "Book A Visit",
+        "text": "Message or call to book your clinic and medical appointment and tell us your main concern."
+      },
+      {
+        "title": "Talk It Through",
+        "text": "We listen, ask questions and explain the options for easy appointments in plain words."
+      },
+      {
+        "title": "Get A Clear Plan",
+        "text": "You hear what time for questions involves, how long it takes and what to expect."
+      },
+      {
+        "title": "Follow Up",
+        "text": "We answer questions after plain explanations and tell you when to come back, if needed."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "How do I prepare for follow up guidance?",
+      "a": "We tell you what to do when you book, so you arrive knowing what to expect. This applies to easy appointments, time for questions and the rest of our clinic and medical work."
+    },
+    {
+      "q": "Can a family member come with me for easy appointments?",
+      "a": "Yes. Tell us when you book and we will make sure there is room. It is the same for time for questions as it is for easy appointments."
+    },
+    {
+      "q": "What if I am unsure about clear fees?",
+      "a": "Ask us. We explain the options calmly and never rush your decision. That goes for plain explanations and follow up guidance too."
+    },
+    {
+      "q": "How do I book easy appointments?",
+      "a": "Call or message us, say what you need and choose a time that suits you. Ask us about clear fees or calm waiting area and the answer is the same."
+    },
+    {
+      "q": "What should I bring to a clinic and medical visit?",
+      "a": "Any earlier reports or notes, and a list of your questions; we will tell you if anything else is needed. The same approach applies to easy appointments and calm waiting area."
+    }
+  ],
+  "cta": {
+    "title": "Need Clinic And Medical Advice?",
+    "button": "Book An Appointment"
+  },
+  "about": {
+    "title": "Who We Are",
+    "paragraphs": [
+      "At {brand} good clinic and medical begins with a conversation. You hear the plan in plain words before anything is done.",
+      "Our care includes easy appointments and time for questions. Ask about follow up guidance or clear fees too and we will tell you plainly what is possible."
+    ],
+    "points": [
+      "Time For Questions",
+      "Plain Explanations",
+      "Calm Welcome"
+    ]
+  },
+  "pricing": {
+    "title": "Clinic And Medical Fees",
+    "plans": [
+      {
+        "name": "First Visit",
+        "price": "$4",
+        "period": "/consultation",
+        "perks": [
+          "Easy Appointments Discussion",
+          "Plain Explanation",
+          "Time For Questions"
+        ]
+      },
+      {
+        "name": "Care Plan",
+        "price": "$15",
+        "period": "/checkup",
+        "perks": [
+          "Easy Appointments And Time For Questions",
+          "Follow-Up Check",
+          "Reminders When Due"
+        ]
+      },
+      {
+        "name": "Extended Care",
+        "price": "$40",
+        "period": "/care plan",
+        "perks": [
+          "Easy Appointments Plus Time For Questions And Plain Explanations",
+          "Extended Follow-Up",
+          "Priority Booking"
+        ]
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Inside Our Clinic And Medical Space",
+    "captions": [
+      "Easy Appointments",
+      "Time For Questions",
+      "Plain Explanations",
+      "Follow Up Guidance",
+      "Clear Fees",
+      "Calm Waiting Area"
+    ]
+  },
+  "team": {
+    "title": "Meet The Team",
+    "roles": [
+      "Clinic And Medical Practitioner",
+      "Easy Appointments Specialist",
+      "Patient Care Desk"
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "Quick reply about follow up guidance and a clear answer.",
+      "role": "Patient"
+    },
+    {
+      "quote": "They explained easy appointments calmly and gave me time to ask everything.",
+      "role": "Patient"
+    },
+    {
+      "quote": "Easy booking for time for questions, and a clear plan afterwards.",
+      "role": "Patient"
+    }
+  ],
+  "blog": {
+    "title": "From The Clinic And Medical Desk",
+    "posts": [
+      {
+        "tag": "Habits",
+        "title": "Small Habits That Support Calm Waiting Area"
+      },
+      {
+        "tag": "Guide",
+        "title": "What To Expect From Easy Appointments"
+      },
+      {
+        "tag": "Prepare",
+        "title": "How To Prepare For Time For Questions"
+      }
+    ]
+  },
+  "marquee": [
+    "Easy",
+    "Time",
+    "Plain",
+    "Follow Up",
+    "Clear Fees",
+    "Plain Answers",
+    "Calm Visits",
+    "Easy Booking"
+  ],
+  "contactText": "Tell {brand} about your concern: easy appointments, plain explanations or something close. We will answer with the next step and a time."
+}

@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "corecraft-ai"
+version = "1.0.0"
+description = "One short business description (English, Hinglish or Hindi) in, a React static website out. Pure Python standard library, offline."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "ayushmishra950" }]
+requires-python = ">=3.9"
+dependencies = []
+keywords = ["website generator", "static site", "react", "hindi", "hinglish", "offline"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Operating System :: OS Independent",
+    "Environment :: Console",
+    "Topic :: Internet :: WWW/HTTP :: Site Management",
+    "Natural Language :: English",
+    "Natural Language :: Hindi",
+]
+
+[project.scripts]
+corecraft = "corecraft.cli:main"
+
+# Only the corecraft package and the runtime data it reads. data/ (scraped corpora, the 16 MB n-gram model, the owner's corrections),
+# training/, webui.py, main.py, test_*.py and output/ stay in the repo.
+[tool.setuptools]
+packages = ["corecraft"]
+include-package-data = false
+
+[tool.setuptools.package-data]
+# niches.json: the default niche list (the 99 niches + 20 business types of the owner's spec document, built by training/build_niches.py);
+# author_niches.json: the author's 77 business types (fallback for trades the spec does not have, or the whole list with CORECRAFT_NICHE_FILE=author).
+corecraft = ["data/detector.json", "data/niches.json", "data/author_niches.json", "data/profile_vocab.json", "data/vocab.json", "data/fillers.json"]

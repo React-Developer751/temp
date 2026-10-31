@@ -1,0 +1,106 @@
+{
+  "niche": null,
+  "requested_niche": null,
+  "fallback": true,
+  "reason": "no picture niche for business type 'type_healthcare'",
+  "mood": "dark",
+  "accent": "#2769d8",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Clinics, hospitals and medical Clinics, hospitals and medical hospital medical centre doctor healthcare medical clinic nursing home Easy Appointments Time For Questions Plain Explanations Follow Up Guidance Clear Fees Calm Waiting Area",
+    "niche": null,
+    "title": "Abstract",
+    "fallback": true,
+    "mood": "dark",
+    "accent": "#2769d8",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 22,
+    "palette_family": 1.0,
+    "text_zone": "left",
+    "hero_contrast": 5.16,
+    "seconds": 6.41,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 1.0
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 15207,
+      "alt": "Illustration for Clinics, hospitals and medical",
+      "text_color": "#ffffff",
+      "contrast": 5.16,
+      "role": "hero",
+      "seed": 1
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 7883,
+      "alt": "About Clinics, hospitals and medical",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1014
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 6303,
+        "alt": "Clinics, hospitals and medical gallery picture",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2027
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 4983,
+        "alt": "Clinics, hospitals and medical gallery picture",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3040
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 6326,
+        "alt": "Clinics, hospitals and medical gallery picture",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4053
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 5909,
+        "alt": "Clinics, hospitals and medical gallery picture",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5066
+      }
+    ]
+  }
+}

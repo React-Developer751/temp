@@ -1,0 +1,106 @@
+{
+  "niche": "hotel",
+  "requested_niche": "hotel",
+  "fallback": false,
+  "reason": "business type hotel",
+  "mood": "warm",
+  "accent": "#dc5728",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Horizon Stay Hotel & Stay hotel udaipur Stays Amenities Restaurants Packages Suites",
+    "niche": "hotel",
+    "title": "Hotel, resort and stay",
+    "fallback": false,
+    "mood": "warm",
+    "accent": "#dc5728",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 20,
+    "palette_family": 0.993,
+    "text_zone": "left",
+    "hero_contrast": 4.78,
+    "seconds": 4.89,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.993
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 31219,
+      "alt": "Illustration for Horizon Stay: Hotel, resort and stay",
+      "text_color": "#0d0d14",
+      "contrast": 4.78,
+      "role": "hero",
+      "seed": 3
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 22677,
+      "alt": "About Horizon Stay: Hotel, resort and stay",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1016
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 17599,
+        "alt": "Horizon Stay gallery picture: Hotel, resort and stay",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2029
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 14859,
+        "alt": "Horizon Stay gallery picture: Hotel, resort and stay",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3042
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 17615,
+        "alt": "Horizon Stay gallery picture: Hotel, resort and stay",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4055
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 16577,
+        "alt": "Horizon Stay gallery picture: Hotel, resort and stay",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5068
+      }
+    ]
+  }
+}

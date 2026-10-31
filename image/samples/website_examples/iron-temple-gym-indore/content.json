@@ -1,0 +1,179 @@
+{
+  "brand": "Iron Temple Gym Indore",
+  "niche": "fitness",
+  "kind": "fitness",
+  "profile": "crossfit",
+  "business_type": "gym",
+  "type_label": "Gym & Fitness Studio",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "bold",
+  "keywords": [
+    "weight",
+    "training",
+    "crossfit",
+    "personal",
+    "trainers"
+  ],
+  "eyebrow": "Gym & Fitness Studio",
+  "location": "",
+  "audience": "",
+  "hero_heading": "Weight training and crossfit, for the long run",
+  "tagline": "Iron Temple Gym Indore coaches personal trainers. Bring water and a towel.",
+  "about_title": "About Iron Temple Gym Indore",
+  "about": [
+    "People come to Iron Temple Gym Indore for personal trainers and weight training. No experience needed to start.",
+    "Take a look around and ask us anything. Bring a friend; it helps to start together."
+  ],
+  "features_title": "Sessions",
+  "features": [
+    {
+      "title": "Weight Training",
+      "text": "Weight training is for every level; the coach adjusts as you go."
+    },
+    {
+      "title": "Crossfit",
+      "text": "We'll explain crossfit before you begin and adjust it as you improve."
+    },
+    {
+      "title": "Personal Trainers",
+      "text": "Personal trainers: show up, follow the coach, and track your progress."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Train together",
+      "text": "Bring a friend."
+    },
+    {
+      "title": "Questions welcome",
+      "text": "Big or small."
+    },
+    {
+      "title": "Track progress",
+      "text": "Numbers that show the work."
+    }
+  ],
+  "stats_title": "In short",
+  "stats": [],
+  "steps_title": "Three simple steps",
+  "steps": [
+    {
+      "title": "Get in touch",
+      "text": "Send a message or call and tell us what you need."
+    },
+    {
+      "title": "Warm up and learn",
+      "text": "The coach introduces weight training or crossfit and checks your form."
+    },
+    {
+      "title": "Keep going",
+      "text": "Regular sessions, regular check-ins."
+    }
+  ],
+  "faq_title": "Before you ask",
+  "faq": [
+    {
+      "q": "Do I need experience?",
+      "a": "Tell the coach you are new and they'll guide you from the start."
+    },
+    {
+      "q": "How do I book?",
+      "a": "Use the contact information on this page."
+    },
+    {
+      "q": "Can I ask about weight training?",
+      "a": "Of course; ask what a session looks like."
+    },
+    {
+      "q": "Can I change my plans?",
+      "a": "Message us and we'll explain the options."
+    }
+  ],
+  "blog_title": "Worth reading",
+  "blog": [
+    {
+      "title": "What a good first conversation covers",
+      "excerpt": "And what to expect afterwards."
+    },
+    {
+      "title": "Small things that make a difference",
+      "excerpt": "Notes from everyday experience."
+    },
+    {
+      "title": "Keeping track of your plans",
+      "excerpt": "A simple way to stay organised."
+    }
+  ],
+  "contact": {},
+  "cta_primary": "Start a free trial",
+  "cta_secondary": "Book a session",
+  "cta_text": "Try crossfit once and see.",
+  "cta_title": "Say hello",
+  "footer": "© Iron Temple Gym Indore. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "name": {
+      "value": "Iron Temple Gym Indore",
+      "source": "prompt"
+    },
+    "services": {
+      "value": [
+        "weight training",
+        "crossfit",
+        "personal trainers"
+      ],
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "city",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "gym (confidence high)",
+    "items_from_prompt": [
+      "weight training",
+      "crossfit",
+      "personal trainers"
+    ],
+    "place": "",
+    "mode": "strict (your phrases only)",
+    "copy": "frames + user phrases",
+    "profile": "crossfit",
+    "kind": "fitness"
+  },
+  "needs_review": [
+    "No location was given; add a city to make the copy local."
+  ]
+}

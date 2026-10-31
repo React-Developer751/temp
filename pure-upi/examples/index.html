@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Go Premium</title>
+<style>
+  :root { --bg: #f6f7f9; --card: #fff; --text: #16181d; --muted: #5b6270; --line: #e3e6eb; --accent: #4f46e5; --ok: #15803d; --err: #b91c1c; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #111317; --card: #1a1d23; --text: #eceef2; --muted: #9aa1ad; --line: #2a2e36; --accent: #818cf8; --ok: #4ade80; --err: #f87171; } }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 16px/1.5 system-ui, sans-serif; background: var(--bg); color: var(--text); }
+  main { max-width: 440px; margin: 32px auto; padding: 0 16px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 20px; margin-bottom: 16px; }
+  h1 { font-size: 22px; margin: 0 0 4px; } h2 { font-size: 17px; margin: 0 0 12px; }
+  .muted { color: var(--muted); font-size: 14px; }
+  button, .btn { display: inline-block; width: 100%; padding: 12px; border: 0; border-radius: 10px; background: var(--accent); color: #fff; font: inherit; font-weight: 600; cursor: pointer; text-align: center; text-decoration: none; margin-top: 8px; }
+  button.secondary { background: transparent; color: var(--accent); border: 1px solid var(--line); }
+  input { width: 100%; padding: 11px 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg); color: var(--text); font: inherit; letter-spacing: .5px; }
+  .plans { display: grid; gap: 10px; }
+  .plan { display: flex; justify-content: space-between; align-items: center; border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; }
+  .plan button { width: auto; margin: 0; padding: 8px 14px; }
+  .qr { background: #fff; border-radius: 10px; padding: 8px; width: 240px; margin: 12px auto; }
+  .amount { font-size: 28px; font-weight: 700; text-align: center; }
+  .msg { margin-top: 10px; font-size: 14px; } .msg.ok { color: var(--ok); } .msg.err { color: var(--err); }
+  .badge { display: inline-block; padding: 2px 10px; border-radius: 99px; background: var(--ok); color: #fff; font-size: 13px; }
+  ol { padding-left: 20px; margin: 8px 0; color: var(--muted); font-size: 14px; }
+</style>
+</head>
+<body>
+<main>
+  <div class="card" id="login">
+    <h1>Demo login</h1>
+    <p class="muted">Any name. Use <b>admin</b> on the admin page.</p>
+    <input id="name" placeholder="Your name" autocomplete="off">
+    <button id="loginBtn">Continue</button>
+  </div>
+
+  <div id="app" hidden>
+    <div class="card">
+      <h1>Hi <span id="who"></span></h1>
+      <div id="status" class="muted"></div>
+    </div>
+
+    <div class="card" id="plansCard">
+      <h2>Go Premium</h2>
+      <div class="plans" id="plans"></div>
+    </div>
+
+    <div class="card" id="payCard" hidden>
+      <h2>Pay with any UPI app</h2>
+      <div class="amount">₹<span id="amount"></span></div>
+      <p class="muted" style="text-align:center;margin:0">Pay this <b>exact</b> amount</p>
+      <div class="qr" id="qr"></div>
+      <a class="btn" id="openApp" hidden>Open UPI app</a>
+      <ol>
+        <li>Scan the QR with GPay / PhonePe / Paytm / BHIM.</li>
+        <li>After paying, copy the 12-digit <b>UTR / UPI Ref No.</b> from the app.</li>
+        <li>Paste it below.</li>
+      </ol>
+      <input id="utr" inputmode="numeric" maxlength="14" placeholder="12-digit UTR, e.g. 412345678901">
+      <button id="submitUtr">I have paid</button>
+      <button class="secondary" id="cancel">Cancel</button>
+      <div class="msg" id="msg"></div>
+    </div>
+  </div>
+</main>
+
+<script type="module">
+  import { createUpiClient, canOpenUpiApp } from '/lib/client.js';
+
+  const upi = createUpiClient({ baseUrl: '/api/upi' });
+  const $ = (id) => document.getElementById(id);
+  let current = null;
+  let poll = null;
+
+  async function me() { return (await fetch('/api/me')).json(); }
+
+  async function render() {
+    const { user, premium } = await me();
+    $('login').hidden = !!user;
+    $('app').hidden = !user;
+    if (!user) return;
+    $('who').textContent = user;
+    $('status').innerHTML = premium ? `<span class="badge">Premium active: ${premium}</span>` : 'Free account';
+    $('plansCard').hidden = !!premium || !!current;
+    if (premium) { $('payCard').hidden = true; current = null; clearInterval(poll); }
+
+    // Resume an unfinished order after a reload
+    if (!current && !premium) {
+      const open = (await upi.myOrders()).find((o) => o.status === 'pending' || o.status === 'submitted');
+      if (open) show(await upi.getOrder(open.id));
+    }
+
+    const plans = await upi.plans();
+    $('plans').replaceChildren(...plans.map((p) => {
+      const row = document.createElement('div');
+      row.className = 'plan';
+      row.innerHTML = `<div><b></b><div class="muted">₹${p.price}</div></div><button>Buy</button>`;
+      row.querySelector('b').textContent = p.name;
+      row.querySelector('button').onclick = async () => show(await upi.createOrder(p.id));
+      return row;
+    }));
+  }
+
+  function show({ order, link, qrSvg }) {
+    current = order;
+    $('plansCard').hidden = true;
+    $('payCard').hidden = false;
+    $('amount').textContent = order.amount;
+    if (qrSvg) $('qr').innerHTML = qrSvg;
+    $('qr').hidden = !qrSvg;
+    $('openApp').hidden = !(link && canOpenUpiApp());
+    if (link) $('openApp').href = link;
+    const waiting = order.status === 'submitted';
+    $('utr').hidden = $('submitUtr').hidden = waiting;
+    setMsg(waiting ? 'Payment submitted. Waiting for verification - this page updates by itself.' : '', 'ok');
+    clearInterval(poll);
+    if (waiting) poll = setInterval(check, 3000);
+  }
+
+  async function check() {
+    const { order } = await upi.getOrder(current.id);
+    if (order.status === 'approved') { setMsg('Payment verified!', 'ok'); clearInterval(poll); render(); }
+    if (order.status === 'rejected') {
+      clearInterval(poll);
+      current = null;
+      setMsg(`Payment rejected${order.reason ? `: ${order.reason}` : ''}. Please try again.`, 'err');
+      $('plansCard').hidden = false;
+    }
+  }
+
+  function setMsg(text, kind) { $('msg').textContent = text; $('msg').className = `msg ${kind}`; }
+
+  $('submitUtr').onclick = async () => {
+    try {
+      const order = await upi.submitUtr(current.id, $('utr').value);
+      show({ order });
+    } catch (e) { setMsg(e.message, 'err'); }
+  };
+  $('cancel').onclick = () => { current = null; clearInterval(poll); $('payCard').hidden = true; $('plansCard').hidden = false; };
+  $('loginBtn').onclick = async () => {
+    await fetch('/api/login', { method: 'POST', body: JSON.stringify({ user: $('name').value }) });
+    render();
+  };
+  render();
+</script>
+</body>
+</html>

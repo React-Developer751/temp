@@ -1,0 +1,5892 @@
+{
+ "source": "author: corecraft/business_types.py + corecraft/pack_niches.py + corecraft/pack_types.py (training/build_niches.py)",
+ "general": "general",
+ "niches": [
+  {
+   "id": "dental",
+   "label": "Dental Clinic",
+   "theme": "clinic",
+   "family": "clinic",
+   "mood": "calm",
+   "services": [
+    "Dental Cleanings",
+    "Whitening",
+    "Braces",
+    "Aligners",
+    "Fillings",
+    "Implants"
+   ],
+   "keywords": [
+    "dental",
+    "dentist",
+    "dentistry",
+    "teeth",
+    "tooth",
+    "root canal",
+    "braces",
+    "दांत",
+    "डेंटल",
+    "दंत",
+    "dant ka doctor",
+    "dantwala",
+    "danton ka",
+    "dant",
+    "dental care",
+    "orthodontist",
+    "tooth doctor",
+    "smile clinic",
+    "दांतों का",
+    "दाँतों",
+    "दांत का डॉक्टर",
+    "डेंटल क्लिनिक",
+    "डेंटिस्ट",
+    "दंत चिकित्सा"
+   ],
+   "requests": [
+    "dental clinic",
+    "dental",
+    "dentist",
+    "dentistry",
+    "teeth",
+    "दांत"
+   ],
+   "food": false,
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     25,
+     "/cleaning"
+    ],
+    [
+     120,
+     "/root canal"
+    ]
+   ],
+   "button": "Book A Dental Visit",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "dental_clinic"
+   ]
+  },
+  {
+   "id": "clinic",
+   "label": "Medical Clinic",
+   "theme": "clinic",
+   "family": "clinic",
+   "mood": "calm",
+   "services": [
+    "Health Tests",
+    "Health Vaccinations",
+    "Health Consultations",
+    "Health Check-ups",
+    "Health Screenings",
+    "Health Treatments"
+   ],
+   "keywords": [
+    "doctor",
+    "hospital",
+    "nursing home",
+    "polyclinic",
+    "medical centre",
+    "medical center",
+    "diagnostic",
+    "pathology",
+    "health centre",
+    "क्लिनिक",
+    "डॉक्टर",
+    "अस्पताल",
+    "general physician",
+    "family doctor",
+    "multispeciality",
+    "multi speciality",
+    "paediatrician",
+    "pediatrician",
+    "dispensary",
+    "aspatal",
+    "davakhana",
+    "doctor sahab",
+    "doctor ka clinic",
+    "दवाखाना",
+    "चिकित्सक",
+    "नर्सिंग होम",
+    "शिशु रोग"
+   ],
+   "requests": [
+    "medical clinic",
+    "doctor",
+    "hospital",
+    "nursing home",
+    "polyclinic",
+    "क्लिनिक"
+   ],
+   "food": false,
+   "prices": [
+    [
+     5,
+     "/consultation"
+    ],
+    [
+     15,
+     "/checkup"
+    ],
+    [
+     40,
+     "/care plan"
+    ]
+   ],
+   "button": "Book A Doctor Visit",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "diagnostic_lab",
+    "general_physician_clinic"
+   ]
+  },
+  {
+   "id": "ayurveda",
+   "label": "Ayurvedic Clinic",
+   "theme": "clinic",
+   "family": "clinic",
+   "mood": "friendly",
+   "services": [
+    "Ayurvedic Therapies",
+    "Ayurvedic Remedies",
+    "Diets",
+    "Detox Plans",
+    "Herbs",
+    "Oils"
+   ],
+   "keywords": [
+    "ayurveda",
+    "ayurvedic",
+    "panchakarma",
+    "herbal",
+    "naturopath",
+    "homeopath",
+    "homeopathy",
+    "आयुर्वेद",
+    "herbal treatment",
+    "vaidya",
+    "ayurveda centre",
+    "naturopathy",
+    "आयुर्वेदिक",
+    "पंचकर्म",
+    "वैद्य",
+    "हर्बल"
+   ],
+   "requests": [
+    "ayurvedic clinic",
+    "ayurveda",
+    "ayurvedic",
+    "panchakarma",
+    "herbal",
+    "आयुर्वेद"
+   ],
+   "food": false,
+   "prices": [
+    [
+     8,
+     "/consultation"
+    ],
+    [
+     35,
+     "/therapy session"
+    ],
+    [
+     180,
+     "/programme"
+    ]
+   ],
+   "button": "Book A Consultation",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "ayurveda_panchakarma"
+   ]
+  },
+  {
+   "id": "physio",
+   "label": "Physiotherapy Centre",
+   "theme": "clinic",
+   "family": "clinic",
+   "mood": "calm",
+   "services": [
+    "Exercises",
+    "Physio Stretches",
+    "Rehabilitation Plans",
+    "Taping",
+    "Posture Checks",
+    "Physio Sessions"
+   ],
+   "keywords": [
+    "physio",
+    "physiotherapy",
+    "physiotherapist",
+    "rehab",
+    "rehabilitation",
+    "फिजियो",
+    "rehab centre",
+    "back pain",
+    "knee pain",
+    "sports injury",
+    "chiropractor",
+    "फिजियोथेरेपी",
+    "फिजियोथेरेपिस्ट"
+   ],
+   "requests": [
+    "physiotherapy centre",
+    "physio",
+    "physiotherapy",
+    "physiotherapist",
+    "rehab",
+    "फिजियो"
+   ],
+   "food": false,
+   "prices": [
+    [
+     10,
+     "/session"
+    ],
+    [
+     80,
+     "/10 sessions"
+    ],
+    [
+     180,
+     "/20 sessions"
+    ]
+   ],
+   "button": "Book A Physio Session",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "physiotherapy"
+   ]
+  },
+  {
+   "id": "salon",
+   "label": "Hair and Beauty Salon",
+   "theme": "session",
+   "family": "session",
+   "mood": "playful",
+   "services": [
+    "Haircuts",
+    "Colouring",
+    "Manicures",
+    "Pedicures",
+    "Waxing",
+    "Styling"
+   ],
+   "keywords": [
+    "salon",
+    "parlour",
+    "parlor",
+    "barber",
+    "makeup",
+    "unisex",
+    "सैलून",
+    "पार्लर",
+    "ब्यूटी",
+    "beauty parlour",
+    "beauty parlor",
+    "hair salon",
+    "mens salon",
+    "ladies salon",
+    "hair cut",
+    "haircut",
+    "beautician",
+    "nai ki dukaan",
+    "ब्यूटी पार्लर",
+    "हेयर कटिंग",
+    "ब्यूटीशियन",
+    "नाई"
+   ],
+   "requests": [
+    "hair and beauty salon",
+    "salon",
+    "parlour",
+    "parlor",
+    "barber",
+    "सैलून"
+   ],
+   "food": false,
+   "prices": [
+    [
+     4,
+     "/cut"
+    ],
+    [
+     12,
+     "/colour"
+    ],
+    [
+     25,
+     "/spa treatment"
+    ]
+   ],
+   "button": "Book A Chair",
+   "team": [
+    "Senior Stylist",
+    "Spa Therapist",
+    "Front Desk"
+   ],
+   "menu": null,
+   "spec_equiv": [
+    "barber_shop",
+    "bridal_makeup",
+    "hair_salon_spa"
+   ]
+  },
+  {
+   "id": "spa",
+   "label": "Spa and Wellness Centre",
+   "theme": "session",
+   "family": "session",
+   "mood": "elegant",
+   "services": [
+    "Spa Therapies",
+    "Rituals",
+    "Scrubs",
+    "Wraps",
+    "Gift Vouchers",
+    "Spa Massages"
+   ],
+   "keywords": [
+    "spa",
+    "massage",
+    "wellness centre",
+    "wellness center",
+    "स्पा",
+    "मसाज",
+    "body massage",
+    "aromatherapy",
+    "day spa",
+    "foot massage"
+   ],
+   "requests": [
+    "spa and wellness centre",
+    "spa",
+    "massage",
+    "wellness centre",
+    "wellness center",
+    "स्पा"
+   ],
+   "food": false,
+   "prices": [
+    [
+     12,
+     "/massage"
+    ],
+    [
+     30,
+     "/spa ritual"
+    ],
+    [
+     70,
+     "/day package"
+    ]
+   ],
+   "button": "Book A Treatment",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "hair_salon_spa"
+   ]
+  },
+  {
+   "id": "vet",
+   "label": "Veterinary Clinic",
+   "theme": "clinic",
+   "family": "clinic",
+   "mood": "friendly",
+   "services": [
+    "Pet Vaccinations",
+    "Pet Grooming",
+    "Boarding",
+    "Dental Cleanings",
+    "Pet Surgeries",
+    "Nutrition Plans"
+   ],
+   "keywords": [
+    "vet",
+    "veterinary",
+    "animal hospital",
+    "pet clinic",
+    "पशु",
+    "vet clinic",
+    "animal clinic",
+    "animal doctor",
+    "pet doctor",
+    "janwar",
+    "janwaron ka doctor",
+    "पशु चिकित्सालय",
+    "पालतू जानवर",
+    "जानवरों का डॉक्टर"
+   ],
+   "requests": [
+    "veterinary clinic",
+    "vet",
+    "veterinary",
+    "animal hospital",
+    "pet clinic",
+    "पशु"
+   ],
+   "food": false,
+   "prices": [
+    [
+     10,
+     "/grooming"
+    ],
+    [
+     25,
+     "/vet consultation"
+    ],
+    [
+     60,
+     "/boarding week"
+    ]
+   ],
+   "button": "Book A Pet Visit",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "pet_grooming_vet"
+   ]
+  },
+  {
+   "id": "law",
+   "label": "Law Firm",
+   "theme": "pro",
+   "family": "pro",
+   "mood": "calm",
+   "services": [
+    "Agreements",
+    "Legal Filings",
+    "Opinions",
+    "Representations",
+    "Notices",
+    "Petitions"
+   ],
+   "keywords": [
+    "law firm",
+    "lawyer",
+    "advocate",
+    "attorney",
+    "legal",
+    "vakil",
+    "litigation",
+    "वकील",
+    "कानूनी",
+    "legal advisor",
+    "vakeel",
+    "court",
+    "criminal cases",
+    "divorce lawyer",
+    "legal services",
+    "अधिवक्ता",
+    "न्यायालय",
+    "कोर्ट"
+   ],
+   "requests": [
+    "law firm",
+    "lawyer",
+    "advocate",
+    "attorney",
+    "legal",
+    "वकील"
+   ],
+   "food": false,
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     40,
+     "/document review"
+    ],
+    [
+     150,
+     "/case support"
+    ]
+   ],
+   "button": "Book A Legal Chat",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "law_firm_advocate"
+   ]
+  },
+  {
+   "id": "accounting",
+   "label": "Accounting Firm",
+   "theme": "pro",
+   "family": "pro",
+   "mood": "calm",
+   "services": [
+    "Tax Returns",
+    "Tax Filings",
+    "Registrations",
+    "Tax Statements",
+    "Invoices",
+    "Payrolls"
+   ],
+   "keywords": [
+    "accounting",
+    "accountant",
+    "chartered accountant",
+    "ca firm",
+    "gst",
+    "income tax",
+    "audit",
+    "bookkeeping",
+    "taxation",
+    "tax filing",
+    "लेखा",
+    "tax consultant",
+    "itr",
+    "tally",
+    "लेखाकार",
+    "सीए",
+    "टैक्स",
+    "जीएसटी",
+    "अकाउंटेंट"
+   ],
+   "requests": [
+    "accounting firm",
+    "accounting",
+    "accountant",
+    "chartered accountant",
+    "ca firm",
+    "लेखा"
+   ],
+   "food": false,
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     25,
+     "/return filing"
+    ],
+    [
+     140,
+     "/annual package"
+    ]
+   ],
+   "button": "Book A Tax Chat",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "chartered_accountant"
+   ]
+  },
+  {
+   "id": "architect",
+   "label": "Architecture Studio",
+   "theme": "project",
+   "family": "project",
+   "mood": "elegant",
+   "services": [
+    "Drawings",
+    "Architectural Layouts",
+    "Renderings",
+    "Elevations",
+    "Models",
+    "Approvals"
+   ],
+   "keywords": [
+    "architect",
+    "architecture",
+    "architectural",
+    "आर्किटेक्ट",
+    "building design",
+    "floor plan",
+    "home design",
+    "वास्तुकार"
+   ],
+   "requests": [
+    "architecture studio",
+    "architect",
+    "architecture",
+    "architectural",
+    "building design",
+    "आर्किटेक्ट"
+   ],
+   "food": false,
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     150,
+     "/design stage"
+    ],
+    [
+     600,
+     "/full project"
+    ]
+   ],
+   "button": "Book A Design Chat",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "architect_construction"
+   ]
+  },
+  {
+   "id": "interior",
+   "label": "Interior Design Studio",
+   "theme": "project",
+   "family": "project",
+   "mood": "elegant",
+   "services": [
+    "Interior Layouts",
+    "Interior Renovations",
+    "Mood Boards",
+    "Furnishings",
+    "Bedrooms",
+    "Living Rooms"
+   ],
+   "keywords": [
+    "interior",
+    "decorator",
+    "home decor",
+    "furnishing",
+    "इंटीरियर",
+    "interior designer",
+    "interior design",
+    "interior decorator",
+    "interior decoration",
+    "modular kitchen",
+    "home interior",
+    "false ceiling",
+    "आंतरिक सज्जा"
+   ],
+   "requests": [
+    "interior design studio",
+    "interior",
+    "home decor",
+    "furnishing",
+    "interior designer",
+    "इंटीरियर"
+   ],
+   "food": false,
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     120,
+     "/small project"
+    ],
+    [
+     400,
+     "/full project"
+    ]
+   ],
+   "button": "Book A Design Chat",
+   "team": [
+    "Lead Designer",
+    "Site Coordinator",
+    "Client Desk"
+   ],
+   "menu": null,
+   "spec_equiv": [
+    "interior_designer"
+   ]
+  },
+  {
+   "id": "realestate",
+   "label": "Real Estate Agency",
+   "theme": "property",
+   "family": "property",
+   "mood": "calm",
+   "services": [
+    "Flats",
+    "Villas",
+    "Plots",
+    "Apartments",
+    "Property Rentals",
+    "Property Listings"
+   ],
+   "keywords": [
+    "real estate",
+    "property",
+    "broker",
+    "realtor",
+    "flats",
+    "villas",
+    "plots",
+    "apartments",
+    "प्रॉपर्टी",
+    "रियल एस्टेट",
+    "property dealer",
+    "property agent",
+    "estate agent",
+    "builder selling",
+    "makaan bechne",
+    "मकान",
+    "फ्लैट",
+    "प्लॉट",
+    "जमीन"
+   ],
+   "requests": [
+    "real estate agency",
+    "real estate",
+    "property",
+    "broker",
+    "realtor",
+    "प्रॉपर्टी"
+   ],
+   "food": false,
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     30,
+     "/property search"
+    ],
+    [
+     80,
+     "/full service"
+    ]
+   ],
+   "button": "Book A Viewing",
+   "team": [
+    "Property Advisor",
+    "Viewing Coordinator",
+    "Client Desk"
+   ],
+   "menu": null,
+   "spec_equiv": [
+    "real_estate_agent"
+   ]
+  },
+  {
+   "id": "insurance",
+   "label": "Insurance and Finance Advisor",
+   "theme": "pro",
+   "family": "pro",
+   "mood": "calm",
+   "services": [
+    "Policies",
+    "Loans",
+    "Investments",
+    "Claims",
+    "Insurance Renewals",
+    "Insurance Covers"
+   ],
+   "keywords": [
+    "insurance",
+    "loan",
+    "mutual fund",
+    "financial advisor",
+    "wealth",
+    "investment advisor",
+    "बीमा",
+    "lic agent",
+    "lic",
+    "bima",
+    "policy advisor",
+    "health insurance",
+    "life insurance",
+    "mediclaim",
+    "mutual fund advisor",
+    "इंश्योरेंस"
+   ],
+   "requests": [
+    "insurance and finance advisor",
+    "insurance",
+    "loan",
+    "mutual fund",
+    "financial advisor",
+    "बीमा"
+   ],
+   "food": false,
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     20,
+     "/policy review"
+    ],
+    [
+     60,
+     "/family plan advice"
+    ]
+   ],
+   "button": "Book A Policy Chat",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "insurance_agent",
+    "loan_finance_agent"
+   ]
+  },
+  {
+   "id": "marketing",
+   "label": "Digital Marketing Agency",
+   "theme": "project",
+   "family": "project",
+   "mood": "bold",
+   "services": [
+    "Marketing Campaigns",
+    "Marketing Strategies",
+    "Websites",
+    "Ads",
+    "Posts",
+    "Marketing Videos"
+   ],
+   "keywords": [
+    "digital marketing",
+    "marketing agency",
+    "seo",
+    "social media",
+    "advertising",
+    "branding agency",
+    "ad agency",
+    "social media marketing",
+    "social media management",
+    "performance marketing",
+    "ppc",
+    "advertising agency",
+    "डिजिटल मार्केटिंग"
+   ],
+   "requests": [
+    "digital marketing agency",
+    "digital marketing",
+    "marketing agency",
+    "seo",
+    "social media",
+    "डिजिटल मार्केटिंग"
+   ],
+   "food": false,
+   "prices": [
+    [
+     60,
+     "/month"
+    ],
+    [
+     180,
+     "/month"
+    ],
+    [
+     400,
+     "/month"
+    ]
+   ],
+   "button": "Get A Growth Plan",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "digital_marketing_agency"
+   ]
+  },
+  {
+   "id": "consulting",
+   "label": "Consulting Firm",
+   "theme": "pro",
+   "family": "pro",
+   "mood": "calm",
+   "services": [
+    "Business Strategies",
+    "Roadmaps",
+    "Trainings",
+    "Business Audits",
+    "Business Workshops",
+    "Business Reports"
+   ],
+   "keywords": [
+    "consulting",
+    "consultant",
+    "advisory",
+    "management consultancy",
+    "business setup",
+    "consultancy",
+    "management consultant",
+    "business consultant",
+    "startup advisory",
+    "सलाहकार",
+    "परामर्श"
+   ],
+   "requests": [
+    "consulting firm",
+    "consulting",
+    "consultant",
+    "advisory",
+    "management consultancy",
+    "सलाहकार"
+   ],
+   "food": false,
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     150,
+     "/assessment"
+    ],
+    [
+     500,
+     "/project"
+    ]
+   ],
+   "button": "Book A Consultation",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [],
+   "spec_theme": "professional_services"
+  },
+  {
+   "id": "recruitment",
+   "label": "Recruitment Agency",
+   "theme": "pro",
+   "family": "pro",
+   "mood": "calm",
+   "services": [
+    "Placements",
+    "Hiring Interviews",
+    "Hiring Listings",
+    "Roles",
+    "Shortlists",
+    "Candidates"
+   ],
+   "keywords": [
+    "recruitment",
+    "staffing",
+    "placement",
+    "manpower",
+    "hiring agency",
+    "hr consultancy",
+    "hr agency",
+    "hiring",
+    "job consultancy",
+    "naukri",
+    "job placement",
+    "भर्ती",
+    "नौकरी",
+    "प्लेसमेंट"
+   ],
+   "requests": [
+    "recruitment agency",
+    "recruitment",
+    "staffing",
+    "placement",
+    "manpower",
+    "भर्ती"
+   ],
+   "food": false,
+   "prices": [
+    [
+     0,
+     "/employer enquiry"
+    ],
+    [
+     120,
+     "/hire"
+    ],
+    [
+     300,
+     "/senior hire"
+    ]
+   ],
+   "button": "Share A Requirement",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "recruitment_agency"
+   ]
+  },
+  {
+   "id": "coworking",
+   "label": "Coworking Space",
+   "theme": "stay",
+   "family": "stay",
+   "mood": "cool",
+   "services": [
+    "Office Desks",
+    "Cabins",
+    "Office Rooms",
+    "Passes",
+    "Office Memberships",
+    "Workstations"
+   ],
+   "keywords": [
+    "coworking",
+    "co-working",
+    "shared office",
+    "office space",
+    "cowork",
+    "private cabins",
+    "hot desk",
+    "business centre",
+    "को-वर्किंग",
+    "कोवर्किंग"
+   ],
+   "requests": [
+    "coworking space",
+    "coworking",
+    "co-working",
+    "shared office",
+    "office space",
+    "को-वर्किंग"
+   ],
+   "food": false,
+   "prices": [
+    [
+     3,
+     "/hot desk day"
+    ],
+    [
+     40,
+     "/hot desk month"
+    ],
+    [
+     90,
+     "/private cabin month"
+    ]
+   ],
+   "button": "Book A Desk Tour",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "coworking_space"
+   ]
+  },
+  {
+   "id": "plumbing",
+   "label": "Plumbing Service",
+   "theme": "home",
+   "family": "home",
+   "mood": "calm",
+   "services": [
+    "Pipes",
+    "Drains",
+    "Faucets",
+    "Heaters",
+    "Plumbing Fixtures",
+    "Plumbing Repairs"
+   ],
+   "keywords": [
+    "plumber",
+    "plumbing",
+    "pipe",
+    "drain",
+    "नल",
+    "leakage",
+    "bathroom fitting",
+    "pipe fitting",
+    "nal",
+    "nalka",
+    "drainage",
+    "sanitary",
+    "प्लंबर",
+    "प्लंबिंग",
+    "पाइप",
+    "सैनिटरी"
+   ],
+   "requests": [
+    "plumbing service",
+    "plumber",
+    "plumbing",
+    "pipe",
+    "drain",
+    "नल"
+   ],
+   "food": false,
+   "prices": [
+    [
+     6,
+     "/visit"
+    ],
+    [
+     20,
+     "/repair job"
+    ],
+    [
+     60,
+     "/installation job"
+    ]
+   ],
+   "button": "Book A Home Visit",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "plumber_electrician"
+   ]
+  },
+  {
+   "id": "electrician",
+   "label": "Electrical Service",
+   "theme": "home",
+   "family": "home",
+   "mood": "calm",
+   "services": [
+    "Electrical Fixtures",
+    "Wiring",
+    "Switches",
+    "Electrical Lights",
+    "Electrical Panels",
+    "Electrical Repairs"
+   ],
+   "keywords": [
+    "electrician",
+    "electrical",
+    "wiring",
+    "बिजली",
+    "इलेक्ट्रीशियन",
+    "house wiring",
+    "fan fitting",
+    "electrical work",
+    "bijli mistri",
+    "bijli ka kaam",
+    "mcb",
+    "inverter fitting",
+    "बिजली मिस्त्री",
+    "वायरिंग"
+   ],
+   "requests": [
+    "electrical service",
+    "electrician",
+    "electrical",
+    "wiring",
+    "house wiring",
+    "बिजली"
+   ],
+   "food": false,
+   "prices": [
+    [
+     6,
+     "/visit"
+    ],
+    [
+     20,
+     "/repair job"
+    ],
+    [
+     60,
+     "/installation job"
+    ]
+   ],
+   "button": "Book A Home Visit",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "plumber_electrician"
+   ]
+  },
+  {
+   "id": "painting",
+   "label": "Painting Service",
+   "theme": "home",
+   "family": "home",
+   "mood": "playful",
+   "services": [
+    "Repaints",
+    "Coatings",
+    "Paint Finishes",
+    "Textures",
+    "Interiors",
+    "Exteriors"
+   ],
+   "keywords": [
+    "painter",
+    "painting",
+    "whitewash",
+    "पेंट",
+    "painting contractor",
+    "wall painting",
+    "house painting",
+    "wall putty",
+    "rangai",
+    "rang rogan",
+    "distemper",
+    "पेंटर",
+    "रंगाई",
+    "रंग रोगन"
+   ],
+   "requests": [
+    "painting service",
+    "painter",
+    "painting",
+    "whitewash",
+    "painting contractor",
+    "पेंट"
+   ],
+   "food": false,
+   "prices": [
+    [
+     22,
+     "/room"
+    ],
+    [
+     70,
+     "/2 bhk home"
+    ],
+    [
+     130,
+     "/3 bhk home"
+    ]
+   ],
+   "button": "Get A Painting Quote",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "painting_contractor"
+   ]
+  },
+  {
+   "id": "carpentry",
+   "label": "Carpentry and Woodwork",
+   "theme": "project",
+   "family": "project",
+   "mood": "warm",
+   "services": [
+    "Wood Cabinets",
+    "Wood Fittings",
+    "Doors",
+    "Wood Shelves",
+    "Wood Wardrobes",
+    "Wood Kitchens"
+   ],
+   "keywords": [
+    "carpenter",
+    "carpentry",
+    "woodwork",
+    "modular kitchen",
+    "wardrobe",
+    "modular wardrobe",
+    "furniture carpenter",
+    "badhai",
+    "badhai ka kaam",
+    "कारपेंटर",
+    "बढ़ई",
+    "लकड़ी का काम"
+   ],
+   "requests": [
+    "carpentry and woodwork",
+    "carpenter",
+    "carpentry",
+    "woodwork",
+    "wardrobe",
+    "कारपेंटर"
+   ],
+   "food": false,
+   "prices": [
+    [
+     15,
+     "/job"
+    ],
+    [
+     60,
+     "/piece"
+    ],
+    [
+     180,
+     "/project"
+    ]
+   ],
+   "button": "Get A Furniture Quote",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "carpentry_furniture"
+   ]
+  },
+  {
+   "id": "ac",
+   "label": "AC and Appliance Repair",
+   "theme": "home",
+   "family": "home",
+   "mood": "cool",
+   "services": [
+    "AC Checkups",
+    "Gas Refills",
+    "AC Cleanings",
+    "Parts",
+    "AC Repairs",
+    "AC Installations"
+   ],
+   "keywords": [
+    "ac repair",
+    "air conditioner",
+    "hvac",
+    "refrigerator",
+    "appliance",
+    "washing machine",
+    "ac service",
+    "fridge repair",
+    "refrigerator repair",
+    "washing machine repair",
+    "appliance repair",
+    "ac gas",
+    "एसी रिपेयर",
+    "एसी",
+    "फ्रिज",
+    "वाशिंग मशीन"
+   ],
+   "requests": [
+    "ac and appliance repair",
+    "ac repair",
+    "air conditioner",
+    "hvac",
+    "refrigerator",
+    "एसी रिपेयर"
+   ],
+   "food": false,
+   "prices": [
+    [
+     8,
+     "/visit"
+    ],
+    [
+     22,
+     "/service"
+    ],
+    [
+     45,
+     "/year plan"
+    ]
+   ],
+   "button": "Book An AC Visit",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "ac_repair"
+   ]
+  },
+  {
+   "id": "cleaning",
+   "label": "Cleaning and Pest Control",
+   "theme": "home",
+   "family": "home",
+   "mood": "friendly",
+   "services": [
+    "Cleanups",
+    "Deep Cleans",
+    "Sanitisations",
+    "Floors",
+    "Cleaning Inspections",
+    "Cleaning Treatments"
+   ],
+   "keywords": [
+    "cleaning",
+    "pest control",
+    "pest",
+    "housekeeping",
+    "maid",
+    "disinfection",
+    "laundry",
+    "dry clean",
+    "सफाई",
+    "deep cleaning",
+    "home cleaning",
+    "sofa cleaning",
+    "termite",
+    "maid service",
+    "sanitisation",
+    "dry cleaning",
+    "safai",
+    "पेस्ट कंट्रोल",
+    "लॉन्ड्री"
+   ],
+   "requests": [
+    "cleaning and pest control",
+    "cleaning",
+    "pest control",
+    "pest",
+    "housekeeping",
+    "सफाई"
+   ],
+   "food": false,
+   "prices": [
+    [
+     18,
+     "/visit"
+    ],
+    [
+     50,
+     "/deep clean"
+    ],
+    [
+     110,
+     "/month"
+    ]
+   ],
+   "button": "Book A Cleaning Visit",
+   "team": [
+    "Cleaning Supervisor",
+    "Deep Clean Specialist",
+    "Customer Care Desk"
+   ],
+   "menu": null,
+   "spec_equiv": [
+    "cleaning_services",
+    "laundry_drycleaning",
+    "pest_control"
+   ]
+  },
+  {
+   "id": "construction",
+   "label": "Construction Company",
+   "theme": "project",
+   "family": "project",
+   "mood": "bold",
+   "services": [
+    "Building Homes",
+    "Building Renovations",
+    "Extensions",
+    "Permits",
+    "Foundations",
+    "Building Finishes"
+   ],
+   "keywords": [
+    "construction",
+    "builder",
+    "contractor",
+    "civil",
+    "renovation",
+    "building contractor",
+    "निर्माण",
+    "बिल्डर",
+    "builders",
+    "civil contractor",
+    "home construction",
+    "thekedar",
+    "makaan banane",
+    "ठेकेदार",
+    "कंस्ट्रक्शन",
+    "मकान बनाने"
+   ],
+   "requests": [
+    "construction company",
+    "construction",
+    "builder",
+    "contractor",
+    "civil",
+    "निर्माण"
+   ],
+   "food": false,
+   "prices": [
+    [
+     0,
+     "/site visit"
+    ],
+    [
+     300,
+     "/design stage"
+    ],
+    [
+     1200,
+     "/renovation"
+    ]
+   ],
+   "button": "Get A Free Quote",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "architect_construction"
+   ]
+  },
+  {
+   "id": "solar",
+   "label": "Solar Installation",
+   "theme": "home",
+   "family": "home",
+   "mood": "cool",
+   "services": [
+    "Solar Panels",
+    "Maintenance Plans",
+    "Solar Installations",
+    "Solar Inspections",
+    "Solar Batteries",
+    "Solar Systems"
+   ],
+   "keywords": [
+    "solar",
+    "solar panel",
+    "rooftop solar",
+    "सोलर",
+    "solar installation",
+    "सौर ऊर्जा"
+   ],
+   "requests": [
+    "solar installation",
+    "solar",
+    "solar panel",
+    "rooftop solar",
+    "सोलर"
+   ],
+   "food": false,
+   "prices": [
+    [
+     0,
+     "/site survey"
+    ],
+    [
+     1300,
+     "/3 kW system"
+    ],
+    [
+     2100,
+     "/5 kW system"
+    ]
+   ],
+   "button": "Book A Site Survey",
+   "team": [
+    "Solar Engineer",
+    "Site Surveyor",
+    "Service Technician"
+   ],
+   "menu": null,
+   "spec_equiv": [
+    "solar_installer"
+   ]
+  },
+  {
+   "id": "movers",
+   "label": "Packers and Movers",
+   "theme": "home",
+   "family": "home",
+   "mood": "bold",
+   "services": [
+    "Moves",
+    "Moving Boxes",
+    "Vehicles",
+    "Storage Plans",
+    "Relocations",
+    "Car Transports"
+   ],
+   "keywords": [
+    "packers",
+    "movers",
+    "shifting",
+    "relocation",
+    "पैकर्स",
+    "packers and movers",
+    "packers movers",
+    "house shifting",
+    "goods transport",
+    "मूवर्स",
+    "शिफ्टिंग",
+    "सामान ट्रांसफर"
+   ],
+   "requests": [
+    "packers and movers",
+    "packers",
+    "movers",
+    "shifting",
+    "relocation",
+    "पैकर्स"
+   ],
+   "food": false,
+   "prices": [
+    [
+     45,
+     "/small move"
+    ],
+    [
+     110,
+     "/home move"
+    ],
+    [
+     240,
+     "/large move"
+    ]
+   ],
+   "button": "Get A Moving Quote",
+   "team": [
+    "Packing Crew Lead",
+    "Move Coordinator",
+    "Driver And Loader"
+   ],
+   "menu": null,
+   "spec_equiv": [
+    "packers_movers"
+   ]
+  },
+  {
+   "id": "garage",
+   "label": "Car Repair Garage",
+   "theme": "auto",
+   "family": "auto",
+   "mood": "bold",
+   "services": [
+    "Car Checkups",
+    "Washes",
+    "Car Tyres",
+    "Detailing",
+    "Car Repairs",
+    "Car Inspections"
+   ],
+   "keywords": [
+    "garage",
+    "car repair",
+    "mechanic",
+    "automobile",
+    "car wash",
+    "car detailing",
+    "bike service",
+    "bike repair",
+    "two wheeler",
+    "scooter",
+    "car service",
+    "गैराज",
+    "गाड़ी",
+    "bike mechanic",
+    "denting painting",
+    "two wheeler repair",
+    "मैकेनिक",
+    "गाड़ी सर्विस"
+   ],
+   "requests": [
+    "car repair garage",
+    "garage",
+    "car repair",
+    "mechanic",
+    "automobile",
+    "गैराज"
+   ],
+   "food": false,
+   "prices": [
+    [
+     8,
+     "/check"
+    ],
+    [
+     35,
+     "/car service"
+    ],
+    [
+     90,
+     "/full service"
+    ]
+   ],
+   "button": "Book A Service",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "bike_repair_garage",
+    "car_wash_detailing"
+   ]
+  },
+  {
+   "id": "courier",
+   "label": "Courier and Logistics",
+   "theme": "auto",
+   "family": "auto",
+   "mood": "bold",
+   "services": [
+    "Deliveries",
+    "Shipments",
+    "Pickups",
+    "Tracking",
+    "Courier Returns",
+    "Parcels"
+   ],
+   "keywords": [
+    "courier",
+    "logistics",
+    "delivery service",
+    "shipping",
+    "cargo",
+    "transport",
+    "कूरियर",
+    "parcel",
+    "transport service",
+    "dtdc",
+    "पार्सल",
+    "लॉजिस्टिक्स"
+   ],
+   "requests": [
+    "courier and logistics",
+    "courier",
+    "logistics",
+    "delivery service",
+    "shipping",
+    "कूरियर"
+   ],
+   "food": false,
+   "prices": [
+    [
+     3,
+     "/parcel"
+    ],
+    [
+     12,
+     "/bulk parcel"
+    ],
+    [
+     60,
+     "/pallet"
+    ]
+   ],
+   "button": "Get A Courier Quote",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "logistics_courier"
+   ]
+  },
+  {
+   "id": "landscape",
+   "label": "Garden and Lawn Care",
+   "theme": "home",
+   "family": "home",
+   "mood": "friendly",
+   "services": [
+    "Lawns",
+    "Garden Plants",
+    "Trims",
+    "Gardens",
+    "Maintenance Plans",
+    "Pots"
+   ],
+   "keywords": [
+    "lawn",
+    "garden",
+    "nursery",
+    "माली",
+    "landscaping",
+    "gardening",
+    "garden maintenance",
+    "plants nursery",
+    "mali",
+    "बागवानी",
+    "नर्सरी"
+   ],
+   "requests": [
+    "garden and lawn care",
+    "lawn",
+    "garden",
+    "nursery",
+    "landscaping",
+    "माली"
+   ],
+   "food": false,
+   "prices": [
+    [
+     20,
+     "/garden visit"
+    ],
+    [
+     80,
+     "/lawn makeover"
+    ],
+    [
+     250,
+     "/full design"
+    ]
+   ],
+   "button": "Book A Garden Visit",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "landscaping_gardening"
+   ]
+  },
+  {
+   "id": "clothing",
+   "label": "Clothing Boutique",
+   "theme": "retail",
+   "family": "retail",
+   "mood": "playful",
+   "services": [
+    "Dresses",
+    "Fashion Jackets",
+    "Scarves",
+    "Sweaters",
+    "Fashion Shirts",
+    "Fashion Suits"
+   ],
+   "keywords": [
+    "clothing",
+    "clothes",
+    "uniform",
+    "uniforms",
+    "fashion boutique",
+    "clothing boutique",
+    "fashion",
+    "apparel",
+    "garment",
+    "kapde",
+    "kapda",
+    "saree",
+    "कपड़े",
+    "बुटीक",
+    "फैशन",
+    "kurti",
+    "kurtis",
+    "sari",
+    "lehenga",
+    "ethnic wear",
+    "mens wear",
+    "womens wear",
+    "garments",
+    "boutique clothing",
+    "readymade",
+    "kapdon",
+    "kapde ki dukaan",
+    "कपड़ों",
+    "साड़ी",
+    "कुर्ती",
+    "लहंगा",
+    "वस्त्र"
+   ],
+   "requests": [
+    "clothing boutique",
+    "clothing",
+    "clothes",
+    "uniform",
+    "uniforms",
+    "कपड़े"
+   ],
+   "food": false,
+   "prices": [
+    [
+     10,
+     "/kurti"
+    ],
+    [
+     35,
+     "/ethnic set"
+    ],
+    [
+     90,
+     "/festive outfit"
+    ]
+   ],
+   "button": "Browse The Collection",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "fashion_boutique"
+   ]
+  },
+  {
+   "id": "jewellery",
+   "label": "Jewellery Store",
+   "theme": "retail",
+   "family": "retail",
+   "mood": "elegant",
+   "services": [
+    "Rings",
+    "Necklaces",
+    "Bracelets",
+    "Earrings",
+    "Pendants",
+    "Bangles"
+   ],
+   "keywords": [
+    "jewelry",
+    "jewellery",
+    "ornament",
+    "diamond",
+    "ज्वेलरी",
+    "गहने",
+    "jeweller",
+    "silver jewellery",
+    "gehne",
+    "gehna",
+    "sone chandi",
+    "सोना",
+    "चांदी",
+    "आभूषण"
+   ],
+   "requests": [
+    "jewellery store",
+    "jewelry",
+    "jewellery",
+    "ornament",
+    "diamond",
+    "ज्वेलरी"
+   ],
+   "food": false,
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     60,
+     "/custom design"
+    ],
+    [
+     150,
+     "/bridal design"
+    ]
+   ],
+   "button": "Book A Jewellery Visit",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "jewellery_shop"
+   ]
+  },
+  {
+   "id": "furniture",
+   "label": "Furniture Showroom",
+   "theme": "retail",
+   "family": "retail",
+   "mood": "warm",
+   "services": [
+    "Sofas",
+    "Furniture Chairs",
+    "Furniture Cabinets",
+    "Furniture Shelves",
+    "Furniture Desks",
+    "Mattresses"
+   ],
+   "keywords": [
+    "furniture",
+    "sofa",
+    "sofas",
+    "bed frames",
+    "फर्नीचर",
+    "bed",
+    "beds",
+    "dining table",
+    "almirah",
+    "सोफा",
+    "अलमारी"
+   ],
+   "requests": [
+    "furniture showroom",
+    "furniture",
+    "sofa",
+    "sofas",
+    "bed frames",
+    "फर्नीचर"
+   ],
+   "food": false,
+   "prices": [
+    [
+     60,
+     "/chair"
+    ],
+    [
+     180,
+     "/sofa"
+    ],
+    [
+     450,
+     "/bedroom set"
+    ]
+   ],
+   "button": "Visit The Showroom",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "furniture_store"
+   ]
+  },
+  {
+   "id": "mobile",
+   "label": "Mobile and Electronics Store",
+   "theme": "retail",
+   "family": "retail",
+   "mood": "cool",
+   "services": [
+    "Phones",
+    "Chargers",
+    "Earphones",
+    "Phone Cases",
+    "Phone Covers",
+    "Screen Guards"
+   ],
+   "keywords": [
+    "laptop",
+    "electronics",
+    "gadget",
+    "smartphone",
+    "mobile phone",
+    "mobile shop",
+    "mobile store",
+    "phone shop",
+    "phone repair",
+    "मोबाइल",
+    "mobile",
+    "phones",
+    "electronics store",
+    "tv",
+    "television",
+    "gadgets",
+    "mobile repair",
+    "इलेक्ट्रॉनिक्स",
+    "लैपटॉप"
+   ],
+   "requests": [
+    "mobile and electronics store",
+    "laptop",
+    "electronics",
+    "gadget",
+    "smartphone",
+    "मोबाइल"
+   ],
+   "food": false,
+   "prices": [
+    [
+     4,
+     "/accessory"
+    ],
+    [
+     25,
+     "/repair"
+    ],
+    [
+     100,
+     "/budget phone"
+    ]
+   ],
+   "button": "Find Your Phone",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "mobile_phone_store",
+    "mobile_repair"
+   ]
+  },
+  {
+   "id": "grocery",
+   "label": "Grocery Store",
+   "theme": "retail",
+   "family": "retail",
+   "mood": "friendly",
+   "services": [
+    "Vegetables",
+    "Fruits",
+    "Grains",
+    "Pulses",
+    "Spices",
+    "Eggs"
+   ],
+   "keywords": [
+    "organic",
+    "grocery",
+    "vegetables",
+    "fruits",
+    "kirana",
+    "dairy",
+    "किराना",
+    "जैविक",
+    "groceries",
+    "supermarket",
+    "provision store",
+    "ration",
+    "organic store",
+    "raashan",
+    "राशन",
+    "सब्जी",
+    "परचून"
+   ],
+   "requests": [
+    "grocery store",
+    "organic",
+    "grocery",
+    "vegetables",
+    "fruits",
+    "किराना"
+   ],
+   "food": false,
+   "prices": [
+    [
+     3,
+     "/small order"
+    ],
+    [
+     20,
+     "/weekly order"
+    ],
+    [
+     50,
+     "/family order"
+    ]
+   ],
+   "button": "Order Groceries",
+   "team": [
+    "Store Owner",
+    "Delivery Partner",
+    "Order Desk"
+   ],
+   "menu": null,
+   "spec_equiv": [
+    "kirana_grocery"
+   ]
+  },
+  {
+   "id": "books",
+   "label": "Bookstore and Stationery",
+   "theme": "retail",
+   "family": "retail",
+   "mood": "friendly",
+   "services": [
+    "Books",
+    "Notebooks",
+    "Pens",
+    "Diaries",
+    "Textbooks",
+    "Book Stories"
+   ],
+   "keywords": [
+    "bookstore",
+    "book shop",
+    "stationery",
+    "books",
+    "पुस्तक",
+    "स्टेशनरी",
+    "bookshop",
+    "textbooks",
+    "kitab",
+    "kitabon",
+    "किताब"
+   ],
+   "requests": [
+    "bookstore and stationery",
+    "bookstore",
+    "book shop",
+    "stationery",
+    "books",
+    "पुस्तक"
+   ],
+   "food": false,
+   "prices": [
+    [
+     3,
+     "/book"
+    ],
+    [
+     12,
+     "/set"
+    ],
+    [
+     35,
+     "/library bundle"
+    ]
+   ],
+   "button": "Find A Book",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "bookstore"
+   ]
+  },
+  {
+   "id": "gifts",
+   "label": "Gift and Flower Shop",
+   "theme": "retail",
+   "family": "retail",
+   "mood": "playful",
+   "services": [
+    "Bouquets",
+    "Gift Hampers",
+    "Arrangements",
+    "Gift Plants",
+    "Gift Cards",
+    "Balloons"
+   ],
+   "keywords": [
+    "florist",
+    "flower",
+    "gift shop",
+    "bouquet",
+    "gifts",
+    "फूल",
+    "flowers",
+    "hampers",
+    "phool",
+    "गिफ्ट"
+   ],
+   "requests": [
+    "gift and flower shop",
+    "florist",
+    "flower",
+    "gift shop",
+    "bouquet",
+    "फूल"
+   ],
+   "food": false,
+   "prices": [
+    [
+     4,
+     "/gift"
+    ],
+    [
+     12,
+     "/hamper"
+    ],
+    [
+     40,
+     "/premium hamper"
+    ]
+   ],
+   "button": "Find A Gift",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "florist",
+    "gift_shop"
+   ]
+  },
+  {
+   "id": "petshop",
+   "label": "Pet Shop",
+   "theme": "retail",
+   "family": "retail",
+   "mood": "friendly",
+   "services": [
+    "Toys",
+    "Collars",
+    "Treats",
+    "Leashes",
+    "Foods",
+    "Cages"
+   ],
+   "keywords": [
+    "pet shop",
+    "pet store",
+    "pet supplies",
+    "dog food",
+    "dog grooming",
+    "pets",
+    "aquarium",
+    "पालतू",
+    "पेट शॉप"
+   ],
+   "requests": [
+    "pet shop",
+    "pet store",
+    "pet supplies",
+    "dog food",
+    "dog grooming",
+    "पालतू"
+   ],
+   "food": false,
+   "prices": [
+    [
+     3,
+     "/treat pack"
+    ],
+    [
+     15,
+     "/food bag"
+    ],
+    [
+     40,
+     "/starter kit"
+    ]
+   ],
+   "button": "Shop Now",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "pet_grooming_vet"
+   ]
+  },
+  {
+   "id": "optical",
+   "label": "Optical Store",
+   "theme": "retail",
+   "family": "retail",
+   "mood": "cool",
+   "services": [
+    "Optical Lenses",
+    "Eyeglasses",
+    "Sunglasses",
+    "Eye Tests",
+    "Optical Cases",
+    "Cleaners"
+   ],
+   "keywords": [
+    "optician",
+    "optical",
+    "eyeglasses",
+    "spectacles",
+    "contact lenses",
+    "eyewear",
+    "चश्मा",
+    "opticals",
+    "chashma",
+    "chashme",
+    "चश्मे",
+    "ऑप्टिकल"
+   ],
+   "requests": [
+    "optical store",
+    "optician",
+    "optical",
+    "eyeglasses",
+    "spectacles",
+    "चश्मा"
+   ],
+   "food": false,
+   "prices": [
+    [
+     0,
+     "/eye test"
+    ],
+    [
+     25,
+     "/frame and lenses"
+    ],
+    [
+     80,
+     "/premium lenses"
+    ]
+   ],
+   "button": "Book An Eye Test",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [],
+   "spec_theme": "healthcare"
+  },
+  {
+   "id": "pharmacy",
+   "label": "Pharmacy",
+   "theme": "retail",
+   "family": "retail",
+   "mood": "calm",
+   "services": [
+    "Medicines",
+    "Vitamins",
+    "Supplements",
+    "Devices",
+    "Refills",
+    "Pharmacy Prescriptions"
+   ],
+   "keywords": [
+    "pharmacy",
+    "chemist",
+    "medical store",
+    "medicines",
+    "दवाई",
+    "मेडिकल",
+    "दवाइयाँ",
+    "दवाईयां",
+    "फार्मेसी",
+    "medicine shop",
+    "dawai",
+    "dawa",
+    "दवा",
+    "मेडिकल स्टोर",
+    "केमिस्ट"
+   ],
+   "requests": [
+    "pharmacy",
+    "chemist",
+    "medical store",
+    "medicines",
+    "medicine shop",
+    "दवाई"
+   ],
+   "food": false,
+   "prices": [
+    [
+     0,
+     "/delivery"
+    ],
+    [
+     5,
+     "/refill plan"
+    ],
+    [
+     15,
+     "/family plan"
+    ]
+   ],
+   "button": "Order Medicines",
+   "team": [
+    "Pharmacist",
+    "Delivery Partner",
+    "Order Desk"
+   ],
+   "menu": null,
+   "spec_equiv": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "shop",
+   "label": "Online Store",
+   "theme": "retail",
+   "family": "retail",
+   "mood": "playful",
+   "services": [
+    "Collections",
+    "Sets",
+    "Bundles",
+    "Online Pieces",
+    "Online Gifts",
+    "Online Accessories"
+   ],
+   "keywords": [
+    "ecommerce",
+    "e-commerce",
+    "online store",
+    "hardware store",
+    "hardware shop",
+    "paint shop",
+    "building material",
+    "online shop",
+    "webstore",
+    "handmade products",
+    "d2c brand",
+    "ऑनलाइन स्टोर"
+   ],
+   "requests": [
+    "online store",
+    "ecommerce",
+    "e-commerce",
+    "hardware store",
+    "hardware shop",
+    "ऑनलाइन स्टोर"
+   ],
+   "food": false,
+   "prices": [
+    [
+     3,
+     "/small order"
+    ],
+    [
+     12,
+     "/standard order"
+    ],
+    [
+     30,
+     "/gift order"
+    ]
+   ],
+   "button": "Shop Now",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "ecommerce_store"
+   ]
+  },
+  {
+   "id": "restaurant",
+   "label": "Restaurant",
+   "theme": "food",
+   "family": "food",
+   "mood": "warm",
+   "services": [
+    "Starters",
+    "Mains",
+    "Desserts",
+    "Drinks",
+    "House Specials",
+    "House Combos"
+   ],
+   "keywords": [
+    "restaurant",
+    "dhaba",
+    "bistro",
+    "diner",
+    "eatery",
+    "food court",
+    "रेस्टोरेंट",
+    "ढाबा",
+    "pizza",
+    "burger",
+    "ristorante",
+    "pizzeria",
+    "trattoria",
+    "food joint",
+    "bar and lounge",
+    "lounge",
+    "pub",
+    "bar",
+    "cocktails",
+    "brewery",
+    "street food",
+    "chaat",
+    "punjabi food",
+    "north indian",
+    "south indian",
+    "chinese food",
+    "indo chinese",
+    "fast food",
+    "biryani",
+    "tandoori",
+    "rasoi",
+    "bhojnalay",
+    "रेस्तरां",
+    "भोजनालय",
+    "होटल का खाना",
+    "चाट",
+    "बार"
+   ],
+   "requests": [
+    "restaurant",
+    "dhaba",
+    "bistro",
+    "diner",
+    "eatery",
+    "रेस्टोरेंट"
+   ],
+   "food": true,
+   "prices": [
+    [
+     4,
+     "/main course"
+    ],
+    [
+     8,
+     "/thali meal"
+    ],
+    [
+     25,
+     "/family table"
+    ]
+   ],
+   "button": "Reserve A Table",
+   "team": [
+    "Head Chef",
+    "Floor Manager",
+    "Guest Host"
+   ],
+   "menu": {
+    "title": "On The Menu",
+    "lead": "A relaxed menu of familiar favourites, made to order. Tell the team about any dietary need.",
+    "categories": [
+     {
+      "name": "Starters",
+      "items": [
+       "Paneer tikka | char grilled",
+       "Veg spring rolls",
+       "Hara bhara kebab",
+       "Crispy corn",
+       "Chicken tikka | marinated well",
+       "Tomato soup | with croutons"
+      ]
+     },
+     {
+      "name": "Main Course",
+      "items": [
+       "Dal makhani | slow cooked",
+       "Paneer butter masala",
+       "Veg biryani | fragrant rice",
+       "Butter chicken",
+       "Mixed vegetable curry | seasonal",
+       "Jeera rice"
+      ]
+     },
+     {
+      "name": "Breads",
+      "items": [
+       "Butter naan",
+       "Tandoori roti",
+       "Garlic naan",
+       "Lachha paratha",
+       "Missi roti"
+      ]
+     },
+     {
+      "name": "Desserts",
+      "items": [
+       "Gulab jamun | served warm",
+       "Kulfi | on a stick",
+       "Gajar halwa",
+       "Rasmalai | chilled",
+       "Ice cream | seasonal flavours"
+      ]
+     }
+    ]
+   },
+   "spec_equiv": [
+    "craft_brewery_bar",
+    "restaurant_dining"
+   ]
+  },
+  {
+   "id": "cafe",
+   "label": "Cafe",
+   "theme": "food",
+   "family": "food",
+   "mood": "warm",
+   "services": [
+    "Coffee",
+    "Tea",
+    "Snacks",
+    "Desserts",
+    "Cafe Specials",
+    "Cafe Combos"
+   ],
+   "keywords": [
+    "cafe",
+    "café",
+    "coffee",
+    "tea",
+    "chai",
+    "कैफे",
+    "चाय",
+    "coffee shop",
+    "coffee house",
+    "tea stall",
+    "tea shop",
+    "chai cafe",
+    "tapri",
+    "कैफ़े",
+    "चाय की दुकान"
+   ],
+   "requests": [
+    "cafe",
+    "coffee",
+    "tea",
+    "chai",
+    "coffee shop",
+    "café"
+   ],
+   "food": true,
+   "prices": [
+    [
+     2,
+     "/coffee"
+    ],
+    [
+     4,
+     "/breakfast combo"
+    ],
+    [
+     10,
+     "/meal combo"
+    ]
+   ],
+   "button": "Order Or Reserve",
+   "team": [
+    "Head Barista",
+    "Kitchen Lead",
+    "Guest Host"
+   ],
+   "menu": {
+    "title": "On The Menu",
+    "lead": "Coffee, tea and light bites made fresh through the day. Ask the team what is good today.",
+    "categories": [
+     {
+      "name": "Coffee",
+      "items": [
+       "Espresso | single or double",
+       "Americano",
+       "Flat white | smooth and strong",
+       "Cappuccino | milk foam on top",
+       "Filter coffee | south Indian style",
+       "Cold coffee | blended with ice"
+      ]
+     },
+     {
+      "name": "Tea",
+      "items": [
+       "Masala chai | spiced and strong",
+       "Green tea",
+       "Lemon tea | light and fresh",
+       "Iced peach tea",
+       "Kashmiri kahwa | saffron and almond"
+      ]
+     },
+     {
+      "name": "Bites",
+      "items": [
+       "Veg grilled sandwich",
+       "Croissant | buttery and flaky",
+       "Banana bread",
+       "Garlic bread | cheesy",
+       "Cheese toast",
+       "Brownie | warm and fudgy"
+      ]
+     }
+    ]
+   },
+   "spec_equiv": [
+    "cafe_coffee_tea",
+    "chai_tea_stall",
+    "german_cafe",
+    "tea_house"
+   ]
+  },
+  {
+   "id": "bakery",
+   "label": "Bakery",
+   "theme": "food_order",
+   "family": "food_order",
+   "mood": "warm",
+   "services": [
+    "Custom Cakes",
+    "Pastries",
+    "Cookies",
+    "Muffins",
+    "Bagels",
+    "Doughnuts"
+   ],
+   "keywords": [
+    "bakery",
+    "cake",
+    "cakes",
+    "pastry",
+    "pastries",
+    "birthday cake",
+    "बेकरी",
+    "केक",
+    "cake shop",
+    "cupcakes",
+    "bread",
+    "bakers",
+    "पेस्ट्री"
+   ],
+   "requests": [
+    "bakery",
+    "cake",
+    "cakes",
+    "pastry",
+    "pastries",
+    "बेकरी"
+   ],
+   "food": true,
+   "prices": [
+    [
+     3,
+     "/pastry box"
+    ],
+    [
+     12,
+     "/custom cake"
+    ],
+    [
+     30,
+     "/celebration cake"
+    ]
+   ],
+   "button": "Order A Cake",
+   "team": [
+    "Head Baker",
+    "Cake Designer",
+    "Order Desk"
+   ],
+   "menu": {
+    "title": "On The Menu",
+    "lead": "Cakes, pastries and breads baked fresh. Order ahead for birthdays and bigger celebrations.",
+    "categories": [
+     {
+      "name": "Cakes",
+      "items": [
+       "Chocolate truffle | rich and dark",
+       "Black forest",
+       "Butterscotch",
+       "Red velvet | cream cheese frosting",
+       "Fresh fruit cake",
+       "Eggless vanilla"
+      ]
+     },
+     {
+      "name": "Pastries",
+      "items": [
+       "Chocolate pastry",
+       "Pineapple pastry",
+       "Danish pastry",
+       "Cream roll",
+       "Cupcake box",
+       "Brownie"
+      ]
+     },
+     {
+      "name": "Breads",
+      "items": [
+       "Whole wheat bread",
+       "Milk bread",
+       "Garlic bread",
+       "Burger buns",
+       "Pav"
+      ]
+     },
+     {
+      "name": "Cookies",
+      "items": [
+       "Butter cookies",
+       "Oatmeal cookies",
+       "Choco chip cookies",
+       "Jeera biscuits",
+       "Nankhatai"
+      ]
+     }
+    ]
+   },
+   "spec_equiv": [
+    "bakery_cakes"
+   ]
+  },
+  {
+   "id": "sweets",
+   "label": "Sweet Shop",
+   "theme": "food_order",
+   "family": "food_order",
+   "mood": "warm",
+   "services": [
+    "Sweets",
+    "Laddoos",
+    "Barfis",
+    "Mithai Hampers",
+    "Mithai Boxes",
+    "Namkeen"
+   ],
+   "keywords": [
+    "mithai",
+    "sweets",
+    "sweet shop",
+    "halwai",
+    "मिठाई",
+    "mithaiwala",
+    "हलवाई"
+   ],
+   "requests": [
+    "sweet shop",
+    "mithai",
+    "sweets",
+    "halwai",
+    "mithaiwala",
+    "मिठाई"
+   ],
+   "food": true,
+   "prices": [
+    [
+     5,
+     "/box"
+    ],
+    [
+     15,
+     "/festive box"
+    ],
+    [
+     40,
+     "/large order"
+    ]
+   ],
+   "button": "Order Sweets",
+   "team": null,
+   "menu": {
+    "title": "On The Menu",
+    "lead": "Traditional sweets and snacks made fresh, with boxes for festivals and gifting. Ask for bulk orders early.",
+    "categories": [
+     {
+      "name": "Mithai",
+      "items": [
+       "Kaju katli | cashew fudge",
+       "Motichoor ladoo | soft pearls",
+       "Gulab jamun",
+       "Rasgulla",
+       "Soan papdi",
+       "Milk barfi"
+      ]
+     },
+     {
+      "name": "Namkeen",
+      "items": [
+       "Samosa",
+       "Kachori",
+       "Sev",
+       "Mathri",
+       "Bhujia",
+       "Papad"
+      ]
+     },
+     {
+      "name": "Festival Boxes",
+      "items": [
+       "Diwali box",
+       "Rakhi box",
+       "Holi gujiya",
+       "Gift hamper",
+       "Dry fruit box",
+       "Bulk order box"
+      ]
+     }
+    ]
+   },
+   "spec_equiv": [
+    "sweet_shop_mithai"
+   ]
+  },
+  {
+   "id": "catering",
+   "label": "Catering Service",
+   "theme": "events",
+   "family": "events",
+   "mood": "warm",
+   "services": [
+    "Menus",
+    "Platters",
+    "Thalis",
+    "Buffets",
+    "Desserts",
+    "Live Counters"
+   ],
+   "keywords": [
+    "catering",
+    "caterer",
+    "tiffin",
+    "cloud kitchen",
+    "meal service",
+    "केटरिंग",
+    "tiffin service",
+    "event catering",
+    "wedding catering",
+    "टिफिन"
+   ],
+   "requests": [
+    "catering service",
+    "catering",
+    "caterer",
+    "tiffin",
+    "cloud kitchen",
+    "केटरिंग"
+   ],
+   "food": true,
+   "prices": [
+    [
+     6,
+     "/plate"
+    ],
+    [
+     9,
+     "/premium plate"
+    ],
+    [
+     14,
+     "/royal plate"
+    ]
+   ],
+   "button": "Get A Catering Quote",
+   "team": null,
+   "menu": {
+    "title": "Menu Styles",
+    "lead": "Menus planned around your event, your guest numbers and your tastes. Ask for a tasting before you decide.",
+    "categories": [
+     {
+      "name": "Starters",
+      "items": [
+       "Paneer tikka",
+       "Veg cutlet",
+       "Hara bhara kebab",
+       "Mini samosa",
+       "Crispy corn",
+       "Soup of the day"
+      ]
+     },
+     {
+      "name": "Main Course",
+      "items": [
+       "Dal makhani",
+       "Paneer butter masala",
+       "Mixed vegetable",
+       "Veg pulao",
+       "Chole",
+       "Raita"
+      ]
+     },
+     {
+      "name": "Breads And Rice",
+      "items": [
+       "Butter naan",
+       "Tandoori roti",
+       "Jeera rice",
+       "Veg biryani",
+       "Lachha paratha"
+      ]
+     },
+     {
+      "name": "Desserts",
+      "items": [
+       "Gulab jamun",
+       "Gajar halwa",
+       "Ice cream",
+       "Rasmalai",
+       "Fruit custard"
+      ]
+     }
+    ]
+   },
+   "spec_equiv": [
+    "catering_service",
+    "cloud_kitchen",
+    "tiffin_service"
+   ]
+  },
+  {
+   "id": "school",
+   "label": "Coaching and Tuition Centre",
+   "theme": "edu",
+   "family": "edu",
+   "mood": "friendly",
+   "services": [
+    "Tutorials",
+    "Quizzes",
+    "Exams",
+    "Assignments",
+    "Worksheets",
+    "Chapters"
+   ],
+   "keywords": [
+    "school",
+    "coaching",
+    "tuition",
+    "tutor",
+    "class 10",
+    "class 12",
+    "कोचिंग",
+    "स्कूल",
+    "ट्यूशन",
+    "coaching centre",
+    "coaching classes",
+    "home tuition",
+    "iit jee",
+    "neet",
+    "jee",
+    "board exam",
+    "study classes",
+    "maths classes",
+    "science classes",
+    "शिक्षक"
+   ],
+   "requests": [
+    "coaching and tuition centre",
+    "school",
+    "coaching",
+    "tuition",
+    "tutor",
+    "कोचिंग"
+   ],
+   "food": false,
+   "prices": [
+    [
+     12,
+     "/month"
+    ],
+    [
+     30,
+     "/month group"
+    ],
+    [
+     60,
+     "/month personal"
+    ]
+   ],
+   "button": "Book A Demo Class",
+   "team": [
+    "Senior Teacher",
+    "Subject Mentor",
+    "Admissions Desk"
+   ],
+   "menu": null,
+   "spec_equiv": [
+    "ielts_language_coaching",
+    "online_coach_courses",
+    "tuition_centre"
+   ]
+  },
+  {
+   "id": "playschool",
+   "label": "Play School and Daycare",
+   "theme": "edu",
+   "family": "edu",
+   "mood": "playful",
+   "services": [
+    "Activities",
+    "Crafts",
+    "Preschool Stories",
+    "Preschool Games",
+    "Rhymes",
+    "Outings"
+   ],
+   "keywords": [
+    "play school",
+    "playschool",
+    "preschool",
+    "daycare",
+    "nursery school",
+    "kindergarten",
+    "creche",
+    "प्लेस्कूल",
+    "pre school",
+    "प्ले स्कूल",
+    "डे केयर"
+   ],
+   "requests": [
+    "play school and daycare",
+    "play school",
+    "playschool",
+    "preschool",
+    "daycare",
+    "प्लेस्कूल"
+   ],
+   "food": false,
+   "prices": [
+    [
+     12,
+     "/month daycare"
+    ],
+    [
+     25,
+     "/month preschool"
+    ],
+    [
+     40,
+     "/month full day"
+    ]
+   ],
+   "button": "Ask About Admission",
+   "team": [
+    "Lead Teacher",
+    "Activity Coordinator",
+    "Admissions Desk"
+   ],
+   "menu": null,
+   "spec_equiv": [
+    "school_preschool"
+   ]
+  },
+  {
+   "id": "driving",
+   "label": "Driving School",
+   "theme": "edu",
+   "family": "edu",
+   "mood": "bold",
+   "services": [
+    "Driving Tests",
+    "Licences",
+    "Practice Sessions",
+    "Theory Classes",
+    "Refreshers",
+    "Driving Renewals"
+   ],
+   "keywords": [
+    "driving school",
+    "driving",
+    "learner licence",
+    "driving licence",
+    "ड्राइविंग",
+    "driving classes",
+    "learn driving",
+    "मोटर ट्रेनिंग",
+    "ड्राइविंग स्कूल"
+   ],
+   "requests": [
+    "driving school",
+    "driving",
+    "learner licence",
+    "driving licence",
+    "driving classes",
+    "ड्राइविंग"
+   ],
+   "food": false,
+   "prices": [
+    [
+     45,
+     "/15 lessons"
+    ],
+    [
+     70,
+     "/30 lessons"
+    ],
+    [
+     110,
+     "/licence package"
+    ]
+   ],
+   "button": "Book A Trial Lesson",
+   "team": [
+    "Driving Instructor",
+    "Safety Coordinator",
+    "Booking Desk"
+   ],
+   "menu": null,
+   "spec_equiv": [
+    "driving_school"
+   ]
+  },
+  {
+   "id": "music",
+   "label": "Music and Dance Academy",
+   "theme": "edu",
+   "family": "edu",
+   "mood": "playful",
+   "services": [
+    "Recitals",
+    "Grades",
+    "Auditions",
+    "Performances",
+    "Instruments",
+    "Music Classes"
+   ],
+   "keywords": [
+    "music class",
+    "dance class",
+    "guitar",
+    "piano",
+    "dance academy",
+    "singing",
+    "संगीत",
+    "music school",
+    "music classes",
+    "singing classes",
+    "dance classes",
+    "dance school",
+    "tabla",
+    "गायन",
+    "नृत्य",
+    "डांस क्लास"
+   ],
+   "requests": [
+    "music and dance academy",
+    "music class",
+    "dance class",
+    "guitar",
+    "piano",
+    "संगीत"
+   ],
+   "food": false,
+   "prices": [
+    [
+     10,
+     "/class"
+    ],
+    [
+     30,
+     "/month"
+    ],
+    [
+     80,
+     "/term"
+    ]
+   ],
+   "button": "Book A Trial Class",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "music_dance_classes"
+   ]
+  },
+  {
+   "id": "photography",
+   "label": "Photography Studio",
+   "theme": "project",
+   "family": "project",
+   "mood": "elegant",
+   "services": [
+    "Photos",
+    "Albums",
+    "Galleries",
+    "Shoots",
+    "Photo Prints",
+    "Portraits"
+   ],
+   "keywords": [
+    "photo studio",
+    "फोटोग्राफी",
+    "फोटो",
+    "photographer",
+    "photography",
+    "wedding photographer",
+    "videographer",
+    "pre wedding",
+    "portrait",
+    "फोटोग्राफर",
+    "फोटो स्टूडियो"
+   ],
+   "requests": [
+    "photography studio",
+    "photo studio",
+    "photographer",
+    "photography",
+    "wedding photographer",
+    "फोटोग्राफी"
+   ],
+   "food": false,
+   "prices": [
+    [
+     60,
+     "/shoot"
+    ],
+    [
+     250,
+     "/event"
+    ],
+    [
+     600,
+     "/wedding"
+    ]
+   ],
+   "button": "Book A Shoot",
+   "team": [
+    "Lead Photographer",
+    "Photo Editor",
+    "Booking Desk"
+   ],
+   "menu": null,
+   "spec_equiv": [
+    "drone_photography",
+    "photography_studio"
+   ]
+  },
+  {
+   "id": "design",
+   "label": "Design Studio",
+   "theme": "project",
+   "family": "project",
+   "mood": "elegant",
+   "services": [
+    "Logos",
+    "Illustrations",
+    "Design Sketches",
+    "Design Posters",
+    "Packaging",
+    "Mockups"
+   ],
+   "keywords": [
+    "designer",
+    "graphic design",
+    "logo design",
+    "brand design",
+    "logo",
+    "branding studio",
+    "branding",
+    "डिजाइन",
+    "web design",
+    "website design",
+    "web designing",
+    "web design agency",
+    "web agency",
+    "website designer",
+    "web designer",
+    "design agency",
+    "graphic designer",
+    "design studio",
+    "ui ux",
+    "illustration",
+    "डिजाइनर",
+    "ग्राफिक डिजाइन"
+   ],
+   "requests": [
+    "design studio",
+    "designer",
+    "graphic design",
+    "logo design",
+    "brand design",
+    "डिजाइन"
+   ],
+   "food": false,
+   "prices": [
+    [
+     40,
+     "/logo"
+    ],
+    [
+     150,
+     "/brand kit"
+    ],
+    [
+     400,
+     "/project"
+    ]
+   ],
+   "button": "Start A Project",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [],
+   "spec_theme": "creative_studio"
+  },
+  {
+   "id": "printing",
+   "label": "Printing Studio",
+   "theme": "project",
+   "family": "project",
+   "mood": "bold",
+   "services": [
+    "Prints",
+    "Banners",
+    "Print Cards",
+    "Brochures",
+    "Stickers",
+    "Print Invitations"
+   ],
+   "keywords": [
+    "printing",
+    "print shop",
+    "flex",
+    "banner",
+    "visiting card",
+    "प्रिंटिंग",
+    "printing press",
+    "flex printing",
+    "banner printing",
+    "digital printing",
+    "offset",
+    "प्रिंटिंग प्रेस",
+    "फ्लेक्स"
+   ],
+   "requests": [
+    "printing studio",
+    "printing",
+    "print shop",
+    "flex",
+    "banner",
+    "प्रिंटिंग"
+   ],
+   "food": false,
+   "prices": [
+    [
+     3,
+     "/100 cards"
+    ],
+    [
+     12,
+     "/banner"
+    ],
+    [
+     50,
+     "/campaign pack"
+    ]
+   ],
+   "button": "Get A Print Quote",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "printing_press"
+   ]
+  },
+  {
+   "id": "events",
+   "label": "Event Planning",
+   "theme": "events",
+   "family": "events",
+   "mood": "playful",
+   "services": [
+    "Weddings",
+    "Decorations",
+    "Event Setups",
+    "Shows",
+    "Event Invitations",
+    "Event Stages"
+   ],
+   "keywords": [
+    "wedding planner",
+    "event management",
+    "event planner",
+    "decorator",
+    "dj",
+    "party planner",
+    "wedding",
+    "शादी",
+    "इवेंट",
+    "wedding decorator",
+    "sound and light",
+    "event company",
+    "डेकोरेटर"
+   ],
+   "requests": [
+    "event planning",
+    "wedding planner",
+    "event management",
+    "event planner",
+    "dj",
+    "शादी"
+   ],
+   "food": false,
+   "prices": [
+    [
+     150,
+     "/event"
+    ],
+    [
+     500,
+     "/wedding"
+    ],
+    [
+     1500,
+     "/destination wedding"
+    ]
+   ],
+   "button": "Plan Your Event",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "event_decor_planner",
+    "wedding_dj_sound"
+   ]
+  },
+  {
+   "id": "travel",
+   "label": "Travel Agency",
+   "theme": "stay",
+   "family": "stay",
+   "mood": "friendly",
+   "services": [
+    "Itineraries",
+    "Travel Trips",
+    "Getaways",
+    "Travel Visas",
+    "Flights",
+    "Hotels"
+   ],
+   "keywords": [
+    "travel",
+    "tours",
+    "holiday",
+    "tourism",
+    "ट्रैवल",
+    "टूर",
+    "travel agency",
+    "tour operator",
+    "tour and travel",
+    "tour packages",
+    "travel agent",
+    "holiday packages",
+    "ghumne",
+    "yatra",
+    "यात्रा",
+    "घूमने"
+   ],
+   "requests": [
+    "travel agency",
+    "travel",
+    "tours",
+    "holiday",
+    "tourism",
+    "ट्रैवल"
+   ],
+   "food": false,
+   "prices": [
+    [
+     0,
+     "/planning chat"
+    ],
+    [
+     50,
+     "/custom itinerary"
+    ],
+    [
+     120,
+     "/full trip planning"
+    ]
+   ],
+   "button": "Plan My Trip",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "travel_agency"
+   ]
+  },
+  {
+   "id": "hotel",
+   "label": "Hotel and Stay",
+   "theme": "stay",
+   "family": "stay",
+   "mood": "warm",
+   "services": [
+    "Hotel Rooms",
+    "Suites",
+    "Stays",
+    "Experiences",
+    "Restaurants",
+    "Amenities"
+   ],
+   "keywords": [
+    "hotel",
+    "resort",
+    "homestay",
+    "guest house",
+    "lodge",
+    "hostel",
+    "pg accommodation",
+    "accommodation",
+    "dormitory",
+    "होटल",
+    "रिसॉर्ट",
+    "budget hotel",
+    "गेस्ट हाउस",
+    "लॉज"
+   ],
+   "requests": [
+    "hotel and stay",
+    "hotel",
+    "resort",
+    "homestay",
+    "guest house",
+    "होटल"
+   ],
+   "food": false,
+   "prices": [
+    [
+     20,
+     "/night"
+    ],
+    [
+     35,
+     "/night"
+    ],
+    [
+     55,
+     "/night"
+    ]
+   ],
+   "button": "Check Room Dates",
+   "team": [
+    "Guest Manager",
+    "Housekeeping Lead",
+    "Front Desk"
+   ],
+   "menu": null,
+   "spec_equiv": [
+    "farm_stay_homestay",
+    "hotel_guesthouse",
+    "pg_hostel"
+   ]
+  },
+  {
+   "id": "taxi",
+   "label": "Cab and Taxi Service",
+   "theme": "auto",
+   "family": "auto",
+   "mood": "bold",
+   "services": [
+    "Rides",
+    "Transfers",
+    "Cab Trips",
+    "Cab Rentals",
+    "Airport Pickups",
+    "City Rides"
+   ],
+   "keywords": [
+    "taxi",
+    "cab",
+    "car rental",
+    "bike rental",
+    "vehicle rental",
+    "rickshaw",
+    "chauffeur",
+    "cab booking",
+    "टैक्सी",
+    "cab service",
+    "outstation cab",
+    "tempo traveller",
+    "car hire",
+    "कैब",
+    "किराए की गाड़ी"
+   ],
+   "requests": [
+    "cab and taxi service",
+    "taxi",
+    "cab",
+    "car rental",
+    "bike rental",
+    "टैक्सी"
+   ],
+   "food": false,
+   "prices": [
+    [
+     8,
+     "/local ride"
+    ],
+    [
+     35,
+     "/airport trip"
+    ],
+    [
+     90,
+     "/outstation day"
+    ]
+   ],
+   "button": "Book A Cab",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "car_rental",
+    "travel_cab_taxi"
+   ]
+  },
+  {
+   "id": "tattoo",
+   "label": "Tattoo Studio",
+   "theme": "session",
+   "family": "session",
+   "mood": "bold",
+   "services": [
+    "Tattoos",
+    "Piercings",
+    "Cover-ups",
+    "Touch-ups",
+    "Tattoo Sketches",
+    "Stencils"
+   ],
+   "keywords": [
+    "tattoo",
+    "piercing",
+    "body art",
+    "टैटू",
+    "tattoo studio",
+    "tattoo artist"
+   ],
+   "requests": [
+    "tattoo studio",
+    "tattoo",
+    "piercing",
+    "body art",
+    "tattoo artist",
+    "टैटू"
+   ],
+   "food": false,
+   "prices": [
+    [
+     25,
+     "/small tattoo"
+    ],
+    [
+     70,
+     "/medium tattoo"
+    ],
+    [
+     200,
+     "/large piece"
+    ]
+   ],
+   "button": "Book A Design Chat",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "tattoo_studio"
+   ]
+  },
+  {
+   "id": "gaming",
+   "label": "Gaming Zone",
+   "theme": "session",
+   "family": "session",
+   "mood": "bold",
+   "services": [
+    "Gaming Games",
+    "Consoles",
+    "Gaming Tournaments",
+    "Gaming Memberships",
+    "Controllers",
+    "Headsets"
+   ],
+   "keywords": [
+    "gaming cafe",
+    "gaming",
+    "game zone",
+    "esports",
+    "ps5",
+    "arcade",
+    "video games",
+    "गेमिंग",
+    "gaming parlour",
+    "video game",
+    "console gaming",
+    "pc gaming"
+   ],
+   "requests": [
+    "gaming zone",
+    "gaming cafe",
+    "gaming",
+    "game zone",
+    "esports",
+    "गेमिंग"
+   ],
+   "food": false,
+   "prices": [
+    [
+     2,
+     "/hour"
+    ],
+    [
+     15,
+     "/month pass"
+    ],
+    [
+     40,
+     "/party slot"
+    ]
+   ],
+   "button": "Book A Slot",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [],
+   "spec_theme": "playful_vibrant"
+  },
+  {
+   "id": "icecream",
+   "label": "Ice Cream Parlour",
+   "theme": "food_order",
+   "family": "food_order",
+   "mood": "playful",
+   "services": [
+    "Scoops",
+    "Sundaes",
+    "Shakes",
+    "Cones",
+    "Sticks",
+    "Waffles"
+   ],
+   "keywords": [
+    "ice cream",
+    "icecream",
+    "gelato",
+    "sundae",
+    "kulfi",
+    "आइसक्रीम",
+    "ice cream parlour",
+    "कुल्फी"
+   ],
+   "requests": [
+    "ice cream parlour",
+    "ice cream",
+    "icecream",
+    "gelato",
+    "sundae",
+    "आइसक्रीम"
+   ],
+   "food": true,
+   "prices": [
+    [
+     2,
+     "/scoop"
+    ],
+    [
+     5,
+     "/shake"
+    ],
+    [
+     15,
+     "/party tub"
+    ]
+   ],
+   "button": "Visit Us",
+   "team": null,
+   "menu": {
+    "title": "On The Menu",
+    "lead": "Scoops, sundaes and kulfi to share. Ask for a taste of a flavour before you pick.",
+    "categories": [
+     {
+      "name": "Scoops",
+      "items": [
+       "Vanilla",
+       "Chocolate",
+       "Butterscotch",
+       "Strawberry",
+       "Mango | seasonal",
+       "Black currant"
+      ]
+     },
+     {
+      "name": "Sundaes And Shakes",
+      "items": [
+       "Hot fudge sundae",
+       "Brownie sundae",
+       "Milkshake | thick and cold",
+       "Falooda",
+       "Banana split",
+       "Ice cream soda"
+      ]
+     },
+     {
+      "name": "Cakes And Kulfi",
+      "items": [
+       "Ice cream cake | order ahead",
+       "Matka kulfi",
+       "Malai kulfi",
+       "Pista kulfi",
+       "Family tub"
+      ]
+     }
+    ]
+   },
+   "spec_equiv": [
+    "ice_cream_parlour"
+   ]
+  },
+  {
+   "id": "security",
+   "label": "Security Systems",
+   "theme": "home",
+   "family": "home",
+   "mood": "cool",
+   "services": [
+    "Cameras",
+    "Alarms",
+    "Recorders",
+    "Security Sensors",
+    "Security Installations",
+    "Security Inspections"
+   ],
+   "keywords": [
+    "cctv",
+    "security system",
+    "security systems",
+    "alarm",
+    "surveillance",
+    "access control",
+    "सीसीटीवी",
+    "cctv installation",
+    "security cameras",
+    "alarm system",
+    "biometric",
+    "सुरक्षा कैमरा"
+   ],
+   "requests": [
+    "security systems",
+    "cctv",
+    "security system",
+    "alarm",
+    "surveillance",
+    "सीसीटीवी"
+   ],
+   "food": false,
+   "prices": [
+    [
+     35,
+     "/camera"
+    ],
+    [
+     130,
+     "/4 camera set"
+    ],
+    [
+     250,
+     "/8 camera set"
+    ]
+   ],
+   "button": "Book A Site Visit",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "cctv_security_install"
+   ]
+  },
+  {
+   "id": "mehendi",
+   "label": "Mehendi and Bridal Artist",
+   "theme": "session",
+   "family": "session",
+   "mood": "playful",
+   "services": [
+    "Bridal Looks",
+    "Party Looks",
+    "Patterns",
+    "Trials",
+    "Hairstyles",
+    "Nail Art"
+   ],
+   "keywords": [
+    "mehendi",
+    "mehndi",
+    "henna",
+    "bridal makeup",
+    "bridal artist",
+    "मेहंदी",
+    "bridal mehendi",
+    "mehendi artist",
+    "मेहँदी"
+   ],
+   "requests": [
+    "mehendi and bridal artist",
+    "mehendi",
+    "mehndi",
+    "henna",
+    "bridal makeup",
+    "मेहंदी"
+   ],
+   "food": false,
+   "prices": [
+    [
+     15,
+     "/simple design"
+    ],
+    [
+     60,
+     "/party look"
+    ],
+    [
+     150,
+     "/bridal look"
+    ]
+   ],
+   "button": "Book A Trial Look",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "bridal_makeup"
+   ]
+  },
+  {
+   "id": "tailor",
+   "label": "Tailoring and Alterations",
+   "theme": "project",
+   "family": "project",
+   "mood": "elegant",
+   "services": [
+    "Stitching",
+    "Alterations",
+    "Blouses",
+    "Tailoring Suits",
+    "Tailoring Kurtas",
+    "Uniforms"
+   ],
+   "keywords": [
+    "tailor",
+    "tailoring",
+    "stitching",
+    "alterations",
+    "boutique tailor",
+    "दर्ज़ी",
+    "सिलाई",
+    "darzi",
+    "blouse stitching",
+    "boutique stitching",
+    "दर्जी",
+    "टेलर"
+   ],
+   "requests": [
+    "tailoring and alterations",
+    "tailor",
+    "tailoring",
+    "stitching",
+    "alterations",
+    "दर्ज़ी"
+   ],
+   "food": false,
+   "prices": [
+    [
+     5,
+     "/alteration"
+    ],
+    [
+     18,
+     "/blouse"
+    ],
+    [
+     60,
+     "/suit"
+    ]
+   ],
+   "button": "Book A Fitting",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "tailoring_alterations"
+   ]
+  },
+  {
+   "id": "astrology",
+   "label": "Astrology and Guidance",
+   "theme": "pro",
+   "family": "pro",
+   "mood": "calm",
+   "services": [
+    "Readings",
+    "Charts",
+    "Astrology Remedies",
+    "Predictions",
+    "Matchings",
+    "Muhurats"
+   ],
+   "keywords": [
+    "astrologer",
+    "astrology",
+    "horoscope",
+    "vastu",
+    "tarot",
+    "ज्योतिष",
+    "वास्तु",
+    "jyotish",
+    "jyotishi",
+    "kundli",
+    "ज्योतिषी",
+    "कुंडली"
+   ],
+   "requests": [
+    "astrology and guidance",
+    "astrologer",
+    "astrology",
+    "horoscope",
+    "vastu",
+    "ज्योतिष"
+   ],
+   "food": false,
+   "prices": [
+    [
+     5,
+     "/question"
+    ],
+    [
+     20,
+     "/chart reading"
+    ],
+    [
+     50,
+     "/full consultation"
+    ]
+   ],
+   "button": "Book A Reading",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "astrologer_vastu"
+   ]
+  },
+  {
+   "id": "visa",
+   "label": "Visa and Immigration Consultants",
+   "theme": "pro",
+   "family": "pro",
+   "mood": "calm",
+   "services": [
+    "Applications",
+    "Visa Interviews",
+    "Checklists",
+    "Slots",
+    "Visas",
+    "Forms"
+   ],
+   "keywords": [
+    "visa",
+    "visa consultant",
+    "visa consultancy",
+    "visa services",
+    "immigration",
+    "study abroad",
+    "passport",
+    "overseas education",
+    "वीज़ा",
+    "वीजा"
+   ],
+   "requests": [
+    "visa and immigration consultants",
+    "visa",
+    "visa consultant",
+    "visa consultancy",
+    "visa services",
+    "वीज़ा"
+   ],
+   "food": false,
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     60,
+     "/profile review"
+    ],
+    [
+     300,
+     "/application support"
+    ]
+   ],
+   "button": "Book A Visa Chat",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "immigration_consultant"
+   ]
+  },
+  {
+   "id": "tenthouse",
+   "label": "Tent House and Rentals",
+   "theme": "events",
+   "family": "events",
+   "mood": "bold",
+   "services": [
+    "Tents",
+    "Rental Stages",
+    "Rental Lights",
+    "Speakers",
+    "Rental Chairs",
+    "Rental Setups"
+   ],
+   "keywords": [
+    "tent house",
+    "sound system",
+    "light rental",
+    "furniture rental",
+    "stage rental",
+    "कैटरिंग टेंट",
+    "tent",
+    "shamiyana",
+    "sound and light rental",
+    "decoration rental",
+    "chair rental",
+    "टेंट हाउस",
+    "टेंट",
+    "शामियाना"
+   ],
+   "requests": [
+    "tent house and rentals",
+    "tent house",
+    "sound system",
+    "light rental",
+    "furniture rental",
+    "कैटरिंग टेंट"
+   ],
+   "food": false,
+   "prices": [
+    [
+     60,
+     "/small setup"
+    ],
+    [
+     200,
+     "/party setup"
+    ],
+    [
+     600,
+     "/wedding setup"
+    ]
+   ],
+   "button": "Get A Quote",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "wedding_dj_sound"
+   ]
+  },
+  {
+   "id": "welding",
+   "label": "Fabrication and Welding",
+   "theme": "project",
+   "family": "project",
+   "mood": "bold",
+   "services": [
+    "Gates",
+    "Grills",
+    "Railings",
+    "Sheds",
+    "Staircases",
+    "Metal Frames"
+   ],
+   "keywords": [
+    "welding",
+    "fabrication",
+    "metal work",
+    "gates",
+    "grills",
+    "workshop",
+    "steel work",
+    "gate and grill",
+    "grill work",
+    "iron work",
+    "lohe ka kaam",
+    "वेल्डिंग",
+    "फैब्रिकेशन",
+    "लोहे का काम"
+   ],
+   "requests": [
+    "fabrication and welding",
+    "welding",
+    "fabrication",
+    "metal work",
+    "gates",
+    "वेल्डिंग"
+   ],
+   "food": false,
+   "prices": [
+    [
+     15,
+     "/repair"
+    ],
+    [
+     120,
+     "/gate"
+    ],
+    [
+     350,
+     "/shed"
+    ]
+   ],
+   "button": "Get A Free Quote",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [],
+   "spec_theme": "home_services"
+  },
+  {
+   "id": "tyres",
+   "label": "Tyre and Auto Accessories",
+   "theme": "auto",
+   "family": "auto",
+   "mood": "bold",
+   "services": [
+    "Tyres",
+    "Alignments",
+    "Wheels",
+    "Rims",
+    "Wipers",
+    "Tyre Batteries"
+   ],
+   "keywords": [
+    "tyre",
+    "tire",
+    "wheel alignment",
+    "auto accessories",
+    "car accessories",
+    "battery shop",
+    "tyres",
+    "tires",
+    "tyre shop",
+    "puncture",
+    "wheel balancing",
+    "टायर",
+    "पंक्चर",
+    "पंचर"
+   ],
+   "requests": [
+    "tyre and auto accessories",
+    "tyre",
+    "tire",
+    "wheel alignment",
+    "auto accessories",
+    "टायर"
+   ],
+   "food": false,
+   "prices": [
+    [
+     5,
+     "/alignment"
+    ],
+    [
+     40,
+     "/tyre"
+    ],
+    [
+     90,
+     "/battery"
+    ]
+   ],
+   "button": "Book A Service",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [],
+   "spec_theme": "automotive"
+  },
+  {
+   "id": "sports",
+   "label": "Sports Academy",
+   "theme": "session",
+   "family": "session",
+   "mood": "bold",
+   "services": [
+    "Drills",
+    "Matches",
+    "Sports Tournaments",
+    "Nets",
+    "Fitness Tests",
+    "Sports Batches"
+   ],
+   "keywords": [
+    "cricket",
+    "football",
+    "badminton",
+    "tennis",
+    "swimming",
+    "cricket coaching",
+    "football coaching",
+    "badminton coaching",
+    "tennis coaching",
+    "swimming classes",
+    "swimming coaching",
+    "sports academy",
+    "sports coaching",
+    "karate",
+    "martial arts",
+    "skating",
+    "क्रिकेट",
+    "cricket academy",
+    "football academy",
+    "karate classes",
+    "क्रिकेट अकादमी",
+    "खेल"
+   ],
+   "requests": [
+    "sports academy",
+    "cricket",
+    "football",
+    "badminton",
+    "tennis",
+    "क्रिकेट"
+   ],
+   "food": false,
+   "prices": [
+    [
+     12,
+     "/month"
+    ],
+    [
+     30,
+     "/quarter"
+    ],
+    [
+     100,
+     "/year"
+    ]
+   ],
+   "button": "Book A Trial Class",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "fitness_martial_arts_dance"
+   ]
+  },
+  {
+   "id": "gym",
+   "label": "Gym and Fitness Studio",
+   "theme": "session",
+   "family": "session",
+   "mood": "bold",
+   "services": [
+    "Group Classes",
+    "Personal Training",
+    "Strength Training",
+    "Cardio",
+    "Gym Sessions",
+    "Gym Programs"
+   ],
+   "keywords": [
+    "gym",
+    "fitness",
+    "workout",
+    "trainer",
+    "crossfit",
+    "zumba",
+    "जिम",
+    "फिटनेस",
+    "fitness centre",
+    "fitness center",
+    "fitness studio",
+    "aerobics",
+    "weight training",
+    "personal trainer",
+    "bodybuilding",
+    "एरोबिक्स"
+   ],
+   "requests": [
+    "gym and fitness studio",
+    "gym",
+    "fitness",
+    "workout",
+    "trainer",
+    "जिम"
+   ],
+   "food": false,
+   "prices": [
+    [
+     15,
+     "/month"
+    ],
+    [
+     40,
+     "/quarter"
+    ],
+    [
+     120,
+     "/year"
+    ]
+   ],
+   "button": "Book A Free Trial",
+   "team": [
+    "Head Trainer",
+    "Fitness Coach",
+    "Front Desk"
+   ],
+   "menu": null,
+   "spec_equiv": [
+    "fitness_martial_arts_dance",
+    "gym_fitness_studio"
+   ]
+  },
+  {
+   "id": "yoga",
+   "label": "Yoga Studio",
+   "theme": "session",
+   "family": "session",
+   "mood": "friendly",
+   "services": [
+    "Yoga Stretches",
+    "Routines",
+    "Retreats",
+    "Meditations",
+    "Yoga Classes",
+    "Yoga Sessions"
+   ],
+   "keywords": [
+    "yoga",
+    "meditation",
+    "retreat",
+    "pilates",
+    "teacher training",
+    "योग",
+    "ध्यान",
+    "yoga classes",
+    "yoga studio",
+    "yoga centre",
+    "pranayama",
+    "yoga teacher training",
+    "योगा"
+   ],
+   "requests": [
+    "yoga studio",
+    "yoga",
+    "meditation",
+    "retreat",
+    "pilates",
+    "योग"
+   ],
+   "food": false,
+   "prices": [
+    [
+     4,
+     "/class"
+    ],
+    [
+     30,
+     "/month"
+    ],
+    [
+     80,
+     "/quarter"
+    ]
+   ],
+   "button": "Book A Class",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "yoga_retreat",
+    "yoga_studio"
+   ]
+  },
+  {
+   "id": "software",
+   "label": "Software Company",
+   "theme": "software",
+   "family": "software",
+   "mood": "cool",
+   "services": [
+    "Automation",
+    "Reporting",
+    "Integrations",
+    "Team Workspace",
+    "Software Workflows",
+    "Software Dashboards"
+   ],
+   "keywords": [
+    "software",
+    "saas",
+    "startup",
+    "developer",
+    "it consulting",
+    "it company",
+    "web development",
+    "app development",
+    "mobile app",
+    "website development",
+    "सॉफ्टवेयर",
+    "software company",
+    "software development",
+    "it services",
+    "b2b",
+    "डेवलपर"
+   ],
+   "requests": [
+    "software company",
+    "software",
+    "saas",
+    "startup",
+    "developer",
+    "सॉफ्टवेयर"
+   ],
+   "food": false,
+   "prices": [
+    [
+     9,
+     "/month"
+    ],
+    [
+     29,
+     "/month"
+    ],
+    [
+     79,
+     "/month"
+    ]
+   ],
+   "button": "Book A Demo",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "saas_startup",
+    "web_app_dev_agency"
+   ]
+  },
+  {
+   "id": "ngo",
+   "label": "Non-profit Organisation",
+   "theme": "nonprofit",
+   "family": "nonprofit",
+   "mood": "friendly",
+   "services": [
+    "Drives",
+    "Community Campaigns",
+    "Donations",
+    "Volunteers",
+    "Scholarships",
+    "Fundraisers"
+   ],
+   "keywords": [
+    "ngo",
+    "charity",
+    "donation",
+    "nonprofit",
+    "non-profit",
+    "social work",
+    "एनजीओ",
+    "दान",
+    "फाउंडेशन",
+    "orphanage",
+    "ट्रस्ट",
+    "सामाजिक संस्था",
+    "समाज सेवा"
+   ],
+   "requests": [
+    "non-profit organisation",
+    "ngo",
+    "charity",
+    "donation",
+    "nonprofit",
+    "एनजीओ"
+   ],
+   "food": false,
+   "prices": [
+    [
+     2,
+     "/month donation"
+    ],
+    [
+     10,
+     "/month donation"
+    ],
+    [
+     30,
+     "/month donation"
+    ]
+   ],
+   "button": "Donate Or Volunteer",
+   "team": [
+    "Programme Lead",
+    "Volunteer Coordinator",
+    "Donor Desk"
+   ],
+   "menu": null,
+   "spec_equiv": [
+    "animal_welfare",
+    "ngo_charity",
+    "temple_trust"
+   ]
+  },
+  {
+   "id": "autosales",
+   "label": "Vehicle Showroom",
+   "theme": "auto",
+   "family": "auto",
+   "mood": "bold",
+   "services": [
+    "Motorcycles",
+    "Scooters",
+    "Helmets",
+    "Test Rides",
+    "Finance",
+    "Servicing"
+   ],
+   "keywords": [
+    "bike showroom",
+    "motorcycle showroom",
+    "bike dealership",
+    "two wheeler showroom",
+    "car showroom",
+    "car dealership",
+    "car dealer",
+    "used cars",
+    "second hand car",
+    "scooter dealer",
+    "motorcycle dealer",
+    "bike dealer",
+    "बाइक शोरूम",
+    "कार डीलरशिप",
+    "scooter showroom",
+    "second hand bikes",
+    "used bikes",
+    "royal enfield",
+    "hero honda",
+    "बाइक",
+    "कार शोरूम",
+    "गाड़ी का शोरूम"
+   ],
+   "requests": [
+    "vehicle showroom",
+    "bike showroom",
+    "motorcycle showroom",
+    "bike dealership",
+    "two wheeler showroom",
+    "बाइक शोरूम"
+   ],
+   "food": false,
+   "prices": [
+    [
+     0,
+     "/test ride"
+    ],
+    [
+     20,
+     "/inspection"
+    ],
+    [
+     50,
+     "/paperwork support"
+    ]
+   ],
+   "button": "Book A Test Ride",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "used_car_dealer"
+   ]
+  },
+  {
+   "id": "robotics",
+   "label": "Robotics and STEM Lab",
+   "theme": "edu",
+   "family": "edu",
+   "mood": "cool",
+   "services": [
+    "Robotics Kits",
+    "Challenges",
+    "Robotics Sensors",
+    "Robots",
+    "Drones",
+    "Coding Labs"
+   ],
+   "keywords": [
+    "robotics",
+    "robotic",
+    "stem lab",
+    "arduino",
+    "drone workshop",
+    "coding lab",
+    "रोबोटिक्स",
+    "robotics lab",
+    "robotics club",
+    "robot",
+    "coding and robotics",
+    "stem",
+    "tinkering",
+    "drone",
+    "रोबोट"
+   ],
+   "requests": [
+    "robotics and stem lab",
+    "robotics",
+    "robotic",
+    "stem lab",
+    "arduino",
+    "रोबोटिक्स"
+   ],
+   "food": false,
+   "prices": [
+    [
+     15,
+     "/workshop"
+    ],
+    [
+     40,
+     "/month"
+    ],
+    [
+     100,
+     "/term"
+    ]
+   ],
+   "button": "Book A Demo",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [],
+   "spec_theme": "education"
+  },
+  {
+   "id": "pottery",
+   "label": "Pottery Studio",
+   "theme": "edu",
+   "family": "edu",
+   "mood": "warm",
+   "services": [
+    "Pottery Pieces",
+    "Mugs",
+    "Bowls",
+    "Glazes",
+    "Plates",
+    "Vases"
+   ],
+   "keywords": [
+    "pottery",
+    "ceramic",
+    "ceramics",
+    "clay studio",
+    "clay art",
+    "kumhar",
+    "मिट्टी के बर्तन",
+    "कुम्हार",
+    "pottery studio",
+    "pottery classes",
+    "clay",
+    "mitti ke bartan",
+    "मिट्टी"
+   ],
+   "requests": [
+    "pottery studio",
+    "pottery",
+    "ceramic",
+    "ceramics",
+    "clay studio",
+    "मिट्टी के बर्तन"
+   ],
+   "food": false,
+   "prices": [
+    [
+     10,
+     "/class"
+    ],
+    [
+     30,
+     "/month"
+    ],
+    [
+     80,
+     "/term"
+    ]
+   ],
+   "button": "Book A Session",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [],
+   "spec_theme": "education"
+  },
+  {
+   "id": "skin",
+   "label": "Skin Clinic",
+   "theme": "clinic",
+   "family": "clinic",
+   "mood": "calm",
+   "services": [
+    "Peels",
+    "Procedures",
+    "Skin Consultations",
+    "Skin Treatments",
+    "Skin Facials",
+    "Skin Assessments"
+   ],
+   "keywords": [
+    "skin clinic",
+    "dermatologist",
+    "dermatology",
+    "skin doctor",
+    "skin specialist",
+    "acne",
+    "pigmentation",
+    "त्वचा",
+    "skin aur hair",
+    "skin and hair",
+    "hair fall",
+    "laser treatment",
+    "tvacha",
+    "त्वचा रोग",
+    "स्किन"
+   ],
+   "requests": [
+    "skin clinic",
+    "dermatologist",
+    "dermatology",
+    "skin doctor",
+    "skin specialist",
+    "त्वचा"
+   ],
+   "food": false,
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     20,
+     "/facial treatment"
+    ],
+    [
+     80,
+     "/laser session"
+    ]
+   ],
+   "button": "Book A Skin Consultation",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [
+    "skin_clinic_dermatology"
+   ]
+  },
+  {
+   "id": "eye",
+   "label": "Eye Clinic",
+   "theme": "clinic",
+   "family": "clinic",
+   "mood": "calm",
+   "services": [
+    "Eye Tests",
+    "Eye Surgeries",
+    "Eye Lenses",
+    "Glasses",
+    "Eye Consultations",
+    "Eye Screenings"
+   ],
+   "keywords": [
+    "eye clinic",
+    "eye hospital",
+    "eye specialist",
+    "eye doctor",
+    "ophthalmology",
+    "ophthalmologist",
+    "cataract",
+    "lasik",
+    "aankhon",
+    "netra",
+    "आंखों",
+    "आँखों",
+    "नेत्र",
+    "eye care",
+    "aankhon ka",
+    "netra chikitsalaya",
+    "आंखों का",
+    "आँखों का",
+    "आंख"
+   ],
+   "requests": [
+    "eye clinic",
+    "eye hospital",
+    "eye specialist",
+    "eye doctor",
+    "ophthalmology",
+    "आंखों"
+   ],
+   "food": false,
+   "prices": [
+    [
+     5,
+     "/eye test"
+    ],
+    [
+     15,
+     "/consultation"
+    ],
+    [
+     60,
+     "/care plan"
+    ]
+   ],
+   "button": "Book An Eye Test",
+   "team": null,
+   "menu": null,
+   "spec_equiv": [],
+   "spec_theme": "healthcare"
+  }
+ ],
+ "types": [
+  {
+   "theme": "home",
+   "label": "Home and field service",
+   "family": "home",
+   "mood": "friendly",
+   "items": [
+    "Clear Quotes",
+    "Local Team",
+    "Tidy Work",
+    "Time Slots",
+    "Plain Explanations",
+    "Follow Up Care"
+   ],
+   "keywords": [
+    "plumber",
+    "electrician",
+    "painter",
+    "ac repair",
+    "cleaning",
+    "solar",
+    "packers",
+    "cctv",
+    "lawn",
+    "plumbing",
+    "electrical",
+    "painting"
+   ],
+   "prices": [
+    [
+     8,
+     "/visit"
+    ],
+    [
+     25,
+     "/job"
+    ],
+    [
+     60,
+     "/project"
+    ]
+   ],
+   "button": "Book A Home Visit",
+   "menu": null,
+   "members": [
+    "plumbing",
+    "electrician",
+    "painting",
+    "ac",
+    "cleaning",
+    "solar",
+    "movers",
+    "security",
+    "landscape"
+   ]
+  },
+  {
+   "theme": "auto",
+   "label": "Vehicle and transport service",
+   "family": "auto",
+   "mood": "bold",
+   "items": [
+    "Clear Estimates",
+    "Slot Booking",
+    "Plain Explanations",
+    "Update Messages",
+    "Careful Handling",
+    "Friendly Service"
+   ],
+   "keywords": [
+    "garage",
+    "courier",
+    "taxi",
+    "tyre",
+    "bike showroom",
+    "car repair",
+    "logistics",
+    "cab",
+    "tire",
+    "motorcycle showroom",
+    "mechanic",
+    "delivery service"
+   ],
+   "prices": [
+    [
+     6,
+     "/check"
+    ],
+    [
+     20,
+     "/service"
+    ],
+    [
+     60,
+     "/full service"
+    ]
+   ],
+   "button": "Book A Slot",
+   "menu": null,
+   "members": [
+    "garage",
+    "courier",
+    "taxi",
+    "tyres",
+    "autosales"
+   ]
+  },
+  {
+   "theme": "project",
+   "label": "Design and build studio",
+   "family": "project",
+   "mood": "elegant",
+   "items": [
+    "Brief First Approach",
+    "Draft Reviews",
+    "Clear Timelines",
+    "Format Delivery",
+    "Revision Rounds",
+    "Friendly Collaboration"
+   ],
+   "keywords": [
+    "carpenter",
+    "construction",
+    "tailor",
+    "welding",
+    "architect",
+    "interior",
+    "digital marketing",
+    "photo studio",
+    "designer",
+    "printing",
+    "carpentry",
+    "builder"
+   ],
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     120,
+     "/small project"
+    ],
+    [
+     400,
+     "/full project"
+    ]
+   ],
+   "button": "Start Your Project",
+   "menu": null,
+   "members": [
+    "carpentry",
+    "construction",
+    "tailor",
+    "welding",
+    "architect",
+    "interior",
+    "marketing",
+    "photography",
+    "design",
+    "printing"
+   ]
+  },
+  {
+   "theme": "retail",
+   "label": "Neighbourhood shop",
+   "family": "retail",
+   "mood": "playful",
+   "items": [
+    "Careful Selection",
+    "Helpful Staff",
+    "Easy Exchange Advice",
+    "Gift Wrapping",
+    "Order Ahead",
+    "Fair Prices"
+   ],
+   "keywords": [
+    "clothing",
+    "jewelry",
+    "furniture",
+    "laptop",
+    "organic",
+    "bookstore",
+    "florist",
+    "pet shop",
+    "optician",
+    "pharmacy",
+    "ecommerce",
+    "clothes"
+   ],
+   "prices": [
+    [
+     5,
+     "/item"
+    ],
+    [
+     20,
+     "/gift set"
+    ],
+    [
+     50,
+     "/bundle"
+    ]
+   ],
+   "button": "Visit The Shop",
+   "menu": null,
+   "members": [
+    "clothing",
+    "jewellery",
+    "furniture",
+    "mobile",
+    "grocery",
+    "books",
+    "gifts",
+    "petshop",
+    "optical",
+    "pharmacy",
+    "shop"
+   ]
+  },
+  {
+   "theme": "food",
+   "label": "Restaurant and cafe",
+   "family": "food",
+   "mood": "warm",
+   "items": [
+    "Fresh Cooking",
+    "Easy Ordering",
+    "Table Reservations",
+    "Dietary Questions Welcome",
+    "Takeaway Options",
+    "Friendly Service"
+   ],
+   "keywords": [
+    "restaurant",
+    "cafe",
+    "dhaba",
+    "coffee",
+    "bistro",
+    "tea",
+    "diner",
+    "chai",
+    "eatery",
+    "coffee shop",
+    "food court",
+    "coffee house"
+   ],
+   "prices": [
+    [
+     4,
+     "/main course"
+    ],
+    [
+     8,
+     "/combo"
+    ],
+    [
+     25,
+     "/family table"
+    ]
+   ],
+   "button": "Order Or Reserve",
+   "menu": {
+    "title": "On The Menu",
+    "lead": "A simple menu of fresh favourites, made to order. Ask the team about ingredients or any dietary need.",
+    "categories": [
+     {
+      "name": "Starters",
+      "items": [
+       "Soup of the day",
+       "Veg spring rolls",
+       "Grilled paneer | with mint dip",
+       "Crispy corn",
+       "Fresh salad"
+      ]
+     },
+     {
+      "name": "Main Course",
+      "items": [
+       "Dal and rice",
+       "Paneer curry",
+       "Veg pulao | gently spiced",
+       "Pasta of the day",
+       "Grilled sandwich",
+       "Chef's special | ask the team"
+      ]
+     },
+     {
+      "name": "Desserts",
+      "items": [
+       "Gulab jamun | with warm syrup",
+       "Ice cream",
+       "Brownie",
+       "Fruit custard",
+       "Kulfi | on a stick"
+      ]
+     },
+     {
+      "name": "Drinks",
+      "items": [
+       "Masala chai",
+       "Cold coffee",
+       "Fresh lime soda",
+       "Lassi | sweet or salted",
+       "Seasonal juice"
+      ]
+     }
+    ]
+   },
+   "members": [
+    "restaurant",
+    "cafe"
+   ]
+  },
+  {
+   "theme": "food_order",
+   "label": "Bakery and sweets",
+   "family": "food_order",
+   "mood": "warm",
+   "items": [
+    "Fresh Batches",
+    "Order Ahead",
+    "Party Boxes",
+    "Gift Packing",
+    "Pickup Or Delivery",
+    "Ingredient Questions Welcome"
+   ],
+   "keywords": [
+    "bakery",
+    "mithai",
+    "ice cream",
+    "cake",
+    "sweets",
+    "icecream",
+    "cakes",
+    "sweet shop",
+    "gelato",
+    "pastry",
+    "halwai",
+    "sundae"
+   ],
+   "prices": [
+    [
+     3,
+     "/small order"
+    ],
+    [
+     10,
+     "/party box"
+    ],
+    [
+     30,
+     "/celebration order"
+    ]
+   ],
+   "button": "Place An Order",
+   "menu": {
+    "title": "Fresh Today",
+    "lead": "Small batches made through the day, with boxes for parties and gifts. Order ahead for bigger days.",
+    "categories": [
+     {
+      "name": "Cakes And Bakes",
+      "items": [
+       "Chocolate cake",
+       "Vanilla sponge",
+       "Fruit cake",
+       "Cupcake box",
+       "Brownie"
+      ]
+     },
+     {
+      "name": "Sweets",
+      "items": [
+       "Kaju katli",
+       "Besan ladoo",
+       "Rasgulla",
+       "Milk barfi",
+       "Gulab jamun"
+      ]
+     },
+     {
+      "name": "Cold Treats",
+      "items": [
+       "Vanilla scoop",
+       "Mango kulfi",
+       "Chocolate sundae",
+       "Milkshake",
+       "Falooda"
+      ]
+     }
+    ]
+   },
+   "members": [
+    "bakery",
+    "sweets",
+    "icecream"
+   ]
+  },
+  {
+   "theme": "clinic",
+   "label": "Clinic and care",
+   "family": "clinic",
+   "mood": "calm",
+   "items": [
+    "Easy Appointments",
+    "Time For Questions",
+    "Plain Explanations",
+    "Follow Up Guidance",
+    "Clear Fees",
+    "Calm Waiting Area"
+   ],
+   "keywords": [
+    "dental",
+    "doctor",
+    "ayurveda",
+    "physio",
+    "vet",
+    "skin clinic",
+    "eye clinic",
+    "dentist",
+    "hospital",
+    "ayurvedic",
+    "physiotherapy",
+    "veterinary"
+   ],
+   "prices": [
+    [
+     5,
+     "/consultation"
+    ],
+    [
+     15,
+     "/checkup"
+    ],
+    [
+     40,
+     "/care plan"
+    ]
+   ],
+   "button": "Book An Appointment",
+   "menu": null,
+   "members": [
+    "dental",
+    "clinic",
+    "ayurveda",
+    "physio",
+    "vet",
+    "skin",
+    "eye"
+   ]
+  },
+  {
+   "theme": "session",
+   "label": "Beauty and fitness studio",
+   "family": "session",
+   "mood": "elegant",
+   "items": [
+    "Relaxed Sessions",
+    "Personal Plans",
+    "Easy Booking",
+    "Clean Spaces",
+    "Friendly Team",
+    "Aftercare Tips"
+   ],
+   "keywords": [
+    "salon",
+    "spa",
+    "tattoo",
+    "mehendi",
+    "gym",
+    "yoga",
+    "cricket",
+    "gaming cafe",
+    "parlour",
+    "massage",
+    "piercing",
+    "mehndi"
+   ],
+   "prices": [
+    [
+     5,
+     "/session"
+    ],
+    [
+     30,
+     "/month"
+    ],
+    [
+     80,
+     "/quarter"
+    ]
+   ],
+   "button": "Book A Session",
+   "menu": null,
+   "members": [
+    "salon",
+    "spa",
+    "tattoo",
+    "mehendi",
+    "gym",
+    "yoga",
+    "sports",
+    "gaming"
+   ]
+  },
+  {
+   "theme": "pro",
+   "label": "Advisory and professional firm",
+   "family": "pro",
+   "mood": "calm",
+   "items": [
+    "Clear First Call",
+    "Plain Advice",
+    "Written Next Steps",
+    "Fees Told Upfront",
+    "Private Handling",
+    "Regular Updates"
+   ],
+   "keywords": [
+    "law firm",
+    "accounting",
+    "insurance",
+    "consulting",
+    "recruitment",
+    "astrologer",
+    "visa",
+    "lawyer",
+    "accountant",
+    "loan",
+    "consultant",
+    "staffing"
+   ],
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     40,
+     "/review"
+    ],
+    [
+     150,
+     "/full support"
+    ]
+   ],
+   "button": "Book A Consultation",
+   "menu": null,
+   "members": [
+    "law",
+    "accounting",
+    "insurance",
+    "consulting",
+    "recruitment",
+    "astrology",
+    "visa"
+   ]
+  },
+  {
+   "theme": "edu",
+   "label": "Classes and coaching",
+   "family": "edu",
+   "mood": "friendly",
+   "items": [
+    "Demo Class Option",
+    "Small Batches",
+    "Regular Practice",
+    "Progress Updates",
+    "Doubt Clearing",
+    "Flexible Timings"
+   ],
+   "keywords": [
+    "school",
+    "play school",
+    "driving school",
+    "music class",
+    "robotics",
+    "pottery",
+    "coaching",
+    "playschool",
+    "driving",
+    "dance class",
+    "robotic",
+    "ceramic"
+   ],
+   "prices": [
+    [
+     12,
+     "/month"
+    ],
+    [
+     30,
+     "/month"
+    ],
+    [
+     80,
+     "/term"
+    ]
+   ],
+   "button": "Book A Demo Class",
+   "menu": null,
+   "members": [
+    "school",
+    "playschool",
+    "driving",
+    "music",
+    "robotics",
+    "pottery"
+   ]
+  },
+  {
+   "theme": "events",
+   "label": "Events and celebrations",
+   "family": "events",
+   "mood": "elegant",
+   "items": [
+    "Planning Support",
+    "Checklist Approach",
+    "Vendor Coordination",
+    "Decor Ideas",
+    "Day Of Support",
+    "Clear Quotes"
+   ],
+   "keywords": [
+    "wedding planner",
+    "tent house",
+    "catering",
+    "event management",
+    "sound system",
+    "caterer",
+    "event planner",
+    "light rental",
+    "tiffin",
+    "decorator",
+    "furniture rental",
+    "cloud kitchen"
+   ],
+   "prices": [
+    [
+     150,
+     "/event"
+    ],
+    [
+     500,
+     "/wedding"
+    ],
+    [
+     1500,
+     "/large wedding"
+    ]
+   ],
+   "button": "Plan Your Event",
+   "menu": null,
+   "members": [
+    "events",
+    "tenthouse",
+    "catering"
+   ]
+  },
+  {
+   "theme": "stay",
+   "label": "Travel and stay",
+   "family": "stay",
+   "mood": "warm",
+   "items": [
+    "Custom Plans",
+    "Clear Inclusions",
+    "Easy Booking",
+    "Local Tips",
+    "Flexible Dates",
+    "Quick Replies"
+   ],
+   "keywords": [
+    "travel",
+    "hotel",
+    "coworking",
+    "tours",
+    "resort",
+    "co-working",
+    "holiday",
+    "homestay",
+    "shared office",
+    "tourism",
+    "guest house",
+    "office space"
+   ],
+   "prices": [
+    [
+     20,
+     "/night"
+    ],
+    [
+     90,
+     "/weekend"
+    ],
+    [
+     200,
+     "/week"
+    ]
+   ],
+   "button": "Check Dates",
+   "menu": null,
+   "members": [
+    "travel",
+    "hotel",
+    "coworking"
+   ]
+  },
+  {
+   "theme": "property",
+   "label": "Property and rentals",
+   "family": "property",
+   "mood": "elegant",
+   "items": [
+    "Clear Listings",
+    "Honest Details",
+    "Viewing Support",
+    "Paperwork Guidance",
+    "Cost Explanations",
+    "Friendly Advice"
+   ],
+   "keywords": [
+    "real estate",
+    "property",
+    "broker",
+    "realtor",
+    "flats",
+    "villas",
+    "plots",
+    "apartments"
+   ],
+   "prices": [
+    [
+     0,
+     "/consultation"
+    ],
+    [
+     30,
+     "/property search"
+    ],
+    [
+     80,
+     "/full service"
+    ]
+   ],
+   "button": "Book A Viewing",
+   "menu": null,
+   "members": [
+    "realestate"
+   ]
+  },
+  {
+   "theme": "nonprofit",
+   "label": "Community organisation",
+   "family": "nonprofit",
+   "mood": "warm",
+   "items": [
+    "Open Reporting",
+    "Volunteer Roles",
+    "Donation Options",
+    "Community Programmes",
+    "Event Updates",
+    "Easy Contact"
+   ],
+   "keywords": [
+    "ngo",
+    "charity",
+    "donation",
+    "nonprofit",
+    "non-profit",
+    "social work",
+    "orphanage"
+   ],
+   "prices": [
+    [
+     2,
+     "/month"
+    ],
+    [
+     10,
+     "/month"
+    ],
+    [
+     30,
+     "/month"
+    ]
+   ],
+   "button": "Support Our Work",
+   "menu": null,
+   "members": [
+    "ngo"
+   ]
+  },
+  {
+   "theme": "software",
+   "label": "Software and IT",
+   "family": "software",
+   "mood": "cool",
+   "items": [
+    "Clear Onboarding",
+    "Simple Setup",
+    "Friendly Support",
+    "Regular Updates",
+    "Careful Data Handling",
+    "Flexible Plans"
+   ],
+   "keywords": [
+    "software",
+    "saas",
+    "startup",
+    "developer",
+    "it consulting",
+    "it company",
+    "web development",
+    "app development"
+   ],
+   "prices": [
+    [
+     9,
+     "/month"
+    ],
+    [
+     29,
+     "/month"
+    ],
+    [
+     79,
+     "/month"
+    ]
+   ],
+   "button": "Book A Demo",
+   "menu": null,
+   "members": [
+    "software"
+   ]
+  },
+  {
+   "theme": "general",
+   "label": "Neighbourhood business",
+   "family": "home",
+   "mood": "friendly",
+   "items": [
+    "Friendly Local Service",
+    "Clear Pricing",
+    "Easy Contact",
+    "Honest Advice",
+    "On Time Updates",
+    "Quick Replies"
+   ],
+   "keywords": [
+    "local business",
+    "small business",
+    "neighbourhood business",
+    "family business",
+    "local shop",
+    "local service",
+    "own business",
+    "startup business"
+   ],
+   "prices": [
+    [
+     5,
+     "/job"
+    ],
+    [
+     20,
+     "/job"
+    ],
+    [
+     60,
+     "/job"
+    ]
+   ],
+   "button": "Contact Us Today",
+   "menu": null,
+   "members": []
+  }
+ ]
+}

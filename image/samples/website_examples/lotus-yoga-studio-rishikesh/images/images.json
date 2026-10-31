@@ -1,0 +1,106 @@
+{
+  "niche": "yoga",
+  "requested_niche": "yoga",
+  "fallback": false,
+  "reason": "sub-niche yoga",
+  "mood": "light",
+  "accent": "#17a568",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Lotus Yoga Studio Rishikesh Yoga Studio hatha meditation teacher training Hatha Yoga Meditation Teacher Training",
+    "niche": "yoga",
+    "title": "Yoga studio",
+    "fallback": false,
+    "mood": "light",
+    "accent": "#17a568",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 16,
+    "palette_family": 0.809,
+    "text_zone": "left",
+    "hero_contrast": 4.56,
+    "seconds": 7.45,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.809
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 30024,
+      "alt": "Illustration for Lotus Yoga Studio Rishikesh: Yoga studio",
+      "text_color": "#0d0d14",
+      "contrast": 4.56,
+      "role": "hero",
+      "seed": 2
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 20110,
+      "alt": "About Lotus Yoga Studio Rishikesh: Yoga studio",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1015
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 16414,
+        "alt": "Lotus Yoga Studio Rishikesh gallery picture: Yoga studio",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2028
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 12814,
+        "alt": "Lotus Yoga Studio Rishikesh gallery picture: Yoga studio",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3041
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 15733,
+        "alt": "Lotus Yoga Studio Rishikesh gallery picture: Yoga studio",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4054
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 15912,
+        "alt": "Lotus Yoga Studio Rishikesh gallery picture: Yoga studio",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5067
+      }
+    ]
+  }
+}

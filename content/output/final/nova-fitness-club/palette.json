@@ -1,0 +1,11 @@
+{
+  "dark": true,
+  "bg": "#1c120d",
+  "surface": "#2b1e17",
+  "text": "#f8fafc",
+  "muted": "#9a877e",
+  "primary": "#d86027",
+  "primary_text": "#0f172a",
+  "accent": "#d1b42e",
+  "accent_text": "#0f172a"
+}

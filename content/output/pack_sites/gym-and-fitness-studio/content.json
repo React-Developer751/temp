@@ -1,0 +1,215 @@
+{
+  "brand": "Gym and fitness studio",
+  "niche": "gym_fitness_studio",
+  "kind": "beauty",
+  "profile": "",
+  "business_type": "gym_fitness_studio",
+  "type_label": "Gym and fitness studio",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "bold",
+  "keywords": [
+    "gym membership",
+    "fitness centre",
+    "crossfit box",
+    "personal trainer",
+    "weight training gym",
+    "gym near me"
+  ],
+  "eyebrow": "Gym and fitness studio",
+  "location": "",
+  "audience": "",
+  "hero_heading": "Time Well Spent On Strength Floor",
+  "tagline": "Looking for help with gym and fitness studio? Gym and fitness studio keeps it relaxed: a warm welcome, a clear plan and a session that fits your day.",
+  "about_title": "About us",
+  "about": [
+    "Gym and fitness studio is a friendly gym and fitness studio space. We listen first, plan the session around you and keep things relaxed from start to finish.",
+    "We offer strength floor, cardio zone and personal training, and we are happy to talk through your preferences before you decide."
+  ],
+  "features_title": "Our Gym And Fitness Studio Services",
+  "features": [
+    {
+      "title": "Strength Floor",
+      "text": "We talk through strength floor first, so the session matches what you want and what suits you."
+    },
+    {
+      "title": "Cardio Zone",
+      "text": "Cardio Zone booked at a time that works for you, in a friendly space and without any rush."
+    },
+    {
+      "title": "Personal Training",
+      "text": "Ask about personal training; we explain the options simply and let you choose."
+    },
+    {
+      "title": "Group Classes",
+      "text": "For group classes, we listen to your preferences and plan the session around them."
+    },
+    {
+      "title": "Fitness Assessment",
+      "text": "Fitness Assessment delivered with care, with tips on how to keep the results going."
+    },
+    {
+      "title": "Open Slots",
+      "text": "Questions about open slots? Message us and we will answer before you book."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Plain Advice",
+      "text": "Booked: Time that suits you."
+    },
+    {
+      "title": "Friendly Team",
+      "text": "Same day: Replies to messages."
+    },
+    {
+      "title": "Booking That Fits",
+      "text": "Friendly: Welcome for everyone."
+    }
+  ],
+  "stats_title": "At a glance",
+  "stats": [
+    {
+      "value": "Booked",
+      "label": "Time that suits you"
+    },
+    {
+      "value": "Same day",
+      "label": "Replies to messages"
+    },
+    {
+      "value": "Friendly",
+      "label": "Welcome for everyone"
+    }
+  ],
+  "steps_title": "How It Works",
+  "steps": [
+    {
+      "title": "Pick A Time",
+      "text": "Message or call to book your gym and fitness studio session and tell us what you would like."
+    },
+    {
+      "title": "Talk It Through",
+      "text": "We discuss strength floor with you, so the plan matches your preferences."
+    },
+    {
+      "title": "Enjoy The Session",
+      "text": "Relax while we take care of cardio zone, with time for your questions."
+    },
+    {
+      "title": "Keep It Going",
+      "text": "We share simple tips for personal training and help you plan the next session."
+    }
+  ],
+  "faq_title": "Good questions",
+  "faq": [
+    {
+      "q": "Can I bring a friend to fitness assessment?",
+      "a": "Tell us when you book and we will make room, where the session allows. It is the same for cardio zone as it is for strength floor."
+    },
+    {
+      "q": "How do I book strength floor?",
+      "a": "Message or call, tell us what you would like and choose a time that suits you. That goes for personal training and group classes too."
+    },
+    {
+      "q": "Can I ask about cardio zone before booking?",
+      "a": "Of course. Message us and we will explain what is involved and how long it takes. Ask us about fitness assessment or open slots and the answer is the same."
+    },
+    {
+      "q": "What should I bring to a gym and fitness studio session?",
+      "a": "Comfortable clothes and any questions you have; we will tell you if anything else is useful. The same approach applies to strength floor and open slots."
+    },
+    {
+      "q": "Can I change my time for personal training?",
+      "a": "Yes. Tell us as early as you can and we will offer the nearest free slot. This applies to strength floor, cardio zone and the rest of our gym and fitness studio work."
+    }
+  ],
+  "blog_title": "Gym And Fitness Studio Tips And Ideas",
+  "blog": [
+    {
+      "title": "Small Habits That Support Open Slots",
+      "excerpt": "Habits notes for people looking into gym and fitness studio."
+    },
+    {
+      "title": "What To Expect From Strength Floor",
+      "excerpt": "Guide notes for people looking into gym and fitness studio."
+    },
+    {
+      "title": "How To Prepare For Cardio Zone",
+      "excerpt": "Prepare notes for people looking into gym and fitness studio."
+    }
+  ],
+  "contact": {},
+  "cta_primary": "Book A Free Trial",
+  "cta_secondary": "FAQ",
+  "cta_text": "Tell Gym and fitness studio what you would like: strength floor, personal training or something close. We will answer with options and a time.",
+  "cta_title": "Ready To Try Strength Floor?",
+  "footer": "© Gym and fitness studio. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "pricing": [
+    {
+      "name": "Single Session",
+      "price": "Rs 1,200 /month"
+    },
+    {
+      "name": "Regular Sessions",
+      "price": "Rs 3,200 /quarter"
+    },
+    {
+      "name": "Full Programme",
+      "price": "Rs 9,600 /year"
+    }
+  ],
+  "facts_used": {},
+  "missing": [
+    "name",
+    "phone",
+    "email",
+    "address",
+    "hours"
+  ],
+  "generated_by": {
+    "business_type": "gym_fitness_studio (niche pack)",
+    "items_from_prompt": [
+      "Strength Floor",
+      "Cardio Zone",
+      "Personal Training",
+      "Group Classes",
+      "Fitness Assessment",
+      "Open Slots"
+    ],
+    "place": "",
+    "mode": "niche pack",
+    "copy": "pack text from the training spec"
+  },
+  "needs_review": [
+    "This page uses the gym_fitness_studio niche pack. Replace the sample prices (USD x 80) and add your real phone, address and hours before publishing.",
+    "No business name was given, so the heading is 'Gym and fitness studio' (not a name).",
+    "No picture style fits this kind of business (no picture niche for business type 'gym_fitness_studio'): the pictures are a neutral abstract in the brand colour, not a wrong scene."
+  ]
+}

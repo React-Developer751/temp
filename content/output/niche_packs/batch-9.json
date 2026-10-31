@@ -1,0 +1,2236 @@
+[
+  {
+    "id": "architect_construction",
+    "label": "Architect and construction",
+    "theme": "real_estate",
+    "keywords": [
+      "architect",
+      "civil contractor",
+      "home construction",
+      "house construction",
+      "building contractor",
+      "house renovation",
+      "ghar banwana",
+      "आर्किटेक्ट",
+      "घर बनवाना"
+    ],
+    "heroTitles": [
+      "Architect And Construction Planned Around You",
+      "Clear Steps For Your Architect And Construction",
+      "Architect And Construction Done The Careful Way"
+    ],
+    "heroSubtitles": [
+      "Looking for help with architect and construction? {brand} starts with a short brief, shows you the plan and works with your feedback.",
+      "From architectural planning to house construction, {brand} keeps each project simple: a brief, a draft you can react to and a finish you approve.",
+      "{brand} creates architectural planning and structural drawings. We listen to the idea first, agree the scope and keep you informed along the way."
+    ],
+    "button": "Book A Design Chat",
+    "featureTitle": "Architect And Construction Work We Offer",
+    "features": [
+      {
+        "title": "Architectural Planning",
+        "text": "Architectural Planning shaped around your idea, with a draft you can comment on before it is final."
+      },
+      {
+        "title": "House Construction",
+        "text": "Ask about house construction; we explain the options, show examples and agree what is included."
+      },
+      {
+        "title": "Home Renovation",
+        "text": "For home renovation, we work in clear stages and check each one with you."
+      },
+      {
+        "title": "Structural Drawings",
+        "text": "Structural Drawings delivered in the format you need, with a final review before handover."
+      },
+      {
+        "title": "Commercial Construction",
+        "text": "Questions about commercial construction? Message us and we will walk you through the process."
+      },
+      {
+        "title": "Site Supervision",
+        "text": "We start site supervision with a short brief, so the scope, timing and cost are clear from day one."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Stage",
+        "label": "By stage reviews"
+      },
+      {
+        "value": "Open",
+        "label": "Feedback welcome"
+      },
+      {
+        "value": "Plain",
+        "label": "Language, no jargon"
+      }
+    ],
+    "steps": {
+      "title": "How A Project Runs",
+      "items": [
+        {
+          "title": "Share Your Brief",
+          "text": "Tell us about your architect and construction idea, the purpose and any references you like."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We outline the scope for architectural planning, the timeline and the cost, and confirm them with you."
+        },
+        {
+          "title": "Review The Draft",
+          "text": "You see the first version of the house construction work and tell us what to change."
+        },
+        {
+          "title": "Approve And Deliver",
+          "text": "We finalise home renovation, hand it over in the format you need and stay available for questions."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I ask for changes during architect and construction work?",
+        "a": "Yes. Feedback is part of the process and we tell you upfront how revisions are handled. It is the same for house construction as it is for architectural planning."
+      },
+      {
+        "q": "What formats do you deliver architectural planning in?",
+        "a": "Tell us where it will be used and we will deliver in the formats that suit that purpose. That goes for home renovation and structural drawings too."
+      },
+      {
+        "q": "Do you take small architect and construction jobs?",
+        "a": "Yes. Small projects follow the same clear steps, with a quote and a plan first. Ask us about commercial construction or site supervision and the answer is the same."
+      },
+      {
+        "q": "How long does structural drawings take?",
+        "a": "It depends on the scope; we give a timeline with the quote and update you if anything changes. The same approach applies to architectural planning and site supervision."
+      },
+      {
+        "q": "How do I start a architect and construction project?",
+        "a": "Send us a short brief by message or call, and we will reply with questions and a first outline. This applies to architectural planning, house construction and the rest of our architect and construction work."
+      }
+    ],
+    "cta": {
+      "title": "Have An Idea For Architect And Construction?",
+      "button": "Book A Design Chat"
+    },
+    "about": {
+      "title": "About Our Architect And Construction Studio",
+      "paragraphs": [
+        "At {brand} good architect and construction begins with listening. You hear the plan and the cost first, and the work follows in clear stages.",
+        "Our work includes architectural planning and house construction. Ask about structural drawings or commercial construction too and we will say plainly what is possible."
+      ],
+      "points": [
+        "Brief Before Work",
+        "Drafts You Can Review",
+        "Plain Language"
+      ]
+    },
+    "pricing": {
+      "title": "Architect And Construction Pricing",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$0",
+          "period": "/consultation",
+          "perks": [
+            "Architectural Planning Only",
+            "Written Quote First",
+            "One Round Of Feedback"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$150",
+          "period": "/design stage",
+          "perks": [
+            "Architectural Planning And House Construction",
+            "Two Rounds Of Feedback",
+            "Priority Scheduling"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$600",
+          "period": "/full project",
+          "perks": [
+            "Architectural Planning Plus House Construction And Home Renovation",
+            "Extended Feedback",
+            "Handover Support"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Architect And Construction Work",
+      "captions": [
+        "Architectural Planning",
+        "House Construction",
+        "Home Renovation",
+        "Structural Drawings",
+        "Commercial Construction",
+        "Site Supervision"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Architect And Construction Lead",
+        "Architectural Planning Specialist",
+        "Architect And Construction Client Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "They listened to the brief for architectural planning and the first draft was close to what I imagined.",
+        "role": "Small business owner"
+      },
+      {
+        "quote": "Clear quote for house construction, with feedback built into the plan.",
+        "role": "Customer"
+      },
+      {
+        "quote": "The process for home renovation was explained simply and kept to the timeline we agreed.",
+        "role": "Family client"
+      }
+    ],
+    "blog": {
+      "title": "From The Architect And Construction Desk",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "How To Brief A Architect And Construction Provider"
+        },
+        {
+          "tag": "Cost",
+          "title": "What Affects The Cost Of Architectural Planning"
+        },
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask Before House Construction"
+        }
+      ]
+    },
+    "marquee": [
+      "Architectural",
+      "House",
+      "Home Renovation",
+      "Structural",
+      "Commercial",
+      "Clear Scope",
+      "Open Feedback",
+      "Plain Quotes"
+    ],
+    "contactText": "Message {brand} with your brief for architectural planning or house construction. We reply with a few questions and a clear outline of the next step."
+  },
+  {
+    "id": "travel_agency",
+    "label": "Travel agency",
+    "theme": "travel_tourism",
+    "keywords": [
+      "travel agency",
+      "tour packages",
+      "holiday packages",
+      "tour operator",
+      "flight tickets",
+      "honeymoon package",
+      "yatra",
+      "ट्रैवल एजेंसी",
+      "टूर पैकेज"
+    ],
+    "heroTitles": [
+      "A Simple Way To Book Travel Agency",
+      "Travel Agency That Feels Like Home",
+      "Travel Agency Made Simple And Clear"
+    ],
+    "heroSubtitles": [
+      "Looking for help with travel agency? {brand} keeps booking simple: clear details, honest descriptions and a quick reply.",
+      "From domestic tour packages to international packages, {brand} looks after the details so you can focus on the trip.",
+      "{brand} provides domestic tour packages and flight and train tickets. Share your plans and we will suggest what suits your group."
+    ],
+    "button": "Plan My Trip",
+    "featureTitle": "Travel Agency Options We Offer",
+    "features": [
+      {
+        "title": "Domestic Tour Packages",
+        "text": "Ask about domestic tour packages and we will tell you what is included, the price and how to book."
+      },
+      {
+        "title": "International Packages",
+        "text": "International Packages described honestly, with the details you need to decide."
+      },
+      {
+        "title": "Honeymoon Trips",
+        "text": "Planning honeymoon trips? Share your dates and group size and we will suggest what fits."
+      },
+      {
+        "title": "Flight And Train Tickets",
+        "text": "For flight and train tickets, we explain the options simply and confirm what is available."
+      },
+      {
+        "title": "Hotel And Cab Booking",
+        "text": "Hotel And Cab Booking confirmed in writing, so you know what to expect when you arrive."
+      },
+      {
+        "title": "Group And Family Tours",
+        "text": "Questions about group and family tours? Message us and we will answer before you book."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Prices told upfront"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Easy",
+        "label": "Booking by message"
+      }
+    ],
+    "steps": {
+      "title": "How Booking Works",
+      "items": [
+        {
+          "title": "Send Your Dates",
+          "text": "Message or call with your dates, group size and the travel agency option you like."
+        },
+        {
+          "title": "We Confirm Availability",
+          "text": "We reply with what is available for domestic tour packages and the price."
+        },
+        {
+          "title": "Confirm Your Booking",
+          "text": "Agree the details of international packages and we confirm everything in writing."
+        },
+        {
+          "title": "Arrive And Enjoy",
+          "text": "We help with honeymoon trips on arrival, and you can ask us for anything during your stay."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I find you for flight and train tickets?",
+        "a": "We send clear directions when you book, and you can call us on the way. It is the same for international packages as it is for domestic tour packages."
+      },
+      {
+        "q": "Do you take group bookings for travel agency?",
+        "a": "Yes. Tell us the group size and dates and we will say what we can arrange. That goes for honeymoon trips and flight and train tickets too."
+      },
+      {
+        "q": "Can I ask for something special with hotel and cab booking?",
+        "a": "Tell us when you book and we will do what we can, and be honest if we cannot. Ask us about hotel and cab booking or group and family tours and the answer is the same."
+      },
+      {
+        "q": "How do I book domestic tour packages?",
+        "a": "Message or call with your dates and group size, and we will confirm availability and the price. The same approach applies to domestic tour packages and group and family tours."
+      },
+      {
+        "q": "What is included in international packages?",
+        "a": "We list what is included when you ask, so there are no surprises on arrival. This applies to domestic tour packages, international packages and the rest of our travel agency work."
+      }
+    ],
+    "cta": {
+      "title": "Planning A Stay With Domestic Tour Packages?",
+      "button": "Plan My Trip"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good travel agency begins with clear information. You know what is included and what it costs before you book.",
+        "Our options include domestic tour packages and international packages. Ask about flight and train tickets or hotel and cab booking too and we will say plainly what is possible."
+      ],
+      "points": [
+        "Honest Descriptions",
+        "Prices Told Upfront",
+        "Friendly Welcome"
+      ]
+    },
+    "pricing": {
+      "title": "Travel Agency Rates",
+      "plans": [
+        {
+          "name": "Basic Stay",
+          "price": "$0",
+          "period": "/planning chat",
+          "perks": [
+            "Domestic Tour Packages Option",
+            "Price Told First",
+            "Written Confirmation"
+          ]
+        },
+        {
+          "name": "Comfort Stay",
+          "price": "$50",
+          "period": "/custom itinerary",
+          "perks": [
+            "Domestic Tour Packages And International Packages",
+            "Flexible Timing",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Extended Stay",
+          "price": "$120",
+          "period": "/full trip planning",
+          "perks": [
+            "Domestic Tour Packages Plus International Packages And Honeymoon Trips",
+            "Extended Support",
+            "Special Requests Noted"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "A Look At Travel Agency",
+      "captions": [
+        "Domestic Tour Packages",
+        "International Packages",
+        "Honeymoon Trips",
+        "Flight And Train Tickets",
+        "Hotel And Cab Booking",
+        "Group And Family Tours"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Travel Agency Host",
+        "Domestic Tour Packages Coordinator",
+        "Guest Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "A calm place, and the travel agency booking was straightforward.",
+        "role": "Family guest"
+      },
+      {
+        "quote": "I liked that domestic tour packages came with clear directions and no surprises.",
+        "role": "Guest"
+      },
+      {
+        "quote": "Quick reply about flight and train tickets and an honest answer.",
+        "role": "Traveller"
+      }
+    ],
+    "blog": {
+      "title": "From The Travel Agency Desk",
+      "posts": [
+        {
+          "tag": "Planning",
+          "title": "Planning Your Dates For International Packages"
+        },
+        {
+          "tag": "Checklist",
+          "title": "A Simple Checklist For Honeymoon Trips"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Easy Ideas For Flight And Train Tickets"
+        }
+      ]
+    },
+    "marquee": [
+      "Domestic Tour",
+      "International",
+      "Honeymoon Trips",
+      "Train Tickets",
+      "Cab Booking",
+      "Easy Booking",
+      "Honest Details",
+      "Friendly Welcome"
+    ],
+    "contactText": "Tell {brand} your plans: domestic tour packages, honeymoon trips or something close. We will answer with options and a clear price."
+  },
+  {
+    "id": "banquet_hall_venue",
+    "label": "Banquet hall and venue",
+    "theme": "events_wedding",
+    "keywords": [
+      "banquet hall",
+      "wedding venue",
+      "party hall",
+      "marriage garden",
+      "marriage hall",
+      "shaadi hall",
+      "बैंक्वेट हॉल",
+      "मैरिज गार्डन"
+    ],
+    "heroTitles": [
+      "Banquet Hall And Venue Without The Stress",
+      "Details Handled For Air Conditioned Hall",
+      "Air Conditioned Hall And Open Lawn Done With Care"
+    ],
+    "heroSubtitles": [
+      "{brand} provides air conditioned hall and guest rooms. Tell us the date, the guest numbers and the mood you want.",
+      "Need air conditioned hall or parking and power backup? {brand} will explain the options, the timing and the cost first.",
+      "{brand} handles air conditioned hall, open lawn and bridal and groom rooms. Share your date and ideas and get a clear plan and quote before we begin."
+    ],
+    "button": "Check Hall Dates",
+    "featureTitle": "Banquet Hall And Venue Services We Offer",
+    "features": [
+      {
+        "title": "Air Conditioned Hall",
+        "text": "For air conditioned hall, we listen to your ideas and then suggest a simple, workable plan."
+      },
+      {
+        "title": "Open Lawn",
+        "text": "Open Lawn coordinated with the rest of your event, so nothing is left to chance."
+      },
+      {
+        "title": "Bridal And Groom Rooms",
+        "text": "Questions about bridal and groom rooms? Message us and we will walk you through it."
+      },
+      {
+        "title": "Guest Rooms",
+        "text": "We plan guest rooms around your date and guest numbers, with the cost explained first."
+      },
+      {
+        "title": "Parking And Power Backup",
+        "text": "Parking And Power Backup arranged with care, with a clear checklist and updates before the day."
+      },
+      {
+        "title": "Kitchen And Dining Area",
+        "text": "Ask about kitchen and dining area; we describe the options, show examples and agree what is included."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Checklist for events"
+      },
+      {
+        "value": "Calm",
+        "label": "Planning, no stress"
+      },
+      {
+        "value": "Local",
+        "label": "Team on the day"
+      }
+    ],
+    "steps": {
+      "title": "How We Plan Your Event",
+      "items": [
+        {
+          "title": "Share Your Date",
+          "text": "Tell us the date, the guest numbers and your ideas for the banquet hall and venue plan."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We outline air conditioned hall, the timings and the cost, and confirm them with you."
+        },
+        {
+          "title": "Prepare Together",
+          "text": "We organise open lawn and send updates, so you always know where things stand."
+        },
+        {
+          "title": "Enjoy The Day",
+          "text": "Our team looks after bridal and groom rooms on the day, so you can enjoy it."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I change plans for air conditioned hall?",
+        "a": "Yes. Tell us early and we will explain what can change and how it affects the plan. That goes for bridal and groom rooms and guest rooms too."
+      },
+      {
+        "q": "What do you need from me for guest rooms?",
+        "a": "The date, the guest numbers, the place and a few ideas; we will ask for anything else. Ask us about parking and power backup or kitchen and dining area and the answer is the same."
+      },
+      {
+        "q": "Do you handle small banquet hall and venue events?",
+        "a": "Yes. Small and large events get the same clear planning and the same care. The same approach applies to air conditioned hall and kitchen and dining area."
+      },
+      {
+        "q": "How do I get updates on parking and power backup?",
+        "a": "We agree how you prefer to be updated and keep to it until the day. This applies to air conditioned hall, open lawn and the rest of our banquet hall and venue work."
+      },
+      {
+        "q": "How do I book air conditioned hall?",
+        "a": "Message or call with your date and a few details, and we will reply with availability and a quote. It is the same for open lawn as it is for air conditioned hall."
+      }
+    ],
+    "cta": {
+      "title": "Need Help With Air Conditioned Hall?",
+      "button": "Check Hall Dates"
+    },
+    "about": {
+      "title": "About Our Banquet Hall And Venue Team",
+      "paragraphs": [
+        "At {brand} good banquet hall and venue begins with a calm conversation. You hear the plan and the cost first, and the preparation follows.",
+        "Our work includes air conditioned hall and open lawn. Ask about guest rooms or parking and power backup too and we will say plainly what is possible."
+      ],
+      "points": [
+        "Clear Checklist",
+        "Quote Before Booking",
+        "Calm Planning"
+      ]
+    },
+    "pricing": {
+      "title": "Banquet Hall And Venue Price Guide",
+      "plans": [
+        {
+          "name": "Essentials",
+          "price": "$250",
+          "period": "/small hall",
+          "perks": [
+            "Air Conditioned Hall Only",
+            "Written Quote First",
+            "Planning Call"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$600",
+          "period": "/medium hall",
+          "perks": [
+            "Air Conditioned Hall And Open Lawn",
+            "Checklist And Updates",
+            "Priority Scheduling"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$1200",
+          "period": "/grand hall",
+          "perks": [
+            "Air Conditioned Hall Plus Open Lawn And Bridal And Groom Rooms",
+            "Team On The Day",
+            "Extended Support"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Banquet Hall And Venue Work",
+      "captions": [
+        "Air Conditioned Hall",
+        "Open Lawn",
+        "Bridal And Groom Rooms",
+        "Guest Rooms",
+        "Parking And Power Backup",
+        "Kitchen And Dining Area"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Banquet Hall And Venue Coordinator",
+        "Air Conditioned Hall Lead",
+        "Client Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "I liked that air conditioned hall came with a checklist and no surprises.",
+        "role": "Event organiser"
+      },
+      {
+        "quote": "Quick reply about guest rooms and an honest quote.",
+        "role": "Host"
+      },
+      {
+        "quote": "They planned air conditioned hall around our date and explained the cost first.",
+        "role": "Host"
+      }
+    ],
+    "blog": {
+      "title": "From The Banquet Hall And Venue Desk",
+      "posts": [
+        {
+          "tag": "Timing",
+          "title": "When To Book Parking And Power Backup"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Kitchen And Dining Area"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Plan Air Conditioned Hall"
+        }
+      ]
+    },
+    "marquee": [
+      "Air Conditioned",
+      "Open Lawn",
+      "Groom Rooms",
+      "Guest Rooms",
+      "Power Backup",
+      "Clear Checklist",
+      "Calm Planning",
+      "Local Team"
+    ],
+    "contactText": "Message {brand} with your date to talk about air conditioned hall or open lawn. We reply with availability and a clear quote."
+  },
+  {
+    "id": "landscaping_gardening",
+    "label": "Landscaping and gardening",
+    "theme": "organic_nature",
+    "keywords": [
+      "landscaping",
+      "gardener",
+      "garden design",
+      "lawn care",
+      "terrace garden",
+      "plant nursery",
+      "baghwani",
+      "बागवानी",
+      "गार्डन डिजाइन"
+    ],
+    "heroTitles": [
+      "Plain Answers On Garden Design",
+      "Landscaping And Gardening Without The Runaround",
+      "Garden Design And Lawn Laying And Care Done Properly"
+    ],
+    "heroSubtitles": [
+      "From garden design to lawn laying and care, {brand} keeps things simple: a short chat, a fair quote and a visit at a time that suits you.",
+      "{brand} offers garden design, plants from our nursery and more. We listen first, quote clearly and leave the place as we found it.",
+      "Need garden design or monthly garden maintenance? {brand} sends a local team, explains each step and keeps you informed until the job is done."
+    ],
+    "button": "Book A Garden Visit",
+    "featureTitle": "Our Landscaping And Gardening Services",
+    "features": [
+      {
+        "title": "Garden Design",
+        "text": "Ask about garden design and get a clear quote, a time that suits you and a tidy finish."
+      },
+      {
+        "title": "Lawn Laying And Care",
+        "text": "For lawn laying and care, we look at the place first, then suggest the simplest fix that lasts."
+      },
+      {
+        "title": "Terrace And Balcony Gardens",
+        "text": "Need terrace and balcony gardens? Tell us what is wrong and we will say what can be done and when."
+      },
+      {
+        "title": "Plants From Our Nursery",
+        "text": "Plants From Our Nursery with a short check at the end, so you know the job is finished properly."
+      },
+      {
+        "title": "Monthly Garden Maintenance",
+        "text": "We explain what monthly garden maintenance involves, the options and the cost before any work begins."
+      },
+      {
+        "title": "Drip Irrigation Setup",
+        "text": "Drip Irrigation Setup by a local team, with the price and timing agreed with you first."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Price before work"
+      },
+      {
+        "value": "Fixed",
+        "label": "Visit time you choose"
+      },
+      {
+        "value": "Tidy",
+        "label": "Finish every time"
+      }
+    ],
+    "steps": {
+      "title": "How Landscaping And Gardening Works With Us",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Describe the landscaping and gardening job by call or message, with a photo if that helps."
+        },
+        {
+          "title": "Get A Clear Quote",
+          "text": "We explain the options for garden design and give you the price before anything starts."
+        },
+        {
+          "title": "We Do The Work",
+          "text": "Our team arrives at the agreed time and completes the lawn laying and care work with care."
+        },
+        {
+          "title": "Check And Follow Up",
+          "text": "We go through the result with you and stay reachable for questions on terrace and balcony gardens afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Do you handle small landscaping and gardening jobs too?",
+        "a": "Yes. Small and large jobs get the same care, and we quote both in the same clear way. Ask us about monthly garden maintenance or drip irrigation setup and the answer is the same."
+      },
+      {
+        "q": "How do you charge for plants from our nursery?",
+        "a": "We quote by the job and tell you what is included, so the final bill matches what we agreed. The same approach applies to garden design and drip irrigation setup."
+      },
+      {
+        "q": "How do I get a quote for garden design?",
+        "a": "Send a message or call with a few details and we will reply with a clear price before any work starts. This applies to garden design, lawn laying and care and the rest of our landscaping and gardening work."
+      },
+      {
+        "q": "Is there a charge to look at a landscaping and gardening job?",
+        "a": "Ask us when you book; any visit charge is told upfront, so there are no surprises later. It is the same for lawn laying and care as it is for garden design."
+      },
+      {
+        "q": "Can you work around my timings for lawn laying and care?",
+        "a": "Yes. Tell us the days and times that suit you and we will fix a slot within them. That goes for terrace and balcony gardens and plants from our nursery too."
+      }
+    ],
+    "cta": {
+      "title": "Need Landscaping And Gardening At Your Place?",
+      "button": "Book A Garden Visit"
+    },
+    "about": {
+      "title": "About Our Landscaping And Gardening Team",
+      "paragraphs": [
+        "At {brand} we believe a good landscaping and gardening job starts with a clear conversation. You hear the plan and the price first, and the work follows.",
+        "Our services include garden design and lawn laying and care. Ask us about plants from our nursery or monthly garden maintenance too, and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Clear Quote Before Work",
+        "Friendly Local Team",
+        "Tidy Finish"
+      ]
+    },
+    "pricing": {
+      "title": "Landscaping And Gardening Pricing",
+      "plans": [
+        {
+          "name": "Single Visit",
+          "price": "$20",
+          "period": "/garden visit",
+          "perks": [
+            "Garden Design Only",
+            "Written Quote First",
+            "Time Slot You Choose"
+          ]
+        },
+        {
+          "name": "Regular Care",
+          "price": "$80",
+          "period": "/lawn makeover",
+          "perks": [
+            "Garden Design And Lawn Laying And Care",
+            "Follow-Up Check",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Service",
+          "price": "$250",
+          "period": "/full design",
+          "perks": [
+            "Garden Design Plus Lawn Laying And Care And Terrace And Balcony Gardens",
+            "Extended Follow-Up",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Landscaping And Gardening Work",
+      "captions": [
+        "Garden Design",
+        "Lawn Laying And Care",
+        "Terrace And Balcony Gardens",
+        "Plants From Our Nursery",
+        "Monthly Garden Maintenance",
+        "Drip Irrigation Setup"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Landscaping And Gardening Technician",
+        "Garden Design Lead",
+        "Landscaping And Gardening Support Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "They answered every question about terrace and balcony gardens before starting.",
+        "role": "Flat resident"
+      },
+      {
+        "quote": "Easy to book, on time, and the landscaping and gardening work looked neat at the end.",
+        "role": "Home owner"
+      },
+      {
+        "quote": "I liked that garden design was priced upfront and nothing extra appeared later.",
+        "role": "Office manager"
+      }
+    ],
+    "blog": {
+      "title": "From The Landscaping And Gardening Desk",
+      "posts": [
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask Before Lawn Laying And Care"
+        },
+        {
+          "tag": "Planning",
+          "title": "Preparing Your Place For Terrace And Balcony Gardens"
+        },
+        {
+          "tag": "Advice",
+          "title": "Small Signs You Need Plants From Our Nursery"
+        }
+      ]
+    },
+    "marquee": [
+      "Garden Design",
+      "Lawn Laying",
+      "Balcony Gardens",
+      "Plants From",
+      "Monthly Garden",
+      "Free Quote",
+      "Local Team",
+      "Clear Pricing"
+    ],
+    "contactText": "Call or message {brand} to talk about garden design or lawn laying and care. We reply with a clear price and a time that works for you."
+  },
+  {
+    "id": "saas_startup",
+    "label": "SaaS startup",
+    "theme": "modern_tech",
+    "keywords": [
+      "saas startup",
+      "saas product",
+      "saas platform",
+      "b2b software",
+      "software for teams",
+      "software product landing page",
+      "app for teams",
+      "saas",
+      "project management tool",
+      "सास सॉफ्टवेयर",
+      "सास स्टार्टअप"
+    ],
+    "heroTitles": [
+      "SaaS Startup Without The Complexity",
+      "Start With Live Dashboard Today",
+      "SaaS Startup That Fits Your Workflow"
+    ],
+    "heroSubtitles": [
+      "{brand} offers live dashboard and automations. Tell us about your team and we will show what is useful and what is not.",
+      "Need live dashboard or reports and exports? {brand} will explain how it works, how to start and what support you get.",
+      "{brand} gives you live dashboard, integrations and team workspaces. Book a demo, ask your questions and see how it fits your work."
+    ],
+    "button": "Book A Demo",
+    "featureTitle": "SaaS Startup Features You Get",
+    "features": [
+      {
+        "title": "Live Dashboard",
+        "text": "We show how live dashboard fits your daily work before you decide to use it."
+      },
+      {
+        "title": "Integrations",
+        "text": "Ask about integrations; we explain what it does, what it needs and where it helps most."
+      },
+      {
+        "title": "Team Workspaces",
+        "text": "For team workspaces, we start with your workflow and suggest only what is useful."
+      },
+      {
+        "title": "Automations",
+        "text": "Automations with clear controls and help close at hand when you have a question."
+      },
+      {
+        "title": "Reports And Exports",
+        "text": "Questions about reports and exports? Message us and we will answer before you start."
+      },
+      {
+        "title": "Secure Access",
+        "text": "Secure Access set up in a few simple steps, with plain guidance if you need it."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Plain",
+        "label": "Documentation"
+      },
+      {
+        "value": "Open",
+        "label": "Questions welcome"
+      },
+      {
+        "value": "Flexible",
+        "label": "Plans for small teams"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Book A Demo",
+          "text": "Message us to see SaaS startup in action and ask about your use case."
+        },
+        {
+          "title": "Choose What You Need",
+          "text": "We help you pick the right setup for live dashboard and explain what is optional."
+        },
+        {
+          "title": "Set Up Together",
+          "text": "We guide you through integrations and answer questions as you go."
+        },
+        {
+          "title": "Use And Improve",
+          "text": "Tell us how team workspaces is working for your team and we will help you refine it."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How does live dashboard connect with my tools?",
+        "a": "Tell us what you use today and we will explain what is possible. The same approach applies to live dashboard and secure access."
+      },
+      {
+        "q": "Can I change my plan for automations?",
+        "a": "Yes. Tell us what you need and we will explain how plans can change. This applies to live dashboard, integrations and the rest of our SaaS startup work."
+      },
+      {
+        "q": "Where is my data stored for SaaS startup?",
+        "a": "Ask us for the details when you book a demo and we will explain in plain words. It is the same for integrations as it is for live dashboard."
+      },
+      {
+        "q": "How do I get help with reports and exports?",
+        "a": "Message us on this page and a team member will reply. That goes for team workspaces and automations too."
+      },
+      {
+        "q": "What is the first step with live dashboard?",
+        "a": "Book a demo or send us a message, and we will explain the setup in simple steps. Ask us about reports and exports or secure access and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Want To Try Live Dashboard?",
+      "button": "Book A Demo"
+    },
+    "about": {
+      "title": "About Our SaaS Startup Team",
+      "paragraphs": [
+        "{brand} builds SaaS startup for people who want things to be simple. We explain how it works, listen to feedback and keep improving.",
+        "We offer live dashboard, integrations and team workspaces, and we are glad to talk through your needs before you decide."
+      ],
+      "points": [
+        "Clear Features",
+        "Friendly Team",
+        "Open To Feedback"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For SaaS Startup",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$9",
+          "period": "/month",
+          "perks": [
+            "Live Dashboard Basics",
+            "Setup Guidance",
+            "Email Support"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": "$29",
+          "period": "/month",
+          "perks": [
+            "Live Dashboard And Integrations",
+            "Priority Support",
+            "Shared Workspace"
+          ]
+        },
+        {
+          "name": "Business",
+          "price": "$79",
+          "period": "/month",
+          "perks": [
+            "Live Dashboard Plus Integrations And Team Workspaces",
+            "Extended Support",
+            "Custom Setup Help"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "A Look At SaaS Startup",
+      "captions": [
+        "Live Dashboard",
+        "Integrations Work",
+        "Team Workspaces",
+        "Automations Work",
+        "Reports And Exports",
+        "Secure Access"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "SaaS Startup Engineer",
+        "Live Dashboard Specialist",
+        "Customer Success Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "I liked that live dashboard started small and grew with us.",
+        "role": "Founder"
+      },
+      {
+        "quote": "Quick reply about automations and a clear explanation.",
+        "role": "Manager"
+      },
+      {
+        "quote": "The demo of live dashboard was clear and answered every question I had.",
+        "role": "Team lead"
+      }
+    ],
+    "blog": {
+      "title": "SaaS Startup Notes And Guides",
+      "posts": [
+        {
+          "tag": "Setup",
+          "title": "A Quick Setup Guide For Team Workspaces"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Fresh Ideas For Automations"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Reports And Exports"
+        }
+      ]
+    },
+    "marquee": [
+      "Live Dashboard",
+      "Integrations",
+      "Team Workspaces",
+      "Automations",
+      "Reports",
+      "Free Demo",
+      "Simple Setup",
+      "Plain Docs"
+    ],
+    "contactText": "Message {brand} to book a demo of live dashboard or ask about integrations. We reply with a time and a short list of questions."
+  },
+  {
+    "id": "web_app_dev_agency",
+    "label": "Web and app development company",
+    "theme": "modern_tech",
+    "keywords": [
+      "software development company",
+      "web development company",
+      "mobile app development",
+      "app developers",
+      "custom software development",
+      "website and app development",
+      "android app developer",
+      "वेबसाइट डेवलपमेंट",
+      "ऐप डेवलपर"
+    ],
+    "heroTitles": [
+      "Web Applications And Mobile Apps With Care",
+      "Web And App Development Company That Starts With A Brief",
+      "Thoughtful Web And App Development Company For Your Needs"
+    ],
+    "heroSubtitles": [
+      "Looking for help with web and app development company? {brand} starts with a short brief, shows you the plan and works with your feedback.",
+      "From web applications to mobile apps, {brand} keeps each project simple: a brief, a draft you can react to and a finish you approve.",
+      "{brand} creates web applications and custom software. We listen to the idea first, agree the scope and keep you informed along the way."
+    ],
+    "button": "Share Your Idea",
+    "featureTitle": "What Web And App Development Company Covers Here",
+    "features": [
+      {
+        "title": "Web Applications",
+        "text": "We start web applications with a short brief, so the scope, timing and cost are clear from day one."
+      },
+      {
+        "title": "Mobile Apps",
+        "text": "Mobile Apps shaped around your idea, with a draft you can comment on before it is final."
+      },
+      {
+        "title": "Business Websites",
+        "text": "Ask about business websites; we explain the options, show examples and agree what is included."
+      },
+      {
+        "title": "Custom Software",
+        "text": "For custom software, we work in clear stages and check each one with you."
+      },
+      {
+        "title": "API And Integrations",
+        "text": "API And Integrations delivered in the format you need, with a final review before handover."
+      },
+      {
+        "title": "Maintenance And Support",
+        "text": "Questions about maintenance and support? Message us and we will walk you through the process."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Stage",
+        "label": "By stage reviews"
+      },
+      {
+        "value": "Open",
+        "label": "Feedback welcome"
+      },
+      {
+        "value": "Plain",
+        "label": "Language, no jargon"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Share Your Brief",
+          "text": "Tell us about your web and app development company idea, the purpose and any references you like."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We outline the scope for web applications, the timeline and the cost, and confirm them with you."
+        },
+        {
+          "title": "Review The Draft",
+          "text": "You see the first version of the mobile apps work and tell us what to change."
+        },
+        {
+          "title": "Approve And Deliver",
+          "text": "We finalise business websites, hand it over in the format you need and stay available for questions."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I ask for changes during web and app development company work?",
+        "a": "Yes. Feedback is part of the process and we tell you upfront how revisions are handled. That goes for business websites and custom software too."
+      },
+      {
+        "q": "What formats do you deliver web applications in?",
+        "a": "Tell us where it will be used and we will deliver in the formats that suit that purpose. Ask us about API and integrations or maintenance and support and the answer is the same."
+      },
+      {
+        "q": "Do you take small web and app development company jobs?",
+        "a": "Yes. Small projects follow the same clear steps, with a quote and a plan first. The same approach applies to web applications and maintenance and support."
+      },
+      {
+        "q": "How long does custom software take?",
+        "a": "It depends on the scope; we give a timeline with the quote and update you if anything changes. This applies to web applications, mobile apps and the rest of our web and app development company work."
+      },
+      {
+        "q": "How do I start a web and app development company project?",
+        "a": "Send us a short brief by message or call, and we will reply with questions and a first outline. It is the same for mobile apps as it is for web applications."
+      }
+    ],
+    "cta": {
+      "title": "Have An Idea For Web And App Development Company?",
+      "button": "Share Your Idea"
+    },
+    "about": {
+      "title": "About Our Web And App Development Company Studio",
+      "paragraphs": [
+        "{brand} is a small team for web and app development company. We start with your brief, agree the plan and keep you in the loop until you approve the result.",
+        "We handle web applications, mobile apps and business websites, and we are happy to talk through your idea before you commit to anything."
+      ],
+      "points": [
+        "Clear Scope And Cost",
+        "Feedback Welcome",
+        "Friendly Team"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Web And App Development Company",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$150",
+          "period": "/landing page",
+          "perks": [
+            "Web Applications Only",
+            "Written Quote First",
+            "One Round Of Feedback"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$450",
+          "period": "/business website",
+          "perks": [
+            "Web Applications And Mobile Apps",
+            "Two Rounds Of Feedback",
+            "Priority Scheduling"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$1200",
+          "period": "/web app",
+          "perks": [
+            "Web Applications Plus Mobile Apps And Business Websites",
+            "Extended Feedback",
+            "Handover Support"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Web And App Development Company Work",
+      "captions": [
+        "Web Applications",
+        "Mobile Apps",
+        "Business Websites",
+        "Custom Software",
+        "API And Integrations",
+        "Maintenance And Support"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Web And App Development Company Lead",
+        "Web Applications Specialist",
+        "Web And App Development Company Client Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "They listened to the brief for web applications and the first draft was close to what I imagined.",
+        "role": "Small business owner"
+      },
+      {
+        "quote": "Clear quote for mobile apps, with feedback built into the plan.",
+        "role": "Customer"
+      },
+      {
+        "quote": "The process for business websites was explained simply and kept to the timeline we agreed.",
+        "role": "Family client"
+      }
+    ],
+    "blog": {
+      "title": "Web And App Development Company Notes And Guides",
+      "posts": [
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask Before Mobile Apps"
+        },
+        {
+          "tag": "Planning",
+          "title": "Getting Ready For Business Websites"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Simple Ways To Plan Custom Software"
+        }
+      ]
+    },
+    "marquee": [
+      "Web Applications",
+      "Mobile Apps",
+      "Business",
+      "Custom Software",
+      "API",
+      "Clear Scope",
+      "Open Feedback",
+      "Plain Quotes"
+    ],
+    "contactText": "Message {brand} with your brief for web applications or mobile apps. We reply with a few questions and a clear outline of the next step."
+  },
+  {
+    "id": "online_coach_courses",
+    "label": "Online coach and courses",
+    "theme": "education",
+    "keywords": [
+      "online course",
+      "online coach",
+      "online mentor",
+      "online classes platform",
+      "skill training course",
+      "webinar",
+      "live online course",
+      "ऑनलाइन कोर्स",
+      "ऑनलाइन कोचिंग"
+    ],
+    "heroTitles": [
+      "Online Coach And Courses That Builds Confidence",
+      "Learn Live Sessions Step By Step",
+      "Live Sessions, Recorded Lessons And Practice Assignments"
+    ],
+    "heroSubtitles": [
+      "From live sessions to recorded lessons, {brand} helps learners move one step at a time, with feedback they can use.",
+      "{brand} offers live sessions and one to one mentoring. Tell us the level and the goal and we will suggest a suitable batch.",
+      "Want to learn live sessions or study material? {brand} will explain how classes run, what to bring and how progress is shared."
+    ],
+    "button": "Join The Next Batch",
+    "featureTitle": "Our Online Coach And Courses Programmes",
+    "features": [
+      {
+        "title": "Live Sessions",
+        "text": "Questions about live sessions? Message us and we will answer before you enrol."
+      },
+      {
+        "title": "Recorded Lessons",
+        "text": "We explain how recorded lessons is taught, what to practise and how progress is shared."
+      },
+      {
+        "title": "Practice Assignments",
+        "text": "Practice Assignments taught step by step, with time for questions and regular practice."
+      },
+      {
+        "title": "One To One Mentoring",
+        "text": "Ask about one to one mentoring; we describe the batch, the timings and what suits your level."
+      },
+      {
+        "title": "Study Material",
+        "text": "For study material, we start from where you are and build up at a comfortable pace."
+      },
+      {
+        "title": "Community Group",
+        "text": "Community Group with simple feedback after each class, so you know what to improve."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "Demo class"
+      },
+      {
+        "value": "Small",
+        "label": "Batches for attention"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Visit A Demo Class",
+          "text": "Message or call to join a online coach and courses demo class and meet the teacher."
+        },
+        {
+          "title": "Choose Your Batch",
+          "text": "We suggest a batch for live sessions that fits your level and your timings."
+        },
+        {
+          "title": "Learn And Practise",
+          "text": "Attend classes for recorded lessons, practise between sessions and ask questions freely."
+        },
+        {
+          "title": "Review Progress",
+          "text": "We share simple feedback on practice assignments and plan the next steps with you."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Are the online coach and courses batches small?",
+        "a": "We keep batches manageable so each learner gets attention; ask us about current timings. This applies to live sessions, recorded lessons and the rest of our online coach and courses work."
+      },
+      {
+        "q": "What do I need to bring for one to one mentoring?",
+        "a": "We tell you when you enrol, usually a notebook and the materials for that course. It is the same for recorded lessons as it is for live sessions."
+      },
+      {
+        "q": "Can I change my batch for study material?",
+        "a": "Tell us as early as you can and we will see what is available. That goes for practice assignments and one to one mentoring too."
+      },
+      {
+        "q": "Can I try a class for live sessions first?",
+        "a": "Yes. Ask for a demo class and see how the teaching works before you decide. Ask us about study material or community group and the answer is the same."
+      },
+      {
+        "q": "How do I choose a batch for online coach and courses?",
+        "a": "Tell us your level, your goal and your free timings and we will suggest the best fit. The same approach applies to live sessions and community group."
+      }
+    ],
+    "cta": {
+      "title": "Want To Learn Live Sessions?",
+      "button": "Join The Next Batch"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local online coach and courses centre. We teach step by step, keep batches manageable and leave room for every question.",
+        "We teach live sessions, recorded lessons and practice assignments, and we are glad to talk through your goals before you enrol."
+      ],
+      "points": [
+        "Simple Feedback",
+        "Friendly Teachers",
+        "Flexible Batches"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Fees For Online Coach And Courses",
+      "plans": [
+        {
+          "name": "Trial",
+          "price": "$10",
+          "period": "/month",
+          "perks": [
+            "Live Sessions Demo Class",
+            "Meet The Teacher",
+            "Batch Advice"
+          ]
+        },
+        {
+          "name": "Monthly",
+          "price": "$30",
+          "period": "/course",
+          "perks": [
+            "Live Sessions And Recorded Lessons",
+            "Regular Feedback",
+            "Doubt Sessions"
+          ]
+        },
+        {
+          "name": "Full Course",
+          "price": "$80",
+          "period": "/mentoring programme",
+          "perks": [
+            "Live Sessions Plus Recorded Lessons And Practice Assignments",
+            "Extended Practice",
+            "Progress Reviews"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Our Online Coach And Courses Classes",
+      "captions": [
+        "Live Sessions",
+        "Recorded Lessons",
+        "Practice Assignments",
+        "One To One Mentoring",
+        "Study Material",
+        "Community Group"
+      ]
+    },
+    "team": {
+      "title": "Meet The Teachers",
+      "roles": [
+        "Online Coach And Courses Teacher",
+        "Live Sessions Mentor",
+        "Admissions Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Quick reply about one to one mentoring and a batch that suited our timings.",
+        "role": "Parent"
+      },
+      {
+        "quote": "The live sessions class was clear and the teacher gave time for every doubt.",
+        "role": "Parent"
+      },
+      {
+        "quote": "Easy to join recorded lessons, and the feedback was simple to follow.",
+        "role": "Student"
+      }
+    ],
+    "blog": {
+      "title": "Online Coach And Courses Study Tips",
+      "posts": [
+        {
+          "tag": "Practice",
+          "title": "Simple Ways To Practise Recorded Lessons"
+        },
+        {
+          "tag": "Habits",
+          "title": "Study Habits That Help With Practice Assignments"
+        },
+        {
+          "tag": "Planning",
+          "title": "Planning Your Time For One To One Mentoring"
+        }
+      ]
+    },
+    "marquee": [
+      "Live Sessions",
+      "Recorded Lessons",
+      "Practice",
+      "One Mentoring",
+      "Study Material",
+      "Demo Class",
+      "Small Batches",
+      "Doubts Welcome"
+    ],
+    "contactText": "Tell {brand} what you want to learn: live sessions, practice assignments or something close. We will answer with a batch and a time to visit."
+  },
+  {
+    "id": "ecommerce_store",
+    "label": "Online store",
+    "theme": "general_business",
+    "keywords": [
+      "online store",
+      "ecommerce store",
+      "ecommerce website",
+      "d2c brand",
+      "online shopping website",
+      "buy online",
+      "shop online",
+      "ऑनलाइन स्टोर",
+      "ऑनलाइन शॉपिंग"
+    ],
+    "heroTitles": [
+      "Online Store With Honest Advice",
+      "Find Clear Product Pages And More",
+      "Clear Product Pages, Secure Payments And Order Tracking"
+    ],
+    "heroSubtitles": [
+      "{brand} stocks clear product pages, secure payments and order tracking. Ask us anything, see what is available and pick what suits you.",
+      "Looking for help with online store? {brand} keeps things simple: honest advice, clear prices and help choosing what fits.",
+      "From clear product pages to secure payments, {brand} helps you find the right thing without pressure, in store or by message."
+    ],
+    "button": "Shop Now",
+    "featureTitle": "What You Will Find Here",
+    "features": [
+      {
+        "title": "Clear Product Pages",
+        "text": "Clear Product Pages available to see in store or ask about by message before you come."
+      },
+      {
+        "title": "Secure Payments",
+        "text": "Questions about secure payments? Message us and we will check availability for you."
+      },
+      {
+        "title": "Order Tracking",
+        "text": "Ask about order tracking and we will show what is available, with prices told clearly."
+      },
+      {
+        "title": "Easy Returns",
+        "text": "Easy Returns chosen with care, with honest advice on what suits your need."
+      },
+      {
+        "title": "Gift Wrap Option",
+        "text": "Looking for gift wrap option? Tell us your budget and we will suggest options that fit."
+      },
+      {
+        "title": "Customer Support",
+        "text": "For customer support, we explain the differences simply so you can pick with confidence."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Prices told upfront"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Easy",
+        "label": "Help choosing"
+      }
+    ],
+    "steps": {
+      "title": "How Ordering Works",
+      "items": [
+        {
+          "title": "Tell Us What You Want",
+          "text": "Message or visit with the online store item you are looking for and your budget."
+        },
+        {
+          "title": "See The Options",
+          "text": "We show what is available in clear product pages, with prices and simple advice."
+        },
+        {
+          "title": "Choose And Confirm",
+          "text": "Pick what suits you and we confirm the order for secure payments, with the total told clearly."
+        },
+        {
+          "title": "Collect Or Receive",
+          "text": "Take your order tracking from the store, or ask how delivery works for your area."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I check online store stock before I come?",
+        "a": "Yes. Send us a message and we will confirm what is available before you make the trip. This applies to clear product pages, secure payments and the rest of our online store work."
+      },
+      {
+        "q": "What if I am unsure about clear product pages?",
+        "a": "Ask us. We explain the differences in plain words and let you decide in your own time. It is the same for secure payments as it is for clear product pages."
+      },
+      {
+        "q": "Do you offer delivery for easy returns?",
+        "a": "Ask us about your area and we will tell you plainly what is possible. That goes for order tracking and easy returns too."
+      },
+      {
+        "q": "Can I ask about returns on secure payments?",
+        "a": "Yes. Ask before you buy and we will explain how returns or exchanges work for the item. Ask us about gift wrap option or customer support and the answer is the same."
+      },
+      {
+        "q": "Do you take special requests for gift wrap option?",
+        "a": "Tell us what you are looking for; if we cannot get it, we will say so honestly. The same approach applies to clear product pages and customer support."
+      }
+    ],
+    "cta": {
+      "title": "Looking For Clear Product Pages?",
+      "button": "Shop Now"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} we believe good online store service is honest advice and clear prices, so you leave with what suits you.",
+        "Our range includes clear product pages and secure payments. Ask about easy returns or gift wrap option too and we will say plainly what we can get."
+      ],
+      "points": [
+        "Honest Advice",
+        "Prices Told Upfront",
+        "Help Choosing"
+      ]
+    },
+    "pricing": {
+      "title": "Online Store Price Guide",
+      "plans": [
+        {
+          "name": "Everyday",
+          "price": "$3",
+          "period": "/small order",
+          "perks": [
+            "Everyday Clear Product Pages",
+            "Prices Told First",
+            "Help Choosing"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$12",
+          "period": "/standard order",
+          "perks": [
+            "Clear Product Pages And Secure Payments",
+            "Priority Help",
+            "Availability Checks"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$30",
+          "period": "/gift order",
+          "perks": [
+            "Clear Product Pages Plus Secure Payments And Order Tracking",
+            "Personal Shopping Help",
+            "Early Access To New Clear Product Pages"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Online Store Picks",
+      "captions": [
+        "Clear Product Pages",
+        "Secure Payments",
+        "Order Tracking",
+        "Easy Returns",
+        "Gift Wrap Option",
+        "Customer Support"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Online Store Advisor",
+        "Clear Product Pages Specialist",
+        "Online Store Order Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Friendly service, and the online store range matched what I asked for.",
+        "role": "Customer"
+      },
+      {
+        "quote": "I liked that clear product pages was explained simply and the price was clear.",
+        "role": "First time buyer"
+      },
+      {
+        "quote": "Quick reply about easy returns and a straight answer.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "From The Online Store Shelf",
+      "posts": [
+        {
+          "tag": "Cost",
+          "title": "What To Know Before Buying Secure Payments"
+        },
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask About Order Tracking"
+        },
+        {
+          "tag": "Care",
+          "title": "Getting The Most From Easy Returns"
+        }
+      ]
+    },
+    "marquee": [
+      "Clear Product",
+      "Secure Payments",
+      "Order Tracking",
+      "Easy Returns",
+      "Gift Wrap",
+      "New Stock",
+      "Clear Prices",
+      "Friendly Advice"
+    ],
+    "contactText": "Tell {brand} what you are looking for: clear product pages, order tracking or something close. We will answer with options and prices."
+  },
+  {
+    "id": "fashion_boutique",
+    "label": "Fashion boutique",
+    "theme": "fashion_retail",
+    "keywords": [
+      "fashion boutique",
+      "ladies boutique",
+      "ethnic wear",
+      "saree shop",
+      "kurti collection",
+      "kurti boutique",
+      "kurti store",
+      "kurti shop",
+      "designer wear",
+      "designer suits",
+      "बुटीक",
+      "कुर्ती कलेक्शन"
+    ],
+    "heroTitles": [
+      "Fashion Boutique That Is Easy To Shop",
+      "A Friendly Fashion Boutique Near You",
+      "Choose Sarees With Confidence"
+    ],
+    "heroSubtitles": [
+      "Need sarees or dupattas and accessories? {brand} will tell you what is in stock, what it costs and how to get it.",
+      "{brand} stocks sarees, kurtis and suits and designer wear. Ask us anything, see what is available and pick what suits you.",
+      "Looking for help with fashion boutique? {brand} keeps things simple: honest advice, clear prices and help choosing what fits."
+    ],
+    "button": "Browse The Collection",
+    "featureTitle": "Our Fashion Boutique Range",
+    "features": [
+      {
+        "title": "Sarees",
+        "text": "Ask about sarees and we will show what is available, with prices told clearly."
+      },
+      {
+        "title": "Kurtis And Suits",
+        "text": "Kurtis And Suits chosen with care, with honest advice on what suits your need."
+      },
+      {
+        "title": "Designer Wear",
+        "text": "Looking for designer wear? Tell us your budget and we will suggest options that fit."
+      },
+      {
+        "title": "Lehengas",
+        "text": "For lehengas, we explain the differences simply so you can pick with confidence."
+      },
+      {
+        "title": "Dupattas And Accessories",
+        "text": "Dupattas And Accessories available to see in store or ask about by message before you come."
+      },
+      {
+        "title": "Fitting Help",
+        "text": "Questions about fitting help? Message us and we will check availability for you."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Prices told upfront"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Easy",
+        "label": "Help choosing"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us What You Want",
+          "text": "Message or visit with the fashion boutique item you are looking for and your budget."
+        },
+        {
+          "title": "See The Options",
+          "text": "We show what is available in sarees, with prices and simple advice."
+        },
+        {
+          "title": "Choose And Confirm",
+          "text": "Pick what suits you and we confirm the order for kurtis and suits, with the total told clearly."
+        },
+        {
+          "title": "Collect Or Receive",
+          "text": "Take your designer wear from the store, or ask how delivery works for your area."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I check fashion boutique stock before I come?",
+        "a": "Yes. Send us a message and we will confirm what is available before you make the trip. It is the same for kurtis and suits as it is for sarees."
+      },
+      {
+        "q": "What if I am unsure about sarees?",
+        "a": "Ask us. We explain the differences in plain words and let you decide in your own time. That goes for designer wear and lehengas too."
+      },
+      {
+        "q": "Do you offer delivery for lehengas?",
+        "a": "Ask us about your area and we will tell you plainly what is possible. Ask us about dupattas and accessories or fitting help and the answer is the same."
+      },
+      {
+        "q": "Can I ask about returns on kurtis and suits?",
+        "a": "Yes. Ask before you buy and we will explain how returns or exchanges work for the item. The same approach applies to sarees and fitting help."
+      },
+      {
+        "q": "Do you take special requests for dupattas and accessories?",
+        "a": "Tell us what you are looking for; if we cannot get it, we will say so honestly. This applies to sarees, kurtis and suits and the rest of our fashion boutique work."
+      }
+    ],
+    "cta": {
+      "title": "Looking For Sarees?",
+      "button": "Browse The Collection"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local fashion boutique business. We keep shopping simple: listen to what you need, show the options and tell you the prices plainly.",
+        "We stock sarees, kurtis and suits and designer wear, and we are happy to talk it through with you before you decide."
+      ],
+      "points": [
+        "Friendly Service",
+        "Checked Availability",
+        "No Pressure"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Fashion Boutique",
+      "plans": [
+        {
+          "name": "Everyday",
+          "price": "$10",
+          "period": "/kurti",
+          "perks": [
+            "Everyday Sarees",
+            "Prices Told First",
+            "Help Choosing"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$35",
+          "period": "/ethnic set",
+          "perks": [
+            "Sarees And Kurtis And Suits",
+            "Priority Help",
+            "Availability Checks"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$90",
+          "period": "/festive outfit",
+          "perks": [
+            "Sarees Plus Kurtis And Suits And Designer Wear",
+            "Personal Shopping Help",
+            "Early Access To New Sarees"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Fashion Boutique Picks",
+      "captions": [
+        "Sarees Work",
+        "Kurtis And Suits",
+        "Designer Wear",
+        "Lehengas Work",
+        "Dupattas And Accessories",
+        "Fitting Help"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Fashion Boutique Advisor",
+        "Sarees Specialist",
+        "Fashion Boutique Order Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Quick reply about lehengas and a straight answer.",
+        "role": "Customer"
+      },
+      {
+        "quote": "They showed me the options for sarees and told me the prices clearly.",
+        "role": "Customer"
+      },
+      {
+        "quote": "Helpful advice on kurtis and suits, and no pressure to buy.",
+        "role": "Regular shopper"
+      }
+    ],
+    "blog": {
+      "title": "Fashion Boutique Tips And Guides",
+      "posts": [
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Fitting Help"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Choose Sarees"
+        },
+        {
+          "tag": "Cost",
+          "title": "What To Know Before Buying Kurtis And Suits"
+        }
+      ]
+    },
+    "marquee": [
+      "Sarees",
+      "Kurtis",
+      "Designer Wear",
+      "Lehengas",
+      "Dupattas",
+      "New Stock",
+      "Clear Prices",
+      "Friendly Advice"
+    ],
+    "contactText": "Tell {brand} what you are looking for: sarees, designer wear or something close. We will answer with options and prices."
+  },
+  {
+    "id": "furniture_store",
+    "label": "Furniture showroom",
+    "theme": "luxury_minimal",
+    "keywords": [
+      "furniture showroom",
+      "sofa set",
+      "home decor shop",
+      "mattress store",
+      "bed and mattress",
+      "living room furniture",
+      "dining table set",
+      "फर्नीचर शोरूम",
+      "सोफा सेट"
+    ],
+    "heroTitles": [
+      "A Friendly Furniture Showroom Near You",
+      "Choose Sofas And Recliners With Confidence",
+      "Sofas And Recliners And Beds And Mattresses For Everyone"
+    ],
+    "heroSubtitles": [
+      "{brand} stocks sofas and recliners, beds and mattresses and dining sets. Ask us anything, see what is available and pick what suits you.",
+      "Looking for help with furniture showroom? {brand} keeps things simple: honest advice, clear prices and help choosing what fits.",
+      "From sofas and recliners to beds and mattresses, {brand} helps you find the right thing without pressure, in store or by message."
+    ],
+    "button": "Visit The Showroom",
+    "featureTitle": "Furniture Showroom Range We Offer",
+    "features": [
+      {
+        "title": "Sofas And Recliners",
+        "text": "Sofas And Recliners chosen with care, with honest advice on what suits your need."
+      },
+      {
+        "title": "Beds And Mattresses",
+        "text": "Looking for beds and mattresses? Tell us your budget and we will suggest options that fit."
+      },
+      {
+        "title": "Dining Sets",
+        "text": "For dining sets, we explain the differences simply so you can pick with confidence."
+      },
+      {
+        "title": "Wardrobes And Storage",
+        "text": "Wardrobes And Storage available to see in store or ask about by message before you come."
+      },
+      {
+        "title": "Home Decor",
+        "text": "Questions about home decor? Message us and we will check availability for you."
+      },
+      {
+        "title": "Delivery And Fitting",
+        "text": "Ask about delivery and fitting and we will show what is available, with prices told clearly."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Local",
+        "label": "Shop near you"
+      },
+      {
+        "value": "Plain",
+        "label": "Advice, no pressure"
+      },
+      {
+        "value": "Free",
+        "label": "Questions answered"
+      }
+    ],
+    "steps": {
+      "title": "How Ordering Works",
+      "items": [
+        {
+          "title": "Tell Us What You Want",
+          "text": "Message or visit with the furniture showroom item you are looking for and your budget."
+        },
+        {
+          "title": "See The Options",
+          "text": "We show what is available in sofas and recliners, with prices and simple advice."
+        },
+        {
+          "title": "Choose And Confirm",
+          "text": "Pick what suits you and we confirm the order for beds and mattresses, with the total told clearly."
+        },
+        {
+          "title": "Collect Or Receive",
+          "text": "Take your dining sets from the store, or ask how delivery works for your area."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Do you help me choose dining sets?",
+        "a": "Of course. Tell us what you need and your budget and we will suggest suitable options. It is the same for beds and mattresses as it is for sofas and recliners."
+      },
+      {
+        "q": "Can I check furniture showroom stock before I come?",
+        "a": "Yes. Send us a message and we will confirm what is available before you make the trip. That goes for dining sets and wardrobes and storage too."
+      },
+      {
+        "q": "What if I am unsure about sofas and recliners?",
+        "a": "Ask us. We explain the differences in plain words and let you decide in your own time. Ask us about home decor or delivery and fitting and the answer is the same."
+      },
+      {
+        "q": "Do you offer delivery for wardrobes and storage?",
+        "a": "Ask us about your area and we will tell you plainly what is possible. The same approach applies to sofas and recliners and delivery and fitting."
+      },
+      {
+        "q": "Can I ask about returns on beds and mattresses?",
+        "a": "Yes. Ask before you buy and we will explain how returns or exchanges work for the item. This applies to sofas and recliners, beds and mattresses and the rest of our furniture showroom work."
+      }
+    ],
+    "cta": {
+      "title": "Looking For Sofas And Recliners?",
+      "button": "Visit The Showroom"
+    },
+    "about": {
+      "title": "About Our Furniture Showroom Shop",
+      "paragraphs": [
+        "At {brand} we believe good furniture showroom service is honest advice and clear prices, so you leave with what suits you.",
+        "Our range includes sofas and recliners and beds and mattresses. Ask about wardrobes and storage or home decor too and we will say plainly what we can get."
+      ],
+      "points": [
+        "Honest Advice",
+        "Prices Told Upfront",
+        "Help Choosing"
+      ]
+    },
+    "pricing": {
+      "title": "Furniture Showroom Price Guide",
+      "plans": [
+        {
+          "name": "Everyday",
+          "price": "$60",
+          "period": "/chair",
+          "perks": [
+            "Everyday Sofas And Recliners",
+            "Prices Told First",
+            "Help Choosing"
+          ]
+        },
+        {
+          "name": "Popular",
+          "price": "$180",
+          "period": "/sofa",
+          "perks": [
+            "Sofas And Recliners And Beds And Mattresses",
+            "Priority Help",
+            "Availability Checks"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$450",
+          "period": "/bedroom set",
+          "perks": [
+            "Sofas And Recliners Plus Beds And Mattresses And Dining Sets",
+            "Personal Shopping Help",
+            "Early Access To New Sofas And Recliners"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside The Furniture Showroom Shop",
+      "captions": [
+        "Sofas And Recliners",
+        "Beds And Mattresses",
+        "Dining Sets",
+        "Wardrobes And Storage",
+        "Home Decor",
+        "Delivery And Fitting"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Furniture Showroom Advisor",
+        "Sofas And Recliners Specialist",
+        "Furniture Showroom Order Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "They showed me the options for sofas and recliners and told me the prices clearly.",
+        "role": "Customer"
+      },
+      {
+        "quote": "Helpful advice on beds and mattresses, and no pressure to buy.",
+        "role": "Regular shopper"
+      },
+      {
+        "quote": "Easy to check dining sets by message before going to the shop.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "From The Furniture Showroom Shelf",
+      "posts": [
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask About Dining Sets"
+        },
+        {
+          "tag": "Care",
+          "title": "Getting The Most From Wardrobes And Storage"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Simple Ideas For Home Decor"
+        }
+      ]
+    },
+    "marquee": [
+      "Sofas",
+      "Beds",
+      "Dining Sets",
+      "Wardrobes",
+      "Home Decor",
+      "New Stock",
+      "Clear Prices",
+      "Friendly Advice"
+    ],
+    "contactText": "Message {brand} to ask about sofas and recliners or beds and mattresses. We reply with what is available, the price and how to get it."
+  }
+]

@@ -1,0 +1,181 @@
+{
+  "brand": "Clothing Boutique, Delhi",
+  "niche": "shop",
+  "kind": "retail",
+  "profile": "kurti",
+  "business_type": "clothing",
+  "type_label": "Clothing Boutique",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "playful",
+  "keywords": [
+    "women"
+  ],
+  "eyebrow": "Clothing Boutique · Delhi",
+  "location": "Delhi",
+  "audience": "",
+  "hero_heading": "Clothing Boutique in Delhi",
+  "tagline": "Come in or message us; either works.",
+  "about_title": "About us",
+  "about": [
+    "Message first if you prefer.",
+    "You will find us in Delhi. Let us know the occasion and we'll suggest something."
+  ],
+  "features_title": "Browse the range",
+  "features": [
+    {
+      "title": "Jackets",
+      "text": "Bring your questions about Jackets."
+    },
+    {
+      "title": "Suits",
+      "text": "Feel free to ask us how Suits works and what to expect."
+    },
+    {
+      "title": "Accessories",
+      "text": "Looking for Accessories? Ask us what's in stock and what suits you."
+    },
+    {
+      "title": "Kurtas",
+      "text": "A kurta with matching bottoms and dupatta."
+    },
+    {
+      "title": "Dresses",
+      "text": "Ask for a photo or a video of Dresses before you make up your mind."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Ask before you buy",
+      "text": "A person answers your questions."
+    },
+    {
+      "title": "No hard sell",
+      "text": "Take your time."
+    },
+    {
+      "title": "Picked with care",
+      "text": "A range chosen for use, not for shelf space."
+    }
+  ],
+  "stats_title": "Good to know",
+  "stats": [
+    {
+      "value": "Delhi",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "From first message to finish",
+  "steps": [
+    {
+      "title": "Say hello",
+      "text": "Let us know what you have in mind."
+    },
+    {
+      "title": "Ask questions",
+      "text": "Sizes, models, care: we're happy to explain."
+    },
+    {
+      "title": "Order or collect",
+      "text": "Choose the way that suits you."
+    }
+  ],
+  "faq_title": "Frequently asked questions",
+  "faq": [
+    {
+      "q": "Do you ship to my city?",
+      "a": "Let us know where you are and we will confirm delivery options."
+    },
+    {
+      "q": "Is cash on delivery available?",
+      "a": "Send us a message and we'll explain how payment works."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Delhi; get in touch for directions."
+    },
+    {
+      "q": "What if I'm not sure what I need?",
+      "a": "Let us know what you're trying to achieve and we will point you in the right direction."
+    }
+  ],
+  "blog_title": "From the journal",
+  "blog": [
+    {
+      "title": "Making the most of your first visit",
+      "excerpt": "A short list to bring with you."
+    },
+    {
+      "title": "Shopping on a budget",
+      "excerpt": "Where to spend and where to save."
+    },
+    {
+      "title": "What to bring when you get in touch",
+      "excerpt": "A short list that saves a second message."
+    }
+  ],
+  "contact": {
+    "place": "Delhi"
+  },
+  "cta_primary": "Shop now",
+  "cta_secondary": "Visit the store",
+  "cta_text": "Shop now, and ask us anything.",
+  "cta_title": "Come and see for yourself",
+  "footer": "© Clothing Boutique, Delhi. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Delhi",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "clothing (confidence low)",
+    "items_from_prompt": [],
+    "place": "Delhi",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "kurti",
+    "kind": "retail"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Clothing Boutique, Delhi' (not a name). Add your business name to replace it.",
+    "Business type 'Clothing Boutique' was detected with low confidence. If it is wrong, say what kind of business it is (e.g. 'dental clinic').",
+    "Typical clothing boutique offerings were used for: Jackets, Suits, Accessories, Kurtas, Dresses. List your real services (3 or more) to replace them."
+  ]
+}

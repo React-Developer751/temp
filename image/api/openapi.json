@@ -1,0 +1,2194 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "PixelMath API",
+    "version": "1.6.0",
+    "description": "Text-to-image engine written from scratch (no external model). Generate images, inspect how prompts are parsed, and train the engine on your own images."
+  },
+  "servers": [
+    {
+      "url": "http://127.0.0.1:8000"
+    }
+  ],
+  "security": [
+    {
+      "ApiKeyAuth": []
+    },
+    {
+      "BearerAuth": []
+    }
+  ],
+  "paths": {
+    "/health": {
+      "get": {
+        "summary": "Liveness check",
+        "operationId": "health",
+        "security": [],
+        "responses": {
+          "200": {
+            "description": "Server is up",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Health"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/generate": {
+      "post": {
+        "summary": "Generate an image from a prompt",
+        "operationId": "generate",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/GenerateRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "PNG/BMP bytes (response=binary) or JSON with base64 (response=base64). Headers: X-PixelMath-Mode, X-PixelMath-Seed, X-Render-Seconds",
+            "content": {
+              "image/png": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              },
+              "image/bmp": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GenerateJson"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid parameter",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing or invalid API key",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "415": {
+            "description": "Content-Type must be application/json",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Server busy: retry after the Retry-After seconds",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      },
+      "get": {
+        "summary": "Generate an image (query parameters, handy in a browser)",
+        "operationId": "generateGet",
+        "parameters": [
+          {
+            "name": "prompt",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "maxLength": 2000
+            }
+          },
+          {
+            "name": "size",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "default": 512,
+              "minimum": 16,
+              "maximum": 2048
+            }
+          },
+          {
+            "name": "width",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "height",
+            "in": "query",
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "seed",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "default": 0
+            }
+          },
+          {
+            "name": "format",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "png",
+                "bmp"
+              ],
+              "default": "png"
+            }
+          },
+          {
+            "name": "learned",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "auto",
+                "always",
+                "blend",
+                "off"
+              ],
+              "default": "auto"
+            }
+          },
+          {
+            "name": "response",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "binary",
+                "base64"
+              ],
+              "default": "binary"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Image bytes",
+            "content": {
+              "image/png": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              },
+              "image/bmp": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid parameter",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing or invalid API key",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Server busy",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/create": {
+      "post": {
+        "summary": "Creative mode: propose variations, let a critic judge them, breed the best",
+        "description": "temperature 0 = the plain render (no search). Above 0 the engine adds related props, time/weather/background/palette ideas and new layouts, throws away any variation that drops or alters what the prompt asked for, and keeps improving the survivors with a small genetic search. The response says what it thought (header X-PixelMath-Prompt = the prompt it finally rendered; the same prompt + seed reproduces the image through /generate). With response=base64 the JSON also holds `creation` (thinking notes, scores, generations, rejected-by-critic counts, alternatives).",
+        "operationId": "create",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "PNG/BMP bytes or JSON with base64 + creation report",
+            "content": {
+              "image/png": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              },
+              "image/bmp": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GenerateJson"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid parameter",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing or invalid API key",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Server busy",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/imagine": {
+      "post": {
+        "summary": "Mash two random ideas together; the critic rejects the ones that do not work",
+        "description": "Like /create, but the idea itself is random (e.g. 'excavator and sofa'). Optional `anchor` keeps one idea of yours (e.g. 'cat') and mashes it with something random.",
+        "operationId": "imagine",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ImagineRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "PNG/BMP bytes or JSON with base64 + creation report",
+            "content": {
+              "image/png": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              },
+              "image/bmp": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GenerateJson"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid parameter",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing or invalid API key",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Server busy",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/gallery": {
+      "get": {
+        "summary": "List saved pictures (newest first)",
+        "operationId": "gallery",
+        "description": "Needs a database (python3 app.py has one; serve.py needs --db). Pictures are saved when a request to /generate, /create or /imagine contains \"save\": true.",
+        "parameters": [
+          {
+            "name": "limit",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "default": 48,
+              "maximum": 200
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "default": 0
+            }
+          },
+          {
+            "name": "favourites",
+            "in": "query",
+            "schema": {
+              "type": "boolean",
+              "default": false
+            }
+          },
+          {
+            "name": "q",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "maxLength": 100
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "{items:[...], total}"
+          },
+          "404": {
+            "description": "No database",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "summary": "Delete saved pictures",
+        "operationId": "galleryClear",
+        "parameters": [
+          {
+            "name": "keep_favourites",
+            "in": "query",
+            "schema": {
+              "type": "boolean",
+              "default": true
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "{deleted: n}"
+          }
+        }
+      }
+    },
+    "/gallery/{id}": {
+      "get": {
+        "summary": "One saved picture: prompt, seed, parameters and the creative report",
+        "operationId": "galleryItem",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Details"
+          },
+          "404": {
+            "description": "Unknown id",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      },
+      "delete": {
+        "summary": "Delete one saved picture",
+        "operationId": "galleryDelete",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "{deleted: 1}"
+          },
+          "404": {
+            "description": "Unknown id",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/gallery/{id}/image": {
+      "get": {
+        "summary": "The saved picture (PNG/BMP bytes)",
+        "operationId": "galleryImage",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Image",
+            "content": {
+              "image/png": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              },
+              "image/bmp": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/gallery/{id}/thumb": {
+      "get": {
+        "summary": "A small PNG preview (max 160 px)",
+        "operationId": "galleryThumb",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "PNG",
+            "content": {
+              "image/png": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              },
+              "image/bmp": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/gallery/{id}/favourite": {
+      "post": {
+        "summary": "Mark or unmark a favourite (favourites are never dropped)",
+        "operationId": "galleryFavourite",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "favourite"
+                ],
+                "properties": {
+                  "favourite": {
+                    "type": "boolean"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "{id, favourite}"
+          }
+        }
+      }
+    },
+    "/dataset": {
+      "get": {
+        "summary": "The images the model was trained on (dataset manager)",
+        "operationId": "dataset",
+        "description": "Works without a database too (then only the coarse colour preview exists).",
+        "parameters": [
+          {
+            "name": "limit",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "default": 60,
+              "maximum": 200
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "default": 0
+            }
+          },
+          {
+            "name": "q",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "{total, items:[{id, caption, file, added, job_id, original_preview}], grid}"
+          }
+        }
+      }
+    },
+    "/dataset/delete": {
+      "post": {
+        "summary": "Remove trained images and retrain on the rest (asynchronous)",
+        "operationId": "datasetDelete",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "ids"
+                ],
+                "properties": {
+                  "ids": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "202": {
+            "description": "{job_id, removed, remaining}: poll /jobs/{id}"
+          },
+          "404": {
+            "description": "None of the ids are in the model",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Training busy",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/dataset/{id}": {
+      "delete": {
+        "summary": "Remove one trained image and retrain",
+        "operationId": "datasetDeleteOne",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "202": {
+            "description": "Job accepted"
+          },
+          "404": {
+            "description": "Unknown id",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Training busy",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/dataset/{id}/image": {
+      "get": {
+        "summary": "Preview of a trained image (PNG)",
+        "operationId": "datasetImage",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "PNG",
+            "content": {
+              "image/png": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              },
+              "image/bmp": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/dataset/{id}/caption": {
+      "post": {
+        "summary": "Change a trained image's caption and retrain",
+        "operationId": "datasetCaption",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "caption"
+                ],
+                "properties": {
+                  "caption": {
+                    "type": "string",
+                    "maxLength": 200
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "202": {
+            "description": "Job accepted"
+          },
+          "400": {
+            "description": "Bad caption",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Unknown id",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/scene": {
+      "post": {
+        "summary": "One premium niche picture for a website (restaurant, gym, dental, saas ...) with a built-in judge",
+        "description": "The niche, mood and accent are read from the prompt (\"gym with dumbbells in red light\"). If no niche fits, a neutral abstract in the accent colour is returned and the report says fallback: true (never a wrong subject). With text_zone the area stays calm so text on it has contrast >= 4.5:1 (report.text_color says which colour to use). Binary answers carry X-PixelMath-Niche / -Fallback / -Redrawn / -Text-Color headers; response=base64 returns the full report.",
+        "operationId": "scene",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SceneRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "JPEG/PNG bytes or JSON with base64 + report",
+            "content": {
+              "image/png": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              },
+              "image/bmp": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              },
+              "application/json": {}
+            }
+          },
+          "400": {
+            "description": "Invalid parameter",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing or invalid API key",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Server busy",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/set": {
+      "post": {
+        "summary": "3 to 8 pictures for one site in one style: hero (text zone), about, gallery tiles",
+        "description": "Same niche, palette, mood and light; different camera and composition. The judge redraws any picture too close to another (perceptual hash distance) and reports redrawn / min_distance / palette_family / hero text contrast. response=zip (default) returns hero.jpg, about.jpg, tile-N.jpg and report.json; response=base64 returns JSON. Takes about 5-12 s.",
+        "operationId": "set",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SetRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "zip or JSON",
+            "content": {
+              "application/zip": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              },
+              "application/json": {}
+            }
+          },
+          "400": {
+            "description": "Invalid parameter",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing or invalid API key",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Server busy",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/spec": {
+      "post": {
+        "summary": "One picture for the owner's picture spec: \"<subject>, for a <business> website. ... Palette: accent #x on #y.\"",
+        "description": "The business named in the prompt decides the scene (99 businesses + 20 business types of the spec), the slot (hero-1..3, about, gallery-1..6, card-1..6, team-1..3, background) decides size (1600x900, 1200x900, 900x900, 800x600, 600x600, 1600x900), camera and text zone. No text, letters or numbers are ever drawn; an unknown business gets a neutral abstract (fallback: true). Palette: accent and background from the prompt or the accent / bg fields; a dark background gives a dark picture. The spec ships with the package (PIXELMATH_SPEC_DIR replaces it); 501 spec_unavailable only when its data files are missing from the installation.",
+        "operationId": "spec",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "prompt"
+                ],
+                "additionalProperties": false,
+                "properties": {
+                  "prompt": {
+                    "type": "string"
+                  },
+                  "slot": {
+                    "type": "string",
+                    "description": "hero-1, about, gallery-3, card-2, team-1, background ..."
+                  },
+                  "seed": {
+                    "type": "integer"
+                  },
+                  "accent": {
+                    "type": "string"
+                  },
+                  "bg": {
+                    "type": "string"
+                  },
+                  "niche": {
+                    "type": "string"
+                  },
+                  "design_style": {
+                    "type": "string"
+                  },
+                  "format": {
+                    "type": "string",
+                    "enum": [
+                      "jpeg",
+                      "png"
+                    ]
+                  },
+                  "response": {
+                    "type": "string",
+                    "enum": [
+                      "image",
+                      "base64"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "JPEG/PNG bytes or JSON with base64 + report",
+            "content": {
+              "image/png": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              },
+              "image/bmp": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              },
+              "application/json": {}
+            }
+          },
+          "400": {
+            "description": "Invalid parameter",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing or invalid API key",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "403": {
+            "description": "Browser request from another site (cross_origin)",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "501": {
+            "description": "The spec's data files are missing from this installation (spec_unavailable)",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Server busy",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/spec/business": {
+      "post": {
+        "summary": "All 20 pictures of one spec business (3 hero, about, 6 gallery, 6 card, 3 team, background) as a zip with manifest.json",
+        "description": "Uses the spec's own 20 prompts of the business, one palette (palette: 0 or 1) and one style; pictures of the scene slots differ by at least 8 of 63 perceptual-hash bits. Takes about a minute.",
+        "operationId": "specBusiness",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "business"
+                ],
+                "additionalProperties": false,
+                "properties": {
+                  "business": {
+                    "type": "string",
+                    "description": "id from GET /spec/businesses"
+                  },
+                  "palette": {
+                    "type": "integer"
+                  },
+                  "seed": {
+                    "type": "integer"
+                  },
+                  "format": {
+                    "type": "string",
+                    "enum": [
+                      "jpeg",
+                      "png"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "zip",
+            "content": {
+              "application/zip": {
+                "schema": {
+                  "type": "string",
+                  "format": "binary"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid parameter",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing or invalid API key",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "403": {
+            "description": "Browser request from another site (cross_origin)",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "501": {
+            "description": "The spec's data files or prompt list are missing from this installation (spec_unavailable, spec_prompts_missing)",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Server busy",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/spec/businesses": {
+      "get": {
+        "summary": "The spec's 99 businesses with their niche and palettes",
+        "operationId": "specBusinesses",
+        "responses": {
+          "200": {
+            "description": "{businesses: [{id, name, niche, palettes}]}"
+          },
+          "401": {
+            "description": "Missing or invalid API key",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "501": {
+            "description": "The spec's data files are missing from this installation (spec_unavailable)",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/niches": {
+      "get": {
+        "summary": "The niches the studio can draw",
+        "operationId": "niches",
+        "responses": {
+          "200": {
+            "description": "{niches: [{id, title, group, accent, mood}]}"
+          },
+          "401": {
+            "description": "Missing or invalid API key",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/parse": {
+      "post": {
+        "summary": "Show how a prompt is understood",
+        "operationId": "parse",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "prompt"
+                ],
+                "additionalProperties": false,
+                "properties": {
+                  "prompt": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Parse result",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ParseResult"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid parameter",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing or invalid API key",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/model": {
+      "get": {
+        "summary": "Info about the loaded trained model",
+        "operationId": "model",
+        "responses": {
+          "200": {
+            "description": "Model info",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ModelInfo"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing or invalid API key",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/train": {
+      "post": {
+        "summary": "Train on an uploaded zip of images + captions (asynchronous)",
+        "description": "Zip layout: images (png/jpg/bmp) plus optional captions.csv (file,caption), captions.json or a .txt next to each image. Needs the server started with --model PATH. Returns a job to poll.",
+        "operationId": "train",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "required": [
+                  "data"
+                ],
+                "properties": {
+                  "data": {
+                    "type": "string",
+                    "format": "binary",
+                    "description": "the zip file"
+                  },
+                  "epochs": {
+                    "type": "integer",
+                    "default": 80,
+                    "minimum": 1,
+                    "maximum": 500
+                  },
+                  "lr": {
+                    "type": "number",
+                    "default": 0.3
+                  },
+                  "l2": {
+                    "type": "number",
+                    "default": 0.0001
+                  },
+                  "val_frac": {
+                    "type": "number",
+                    "default": 0.15
+                  },
+                  "seed": {
+                    "type": "integer",
+                    "default": 0
+                  },
+                  "fresh": {
+                    "type": "boolean",
+                    "default": false,
+                    "description": "ignore the existing model"
+                  },
+                  "grid": {
+                    "type": "integer",
+                    "default": 16,
+                    "description": "new models only"
+                  },
+                  "refit": {
+                    "type": "boolean",
+                    "default": true
+                  }
+                }
+              }
+            },
+            "application/zip": {
+              "schema": {
+                "type": "string",
+                "format": "binary"
+              }
+            }
+          }
+        },
+        "responses": {
+          "202": {
+            "description": "Accepted",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TrainAccepted"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad zip or parameter",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing or invalid API key",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "403": {
+            "description": "Training disabled (no --model)",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "A training job is already running",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "413": {
+            "description": "Upload or unzipped data too large",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "415": {
+            "description": "Unsupported Content-Type",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/jobs/{id}": {
+      "get": {
+        "summary": "Training job status",
+        "operationId": "job",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Job",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Job"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Unknown job",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "401": {
+            "description": "Missing or invalid API key",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/jobs": {
+      "get": {
+        "summary": "Recent training jobs",
+        "operationId": "jobs",
+        "responses": {
+          "200": {
+            "description": "Job list"
+          },
+          "401": {
+            "description": "Missing or invalid API key",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "ApiKeyAuth": {
+        "type": "apiKey",
+        "in": "header",
+        "name": "X-API-Key"
+      },
+      "BearerAuth": {
+        "type": "http",
+        "scheme": "bearer"
+      }
+    },
+    "schemas": {
+      "Error": {
+        "type": "object",
+        "properties": {
+          "error": {
+            "type": "object",
+            "properties": {
+              "code": {
+                "type": "string"
+              },
+              "message": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      },
+      "Health": {
+        "type": "object",
+        "properties": {
+          "status": {
+            "type": "string"
+          },
+          "version": {
+            "type": "string"
+          },
+          "model_loaded": {
+            "type": "boolean"
+          },
+          "training_enabled": {
+            "type": "boolean"
+          },
+          "auth_required": {
+            "type": "boolean"
+          }
+        }
+      },
+      "GenerateRequest": {
+        "type": "object",
+        "required": [
+          "prompt"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "prompt": {
+            "type": "string",
+            "maxLength": 2000,
+            "example": "red house with a tree under a sunset sky"
+          },
+          "size": {
+            "type": "integer",
+            "default": 512,
+            "minimum": 16,
+            "maximum": 2048,
+            "description": "square size; the server may cap it lower (default 1024)"
+          },
+          "width": {
+            "type": "integer"
+          },
+          "height": {
+            "type": "integer"
+          },
+          "seed": {
+            "type": "integer",
+            "default": 0,
+            "description": "same prompt + seed = same image"
+          },
+          "format": {
+            "type": "string",
+            "enum": [
+              "png",
+              "bmp"
+            ],
+            "default": "png"
+          },
+          "learned": {
+            "type": "string",
+            "enum": [
+              "auto",
+              "always",
+              "blend",
+              "off"
+            ],
+            "default": "auto"
+          },
+          "response": {
+            "type": "string",
+            "enum": [
+              "binary",
+              "base64"
+            ],
+            "default": "binary"
+          },
+          "save": {
+            "type": "boolean",
+            "default": false,
+            "description": "keep the picture in the gallery (needs a database); the answer then has gallery_id / header X-PixelMath-Gallery-Id"
+          }
+        }
+      },
+      "GenerateJson": {
+        "type": "object",
+        "properties": {
+          "image_base64": {
+            "type": "string"
+          },
+          "mime": {
+            "type": "string"
+          },
+          "width": {
+            "type": "integer"
+          },
+          "height": {
+            "type": "integer"
+          },
+          "seed": {
+            "type": "integer"
+          },
+          "mode": {
+            "type": "string"
+          },
+          "render_seconds": {
+            "type": "number"
+          },
+          "gallery_id": {
+            "type": "integer"
+          },
+          "known_words": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "CreateRequest": {
+        "type": "object",
+        "required": [
+          "prompt"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "prompt": {
+            "type": "string",
+            "maxLength": 2000,
+            "example": "laptop and coffee cup"
+          },
+          "temperature": {
+            "type": "number",
+            "default": 0.7,
+            "minimum": 0,
+            "maximum": 1,
+            "description": "0 = safest/plain, 1 = boldest"
+          },
+          "population": {
+            "type": "integer",
+            "default": 8,
+            "minimum": 2,
+            "maximum": 16
+          },
+          "generations": {
+            "type": "integer",
+            "default": 3,
+            "minimum": 0,
+            "maximum": 6
+          },
+          "alternatives": {
+            "type": "integer",
+            "default": 3,
+            "minimum": 0,
+            "maximum": 5
+          },
+          "explore": {
+            "type": "integer",
+            "default": 0,
+            "minimum": 0,
+            "maximum": 500,
+            "description": "judge this many extra random ideas at thumbnail size first, breed from the best"
+          },
+          "max_seconds": {
+            "type": "number",
+            "default": 20,
+            "description": "time budget for the search"
+          },
+          "size": {
+            "type": "integer",
+            "default": 512
+          },
+          "width": {
+            "type": "integer"
+          },
+          "height": {
+            "type": "integer"
+          },
+          "seed": {
+            "type": "integer",
+            "default": 0
+          },
+          "format": {
+            "type": "string",
+            "enum": [
+              "png",
+              "bmp"
+            ]
+          },
+          "learned": {
+            "type": "string",
+            "enum": [
+              "auto",
+              "always",
+              "blend",
+              "off"
+            ]
+          },
+          "response": {
+            "type": "string",
+            "enum": [
+              "binary",
+              "base64"
+            ],
+            "default": "binary"
+          },
+          "save": {
+            "type": "boolean",
+            "default": false
+          }
+        }
+      },
+      "ImagineRequest": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "anchor": {
+            "type": "string",
+            "maxLength": 200,
+            "example": "cat",
+            "description": "optional idea to keep"
+          },
+          "temperature": {
+            "type": "number",
+            "default": 0.8,
+            "minimum": 0,
+            "maximum": 1,
+            "description": "higher = more unrelated pairs"
+          },
+          "attempts": {
+            "type": "integer",
+            "default": 12,
+            "minimum": 1,
+            "maximum": 30
+          },
+          "population": {
+            "type": "integer",
+            "default": 6
+          },
+          "generations": {
+            "type": "integer",
+            "default": 2
+          },
+          "max_seconds": {
+            "type": "number",
+            "default": 20
+          },
+          "size": {
+            "type": "integer",
+            "default": 512
+          },
+          "width": {
+            "type": "integer"
+          },
+          "height": {
+            "type": "integer"
+          },
+          "seed": {
+            "type": "integer",
+            "default": 0
+          },
+          "format": {
+            "type": "string",
+            "enum": [
+              "png",
+              "bmp"
+            ]
+          },
+          "learned": {
+            "type": "string",
+            "enum": [
+              "auto",
+              "always",
+              "blend",
+              "off"
+            ]
+          },
+          "response": {
+            "type": "string",
+            "enum": [
+              "binary",
+              "base64"
+            ],
+            "default": "binary"
+          },
+          "save": {
+            "type": "boolean",
+            "default": false
+          }
+        }
+      },
+      "SceneRequest": {
+        "type": "object",
+        "required": [
+          "prompt"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "prompt": {
+            "type": "string",
+            "example": "wood fired pizza on a board"
+          },
+          "width": {
+            "type": "integer",
+            "default": 640
+          },
+          "height": {
+            "type": "integer",
+            "default": 400
+          },
+          "size": {
+            "type": "integer"
+          },
+          "seed": {
+            "type": "integer",
+            "default": 0
+          },
+          "accent": {
+            "type": "string",
+            "example": "#c0392b",
+            "description": "colour name or #rrggbb; the picture follows it"
+          },
+          "mood": {
+            "type": "string",
+            "enum": [
+              "warm",
+              "cool",
+              "dark",
+              "light"
+            ]
+          },
+          "text_zone": {
+            "type": "string",
+            "enum": [
+              "left",
+              "center",
+              "bottom",
+              "none"
+            ],
+            "default": "none"
+          },
+          "variant": {
+            "type": "string",
+            "enum": [
+              "fit",
+              "close",
+              "detail",
+              "wide",
+              "fit-flip",
+              "close-flip",
+              "detail-flip",
+              "wide-flip"
+            ],
+            "default": "fit"
+          },
+          "niche": {
+            "type": "string",
+            "description": "force a niche id (see /niches)"
+          },
+          "format": {
+            "type": "string",
+            "enum": [
+              "jpeg",
+              "png"
+            ],
+            "default": "jpeg"
+          },
+          "quality": {
+            "type": "integer",
+            "default": 72
+          },
+          "use_model": {
+            "type": "boolean",
+            "default": true,
+            "description": "use the trained model's niche classifier and learned accents"
+          },
+          "response": {
+            "type": "string",
+            "enum": [
+              "binary",
+              "base64"
+            ],
+            "default": "binary"
+          }
+        }
+      },
+      "SetRequest": {
+        "type": "object",
+        "required": [
+          "prompt"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "prompt": {
+            "type": "string",
+            "example": "dental clinic reception, calm blue"
+          },
+          "count": {
+            "type": "integer",
+            "default": 6,
+            "minimum": 3,
+            "maximum": 8
+          },
+          "seed": {
+            "type": "integer",
+            "default": 0
+          },
+          "accent": {
+            "type": "string"
+          },
+          "mood": {
+            "type": "string",
+            "enum": [
+              "warm",
+              "cool",
+              "dark",
+              "light"
+            ]
+          },
+          "text_zone": {
+            "type": "string",
+            "enum": [
+              "left",
+              "center",
+              "bottom",
+              "none"
+            ],
+            "default": "left",
+            "description": "text zone of the hero picture"
+          },
+          "niche": {
+            "type": "string"
+          },
+          "format": {
+            "type": "string",
+            "enum": [
+              "jpeg",
+              "png"
+            ],
+            "default": "jpeg"
+          },
+          "quality": {
+            "type": "integer",
+            "default": 72
+          },
+          "use_model": {
+            "type": "boolean",
+            "default": true
+          },
+          "response": {
+            "type": "string",
+            "enum": [
+              "zip",
+              "base64"
+            ],
+            "default": "zip"
+          }
+        }
+      },
+      "ParseResult": {
+        "type": "object",
+        "properties": {
+          "mode": {
+            "type": "string"
+          },
+          "time": {
+            "type": "string",
+            "nullable": true
+          },
+          "flags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "entities": {
+            "type": "array",
+            "items": {
+              "type": "object"
+            }
+          },
+          "not_in_lexicon": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "model_knows": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "ModelInfo": {
+        "type": "object",
+        "properties": {
+          "loaded": {
+            "type": "boolean"
+          },
+          "grid": {
+            "type": "integer"
+          },
+          "samples": {
+            "type": "integer"
+          },
+          "vocabulary": {
+            "type": "integer"
+          },
+          "top_words": {
+            "type": "array",
+            "items": {
+              "type": "object"
+            }
+          }
+        }
+      },
+      "TrainAccepted": {
+        "type": "object",
+        "properties": {
+          "job_id": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string"
+          },
+          "status_url": {
+            "type": "string"
+          }
+        }
+      },
+      "Job": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "queued",
+              "extracting",
+              "reading",
+              "training",
+              "done",
+              "error"
+            ]
+          },
+          "message": {
+            "type": "string"
+          },
+          "epoch": {
+            "type": "integer"
+          },
+          "epochs": {
+            "type": "integer"
+          },
+          "train_rmse": {
+            "type": "number",
+            "nullable": true
+          },
+          "val_rmse": {
+            "type": "number",
+            "nullable": true
+          },
+          "images_read": {
+            "type": "integer"
+          },
+          "skipped_count": {
+            "type": "integer"
+          },
+          "skipped": {
+            "type": "array",
+            "items": {
+              "type": "object"
+            }
+          },
+          "metrics": {
+            "type": "object",
+            "nullable": true
+          },
+          "error": {
+            "type": "object",
+            "nullable": true
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "request": "Create a website for a pest control in Jaipur",
+  "source": "niche pack",
+  "understood": {
+    "niche": "pest_control",
+    "type_theme": null,
+    "brand": null,
+    "city": "Jaipur",
+    "lang": "en",
+    "confidence": 1.0
+  },
+  "notes": [],
+  "problems": [],
+  "pack": {
+    "id": "pest_control",
+    "label": "Pest control",
+    "theme": "home_services",
+    "keywords": [
+      "pest control",
+      "termite treatment",
+      "cockroach control",
+      "bed bug treatment",
+      "rodent control",
+      "fumigation",
+      "deemak",
+      "कीट नियंत्रण",
+      "दीमक का इलाज"
+    ],
+    "heroTitles": [
+      "Straightforward Pest Control For Your Home",
+      "Pest Control That Respects Your Time",
+      "Plain Answers On General Pest Control"
+    ],
+    "heroSubtitles": [
+      "{brand} offers general pest control, rodent control and more. We listen first, quote clearly and leave the place as we found it in Jaipur.",
+      "Need general pest control or mosquito control? {brand} sends a local team, explains each step and keeps you informed until the job is done in Jaipur.",
+      "Looking for help with pest control? {brand} explains the work, the cost and the timing first, then does the job tidily in Jaipur."
+    ],
+    "button": "Book A Free Inspection",
+    "featureTitle": "Our Pest Control Services",
+    "features": [
+      {
+        "title": "General Pest Control",
+        "text": "Ask about general pest control and get a clear quote, a time that suits you and a tidy finish."
+      },
+      {
+        "title": "Termite Treatment",
+        "text": "For termite treatment, we look at the place first, then suggest the simplest fix that lasts."
+      },
+      {
+        "title": "Bed Bug Removal",
+        "text": "Need bed bug removal? Tell us what is wrong and we will say what can be done and when."
+      },
+      {
+        "title": "Rodent Control",
+        "text": "Rodent Control with a short check at the end, so you know the job is finished properly."
+      },
+      {
+        "title": "Mosquito Control",
+        "text": "We explain what mosquito control involves, the options and the cost before any work begins."
+      },
+      {
+        "title": "Pre Construction Treatment",
+        "text": "Pre Construction Treatment by a local team, with the price and timing agreed with you first."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First quote"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Local",
+        "label": "Team near you"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Describe the pest control job by call or message, with a photo if that helps."
+        },
+        {
+          "title": "Get A Clear Quote",
+          "text": "We explain the options for general pest control and give you the price before anything starts."
+        },
+        {
+          "title": "We Do The Work",
+          "text": "Our team arrives at the agreed time and completes the termite treatment work with care."
+        },
+        {
+          "title": "Check And Follow Up",
+          "text": "We go through the result with you and stay reachable for questions on bed bug removal afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What should I prepare before general pest control?",
+        "a": "A clear path to the work area and a few details about the problem are usually enough; we will tell you if more is needed. Ask us about mosquito control or pre construction treatment and the answer is the same."
+      },
+      {
+        "q": "Do you explain the pest control work before starting?",
+        "a": "Always. We describe each step, the materials and the cost, and begin only when you are comfortable. The same approach applies to general pest control and pre construction treatment."
+      },
+      {
+        "q": "Can I ask questions after bed bug removal?",
+        "a": "Yes. Message us any time after the job and we will answer or come back to check. This applies to general pest control, termite treatment and the rest of our pest control work."
+      },
+      {
+        "q": "Do you handle small pest control jobs too?",
+        "a": "Yes. Small and large jobs get the same care, and we quote both in the same clear way. It is the same for termite treatment as it is for general pest control."
+      },
+      {
+        "q": "How do you charge for rodent control?",
+        "a": "We quote by the job and tell you what is included, so the final bill matches what we agreed. That goes for bed bug removal and rodent control too."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Book Pest Control Today?",
+      "button": "Book A Free Inspection"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local team for pest control. We keep our work simple: listen to the problem, explain the options and do the job properly.",
+        "We cover general pest control, termite treatment and bed bug removal, and we are happy to talk it through with you before you decide on anything."
+      ],
+      "points": [
+        "Plain Explanations",
+        "Fixed Visit Times",
+        "Follow-Up On Request"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Pest Control",
+      "plans": [
+        {
+          "name": "Single Visit",
+          "price": "$12",
+          "period": "/visit",
+          "perks": [
+            "General Pest Control Only",
+            "Written Quote First",
+            "Time Slot You Choose"
+          ]
+        },
+        {
+          "name": "Regular Care",
+          "price": "$35",
+          "period": "/quarter",
+          "perks": [
+            "General Pest Control And Termite Treatment",
+            "Follow-Up Check",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Service",
+          "price": "$90",
+          "period": "/year",
+          "perks": [
+            "General Pest Control Plus Termite Treatment And Bed Bug Removal",
+            "Extended Follow-Up",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Pest Control At Work",
+      "captions": [
+        "General Pest Control",
+        "Termite Treatment",
+        "Bed Bug Removal",
+        "Rodent Control",
+        "Mosquito Control",
+        "Pre Construction Treatment"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Pest Technician",
+        "Inspection Lead",
+        "Customer Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Easy to book, on time, and the pest control work looked neat at the end.",
+        "role": "Home owner"
+      },
+      {
+        "quote": "I liked that general pest control was priced upfront and nothing extra appeared later.",
+        "role": "Office manager"
+      },
+      {
+        "quote": "Polite team and a straight answer on rodent control.",
+        "role": "Tenant"
+      }
+    ],
+    "blog": {
+      "title": "Pest Control Tips And Guides",
+      "posts": [
+        {
+          "tag": "Cost",
+          "title": "What Affects The Cost Of General Pest Control"
+        },
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask Before Termite Treatment"
+        },
+        {
+          "tag": "Planning",
+          "title": "Preparing Your Place For Bed Bug Removal"
+        }
+      ]
+    },
+    "marquee": [
+      "General Pest",
+      "Termite",
+      "Bed Bug",
+      "Rodent Control",
+      "Mosquito Control",
+      "Free Quote",
+      "Local Team",
+      "Clear Pricing"
+    ],
+    "contactText": "Tell {brand} what you need: general pest control, bed bug removal or anything close to it. We will answer with the next step and a clear quote."
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "brand": "Daily Pet Shop",
+  "niche": "store",
+  "kind": "retail",
+  "profile": "",
+  "business_type": "petshop",
+  "type_label": "Pet Shop",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "friendly",
+  "keywords": [
+    "chandigarh"
+  ],
+  "eyebrow": "Pet Shop · Chandigarh",
+  "location": "Chandigarh",
+  "audience": "",
+  "hero_heading": "Pet Shop in Chandigarh",
+  "tagline": "Shop now and let us know what you need.",
+  "about_title": "About us",
+  "about": [
+    "Small questions are welcome too.",
+    "You will find us in Chandigarh. Let us know your budget and we will suggest options."
+  ],
+  "features_title": "Shop by category",
+  "features": [
+    {
+      "title": "Collars",
+      "text": "Not sure which Collars to pick? Describe how you'll use it."
+    },
+    {
+      "title": "Beds",
+      "text": "Message us about Beds; we reply to every enquiry."
+    },
+    {
+      "title": "Leashes",
+      "text": "Bring your questions about Leashes."
+    },
+    {
+      "title": "Foods",
+      "text": "Looking for Foods? Feel free to ask us what's in stock and what suits you."
+    },
+    {
+      "title": "Supplies",
+      "text": "Compare Supplies side by side, in person or over a message."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "No hard sell",
+      "text": "Take your time."
+    },
+    {
+      "title": "Details explained",
+      "text": "Before anything begins."
+    },
+    {
+      "title": "Honest advice",
+      "text": "We'll say if something isn't right for you."
+    }
+  ],
+  "stats_title": "Details at a glance",
+  "stats": [
+    {
+      "value": "Chandigarh",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "Getting started",
+  "steps": [
+    {
+      "title": "Browse",
+      "text": "Look through online or in the store."
+    },
+    {
+      "title": "Ask questions",
+      "text": "Sizes, models, care: we're happy to explain."
+    },
+    {
+      "title": "Get started",
+      "text": "We begin when you're ready."
+    }
+  ],
+  "faq_title": "Good questions",
+  "faq": [
+    {
+      "q": "Where are you?",
+      "a": "Find us in Chandigarh. Message us and we will send directions."
+    },
+    {
+      "q": "Can I ask questions before I decide?",
+      "a": "Yes; ask as many as you like."
+    },
+    {
+      "q": "How do I pay?",
+      "a": "Ask us when you book and we'll explain the options."
+    },
+    {
+      "q": "What if I'm not sure what I need?",
+      "a": "Describe the situation and we'll suggest where to start."
+    }
+  ],
+  "blog_title": "Notes and guides",
+  "blog": [
+    {
+      "title": "Why we answer every message",
+      "excerpt": "Replies are part of the service."
+    },
+    {
+      "title": "How to choose a good pet shop",
+      "excerpt": "Five questions worth asking before you make up your mind."
+    },
+    {
+      "title": "Questions to ask before you book",
+      "excerpt": "Plain answers beat long brochures."
+    }
+  ],
+  "contact": {
+    "place": "Chandigarh"
+  },
+  "cta_primary": "Shop now",
+  "cta_secondary": "Visit the store",
+  "cta_text": "Ask what's new.",
+  "cta_title": "We'd like to hear from you",
+  "footer": "© Daily Pet Shop. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Chandigarh",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "petshop (confidence high)",
+    "items_from_prompt": [],
+    "place": "Chandigarh",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "retail"
+  },
+  "needs_review": [
+    "No business name was given; 'Daily Pet Shop' is a placeholder.",
+    "Typical pet shop offerings were used for: Collars, Beds, Leashes, Foods, Supplies. List your real services (3 or more) to replace them."
+  ]
+}

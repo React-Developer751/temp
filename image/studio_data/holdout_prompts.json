@@ -1,0 +1,1000 @@
+{
+ "in_niche": {
+  "restaurant-italian": [
+   "wood fired pizza on a wooden board",
+   "plate of spaghetti carbonara with red wine",
+   "cosy Italian trattoria, candles, checkered tablecloth, warm evening glow",
+   "margherita pizza with fresh basil, rustic dark wood table",
+   "mere pizza aur pasta restaurant ke liye ek photo chahiye",
+   "पिज़्ज़ा और पास्ता वाले रेस्टोरेंट की तस्वीर"
+  ],
+  "cafe": [
+   "latte art in a white cup",
+   "coffee shop with laptop and croissant on table",
+   "warm cosy cafe, brown tones, steaming cappuccino by the window",
+   "moody dark coffee bar with espresso machine and hanging bulbs",
+   "meri coffee shop ke liye ek achhi si photo",
+   "कॉफी शॉप की तस्वीर जिसमें लैटे आर्ट बना हो"
+  ],
+  "bakery": [
+   "fresh baked bread loaves in a basket",
+   "cakes and pastries in a bakery display",
+   "golden baguettes just out of the oven, warm morning light",
+   "pastel pink cupcakes and cream cakes on a marble counter",
+   "meri bakery ke liye fresh bread aur cake ki photo",
+   "a shop where ovens bake loaves and pastries every dawn"
+  ],
+  "indian-thali": [
+   "Indian thali with dal, sabzi, roti and rice",
+   "full veg thali on a steel plate",
+   "colourful traditional thali, bright yellow dal, hot rotis, homely mood",
+   "rustic dhaba style thali served on banana leaf, warm earthy tones",
+   "mere dhabe ke liye dal roti sabzi wali thali ki photo",
+   "खाने की थाली जिसमें दाल, सब्ज़ी, रोटी और चावल हो"
+  ],
+  "fast-food": [
+   "burger and fries with a cola",
+   "cheeseburger meal on a tray",
+   "juicy double burger, golden fries, bright red and yellow colours",
+   "greasy late night fast food combo, neon lights, cola cup",
+   "mere burger joint ke liye picture chahiye, fries aur cola ke saath",
+   "बर्गर, फ्राइज़ और कोल्ड ड्रिंक वाली तस्वीर"
+  ],
+  "ice-cream": [
+   "ice cream cones in different flavours",
+   "chocolate sundae with cherry on top",
+   "pastel pink and mint ice cream scoops, cheerful summer mood",
+   "colourful gelato parlour counter with waffle cones",
+   "meri ice cream parlour ke liye ek mast picture",
+   "ठंडी मलाईदार आइसक्रीम के कोन की फोटो"
+  ],
+  "juice-bar": [
+   "fresh orange juice glasses on a table",
+   "smoothie bar with blended fruit drinks",
+   "vibrant green smoothie with kiwi and spinach, bright healthy mood",
+   "colourful fruit juices in tall glasses, sunny tropical vibe",
+   "mere juice center ke liye fresh fruit juice ki photo",
+   "ताज़े फलों का रस और स्मूदी की दुकान"
+  ],
+  "sweet-shop": [
+   "laddu and jalebi in a plate",
+   "indian mithai box with assorted sweets",
+   "festive sweet shop display, golden jalebi, saffron laddus, warm diwali glow",
+   "trays of colourful barfi and gulab jamun, bright festive mood",
+   "meri mithai ki dukaan ke liye picture",
+   "त्योहार पर बँटने वाली मिठाइयाँ, लड्डू और जलेबी"
+  ],
+  "sushi": [
+   "sushi platter with salmon nigiri and rolls",
+   "japanese sushi restaurant chef preparing rolls",
+   "minimal black slate with fresh sashimi, soy sauce, calm elegant mood",
+   "colourful maki rolls with chopsticks, moody dark background",
+   "mere sushi restaurant ke liye ek photo chahiye",
+   "कच्ची मछली और चावल के रोल वाला जापानी रेस्टोरेंट"
+  ],
+  "kurti-store": [
+   "women wearing printed cotton kurtis",
+   "kurti collection on hangers in a store",
+   "pastel floral kurtis, soft pink and mint, elegant ethnic look",
+   "colourful ethnic wear boutique rack with embroidered kurtis, festive mood",
+   "meri kurti ki dukaan ke liye model photo",
+   "औरतों के लिए रंगीन कढ़ाई वाले कुर्ते की दुकान"
+  ],
+  "saree-boutique": [
+   "silk saree draped on a mannequin",
+   "woman in red banarasi saree",
+   "rich maroon and gold silk sarees, royal traditional mood",
+   "colourful sarees folded on shelves in a boutique, warm lights",
+   "meri saree boutique ke liye picture chahiye",
+   "नौ गज़ की रेशमी साड़ी पहने महिला"
+  ],
+  "shoe-store": [
+   "white sneakers on a shelf",
+   "leather formal shoes in a shop",
+   "bright neon running sneakers on a dark background, energetic vibe",
+   "polished brown leather shoes, classic elegant mood",
+   "mere shoe shop ke liye sneakers ki photo",
+   "पैरों में पहनने वाले जूतों की दुकान, स्पोर्ट्स और चमड़े वाले"
+  ],
+  "jewellery": [
+   "gold necklace on black velvet",
+   "diamond rings in a display case",
+   "bridal gold jewellery set glowing in warm light, luxury mood",
+   "elegant silver earrings and pendant on soft cream background",
+   "meri jewellery shop ke liye sone ke gehne ki photo",
+   "सोने के हार और अंगूठियों की दुकान"
+  ],
+  "grocery": [
+   "kirana store shelves full of groceries",
+   "supermarket aisle with shopping cart",
+   "fresh vegetables and fruits in baskets, bright green and cheerful",
+   "neighbourhood general store, packed shelves of rice, dal and flour, warm light",
+   "meri kirana dukaan ke liye picture",
+   "राशन, सब्ज़ी और रोज़ का सामान बेचने वाली दुकान"
+  ],
+  "bookstore": [
+   "shelves full of books",
+   "bookstore with a reading corner",
+   "cosy old library, wooden shelves, warm lamp light, quiet mood",
+   "colourful stack of novels on a table, bookshop in autumn",
+   "meri book shop ke liye kitabon ki photo",
+   "किताबों से भरी अलमारियाँ और पढ़ने की जगह"
+  ],
+  "florist": [
+   "bouquet of red roses",
+   "flower shop with fresh bouquets",
+   "pastel peonies and tulips in a rustic vase, soft romantic mood",
+   "bright sunflowers and marigolds in buckets, cheerful spring colours",
+   "meri flower shop ke liye gulab ke bouquet ki photo",
+   "ताज़े फूलों के गुलदस्ते बनाने वाली दुकान"
+  ],
+  "toy-store": [
+   "colourful toys on a shelf",
+   "kids toy shop with teddy bears and blocks",
+   "bright rainbow building blocks and plush toys, playful happy mood",
+   "wooden toys and toy cars for children on a pastel background",
+   "mere toy store ke liye bacchon ke khilone ki photo",
+   "बच्चों के खिलौनों की दुकान, टेडी और गाड़ियाँ"
+  ],
+  "dental": [
+   "dentist treating a patient",
+   "dentist chair with overhead light",
+   "clean modern dental clinic, soft blue and white, calming mood",
+   "child getting braces checked, friendly bright office",
+   "mere dental clinic ke liye daanton ki photo",
+   "दाँतों की सफ़ाई और इलाज करने वाला डॉक्टर"
+  ],
+  "clinic-doctor": [
+   "doctor with stethoscope examining a patient",
+   "family physician in a clinic room",
+   "friendly doctor in white coat, soft green clinic, reassuring mood",
+   "calm consultation room with desk and blood pressure monitor, light blue",
+   "mere doctor clinic ke liye photo chahiye",
+   "बुखार और सामान्य बीमारी के लिए मरीज़ देखते डॉक्टर"
+  ],
+  "pharmacy": [
+   "pharmacist behind medicine counter",
+   "shelves of medicines and tablets",
+   "clean chemist shop, green cross sign, trustworthy fresh mood",
+   "white and green pharmacy shelves with bottles and strips of pills",
+   "meri medical store ke liye dawai ki photo",
+   "दवाइयों की दुकान जहाँ केमिस्ट पर्ची देखकर दवा देता है"
+  ],
+  "gym": [
+   "dumbbells on a rack",
+   "man lifting weights in a gym",
+   "dark gym, kettlebells and barbell, dramatic orange light, intense mood",
+   "bright modern fitness studio with treadmills, energetic blue tones",
+   "meri gym ke liye workout ki photo",
+   "कसरत करने और बॉडी बनाने की जगह जहाँ वज़न उठाते हैं"
+  ],
+  "yoga": [
+   "woman doing yoga pose on a mat",
+   "meditation in a quiet studio",
+   "peaceful yoga studio at sunrise, soft beige and warm glow",
+   "group yoga class in lotus pose, calm green plants, serene mood",
+   "mere yoga class ke liye shanti wali photo",
+   "सुबह ध्यान और आसन करते लोग"
+  ],
+  "spa": [
+   "massage therapy with hot stones",
+   "spa room with candles and towels",
+   "relaxing spa, soft candlelight, orchids, warm calm mood",
+   "zen wellness retreat with towels and essential oils, neutral tones",
+   "meri spa ke liye massage ki relaxing photo",
+   "थकान उतारने के लिए मालिश और सुगंधित मोमबत्तियाँ"
+  ],
+  "salon": [
+   "hairdresser styling a woman's hair",
+   "beauty salon chairs and mirrors",
+   "chic pink salon interior, glamorous mood, hair colour",
+   "woman getting a facial and haircut, soft rose gold tones",
+   "meri beauty parlour ke liye hair styling ki photo",
+   "बाल कटवाने और सँवारने वाला ब्यूटी पार्लर"
+  ],
+  "barber": [
+   "barber shaving a man's beard",
+   "barber shop chair and razor",
+   "vintage barbershop, dark wood, red leather chair, classic mood",
+   "man getting beard trim, moody warm lighting",
+   "meri barber shop ke liye dadhi aur shave ki photo",
+   "दाढ़ी बनाने और पुरुषों के बाल काटने की दुकान"
+  ],
+  "pet-clinic": [
+   "vet examining a dog",
+   "cat at the veterinary clinic",
+   "friendly animal hospital, puppy with stethoscope, soft teal calm mood",
+   "veterinarian checking a rabbit, bright caring atmosphere",
+   "mere pet clinic ke liye kutte ki photo",
+   "बीमार पालतू जानवरों का इलाज करने वाला अस्पताल"
+  ],
+  "saas": [
+   "analytics dashboard on a laptop screen",
+   "software dashboard with charts",
+   "sleek dark mode dashboard with glowing blue graphs, modern tech mood",
+   "clean purple gradient SaaS interface showing metrics and growth charts",
+   "mere software product ke liye dashboard ki picture",
+   "कंप्यूटर स्क्रीन पर चार्ट और आँकड़ों वाला सॉफ़्टवेयर"
+  ],
+  "mobile-app": [
+   "smartphone showing an app screen",
+   "mobile app development team coding",
+   "floating phones with colourful app interfaces, gradient background, modern mood",
+   "developer designing app screens on a phone mockup, bright teal",
+   "mujhe apni mobile app company ke liye picture chahiye",
+   "फ़ोन के लिए ऐप बनाने वाले डेवलपर्स"
+  ],
+  "ecommerce": [
+   "parcels and boxes with a laptop for online shopping",
+   "online store shopping cart on screen",
+   "colourful shopping bags and delivery boxes, cheerful online store mood",
+   "person ordering products on phone, orange cart icon, bright background",
+   "meri online store ke liye shopping parcel ki photo",
+   "घर बैठे ऑनलाइन सामान ऑर्डर करना और पार्सल आना"
+  ],
+  "digital-agency": [
+   "marketing team brainstorming at a table",
+   "creative agency office with designers",
+   "colourful social media icons and strategy board, energetic creative mood",
+   "digital marketing campaign on laptop, bold magenta and yellow",
+   "meri digital marketing agency ke liye team photo",
+   "कंपनियों का सोशल मीडिया और विज्ञापन संभालने वाली एजेंसी"
+  ],
+  "accounting-finance": [
+   "accountant with calculator and tax papers",
+   "financial documents and spreadsheet on a desk",
+   "professional finance office, navy blue and grey, trustworthy mood",
+   "chartered accountant reviewing balance sheets, calm neutral tones",
+   "meri CA firm ke liye tax filing ki photo",
+   "हिसाब किताब और इनकम टैक्स रिटर्न भरने वाला दफ़्तर"
+  ],
+  "law-firm": [
+   "lawyer with law books and gavel",
+   "advocate in a courtroom",
+   "serious law office, dark wood, golden scales of justice, formal mood",
+   "attorney signing legal contract, deep navy and gold",
+   "meri law firm ke liye vakeel ki photo",
+   "अदालत में मुकदमा लड़ने वाला वकील"
+  ],
+  "school": [
+   "classroom with students at desks",
+   "children in school uniform",
+   "bright cheerful classroom, colourful posters, happy kids learning",
+   "teacher at blackboard, warm sunlight, nostalgic school mood",
+   "mere school ke liye bachon ki classroom photo",
+   "बच्चे जहाँ रोज़ सुबह यूनिफ़ॉर्म पहनकर पढ़ने जाते हैं"
+  ],
+  "coaching-tuition": [
+   "students preparing for competitive exams",
+   "tuition class with teacher and whiteboard",
+   "focused students with notes and books, exam prep, calm blue study mood",
+   "coaching institute classroom, motivated teens, bright energetic colours",
+   "mere coaching institute ke liye exam preparation ki photo",
+   "JEE और NEET की तैयारी करने वाले विद्यार्थी"
+  ],
+  "real-estate": [
+   "houses for sale with a sold sign",
+   "modern apartment building exterior",
+   "luxury villa with pool at sunset, warm golden mood",
+   "handing over house keys, new home, bright cheerful",
+   "mere property dealer ke liye ghar ki photo",
+   "मकान और फ़्लैट बेचने खरीदने वाला प्रॉपर्टी का कारोबार"
+  ],
+  "interior-design": [
+   "stylish living room with sofa",
+   "interior designer with fabric swatches",
+   "cosy scandinavian living room, beige tones, soft natural light",
+   "luxury bedroom decor in deep green and gold, elegant mood",
+   "mere interior design studio ke liye drawing room ki photo",
+   "घर के अंदर की सजावट और फ़र्नीचर का डिज़ाइन"
+  ],
+  "construction": [
+   "construction workers on a building site",
+   "crane and concrete building under construction",
+   "yellow excavator at sunrise on a big building project, rugged mood",
+   "engineers with hard hats and blueprints, orange and grey",
+   "meri construction company ke liye building site ki photo",
+   "सीमेंट और ईंट से इमारत बनाने वाला ठेकेदार"
+  ],
+  "plumbing": [
+   "plumber fixing a pipe under the sink",
+   "wrench and copper pipes",
+   "plumber repairing a leaking tap, clean blue tones, reliable mood",
+   "bathroom pipe fitting with tools, bright and tidy",
+   "mere plumber business ke liye nal pipe ki photo",
+   "नल और पाइप की लीकेज ठीक करने वाला मिस्त्री"
+  ],
+  "electrician": [
+   "electrician working on wiring",
+   "electrical switch board with wires",
+   "electrician with voltmeter, bright yellow and black, safe professional mood",
+   "colourful cables and circuit breaker panel, dark background",
+   "mere electrician ke kaam ke liye wiring ki photo",
+   "बिजली के तार और स्विच बोर्ड ठीक करने वाला"
+  ],
+  "cleaning": [
+   "cleaner mopping a floor",
+   "housekeeping staff cleaning a room",
+   "sparkling clean kitchen with bright fresh light, lemon yellow accents",
+   "team in uniform with mops and spray bottles, fresh blue mood",
+   "meri safai service ke liye cleaning ki photo",
+   "घर और दफ़्तर में झाड़ू पोछा करने वाली सर्विस"
+  ],
+  "solar-energy": [
+   "solar panels on a rooftop",
+   "wind turbines and solar farm",
+   "blue solar panels under bright sun, clean green energy mood",
+   "engineer installing solar panel at golden sunset",
+   "meri solar company ke liye rooftop panel ki photo",
+   "सूरज की रोशनी से बिजली बनाने वाले पैनल"
+  ],
+  "agriculture-farm": [
+   "tractor ploughing a field",
+   "farmer in a wheat field",
+   "green crop rows under golden morning light, peaceful rural mood",
+   "red tractor in a lush farm, blue sky",
+   "meri kheti ke liye khet ki photo",
+   "किसान खेत में फसल उगाते और काटते हुए"
+  ],
+  "car-repair": [
+   "mechanic repairing a car engine",
+   "car garage with a lifted vehicle",
+   "dark workshop with tools, orange light, grease and grit mood",
+   "mechanic checking under the hood, blue overalls, bright garage",
+   "mere garage ke liye gaadi ki repair ki photo",
+   "ख़राब गाड़ी को ठीक करने वाला मैकेनिक"
+  ],
+  "car-wash": [
+   "car being washed with foam",
+   "car detailing and polishing",
+   "shiny black car covered in white foam, glossy blue water spray",
+   "glossy red car after detailing, sparkling clean mood",
+   "meri car wash center ke liye gaadi dhulai ki photo",
+   "गाड़ी की धुलाई और चमकाने वाली सर्विस"
+  ],
+  "car-showroom": [
+   "new cars in a dealership showroom",
+   "sports car on display in glass showroom",
+   "bright showroom with shiny white SUVs, premium modern mood",
+   "red luxury car under spotlight, elegant dark showroom",
+   "meri car showroom ke liye nayi gaadiyon ki photo",
+   "नई गाड़ियाँ बेचने वाला बड़ा शोरूम"
+  ],
+  "photography": [
+   "photographer holding a camera",
+   "photo studio with lights and backdrop",
+   "moody dark studio, softbox lighting, camera on tripod",
+   "photographer shooting portrait in golden hour, warm dreamy mood",
+   "meri photography ke liye camera ki photo",
+   "तस्वीरें खींचने वाला फ़ोटोग्राफ़र कैमरे के साथ"
+  ],
+  "wedding": [
+   "wedding mandap with flowers",
+   "indian wedding stage decoration",
+   "red and gold shaadi mandap, marigold garlands, festive royal mood",
+   "pastel floral wedding mandap by the lake at dusk",
+   "meri shaadi ki decoration ke liye mandap ki photo",
+   "शादी का मंडप फूलों और रोशनी से सजा हुआ"
+  ],
+  "event-party": [
+   "birthday party decoration with balloons",
+   "event planner setting up party tables",
+   "colourful balloons and streamers, cheerful celebration mood",
+   "gold and black party backdrop with confetti, glam night",
+   "meri event planning company ke liye birthday party ki photo",
+   "जन्मदिन की पार्टी में गुब्बारे और सजावट"
+  ],
+  "travel-agency": [
+   "tourists with suitcases at an airport",
+   "holiday tour package beach destination",
+   "tropical beach with turquoise water, relaxing holiday mood",
+   "passport, map and plane tickets on desk, adventurous orange tones",
+   "meri travel agency ke liye holiday tour ki photo",
+   "घूमने जाने के लिए टिकट और टूर पैकेज बुक करने वाला दफ़्तर"
+  ],
+  "logistics": [
+   "delivery truck at a warehouse",
+   "courier man delivering a parcel",
+   "busy warehouse with stacked boxes and forklift, orange and grey industrial mood",
+   "cargo trucks on highway at dusk, fast delivery",
+   "meri courier company ke liye godown ki photo",
+   "माल को एक शहर से दूसरे शहर पहुँचाने वाली ट्रांसपोर्ट कंपनी"
+  ],
+  "ayurveda": [
+   "ayurvedic clinic with herbs and oils",
+   "panchakarma treatment centre photo",
+   "calming green herbal remedies, warm wooden shelves of dried roots and medicinal oils",
+   "earthy golden light, copper vessels, ayurvedic massage with warm herbal oil",
+   "humare ayurvedic clinic ke liye jadi booti aur tel wali photo",
+   "आयुर्वेदिक वैद्य जड़ी बूटियों के साथ"
+  ],
+  "physio": [
+   "physiotherapy centre exercise rehab",
+   "physiotherapist helping patient with knee exercise",
+   "bright clean rehab room, soft blue tones, patient stretching with therapist guidance",
+   "energetic recovery mood, resistance bands, exercise balls and treatment beds",
+   "physio centre ke liye patient ki kasrat karwate hue image chahiye",
+   "therapist helping someone recover from back injury on a treatment bed"
+  ],
+  "skin-clinic": [
+   "dermatology clinic skin treatment",
+   "skin specialist doctor examining patient's face",
+   "glowing clear skin, soft pink and white, clean dermatology room with laser device",
+   "fresh minimal clinical look, acne treatment, close up of radiant cheek",
+   "skin clinic ke liye pimples aur glowing skin wali photo",
+   "चेहरे की त्वचा का इलाज करता त्वचा रोग विशेषज्ञ"
+  ],
+  "eye-clinic": [
+   "eye hospital ophthalmologist checking vision",
+   "cataract surgery eye clinic",
+   "calm trustworthy blue tones, eye specialist with slit lamp examining patient's eye",
+   "clear vision theme, close up of a healthy eye, clinical white and teal",
+   "aankhon ke hospital ke liye doctor jo aankh check kar raha ho",
+   "आँखों के डॉक्टर द्वारा नेत्र जाँच"
+  ],
+  "optical": [
+   "eyeglasses store with frames on display",
+   "optical shop spectacles wall",
+   "stylish frames on glossy shelves, modern warm lighting, customer trying sunglasses",
+   "chic boutique feel, rows of colourful spectacle frames, mirror and soft spotlights",
+   "chashme ki dukaan ke liye frames wali photo",
+   "चश्मे की दुकान पर फ्रेम चुनता ग्राहक"
+  ],
+  "mehendi": [
+   "mehendi artist applying henna on hands",
+   "bridal henna design",
+   "intricate dark henna patterns on hands, warm terracotta and festive gold",
+   "festive celebration mood, fresh mehndi cones and delicate floral hand designs",
+   "mehendi wali ke liye haathon par design ki photo",
+   "हाथों पर रची हुई मेंहदी"
+  ],
+  "tattoo": [
+   "tattoo studio artist inking client",
+   "custom tattoo designs on arm",
+   "dark moody studio, neon red light, tattoo machine and bold black ink",
+   "edgy underground vibe, detailed sleeve artwork, gritty and raw",
+   "tattoo parlour ke liye hath par ink karte artist ki photo",
+   "बाजू पर गोदना बनाता कलाकार"
+  ],
+  "petshop": [
+   "pet shop with dog food and accessories",
+   "puppies and kittens in pet store",
+   "playful cheerful colours, happy dog with toys, leashes and bowls on shelves",
+   "cosy friendly mood, cat treats, fish tank and cute bird cages",
+   "kutte billi ke saman ki dukaan ke liye photo",
+   "पालतू जानवरों का सामान और खाना"
+  ],
+  "architect": [
+   "architecture studio for buildings",
+   "architect reviewing building blueprints",
+   "clean minimalist concrete and glass, sunlit modern building facade, neutral greys",
+   "creative studio mood, scale models on table, drafting sketches and warm lamp light",
+   "architect firm ke liye building ke naksha aur model wali image",
+   "इमारतों के नक्शे और मॉडल बनाने वाला दफ्तर"
+  ],
+  "insurance": [
+   "insurance advisor with family policy",
+   "life insurance and financial planning",
+   "trustworthy navy and gold, advisor explaining protection plan to happy family",
+   "secure reassuring mood, umbrella over family icons, calm professional office",
+   "bima salahkar ke liye family suraksha wali photo",
+   "परिवार की सुरक्षा के लिए बीमा सलाहकार"
+  ],
+  "consulting": [
+   "business consulting firm team meeting",
+   "management consultants presenting strategy",
+   "sharp corporate look, deep blue, consultants around boardroom table with charts",
+   "confident professional mood, whiteboard strategy session, glass office and city skyline",
+   "business consultancy ke liye strategy meeting ki photo",
+   "कंपनी को रणनीति बताते सलाहकारों की बैठक"
+  ],
+  "recruitment": [
+   "recruitment agency interviewing candidates",
+   "staffing agency hiring new employees",
+   "friendly professional mood, handshake after interview, resumes on desk, teal and white",
+   "bright office, HR manager meeting job seeker, hiring talent theme",
+   "naukri dilane wali placement agency ke liye interview ki photo",
+   "नौकरी चाहने वालों का साक्षात्कार लेता भर्ती अधिकारी"
+  ],
+  "coworking": [
+   "coworking space with desks and laptops",
+   "shared office space for freelancers",
+   "airy open plan, plants and warm wood, people working on laptops, creative buzz",
+   "modern startup vibe, hot desks, bright natural light and cosy lounge corner",
+   "coworking space ke liye shared desk wali office ki photo",
+   "फ्रीलांसरों और स्टार्टअप के लिए साझा दफ्तर"
+  ],
+  "astrology": [
+   "astrologer reading horoscope",
+   "tarot card reading session",
+   "mystical deep purple and gold, zodiac wheel, candles and star charts",
+   "spiritual night sky mood, crystal ball, glowing constellations and tarot spread",
+   "jyotish ji ki kundli aur rashifal wali photo",
+   "कुंडली देखकर भविष्य बताते ज्योतिषी"
+  ],
+  "visa": [
+   "visa and immigration consultancy",
+   "passport and visa documents for abroad",
+   "hopeful immigration mood, passport with approval stamp, world map, sky blue",
+   "overseas dream, student moving abroad, visa approved stamp, clean modern",
+   "visa consultant ke liye passport aur immigration wali image",
+   "विदेश जाने के लिए पासपोर्ट और वीज़ा के कागज़ात"
+  ],
+  "ngo": [
+   "NGO helping poor children",
+   "charity volunteers distributing food",
+   "warm hopeful mood, volunteers with smiling village kids, soft golden hour",
+   "compassionate humanitarian feel, donation drive, hands giving and community support",
+   "ngo ke liye gareeb bachon ki madad karte volunteers ki photo",
+   "ज़रूरतमंदों की सेवा करते समाजसेवी"
+  ],
+  "painting": [
+   "house painting service",
+   "painter painting wall with roller",
+   "fresh colourful walls, bright yellow and teal, painter on ladder, tidy finish",
+   "clean makeover mood, new coat of paint on living room, paint cans and brushes",
+   "ghar ki painting karne wale painter ki photo",
+   "घर की दीवारों पर रंग रोगन करता कारीगर"
+  ],
+  "carpentry": [
+   "carpentry and woodwork workshop",
+   "modular kitchen installation",
+   "warm wood grain, workshop with sawdust, craftsman planing a teak board",
+   "sleek modern kitchen cabinets in matte white, tidy and functional, soft light",
+   "carpenter ka kaam aur modular kitchen ki photo",
+   "लकड़ी का काम करता बढ़ई"
+  ],
+  "ac-repair": [
+   "AC repair technician",
+   "fridge and washing machine repair service",
+   "summer cooling relief, technician servicing split AC on wall, blue and white",
+   "reliable home service mood, repairman with toolkit fixing air conditioner",
+   "AC theek karne wale mistri ki photo",
+   "घर पर आकर एसी और फ्रिज ठीक करने वाला कारीगर"
+  ],
+  "movers": [
+   "packers and movers",
+   "moving boxes loaded into truck",
+   "smooth relocation mood, stacked cardboard boxes, orange and blue, careful team lifting",
+   "stress free house shifting, movers carrying sofa, tidy packed home",
+   "ghar shift karne ke liye packers movers ki photo",
+   "सामान पैक करके नए घर पहुँचाने वाली टीम"
+  ],
+  "landscape": [
+   "garden and lawn care service",
+   "gardener mowing lawn",
+   "lush green lawn, manicured hedges, golden sunlight, peaceful backyard garden",
+   "fresh outdoor mood, neat flower beds and stone pathway, landscaping design",
+   "bagicha aur ghaas ki dekhbhal karne wale mali ki photo",
+   "घर के बगीचे में पौधे और हरी घास की देखरेख"
+  ],
+  "welding": [
+   "welder fabricating steel",
+   "metal fabrication workshop",
+   "bright orange sparks flying, welding mask, dark industrial workshop, strong steel",
+   "heavy duty mood, steel gates and grills being welded, glowing seams",
+   "welding aur fabrication ki workshop, lohe ka kaam",
+   "चिंगारियाँ उड़ाते हुए लोहे को जोड़ता कारीगर"
+  ],
+  "tyres": [
+   "tyre shop and car accessories",
+   "car tyres and alloy wheels on display",
+   "bold black and red, stacked tyres in garage, rugged automotive look",
+   "fast service feel, wheel alignment machine, shiny rims and car accessories",
+   "gaadi ke tyre aur accessories ki dukaan ki photo",
+   "गाड़ियों के पहिए और टायर बदलने की दुकान"
+  ],
+  "security": [
+   "CCTV camera installation",
+   "security systems for home and office",
+   "dark blue night mood, dome camera watching building entrance, safe and alert",
+   "high tech surveillance, monitors showing camera feeds, secure and professional",
+   "CCTV camera lagane wali company ki photo",
+   "घर और दुकान की निगरानी के लिए सुरक्षा कैमरे"
+  ],
+  "fashion-boutique": [
+   "western wear boutique",
+   "women's dresses on clothing rack",
+   "chic and trendy, pastel dresses on hangers, bright airy boutique with mannequins",
+   "stylish editorial mood, model in modern outfit, neutral beige and soft pink",
+   "ladies western kapde ke boutique ke liye dress wali photo",
+   "आधुनिक पश्चिमी पोशाक पहने मॉडल"
+  ],
+  "furniture": [
+   "furniture showroom with sofas",
+   "sofa set and bed display",
+   "elegant living room showroom, plush grey sofa, warm lamps, cosy and upscale",
+   "contemporary home furnishings, wooden dining table and chairs, bright airy display",
+   "furniture ki dukaan mein sofa aur almirah dikhane wali photo",
+   "घर के लिए सोफ़ा, पलंग और मेज़ कुर्सी का शोरूम"
+  ],
+  "mobile-store": [
+   "mobile phone shop",
+   "smartphones and accessories on shelves",
+   "sleek tech look, latest smartphones glowing on display, dark background with blue accents",
+   "modern electronics store, bright neon price tags, phones and earbuds",
+   "mobile ki dukaan ke liye naye smartphone wali photo",
+   "नए फोन और चार्जर बेचने वाली दुकान"
+  ],
+  "printing": [
+   "printing press shop",
+   "flex banner and poster printing shop",
+   "vibrant CMYK colours, large format printer producing glossy banner, busy workshop",
+   "bold colourful prints, stacks of brochures and visiting cards, ink rollers",
+   "flex banner aur visiting card chhapne wali press ki photo",
+   "छपाई मशीन से निकलते हुए रंगीन पोस्टर"
+  ],
+  "tailor": [
+   "tailor stitching clothes",
+   "clothing alterations shop",
+   "warm workshop light, sewing machine and colourful threads, tape measure on fabric",
+   "traditional craft feel, tailor measuring a customer for a custom suit",
+   "darzi ki dukaan, kapde silai aur alteration ki photo",
+   "सिलाई मशीन पर कपड़े सिलता दर्जी"
+  ],
+  "bike-showroom": [
+   "motorcycle showroom with new bikes",
+   "two wheeler dealership",
+   "bold powerful look, sport bikes lined up, glossy red and black, dramatic spotlights",
+   "adventurous mood, cruiser motorcycle on open road at sunset",
+   "bike showroom ke liye naye motorcycle ki photo",
+   "नई चमचमाती दुपहिया गाड़ियाँ बिक्री के लिए"
+  ],
+  "pottery": [
+   "pottery studio with clay",
+   "ceramic mugs and clay pots",
+   "earthy terracotta tones, hands shaping wet clay on potter's wheel, handmade charm",
+   "cosy artisan mood, glazed ceramic bowls on wooden shelf, soft natural light",
+   "kumhar ki tarah mitti ke bartan banane wali studio ki photo",
+   "चाक पर मिट्टी के घड़े बनाता कुम्हार"
+  ],
+  "design-studio": [
+   "graphic design studio",
+   "brand identity and logo design",
+   "creative colourful desk, designer working on logo, color swatches and sketchbook",
+   "modern bold branding mood, mockups of packaging and stationery, vibrant gradients",
+   "logo aur branding karne wale design studio ki image",
+   "रचनात्मक डिज़ाइनर कंप्यूटर पर लोगो बनाता हुआ"
+  ],
+  "playschool": [
+   "play school with kids",
+   "daycare for toddlers",
+   "cheerful rainbow colours, toddlers playing with blocks in bright classroom, safe and fun",
+   "warm nurturing mood, kindergarten children painting, soft toys and cartoon wall",
+   "chhote bachchon ke play school ki photo",
+   "नन्हे बच्चों की देखभाल और खेल का केंद्र"
+  ],
+  "driving-school": [
+   "driving school with instructor",
+   "learning to drive car",
+   "confident learner mood, L-sign car on open road, bright sky and steady hands on wheel",
+   "friendly instructor beside student in dual control car, clear road, green and white",
+   "driving school ke liye gaadi sikhane wali photo",
+   "गाड़ी चलाना सिखाने वाला प्रशिक्षक और नया चालक"
+  ],
+  "music-academy": [
+   "music academy for students",
+   "dance classes for kids",
+   "expressive stage lighting, guitar and tabla, students rehearsing, rich warm tones",
+   "lively rhythmic mood, classical dancers in colourful costume, piano keys",
+   "music aur dance seekhne wali academy ki photo",
+   "सुर ताल सिखाने वाला संगीत विद्यालय"
+  ],
+  "sports-academy": [
+   "cricket academy coaching",
+   "football and badminton training academy",
+   "energetic sunny ground, young cricketers practising batting, green and blue",
+   "athletic determination, players on football field at dusk, dynamic action",
+   "cricket aur badminton sikhane wali sports academy ki photo",
+   "मैदान में खेल का अभ्यास करते युवा खिलाड़ी"
+  ],
+  "robotics-lab": [
+   "robotics lab for kids",
+   "STEM lab with robots",
+   "futuristic techy blue, children building small robot, circuit boards and screens",
+   "curious inventive mood, students coding robot arm, colourful kits on table",
+   "bachchon ke liye robotics lab ki photo",
+   "बच्चे रोबोट बनाना और कोडिंग सीखते हुए"
+  ],
+  "hotel": [
+   "hotel room with bed",
+   "resort with swimming pool",
+   "luxurious warm lighting, plush bed, welcoming lobby, calm cream and gold",
+   "relaxing getaway mood, guest house balcony view of hills, morning light",
+   "hotel ya guest house ke kamre ki photo",
+   "रुकने के लिए आरामदायक कमरे और रिसॉर्ट"
+  ],
+  "taxi": [
+   "taxi service in city",
+   "car rental with driver",
+   "reliable city ride, yellow cab at night, glowing streets, safe and quick",
+   "comfortable travel mood, chauffeur opening sedan door, airport pickup",
+   "cab booking aur gaadi kiraye par dene ki photo",
+   "किराये की गाड़ी और ड्राइवर की सेवा"
+  ],
+  "gaming-zone": [
+   "gaming zone for friends",
+   "esports cafe with gaming PCs",
+   "neon purple and blue glow, gamers with headsets, rows of RGB monitors",
+   "intense competitive mood, tournament screens, VR headsets and controllers, dark room",
+   "gaming cafe mein PC aur PlayStation khelte ladko ki photo",
+   "कंप्यूटर और कंसोल पर वीडियो गेम खेलते दोस्त"
+  ],
+  "restaurant": [
+   "family restaurant dining",
+   "fine dining restaurant interior",
+   "elegant candle lit tables, warm golden ambience, plated gourmet dishes",
+   "cosy upscale dining mood, families sharing multi cuisine meal, soft lighting",
+   "family restaurant ke liye khana aur table setting wali photo",
+   "परिवार के साथ बैठकर शानदार भोजन का आनंद"
+  ],
+  "south-indian": [
+   "South Indian restaurant dosa",
+   "idli sambar breakfast",
+   "crispy golden dosa with coconut chutney on banana leaf, warm earthy tones",
+   "traditional filter coffee and steaming idlis, rustic brass tumblers",
+   "dosa idli wale restaurant ke liye photo",
+   "केले के पत्ते पर परोसा गया सांभर, इडली और डोसा"
+  ],
+  "chinese-restaurant": [
+   "Chinese restaurant food",
+   "Indo-Chinese noodles and manchurian",
+   "fiery red and gold, steaming wok with noodles, lanterns, bold flavours",
+   "sizzling stir fry mood, hakka noodles and fried rice, chopsticks, dark moody",
+   "chinese khane ki dukaan ke liye noodles aur manchurian ki photo",
+   "कड़ाही में तले हुए नूडल्स और मंचूरियन"
+  ],
+  "street-food": [
+   "street food stall",
+   "chaat and golgappa vendor",
+   "vibrant bustling evening, spicy pani puri, colourful street cart, steam and bright bulbs",
+   "lively local market vibe, tangy chaat plates, tikki frying on tawa",
+   "chaat wale thele ki golgappe aur tikki ki photo",
+   "सड़क किनारे ठेले पर चटपटे गोलगप्पे"
+  ],
+  "bar-lounge": [
+   "cocktail bar interior",
+   "bar and lounge nightlife",
+   "dim moody lighting, bartender pouring colourful cocktails, neon and amber glow",
+   "classy evening vibe, leather lounge seats, whisky glasses and bottles on backlit shelf",
+   "bar lounge ke liye cocktails aur night party wali photo",
+   "रात में रोशनी वाले लाउंज में जाम और कॉकटेल"
+  ],
+  "catering": [
+   "catering service for events",
+   "buffet food for events",
+   "lavish buffet spread, silver chafing dishes, warm lights, uniformed staff serving guests",
+   "festive celebration feel, platters of appetizers and desserts, elegant arrangement",
+   "catering wale ke liye event ke buffet khane ki photo",
+   "बड़ी दावत के लिए बड़े पैमाने पर खाना बनाने वाले रसोइये"
+  ],
+  "tent-house": [
+   "tent house rental",
+   "event rentals tents chairs and stage",
+   "grand white draped canopy, fairy lights, rows of chairs, festive outdoor setup",
+   "colourful shamiana, decorated mandap and stage lights, big celebration setup",
+   "tent house ke liye shamiyana aur kursi table ki photo",
+   "समारोह के लिए किराये पर मिलने वाले पंडाल और कुर्सियाँ"
+  ],
+  "pest-control": [
+   "shield and house",
+   "Water tank fogging (pest control)",
+   "Technician at work (pest control)",
+   "Mosquito Control: Fogging and larvae treatment around drains, gardens and water tanks before the rainy season",
+   "Pre Construction Treatment: Soil treatment before the floor is laid, so your new building is protected from termites early"
+  ],
+  "laundry": [
+   "clothes and shirts",
+   "Quilt washing (laundry and dry cleaning)",
+   "Ready for delivery (laundry and dry cleaning)",
+   "Curtains And Bedding: Heavy quilts, blankets, bedsheets and curtains washed in large machines and dried fully",
+   "Shoe And Bag Cleaning: Sneakers and leather bags cleaned and freshened, with stain treatment where needed"
+  ],
+  "water-purifier": [
+   "wrench and tap",
+   "Tank cleaning (water purifier service)",
+   "Wall mounted RO (water purifier service)",
+   "Leak And Low Flow Repair: Fixing leaking tubes, weak pumps, faulty valves and low water flow from the tap",
+   "Annual Service Plan: Scheduled visits with filter changes and cleaning at a fixed price for the whole year"
+  ],
+  "car-rental": [
+   "cars on a road",
+   "Clean interior (car rental)",
+   "Ready for pickup (car rental)",
+   "Monthly And Corporate Hire: Dedicated cars for companies and long-stay visitors, billed monthly with one fixed rate",
+   "Outstation Tours: Round-trip and one-way trips to hill stations and temples, with route advice and toll details"
+  ],
+  "mobile-repair": [
+   "repair workshop with a phone",
+   "Charging port fix (mobile phone repair)",
+   "Tested and ready (mobile phone repair)",
+   "Software And Data Help: Hang, boot loop, update trouble and data backup or recovery wherever it is possible",
+   "Speaker, Mic And Camera Fix: Replacing faulty speakers, microphones and camera modules so calls and photos work again"
+  ],
+  "bike-garage": [
+   "mechanic with a bicycle",
+   "Scooter service (bike and scooter garage)",
+   "Washed and ready (bike and scooter garage)",
+   "Electrical And Battery: Self start, lights, horn, wiring faults and battery testing or replacement",
+   "Scooter Care: CVT, belt, variator and brake service for scooters, plus carburettor or injector cleaning"
+  ],
+  "cloud-kitchen": [
+   "delivery van with food",
+   "Rider handover (cloud kitchen)",
+   "Dessert cups ready (cloud kitchen)",
+   "Multiple Brands, One Kitchen: Choose north Indian, biryani, rolls or healthy bowls from separate menus cooked in the same facility",
+   "Live Order Tracking: Get message updates when your food is being cooked, packed and handed to the rider"
+  ],
+  "tiffin-service": [
+   "chef and a delivery van",
+   "Packed for delivery (tiffin service)",
+   "Sunday special thali (tiffin service)",
+   "Steel Dabba Delivery: Food arrives in a clean steel tiffin and we collect the empty one on the next delivery",
+   "Pause And Resume Easily: Going home for a week? Tell us a day ahead and we skip the delivery without any fuss"
+  ],
+  "gift-shop": [
+   "gift box shop",
+   "Festival gift table (gift shop)",
+   "Handwritten card corner (gift shop)",
+   "Wedding And Anniversary Gifts: Couple frames, decor pieces and silver-look gift items packed in elegant boxes",
+   "Gift Wrapping And Cards: Choose a wrapping theme, add a card and ribbon, and we pack it so it is ready to hand over"
+  ],
+  "loan-finance": [
+   "loan documents and coins",
+   "Property paper check (loan and finance agent)",
+   "Client meeting (loan and finance agent)",
+   "Vehicle Loans: New and used car or two-wheeler finance with down payment and EMI options set out clearly",
+   "Credit Report Guidance: Reading your credit report together and noting entries that may need correction before applying"
+  ],
+  "diagnostic-lab": [
+   "hospital with a medical cross",
+   "Home collection kit (diagnostic lab)",
+   "Microscope station (diagnostic lab)",
+   "Urine And Stool Tests: Routine and culture tests with clear collection instructions and labelled containers",
+   "Report Delivery: Reports sent by WhatsApp or email and printed on request, with reference ranges shown"
+  ],
+  "counselling": [
+   "calm green plants and lotus",
+   "Online session setup (counselling and therapy practice)",
+   "Calming corner (counselling and therapy practice)",
+   "Family Sessions: A guided space for families to talk through changes, caregiving strain and misunderstandings",
+   "Online Sessions: Secure video sessions for people who prefer privacy at home or live in another city"
+  ],
+  "notary-documents": [
+   "document and pencil",
+   "Document filing (notary and documentation service)",
+   "Signing desk (notary and documentation service)",
+   "Name Change Papers: Affidavit and publication steps explained for name change in records and certificates",
+   "Power Of Attorney: General and special power of attorney drafts prepared for you to review before execution"
+  ],
+  "drone-photography": [
+   "city skyline at sunset",
+   "Festival crowd (drone photography)",
+   "Resort at dusk (drone photography)",
+   "Inspection And Survey Shots: Rooftops, towers and large solar plants checked from the air, with close images of problem areas",
+   "Editing And Delivery: Footage is colour graded, trimmed with music if you want it, and delivered as reel, full video and raw photos"
+  ],
+  "dj-sound": [
+   "wedding celebration with music",
+   "Lawn sound setup (wedding dj and sound)",
+   "Cold spark finale (wedding dj and sound)",
+   "Mics And Stage Audio: Wireless handhelds and lapel mics for speeches, anchors and live singers, tested before the first guest arrives",
+   "Corporate And Birthday Gigs: Smaller setups for office parties, birthdays and house parties, with a DJ who keeps the volume friendly"
+  ],
+  "bridal-makeup": [
+   "salon with scissors and comb",
+   "Bridal hairstyle (bridal makeup)",
+   "Mehendi day look (bridal makeup)",
+   "Family And Guest Makeup: Mother, sisters and bridesmaids can book the same artist team, so everyone is ready on schedule",
+   "Skin Prep And Touch-Up Kit: Skin is prepped with suitable products for your type, and you get a small kit for lips and shine control"
+  ],
+  "video-editing": [
+   "camera and laptop",
+   "Podcast clips (video editing studio)",
+   "Motion title intro (video editing studio)",
+   "Colour And Sound Cleanup: Skin tones corrected, shots matched and background noise reduced so voices stay clear",
+   "Motion Graphics And Intros: Logo animations, animated titles and simple explainer graphics designed in your brand colours"
+  ],
+  "funeral-services": [
+   "moon with stars over mountains",
+   "Seating for family (funeral services)",
+   "Cremation ground (funeral services)",
+   "Documents And Certificates: We guide you on the death certificate, municipal records and other papers the family will need later",
+   "Ashes And Final Rites: Collection of ashes and arrangements for immersion or later rituals can be planned with your family"
+  ],
+  "scrap-recycling": [
+   "factory with a truck",
+   "Loaded pickup truck (scrap and recycling)",
+   "Mixed plastic bales (scrap and recycling)",
+   "Bulk And Industrial Scrap: Factory offcuts, machinery, drums and demolition metal cleared with a truck and a loading crew",
+   "Home And Office Clearance: Old furniture, appliances and storeroom junk removed in one visit, with usable items priced fairly"
+  ],
+  "farm-stay": [
+   "cottage with grass and flowers on a sunny day",
+   "Bonfire evening (farm stay and homestay)",
+   "Cosy farm room (farm stay and homestay)",
+   "Village Walks And Cycling: Guided walks to ponds, temples and local markets, with cycles available for the shorter routes",
+   "Family And Group Stays: Larger groups, kids and grandparents can stay together with extra beds and flexible meal timings"
+  ],
+  "pg-hostel": [
+   "student room with a bed and a chair",
+   "Laundry area (pg and hostel)",
+   "Gated entrance (pg and hostel)",
+   "Laundry And Housekeeping: Rooms are cleaned regularly and washing machines are available in a separate, tidy laundry area",
+   "Study And Common Areas: Quiet study room, TV lounge and a water purifier on each floor, with dining space for residents"
+  ],
+  "temple": [
+   "mandala in orange and gold",
+   "Diya lighting (temple trust)",
+   "Evening bhajan (temple trust)",
+   "Dharamshala Stay: Simple, clean rooms for pilgrims and visiting families, booked ahead on a donation basis",
+   "Donations And Seva: Contribute towards temple upkeep, annadaan or education seva, with a receipt for every offering"
+  ],
+  "nutritionist": [
+   "hospital building with a doctor",
+   "Portion guide (dietitian and nutritionist)",
+   "Consultation desk (dietitian and nutritionist)",
+   "Sports And Muscle Nutrition: Protein and energy planning for people who train, based on your schedule and diet preferences",
+   "Weekly Follow Ups: Regular check ins to review your progress and adjust meals when life gets in the way"
+  ],
+  "banquet-hall": [
+   "mandala in red and gold",
+   "Entrance gate (banquet hall and venue)",
+   "Dining area (banquet hall and venue)",
+   "Parking And Power Backup: Parking space for guests and generator support so the function does not stop",
+   "Kitchen And Dining Area: A kitchen space and dining hall for your own caterer, or tie-ups we can introduce"
+  ],
+  "animal-welfare": [
+   "tree and sunrise over a green field",
+   "Recovery ward (animal welfare and rescue)",
+   "Volunteer walk (animal welfare and rescue)",
+   "Adoption: Healthy, vaccinated animals matched with families who are ready for them",
+   "Volunteer Walks: Weekend shifts for walking, cleaning and caring for animals in the shelter"
+  ],
+  "chai-stall": [
+   "coffee shop",
+   "Takeaway cups (chai stall)",
+   "Evening crowd (chai stall)",
+   "Cold Coffee And Lemon Tea: Cold coffee and lemon tea for hot afternoons when chai feels heavy",
+   "Takeaway Cups: Your chai to go in a sturdy cup that will not leak on the way"
+  ]
+ },
+ "off_niche": [
+  "scuba diving school underwater coral reef",
+  "hot air balloons floating over green valleys",
+  "blacksmith forging a glowing sword",
+  "ski resort with snowy slopes and chairlift",
+  "pirate ship sailing in a stormy sea",
+  "rocket launching from a space station at night",
+  "floodlit cricket stadium during a match",
+  "bowling alley with neon lights",
+  "casino poker table with chips",
+  "skateboard park with graffiti walls",
+  "fishing boat on a misty lake at dawn",
+  "circus tent with acrobats and clowns",
+  "robot arm in a futuristic laboratory",
+  "bird watching in a dense rainforest",
+  "meri paragliding company ke liye pahaadon ki picture",
+  "vintage vinyl record shop with turntables",
+  "lighthouse on a rocky cliff in a storm",
+  "submarine exploring deep under the sea",
+  "astronomy observatory with big telescope at night",
+  "chess tournament players at boards",
+  "ski resort snowy mountain slopes",
+  "old pirate ship sailing stormy seas",
+  "rocket launching into space",
+  "lighthouse on rocky coast at sunset",
+  "ballet dancers rehearsing in studio",
+  "bowling alley with strikes, neon lanes",
+  "beekeeper checking honey frames in hives",
+  "falconry display with hawk on gloved hand",
+  "glass blowing artisan with molten glass",
+  "skatepark with skaters doing tricks",
+  "hot air balloons floating over valley",
+  "scuba diving school coral reef",
+  "archery range target practice",
+  "ice skating rink family evening",
+  "dinosaur museum with fossil skeletons",
+  "ghode ki sawari wali horse riding stable ki photo"
+ ]
+}

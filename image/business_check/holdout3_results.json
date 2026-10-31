@@ -1,0 +1,496 @@
+[
+ {
+  "n": 1,
+  "prompt": "fire station with fire truck and firefighters",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "firetruck",
+   "firefighter",
+   "hydrant",
+   "firetruck",
+   "firefighter"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 2,
+  "prompt": "ambulance rushing to hospital",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "ambulance",
+   "hospital"
+  ],
+  "ignored": [
+   "rushing"
+  ],
+  "texts": []
+ },
+ {
+  "n": 3,
+  "prompt": "police patrol car on the road",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "policecar",
+   "road"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 4,
+  "prompt": "fire safety training extinguisher",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "extinguisher",
+   "extinguisher"
+  ],
+  "ignored": [
+   "training"
+  ],
+  "texts": []
+ },
+ {
+  "n": 5,
+  "prompt": "dentist clinic with a happy tooth",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "dentist",
+   "hospital",
+   "tooth"
+  ],
+  "ignored": [
+   "happy"
+  ],
+  "texts": []
+ },
+ {
+  "n": 6,
+  "prompt": "dental chair and toothbrush",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "dentalchair",
+   "toothbrush"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 7,
+  "prompt": "pharmacy pills and syringe",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "pills",
+   "syringe",
+   "medicalcross",
+   "pills",
+   "syringe"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 8,
+  "prompt": "doctor with stethoscope and thermometer",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "doctor",
+   "stethoscope",
+   "thermometer"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 9,
+  "prompt": "ski resort with a skier on the mountain",
+  "mode": "landscape",
+  "time": null,
+  "flags": [
+   "snow"
+  ],
+  "recognised": [
+   "skier",
+   "snowboard",
+   "ski",
+   "skier",
+   "mountain"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 10,
+  "prompt": "ice skating rink with a skater",
+  "mode": "landscape",
+  "time": null,
+  "flags": [
+   "snow"
+  ],
+  "recognised": [
+   "skater",
+   "iceskate",
+   "skater"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 11,
+  "prompt": "snowman in winter",
+  "mode": "landscape",
+  "time": null,
+  "flags": [
+   "snow"
+  ],
+  "recognised": [
+   "snowman"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 12,
+  "prompt": "snowboard shop",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "snowboard",
+   "shop"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 13,
+  "prompt": "ice hockey match",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "hockey"
+  ],
+  "ignored": [
+   "match"
+  ],
+  "texts": []
+ },
+ {
+  "n": 14,
+  "prompt": "sledding on a snowy hill",
+  "mode": "landscape",
+  "time": null,
+  "flags": [
+   "snow"
+  ],
+  "recognised": [
+   "sled",
+   "hill"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 15,
+  "prompt": "tea shop sign \"\u091a\u093e\u092f \u0915\u0940 \u0926\u0941\u0915\u093e\u0928\"",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "cafe"
+  ],
+  "ignored": [
+   "sign"
+  ],
+  "texts": [
+   "\u091a\u093e\u092f \u0915\u0940 \u0926\u0941\u0915\u093e\u0928"
+  ]
+ },
+ {
+  "n": 16,
+  "prompt": "poster \"\u0938\u094d\u0935\u093e\u0917\u0924 \u0939\u0948\" welcome",
+  "mode": "abstract",
+  "time": null,
+  "flags": [],
+  "recognised": [],
+  "ignored": [
+   "poster",
+   "welcome"
+  ],
+  "texts": [
+   "\u0938\u094d\u0935\u093e\u0917\u0924 \u0939\u0948"
+  ]
+ },
+ {
+  "n": 17,
+  "prompt": "banner \"\u0928\u092e\u0938\u094d\u0924\u0947\" with flowers",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "flower"
+  ],
+  "ignored": [
+   "banner"
+  ],
+  "texts": [
+   "\u0928\u092e\u0938\u094d\u0924\u0947"
+  ]
+ },
+ {
+  "n": 18,
+  "prompt": "sale poster \"\u0938\u0947\u0932\" \"50% \u091b\u0942\u091f\"",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "tag"
+  ],
+  "ignored": [
+   "poster"
+  ],
+  "texts": [
+   "\u0938\u0947\u0932",
+   "50% \u091b\u0942\u091f"
+  ]
+ },
+ {
+  "n": 19,
+  "prompt": "chinese restaurant sign \"\u6b22\u8fce\u5149\u4e34\"",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "restaurant"
+  ],
+  "ignored": [
+   "chinese",
+   "sign"
+  ],
+  "texts": [
+   "\u6b22\u8fce"
+  ]
+ },
+ {
+  "n": 20,
+  "prompt": "tea shop \"\u8336\" sign",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "cafe"
+  ],
+  "ignored": [
+   "sign"
+  ],
+  "texts": [
+   "\u8336"
+  ]
+ },
+ {
+  "n": 21,
+  "prompt": "poster \"\u7279\u4ef7\" red background",
+  "mode": "abstract",
+  "time": null,
+  "flags": [],
+  "recognised": [],
+  "ignored": [
+   "poster"
+  ],
+  "texts": [
+   "\u7279"
+  ]
+ },
+ {
+  "n": 22,
+  "prompt": "coffee shop \"\u5496\u5561 COFFEE\"",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "cafe"
+  ],
+  "ignored": [],
+  "texts": [
+   "\u5496\u5561 COFFEE"
+  ]
+ },
+ {
+  "n": 23,
+  "prompt": "car mechanic garage with tools",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "car",
+   "wrench",
+   "gear",
+   "toolbox",
+   "screwdriver",
+   "toolbox",
+   "wrench",
+   "hammer",
+   "screwdriver",
+   "drill"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 24,
+  "prompt": "farm with tractor cows and sheep",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "tractor",
+   "cow",
+   "sheep",
+   "tractor",
+   "cow",
+   "sheep"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 25,
+  "prompt": "construction workers with crane and excavator",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "crane",
+   "excavator",
+   "worker",
+   "hardhat",
+   "team",
+   "crane",
+   "excavator"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 26,
+  "prompt": "online shop with phone laptop and shopping cart",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "monitor",
+   "laptop",
+   "shop",
+   "phone",
+   "laptop",
+   "cart"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 27,
+  "prompt": "school with students books and playground",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "student",
+   "book",
+   "swing",
+   "slide",
+   "seesaw",
+   "child"
+  ],
+  "ignored": [
+   "school"
+  ],
+  "texts": []
+ },
+ {
+  "n": 28,
+  "prompt": "hospital with doctor nurse and ambulance",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "hospital",
+   "doctor",
+   "doctor",
+   "ambulance"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 29,
+  "prompt": "submarine under the sea",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "sea"
+  ],
+  "ignored": [
+   "submarine"
+  ],
+  "texts": []
+ },
+ {
+  "n": 30,
+  "prompt": "astronaut on the moon",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "moon"
+  ],
+  "ignored": [
+   "astronaut"
+  ],
+  "texts": []
+ },
+ {
+  "n": 31,
+  "prompt": "pizza delivery scooter",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "pizza",
+   "truck",
+   "bicycle"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 32,
+  "prompt": "robot",
+  "mode": "abstract",
+  "time": null,
+  "flags": [],
+  "recognised": [],
+  "ignored": [
+   "robot"
+  ],
+  "texts": []
+ }
+]

@@ -1,0 +1,181 @@
+{
+  "brand": "Wellspring Bridal Artist",
+  "niche": "care",
+  "kind": "beauty",
+  "profile": "",
+  "business_type": "mehendi",
+  "type_label": "Mehendi & Bridal Artist",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "playful",
+  "keywords": [
+    "mehendi",
+    "jaipur"
+  ],
+  "eyebrow": "Mehendi & Bridal Artist · Jaipur",
+  "location": "Jaipur",
+  "audience": "",
+  "hero_heading": "Mehendi & Bridal Artist in Jaipur",
+  "tagline": "No two appointments are the same.",
+  "about_title": "About us",
+  "about": [
+    "No pressure; ask whatever you like.",
+    "You will find us in Jaipur. Send a short message and we will take it from there."
+  ],
+  "features_title": "Services",
+  "features": [
+    {
+      "title": "Patterns",
+      "text": "Curious about Patterns? Feel free to ask us anything."
+    },
+    {
+      "title": "Designs",
+      "text": "We will explain Designs in plain words."
+    },
+    {
+      "title": "Party-looks",
+      "text": "Ask what to expect from Party-looks before you book."
+    },
+    {
+      "title": "Hairstyles",
+      "text": "Booking Hairstyles? Bring a photo of what you have in mind."
+    },
+    {
+      "title": "Bridal-looks",
+      "text": "Bridal-looks is planned around you, not a template."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "No hard sell",
+      "text": "Take your time."
+    },
+    {
+      "title": "Unhurried",
+      "text": "Time for the details."
+    },
+    {
+      "title": "Bring your ideas",
+      "text": "Photos welcome."
+    }
+  ],
+  "stats_title": "In short",
+  "stats": [
+    {
+      "value": "Jaipur",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "What happens next",
+  "steps": [
+    {
+      "title": "Get in touch",
+      "text": "Send a message or call and tell us what you need."
+    },
+    {
+      "title": "Choose your service",
+      "text": "Pick from, or ask for a suggestion."
+    },
+    {
+      "title": "Leave feeling good",
+      "text": "Look in the mirror and tell us what you think."
+    }
+  ],
+  "faq_title": "Questions we get asked",
+  "faq": [
+    {
+      "q": "Where are you?",
+      "a": "Find us in Jaipur. Message us and we will send directions."
+    },
+    {
+      "q": "Can I change my plans?",
+      "a": "Send us a message and we'll explain the options."
+    },
+    {
+      "q": "Is there anything I should prepare?",
+      "a": "Ask us and we'll tell you what to have ready."
+    },
+    {
+      "q": "What if I'm not sure what I need?",
+      "a": "Describe the situation and we'll suggest where to start."
+    }
+  ],
+  "blog_title": "Worth reading",
+  "blog": [
+    {
+      "title": "When to ask for a second opinion",
+      "excerpt": "And how to do it politely."
+    },
+    {
+      "title": "Planning wedding-day beauty",
+      "excerpt": "A timeline that keeps the morning calm."
+    },
+    {
+      "title": "How to explain the look you want",
+      "excerpt": "Photos, words and the one question to ask your stylist."
+    }
+  ],
+  "contact": {
+    "place": "Jaipur"
+  },
+  "cta_primary": "Book an appointment",
+  "cta_secondary": "Call the salon",
+  "cta_text": "Your time starts with a message.",
+  "cta_title": "Your next step is one message away",
+  "footer": "© Wellspring Bridal Artist. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Jaipur",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "mehendi (confidence high)",
+    "items_from_prompt": [],
+    "place": "Jaipur",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "beauty"
+  },
+  "needs_review": [
+    "No business name was given; 'Wellspring Bridal Artist' is a placeholder.",
+    "Typical mehendi & bridal artist offerings were used for: Patterns, Designs, Party-looks, Hairstyles, Bridal-looks. List your real services (3 or more) to replace them."
+  ]
+}

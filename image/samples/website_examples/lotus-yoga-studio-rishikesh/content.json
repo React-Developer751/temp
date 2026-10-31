@@ -1,0 +1,178 @@
+{
+  "brand": "Lotus Yoga Studio Rishikesh",
+  "niche": "fitness",
+  "kind": "fitness",
+  "profile": "yoga",
+  "business_type": "yoga",
+  "type_label": "Yoga Studio",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "friendly",
+  "keywords": [
+    "hatha",
+    "meditation",
+    "teacher",
+    "training"
+  ],
+  "eyebrow": "Yoga Studio",
+  "location": "",
+  "audience": "",
+  "hero_heading": "Hatha yoga, meditation and teacher training",
+  "tagline": "Start a free class and tell us what you need.",
+  "about_title": "About Lotus Yoga Studio Rishikesh",
+  "about": [
+    "Meditation and teacher training: Lotus Yoga Studio Rishikesh teaches them. A little practice goes a long way.",
+    "Every body starts somewhere. Ask what's included before you make up your mind."
+  ],
+  "features_title": "Sessions",
+  "features": [
+    {
+      "title": "Hatha Yoga",
+      "text": "Message us about hatha yoga; we reply to every enquiry."
+    },
+    {
+      "title": "Meditation",
+      "text": "Meditation is guided from the first breath to the last; ask which level suits you."
+    },
+    {
+      "title": "Teacher Training",
+      "text": "Curious about teacher training? Come for a class and see."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Clear next steps",
+      "text": "You will know what comes next."
+    },
+    {
+      "title": "Straight answers",
+      "text": "Ask and we will say it plainly."
+    },
+    {
+      "title": "Practise together",
+      "text": "Bring a friend."
+    }
+  ],
+  "stats_title": "Good to know",
+  "stats": [],
+  "steps_title": "How it works",
+  "steps": [
+    {
+      "title": "Try a class",
+      "text": "Ask about a first class and pick a time."
+    },
+    {
+      "title": "Agree the plan",
+      "text": "We confirm what happens and when."
+    },
+    {
+      "title": "Practise",
+      "text": "Follow the teacher; rest when you need to."
+    }
+  ],
+  "faq_title": "Quick answers",
+  "faq": [
+    {
+      "q": "Can I ask about hatha yoga?",
+      "a": "Certainly; ask what a class looks like."
+    },
+    {
+      "q": "Do you reply to messages?",
+      "a": "Send a message and you will hear from us."
+    },
+    {
+      "q": "Can I ask questions before I decide?",
+      "a": "Yes; ask as many as you like."
+    },
+    {
+      "q": "What if I'm not sure what I need?",
+      "a": "Tell us what you're trying to achieve and we will point you in the right direction."
+    }
+  ],
+  "blog_title": "From the journal",
+  "blog": [
+    {
+      "title": "Notes on getting started",
+      "excerpt": "The first steps, without the jargon."
+    },
+    {
+      "title": "What to bring when you get in touch",
+      "excerpt": "A short list that saves a second message."
+    },
+    {
+      "title": "Practice around a busy week",
+      "excerpt": "How to keep the habit when life gets full."
+    }
+  ],
+  "contact": {},
+  "cta_primary": "Start a free class",
+  "cta_secondary": "Book a class",
+  "cta_text": "Start a free class and let us know your goal.",
+  "cta_title": "Tell us what you need",
+  "footer": "© Lotus Yoga Studio Rishikesh. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "name": {
+      "value": "Lotus Yoga Studio Rishikesh",
+      "source": "prompt"
+    },
+    "services": {
+      "value": [
+        "hatha yoga",
+        "meditation",
+        "teacher training"
+      ],
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "city",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "yoga (confidence high)",
+    "items_from_prompt": [
+      "hatha yoga",
+      "meditation",
+      "teacher training"
+    ],
+    "place": "",
+    "mode": "strict (your phrases only)",
+    "copy": "frames + user phrases",
+    "profile": "yoga",
+    "kind": "fitness"
+  },
+  "needs_review": [
+    "No location was given; add a city to make the copy local."
+  ]
+}

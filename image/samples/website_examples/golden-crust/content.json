@@ -1,0 +1,188 @@
+{
+  "brand": "Golden Crust",
+  "niche": "restaurant",
+  "kind": "food",
+  "profile": "bakery",
+  "business_type": "bakery",
+  "type_label": "Bakery",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "warm",
+  "keywords": [
+    "bakery",
+    "delhi",
+    "sourdough",
+    "croissants",
+    "birthday",
+    "cakes"
+  ],
+  "eyebrow": "Bakery · Delhi",
+  "location": "Delhi",
+  "audience": "",
+  "hero_heading": "Sourdough and croissants in Delhi",
+  "tagline": "Golden Crust bakes birthday cakes in Delhi. No hard sell; ask whatever you like.",
+  "about_title": "About Golden Crust",
+  "about": [
+    "It starts with birthday cakes. Golden Crust bakes sourdough and croissants too in Delhi.",
+    "You will find Golden Crust in Delhi. Let us know what suits you and we'll confirm."
+  ],
+  "features_title": "What to order",
+  "features": [
+    {
+      "title": "Sourdough",
+      "text": "Sourdough is better shared, so order a little more than you think you need."
+    },
+    {
+      "title": "Croissants",
+      "text": "Flaky, buttery layers of laminated pastry. Order croissants for the occasion, or keep it to yourself."
+    },
+    {
+      "title": "Birthday Cakes",
+      "text": "Tell us the date and we will say what we can do with birthday cakes."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Clear next steps",
+      "text": "You will know what comes next."
+    },
+    {
+      "title": "Local and personal",
+      "text": "Run by people you can talk to."
+    },
+    {
+      "title": "Easy to reach",
+      "text": "Message or call."
+    }
+  ],
+  "stats_title": "Find us",
+  "stats": [
+    {
+      "value": "Delhi",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "From first message to finish",
+  "steps": [
+    {
+      "title": "Share your idea",
+      "text": "Flavour, size, message and the date."
+    },
+    {
+      "title": "We talk it through",
+      "text": "We explain the options in plain words."
+    },
+    {
+      "title": "Pick up",
+      "text": "Message us to place an order."
+    }
+  ],
+  "faq_title": "Frequently asked questions",
+  "faq": [
+    {
+      "q": "Do you offer delivery or takeaway?",
+      "a": "Ask us what's possible for your area and we'll tell you honestly."
+    },
+    {
+      "q": "I have an allergy. Can you help?",
+      "a": "Please mention any allergy at the time of booking and again when you order; we'll go through the menu with you."
+    },
+    {
+      "q": "Where are you?",
+      "a": "Find us in Delhi. Send us a message and we'll send directions."
+    },
+    {
+      "q": "Can I ask about sourdough?",
+      "a": "Certainly; ask us what goes into it and how to order it."
+    }
+  ],
+  "blog_title": "Short guides",
+  "blog": [
+    {
+      "title": "How to choose a good bakery",
+      "excerpt": "Five questions worth asking before you make up your mind."
+    },
+    {
+      "title": "What to bring when you get in touch",
+      "excerpt": "A short list that saves a second message."
+    },
+    {
+      "title": "Why local matters",
+      "excerpt": "A few reasons to choose someone nearby."
+    }
+  ],
+  "contact": {
+    "place": "Delhi"
+  },
+  "cta_primary": "Place an order",
+  "cta_secondary": "See what's baked",
+  "cta_text": "Something sweet? Place an order.",
+  "cta_title": "Tell us what you need",
+  "footer": "© Golden Crust. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "name": {
+      "value": "Golden Crust",
+      "source": "prompt"
+    },
+    "city": {
+      "value": "Delhi",
+      "source": "prompt"
+    },
+    "services": {
+      "value": [
+        "sourdough",
+        "croissants",
+        "birthday cakes"
+      ],
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "bakery (confidence high)",
+    "items_from_prompt": [
+      "sourdough",
+      "croissants",
+      "birthday cakes"
+    ],
+    "place": "Delhi",
+    "mode": "strict (your phrases only)",
+    "copy": "frames + user phrases",
+    "profile": "bakery",
+    "kind": "food"
+  },
+  "needs_review": []
+}

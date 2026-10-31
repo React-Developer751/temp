@@ -1,0 +1,182 @@
+{
+  "brand": "Anchor Architecture Studio",
+  "niche": "pro",
+  "kind": "pro",
+  "profile": "",
+  "business_type": "architect",
+  "type_label": "Architecture Studio",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "elegant",
+  "keywords": [
+    "architect",
+    "firm",
+    "bangalore"
+  ],
+  "eyebrow": "Architecture Studio · Bangalore",
+  "location": "Bangalore",
+  "audience": "",
+  "hero_heading": "Architecture Studio in Bangalore",
+  "tagline": "We'd rather you knew exactly what to expect.",
+  "about_title": "About us",
+  "about": [
+    "Your matter is handled by people who know it.",
+    "You'll find us in Bangalore. Ask for a written summary after the call."
+  ],
+  "features_title": "Areas we advise on",
+  "features": [
+    {
+      "title": "Layouts",
+      "text": "Tell us your deadline for Layouts and we'll plan around it."
+    },
+    {
+      "title": "Renderings",
+      "text": "Bring your documents for Renderings and we'll tell you what's needed."
+    },
+    {
+      "title": "Designs",
+      "text": "Feel free to ask us about Designs; we will explain the steps in plain words."
+    },
+    {
+      "title": "Site Visits",
+      "text": "We will explain Site Visits in plain words."
+    },
+    {
+      "title": "Plans",
+      "text": "Message us about Plans; we reply to every enquiry."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Local and personal",
+      "text": "Run by people you can talk to."
+    },
+    {
+      "title": "No hard sell",
+      "text": "Take your time."
+    },
+    {
+      "title": "Questions welcome",
+      "text": "At any stage."
+    }
+  ],
+  "stats_title": "Quick facts",
+  "stats": [
+    {
+      "value": "Bangalore",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "Getting started",
+  "steps": [
+    {
+      "title": "Get in touch",
+      "text": "Send a message or call and let us know what you need."
+    },
+    {
+      "title": "We talk it through",
+      "text": "We explain the options in plain words."
+    },
+    {
+      "title": "Follow-up",
+      "text": "We confirm next steps in writing."
+    }
+  ],
+  "faq_title": "Quick answers",
+  "faq": [
+    {
+      "q": "How do I book a consultation?",
+      "a": "Call or message us to book a consultation."
+    },
+    {
+      "q": "Where are you based?",
+      "a": "Find us in Bangalore."
+    },
+    {
+      "q": "Do you reply to messages?",
+      "a": "Yes; use the contact information on this page and we will reply."
+    },
+    {
+      "q": "How do I pay?",
+      "a": "Send us a message and we will tell you how payment works."
+    }
+  ],
+  "blog_title": "Notes and guides",
+  "blog": [
+    {
+      "title": "Why we answer every message",
+      "excerpt": "Replies are part of the service."
+    },
+    {
+      "title": "Reading the small print",
+      "excerpt": "Where to look and what to ask."
+    },
+    {
+      "title": "What to bring when you get in touch",
+      "excerpt": "A short list that saves a second message."
+    }
+  ],
+  "contact": {
+    "place": "Bangalore"
+  },
+  "cta_primary": "Book a consultation",
+  "cta_secondary": "Call the office",
+  "cta_text": "Let us know the deadline.",
+  "cta_title": "We'd like to hear from you",
+  "footer": "© Anchor Architecture Studio. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Bangalore",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "architect (confidence high)",
+    "items_from_prompt": [],
+    "place": "Bangalore",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "pro"
+  },
+  "needs_review": [
+    "No business name was given; 'Anchor Architecture Studio' is a placeholder.",
+    "Typical architecture studio offerings were used for: Layouts, Renderings, Designs, Site Visits, Plans. List your real services (3 or more) to replace them."
+  ]
+}

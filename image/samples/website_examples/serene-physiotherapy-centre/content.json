@@ -1,0 +1,181 @@
+{
+  "brand": "Serene Physiotherapy Centre",
+  "niche": "care",
+  "kind": "health",
+  "profile": "physio",
+  "business_type": "physio",
+  "type_label": "Physiotherapy Centre",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "calm",
+  "keywords": [
+    "clinic",
+    "pune"
+  ],
+  "eyebrow": "Physiotherapy Centre · Pune",
+  "location": "Pune",
+  "audience": "",
+  "hero_heading": "Physiotherapy Centre in Pune",
+  "tagline": "You will always know what comes next.",
+  "about_title": "About us",
+  "about": [
+    "Take a look around and feel free to ask us anything.",
+    "You'll find us in Pune. Tell us what suits you and we'll confirm."
+  ],
+  "features_title": "Treatments",
+  "features": [
+    {
+      "title": "Exercises",
+      "text": "Let us know what you need from Exercises and we will suggest where to start."
+    },
+    {
+      "title": "Taping",
+      "text": "Not sure if Taping is right for you? A consultation will tell you."
+    },
+    {
+      "title": "Programs",
+      "text": "Not sure about Programs? Start with a short conversation."
+    },
+    {
+      "title": "Assessments",
+      "text": "Feel free to ask us how Assessments works and what to expect."
+    },
+    {
+      "title": "Treatments",
+      "text": "Let us know your concern about Treatments and we will recommend what makes sense."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Gentle approach",
+      "text": "Care at a pace that suits you."
+    },
+    {
+      "title": "Easy to reach",
+      "text": "Message or call."
+    },
+    {
+      "title": "Clear next steps",
+      "text": "You will know what comes next."
+    }
+  ],
+  "stats_title": "Find us",
+  "stats": [
+    {
+      "value": "Pune",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "From first message to finish",
+  "steps": [
+    {
+      "title": "Tell us your concern",
+      "text": "Share what's been bothering you at the time of booking."
+    },
+    {
+      "title": "Meet the team",
+      "text": "We examine, explain your options and answer questions."
+    },
+    {
+      "title": "Follow-up",
+      "text": "We review how you're doing and adjust the plan."
+    }
+  ],
+  "faq_title": "Questions we get asked",
+  "faq": [
+    {
+      "q": "What should I bring to my first visit?",
+      "a": "Bring any earlier reports or scans, and a list of questions."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Pune; reach out for directions."
+    },
+    {
+      "q": "Do you reply to messages?",
+      "a": "Yes; use the contact details on this page and we'll reply."
+    },
+    {
+      "q": "Can someone else book for me?",
+      "a": "Yes; just let us know who the booking is for."
+    }
+  ],
+  "blog_title": "From the journal",
+  "blog": [
+    {
+      "title": "How to choose a good physiotherapy centre",
+      "excerpt": "Five questions worth asking before you make up your mind."
+    },
+    {
+      "title": "Planning ahead",
+      "excerpt": "How to give yourself time."
+    },
+    {
+      "title": "How long things really take",
+      "excerpt": "Setting expectations on both sides."
+    }
+  ],
+  "contact": {
+    "place": "Pune"
+  },
+  "cta_primary": "Book an appointment",
+  "cta_secondary": "Call the clinic",
+  "cta_text": "A conversation is the best first step.",
+  "cta_title": "Tell us what you need",
+  "footer": "© Serene Physiotherapy Centre. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Pune",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "physio (confidence high)",
+    "items_from_prompt": [],
+    "place": "Pune",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "physio",
+    "kind": "health"
+  },
+  "needs_review": [
+    "No business name was given; 'Serene Physiotherapy Centre' is a placeholder.",
+    "Typical physiotherapy centre offerings were used for: Exercises, Taping, Programs, Assessments, Treatments. List your real services (3 or more) to replace them."
+  ]
+}

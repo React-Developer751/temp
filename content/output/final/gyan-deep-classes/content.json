@@ -1,0 +1,208 @@
+{
+  "brand": "Gyan Deep Classes",
+  "niche": "education",
+  "kind": "education",
+  "profile": "",
+  "business_type": "school",
+  "type_label": "Coaching & Tuition Centre",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "friendly",
+  "keywords": [
+    "apne",
+    "tuition",
+    "center",
+    "naam",
+    "patna",
+    "maths"
+  ],
+  "eyebrow": "Coaching & Tuition Centre · Patna",
+  "location": "Patna",
+  "audience": "",
+  "hero_heading": "Gyan Deep Classes: maths and science in Patna",
+  "tagline": "Gyan Deep Classes guides english in Patna.",
+  "about_title": "About Gyan Deep Classes",
+  "about": [
+    "It starts with english. Gyan Deep Classes guides maths and science too in Patna.",
+    "You will find Gyan Deep Classes in Patna, open 4pm to 8pm. Ask how parents are kept informed."
+  ],
+  "features_title": "Learn with us",
+  "features": [
+    {
+      "title": "Maths",
+      "text": "Tell us what you need from maths and we will suggest where to start."
+    },
+    {
+      "title": "Science",
+      "text": "Science: ask how it is taught and how it is checked."
+    },
+    {
+      "title": "English",
+      "text": "Message us about english; we reply to every enquiry."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free trial",
+      "text": "Try it first; ask us to book a time."
+    },
+    {
+      "title": "Opening hours",
+      "text": "Hours: 4pm to 8pm. Drop by or send a message."
+    },
+    {
+      "title": "Local and personal",
+      "text": "Run by people you can talk to."
+    }
+  ],
+  "stats_title": "At a glance",
+  "stats": [
+    {
+      "value": "Patna",
+      "label": "Where we work"
+    },
+    {
+      "value": "4pm to 8pm",
+      "label": "Open"
+    }
+  ],
+  "steps_title": "From first message to finish",
+  "steps": [
+    {
+      "title": "Tell us about your child",
+      "text": "Share the age, the class and anything we should know."
+    },
+    {
+      "title": "See for yourself",
+      "text": "Walk through the school and meet the teachers."
+    },
+    {
+      "title": "Settle in",
+      "text": "Teachers help your child find their feet."
+    }
+  ],
+  "faq_title": "Quick answers",
+  "faq": [
+    {
+      "q": "When are you open?",
+      "a": "Our hours are 4pm to 8pm."
+    },
+    {
+      "q": "Where are you?",
+      "a": "Find us in Patna. Send us a message and we will send directions."
+    },
+    {
+      "q": "Can I ask about maths?",
+      "a": "Certainly; ask how it is taught."
+    },
+    {
+      "q": "How do I pay?",
+      "a": "Ask us when you book and we will explain the options."
+    }
+  ],
+  "blog_title": "Our notes",
+  "blog": [
+    {
+      "title": "Why english matters",
+      "excerpt": "A plain look at what children gain."
+    },
+    {
+      "title": "Small things that make a difference",
+      "excerpt": "Notes from everyday experience."
+    },
+    {
+      "title": "Preparing for a new year",
+      "excerpt": "Small steps that help everyone."
+    }
+  ],
+  "contact": {
+    "place": "Patna",
+    "hours": [
+      "4pm to 8pm"
+    ]
+  },
+  "cta_primary": "Ask about admission",
+  "cta_secondary": "See the classes",
+  "cta_text": "Visit and see for yourself.",
+  "cta_title": "Let's talk",
+  "footer": "© Gyan Deep Classes. All rights reserved.",
+  "offers": [
+    {
+      "id": "free_trial",
+      "text": "Free trial"
+    }
+  ],
+  "hours": "4pm to 8pm",
+  "prices": [],
+  "facts_used": {
+    "name": {
+      "value": "Gyan Deep Classes",
+      "source": "prompt"
+    },
+    "city": {
+      "value": "Patna",
+      "source": "prompt"
+    },
+    "services": {
+      "value": [
+        "maths",
+        "science",
+        "english"
+      ],
+      "source": "prompt"
+    },
+    "offers": {
+      "value": [
+        "Free trial"
+      ],
+      "source": "prompt"
+    },
+    "hours": {
+      "value": "4pm to 8pm",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "school (confidence high)",
+    "items_from_prompt": [
+      "maths",
+      "science",
+      "english"
+    ],
+    "place": "Patna",
+    "mode": "strict (your phrases only)",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "education"
+  },
+  "needs_review": []
+}

@@ -1,0 +1,2235 @@
+[
+  {
+    "id": "nutritionist_dietitian",
+    "label": "Dietitian and nutritionist",
+    "theme": "healthcare",
+    "keywords": [
+      "dietitian",
+      "nutritionist",
+      "diet plan",
+      "weight management",
+      "diet consultation",
+      "diet chart",
+      "weight loss diet",
+      "डाइटीशियन",
+      "डाइट प्लान"
+    ],
+    "heroTitles": [
+      "Dietitian And Nutritionist Care That Starts By Listening",
+      "Dietitian And Nutritionist In A Welcoming Space",
+      "Clear Answers On Weight Management"
+    ],
+    "heroSubtitles": [
+      "{brand} provides weight management and child and family nutrition. We explain what to expect, what it involves and how to prepare.",
+      "Need weight management or sports and muscle nutrition? {brand} will tell you what the visit involves and what to bring before you come.",
+      "Looking for help with dietitian and nutritionist? {brand} listens first, explains the options and lets you decide at your own pace."
+    ],
+    "button": "Book A Diet Chat",
+    "featureTitle": "Dietitian And Nutritionist Services We Offer",
+    "features": [
+      {
+        "title": "Weight Management",
+        "text": "Questions about weight management? Message us and we will answer before you book."
+      },
+      {
+        "title": "Diabetes And Thyroid Diet",
+        "text": "We explain what diabetes and thyroid diet involves, how it is done and what to expect before we begin."
+      },
+      {
+        "title": "PCOS Diet Support",
+        "text": "PCOS Diet Support with time for your questions, and a plain explanation of the next step."
+      },
+      {
+        "title": "Child And Family Nutrition",
+        "text": "Ask about child and family nutrition; we describe the options simply and let you decide at your own pace."
+      },
+      {
+        "title": "Sports And Muscle Nutrition",
+        "text": "For sports and muscle nutrition, we start by listening to your concern and then suggest a clear plan."
+      },
+      {
+        "title": "Weekly Follow Ups",
+        "text": "Weekly Follow Ups booked at a time that suits you, with guidance on how to prepare."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Calm",
+        "label": "Unhurried visits"
+      },
+      {
+        "value": "Plain",
+        "label": "Language, no jargon"
+      },
+      {
+        "value": "Easy",
+        "label": "Appointment booking"
+      }
+    ],
+    "steps": {
+      "title": "How A Visit Works",
+      "items": [
+        {
+          "title": "Book A Visit",
+          "text": "Message or call to book your dietitian and nutritionist appointment and tell us your main concern."
+        },
+        {
+          "title": "Talk It Through",
+          "text": "We listen, ask questions and explain the options for weight management in plain words."
+        },
+        {
+          "title": "Get A Clear Plan",
+          "text": "You hear what diabetes and thyroid diet involves, how long it takes and what to expect."
+        },
+        {
+          "title": "Follow Up",
+          "text": "We answer questions after PCOS diet support and tell you when to come back, if needed."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I book weight management?",
+        "a": "Call or message us, say what you need and choose a time that suits you. The same approach applies to weight management and weekly follow ups."
+      },
+      {
+        "q": "What should I bring to a dietitian and nutritionist visit?",
+        "a": "Any earlier reports or notes, and a list of your questions; we will tell you if anything else is needed. This applies to weight management, diabetes and thyroid diet and the rest of our dietitian and nutritionist work."
+      },
+      {
+        "q": "Will you explain diabetes and thyroid diet first?",
+        "a": "Yes. We describe what is involved and what to expect, and begin only when you are comfortable. It is the same for diabetes and thyroid diet as it is for weight management."
+      },
+      {
+        "q": "Can I ask questions before PCOS diet support?",
+        "a": "Of course. Message us any time and we will answer in plain words. That goes for PCOS diet support and child and family nutrition too."
+      },
+      {
+        "q": "Do I need an appointment for dietitian and nutritionist?",
+        "a": "Booking ahead helps us give you time. Message us and we will find a slot that suits you. Ask us about sports and muscle nutrition or weekly follow ups and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Have A Question About Weight Management?",
+      "button": "Book A Diet Chat"
+    },
+    "about": {
+      "title": "About Our Dietitian And Nutritionist Care",
+      "paragraphs": [
+        "At {brand} good dietitian and nutritionist begins with a conversation. You hear the plan in plain words before anything is done.",
+        "Our care includes weight management and diabetes and thyroid diet. Ask about child and family nutrition or sports and muscle nutrition too and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Time For Questions",
+        "Plain Explanations",
+        "Calm Welcome"
+      ]
+    },
+    "pricing": {
+      "title": "Dietitian And Nutritionist Fees",
+      "plans": [
+        {
+          "name": "First Visit",
+          "price": "$10",
+          "period": "/consultation",
+          "perks": [
+            "Weight Management Discussion",
+            "Plain Explanation",
+            "Time For Questions"
+          ]
+        },
+        {
+          "name": "Care Plan",
+          "price": "$35",
+          "period": "/month plan",
+          "perks": [
+            "Weight Management And Diabetes And Thyroid Diet",
+            "Follow-Up Check",
+            "Reminders When Due"
+          ]
+        },
+        {
+          "name": "Extended Care",
+          "price": "$90",
+          "period": "/3 month plan",
+          "perks": [
+            "Weight Management Plus Diabetes And Thyroid Diet And PCOS Diet Support",
+            "Extended Follow-Up",
+            "Priority Booking"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Dietitian And Nutritionist Practice",
+      "captions": [
+        "Weight Management",
+        "Diabetes And Thyroid Diet",
+        "PCOS Diet Support",
+        "Child And Family Nutrition",
+        "Sports And Muscle Nutrition",
+        "Weekly Follow Ups"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Dietitian And Nutritionist Practitioner",
+        "Weight Management Specialist",
+        "Patient Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "I liked that weight management was described in plain words with no pressure.",
+        "role": "Patient"
+      },
+      {
+        "quote": "Quick reply about child and family nutrition and a clear answer.",
+        "role": "Patient"
+      },
+      {
+        "quote": "They explained weight management calmly and gave me time to ask everything.",
+        "role": "Patient"
+      }
+    ],
+    "blog": {
+      "title": "From The Dietitian And Nutritionist Desk",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "What To Expect From Weight Management"
+        },
+        {
+          "tag": "Prepare",
+          "title": "How To Prepare For Diabetes And Thyroid Diet"
+        },
+        {
+          "tag": "Questions",
+          "title": "Questions To Ask About PCOS Diet Support"
+        }
+      ]
+    },
+    "marquee": [
+      "Weight",
+      "Thyroid Diet",
+      "PCOS Diet",
+      "Family Nutrition",
+      "Muscle Nutrition",
+      "Plain Answers",
+      "Calm Visits",
+      "Easy Booking"
+    ],
+    "contactText": "Message {brand} to book weight management or ask about diabetes and thyroid diet. We reply with a time that suits you and what to bring."
+  },
+  {
+    "id": "general_physician_clinic",
+    "label": "General physician clinic",
+    "theme": "healthcare",
+    "keywords": [
+      "family doctor",
+      "general physician",
+      "polyclinic",
+      "doctor near me",
+      "physician clinic",
+      "bukhar ka doctor",
+      "opd clinic",
+      "hospital",
+      "nursing home",
+      "फैमिली डॉक्टर",
+      "जनरल फिजिशियन"
+    ],
+    "heroTitles": [
+      "Calm And Clear General Physician Clinic",
+      "General Physician Clinic Care That Starts By Listening",
+      "General Physician Clinic In A Welcoming Space"
+    ],
+    "heroSubtitles": [
+      "Looking for help with general physician clinic? {brand} listens first, explains the options and lets you decide at your own pace.",
+      "From general consultation to blood pressure and sugar care, {brand} keeps care simple: a short chat, a clear plan and time for your questions.",
+      "{brand} provides general consultation and vaccinations. We explain what to expect, what it involves and how to prepare."
+    ],
+    "button": "Book A Doctor Visit",
+    "featureTitle": "Our General Physician Clinic Services",
+    "features": [
+      {
+        "title": "General Consultation",
+        "text": "We explain what general consultation involves, how it is done and what to expect before we begin."
+      },
+      {
+        "title": "Blood Pressure And Sugar Care",
+        "text": "Blood Pressure And Sugar Care with time for your questions, and a plain explanation of the next step."
+      },
+      {
+        "title": "Health Check Ups",
+        "text": "Ask about health check ups; we describe the options simply and let you decide at your own pace."
+      },
+      {
+        "title": "Vaccinations",
+        "text": "For vaccinations, we start by listening to your concern and then suggest a clear plan."
+      },
+      {
+        "title": "Minor Procedures",
+        "text": "Minor Procedures booked at a time that suits you, with guidance on how to prepare."
+      },
+      {
+        "title": "Records And Referrals",
+        "text": "Questions about records and referrals? Message us and we will answer before you book."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Calm",
+        "label": "Unhurried visits"
+      },
+      {
+        "value": "Plain",
+        "label": "Language, no jargon"
+      },
+      {
+        "value": "Easy",
+        "label": "Appointment booking"
+      }
+    ],
+    "steps": {
+      "title": "How A Visit Works",
+      "items": [
+        {
+          "title": "Book A Visit",
+          "text": "Message or call to book your general physician clinic appointment and tell us your main concern."
+        },
+        {
+          "title": "Talk It Through",
+          "text": "We listen, ask questions and explain the options for general consultation in plain words."
+        },
+        {
+          "title": "Get A Clear Plan",
+          "text": "You hear what blood pressure and sugar care involves, how long it takes and what to expect."
+        },
+        {
+          "title": "Follow Up",
+          "text": "We answer questions after health check ups and tell you when to come back, if needed."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can a family member come with me for general consultation?",
+        "a": "Yes. Tell us when you book and we will make sure there is room. The same approach applies to general consultation and records and referrals."
+      },
+      {
+        "q": "What if I am unsure about minor procedures?",
+        "a": "Ask us. We explain the options calmly and never rush your decision. This applies to general consultation, blood pressure and sugar care and the rest of our general physician clinic work."
+      },
+      {
+        "q": "How do I book general consultation?",
+        "a": "Call or message us, say what you need and choose a time that suits you. It is the same for blood pressure and sugar care as it is for general consultation."
+      },
+      {
+        "q": "What should I bring to a general physician clinic visit?",
+        "a": "Any earlier reports or notes, and a list of your questions; we will tell you if anything else is needed. That goes for health check ups and vaccinations too."
+      },
+      {
+        "q": "Will you explain blood pressure and sugar care first?",
+        "a": "Yes. We describe what is involved and what to expect, and begin only when you are comfortable. Ask us about minor procedures or records and referrals and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Have A Question About General Consultation?",
+      "button": "Book A Doctor Visit"
+    },
+    "about": {
+      "title": "About Our General Physician Clinic Care",
+      "paragraphs": [
+        "At {brand} good general physician clinic begins with a conversation. You hear the plan in plain words before anything is done.",
+        "Our care includes general consultation and blood pressure and sugar care. Ask about vaccinations or minor procedures too and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Time For Questions",
+        "Plain Explanations",
+        "Calm Welcome"
+      ]
+    },
+    "pricing": {
+      "title": "General Physician Clinic Fees",
+      "plans": [
+        {
+          "name": "First Visit",
+          "price": "$4",
+          "period": "/consultation",
+          "perks": [
+            "General Consultation Discussion",
+            "Plain Explanation",
+            "Time For Questions"
+          ]
+        },
+        {
+          "name": "Care Plan",
+          "price": "$15",
+          "period": "/health checkup",
+          "perks": [
+            "General Consultation And Blood Pressure And Sugar Care",
+            "Follow-Up Check",
+            "Reminders When Due"
+          ]
+        },
+        {
+          "name": "Extended Care",
+          "price": "$40",
+          "period": "/family plan",
+          "perks": [
+            "General Consultation Plus Blood Pressure And Sugar Care And Health Check Ups",
+            "Extended Follow-Up",
+            "Priority Booking"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our General Physician Clinic Practice",
+      "captions": [
+        "General Consultation",
+        "Blood Pressure And Sugar",
+        "Health Check Ups",
+        "Vaccinations Work",
+        "Minor Procedures",
+        "Records And Referrals"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "General Physician Clinic Practitioner",
+        "General Consultation Specialist",
+        "Patient Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Friendly team who made health check ups feel straightforward.",
+        "role": "Family member"
+      },
+      {
+        "quote": "A welcoming place, and the general physician clinic visit was unhurried.",
+        "role": "Patient"
+      },
+      {
+        "quote": "I liked that general consultation was described in plain words with no pressure.",
+        "role": "Patient"
+      }
+    ],
+    "blog": {
+      "title": "From The General Physician Clinic Desk",
+      "posts": [
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Minor Procedures"
+        },
+        {
+          "tag": "Habits",
+          "title": "Small Habits That Support Records And Referrals"
+        },
+        {
+          "tag": "Guide",
+          "title": "What To Expect From General Consultation"
+        }
+      ]
+    },
+    "marquee": [
+      "General",
+      "Blood Pressure",
+      "Health Check",
+      "Vaccinations",
+      "Minor Procedures",
+      "Plain Answers",
+      "Calm Visits",
+      "Easy Booking"
+    ],
+    "contactText": "Message {brand} to book general consultation or ask about blood pressure and sugar care. We reply with a time that suits you and what to bring."
+  },
+  {
+    "id": "real_estate_agent",
+    "label": "Real estate agent",
+    "theme": "real_estate",
+    "keywords": [
+      "property dealer",
+      "real estate agent",
+      "property broker",
+      "flats for sale",
+      "plots for sale",
+      "flat for rent",
+      "makaan dalal",
+      "प्रॉपर्टी डीलर",
+      "मकान किराये पर"
+    ],
+    "heroTitles": [
+      "Find The Right Place With Real Estate Agent",
+      "Real Estate Agent That Starts With Your Needs",
+      "Clear Steps For Flats And Apartments"
+    ],
+    "heroSubtitles": [
+      "Need help with flats and apartments or shop and office space? {brand} will explain the steps, the papers and the costs first.",
+      "{brand} helps with flats and apartments, plots and land and independent houses. Tell us what you are looking for and we will show suitable options.",
+      "Looking for help with real estate agent? {brand} listens first, explains the process and shares details honestly."
+    ],
+    "button": "Book A Viewing",
+    "featureTitle": "Real Estate Agent Services We Offer",
+    "features": [
+      {
+        "title": "Flats And Apartments",
+        "text": "Flats And Apartments explained without pressure, so you can compare and choose in your own time."
+      },
+      {
+        "title": "Plots And Land",
+        "text": "Questions about plots and land? Message us and we will answer before you commit."
+      },
+      {
+        "title": "Independent Houses",
+        "text": "We explain independent houses in plain words, with the steps, the papers and the costs upfront."
+      },
+      {
+        "title": "Rental Homes",
+        "text": "Rental Homes handled with care, with honest details shared before you decide."
+      },
+      {
+        "title": "Shop And Office Space",
+        "text": "Ask about shop and office space; we describe the options simply and arrange viewings that fit."
+      },
+      {
+        "title": "Sell Your Property",
+        "text": "For sell your property, we start with your needs and budget and shortlist what suits."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First consultation"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Clear",
+        "label": "Costs told upfront"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Share your real estate agent requirement, your budget and the areas you prefer."
+        },
+        {
+          "title": "See The Options",
+          "text": "We shortlist choices for flats and apartments and share honest details of each."
+        },
+        {
+          "title": "Visit And Compare",
+          "text": "We arrange viewings for plots and land at times that suit you and answer your questions."
+        },
+        {
+          "title": "Complete Step By Step",
+          "text": "We explain the papers for independent houses and stay with you until it is done."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I see a place for plots and land first?",
+        "a": "Yes. We arrange viewings at times that suit you. This applies to flats and apartments, plots and land and the rest of our real estate agent work."
+      },
+      {
+        "q": "Do you explain the costs of independent houses?",
+        "a": "Yes. We tell you the costs and what they cover before you decide. It is the same for plots and land as it is for flats and apartments."
+      },
+      {
+        "q": "What papers do I need for real estate agent?",
+        "a": "We give you a clear list once we know your case, so you only gather what is needed. That goes for independent houses and rental homes too."
+      },
+      {
+        "q": "Can I ask questions before flats and apartments?",
+        "a": "Of course. A first conversation is the right place to ask anything. Ask us about shop and office space or sell your property and the answer is the same."
+      },
+      {
+        "q": "Do you handle small real estate agent requests?",
+        "a": "Yes. Every request gets the same careful, honest handling. The same approach applies to flats and apartments and sell your property."
+      }
+    ],
+    "cta": {
+      "title": "Want To Book A Viewing For Plots And Land?",
+      "button": "Book A Viewing"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local real estate agent business. We listen to your needs, share details honestly and guide you through each step.",
+        "We help with flats and apartments, plots and land and independent houses, and we are glad to talk through your plans before you decide."
+      ],
+      "points": [
+        "Clear Steps",
+        "Friendly Team",
+        "Flexible Viewings"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Fees For Real Estate Agent",
+      "plans": [
+        {
+          "name": "First Step",
+          "price": "$0",
+          "period": "/consultation",
+          "perks": [
+            "Flats And Apartments Discussion",
+            "Shortlist Of Options",
+            "Costs Explained"
+          ]
+        },
+        {
+          "name": "Standard Help",
+          "price": "$30",
+          "period": "/property search",
+          "perks": [
+            "Flats And Apartments And Plots And Land",
+            "Viewings Arranged",
+            "Paper Checklist"
+          ]
+        },
+        {
+          "name": "Full Support",
+          "price": "$80",
+          "period": "/full service",
+          "perks": [
+            "Flats And Apartments Plus Plots And Land And Independent Houses",
+            "Extended Support",
+            "Priority Replies"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Real Estate Agent Spaces",
+      "captions": [
+        "Flats And Apartments",
+        "Plots And Land",
+        "Independent Houses",
+        "Rental Homes",
+        "Shop And Office Space",
+        "Sell Your Property"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Property Advisor",
+        "Viewing Coordinator",
+        "Client Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Friendly team, and the real estate agent advice was easy to follow.",
+        "role": "Client"
+      },
+      {
+        "quote": "I liked that flats and apartments came with the costs told upfront.",
+        "role": "First time buyer"
+      },
+      {
+        "quote": "Quick reply about rental homes and an honest answer.",
+        "role": "Client"
+      }
+    ],
+    "blog": {
+      "title": "Real Estate Agent Notes And Guides",
+      "posts": [
+        {
+          "tag": "Costs",
+          "title": "What To Know About The Cost Of Plots And Land"
+        },
+        {
+          "tag": "Papers",
+          "title": "Papers To Gather For Independent Houses"
+        },
+        {
+          "tag": "Planning",
+          "title": "Planning Ahead For Rental Homes"
+        }
+      ]
+    },
+    "marquee": [
+      "Flats",
+      "Plots",
+      "Independent",
+      "Rental Homes",
+      "Office Space",
+      "Honest Details",
+      "Easy Viewings",
+      "Costs Upfront"
+    ],
+    "contactText": "Tell {brand} what you need: flats and apartments, independent houses or something close. We will answer with options and a time to view."
+  },
+  {
+    "id": "law_firm_advocate",
+    "label": "Law firm and advocate",
+    "theme": "professional_services",
+    "keywords": [
+      "law firm",
+      "advocate",
+      "lawyer",
+      "legal advice",
+      "court case lawyer",
+      "advocate office",
+      "vakil",
+      "वकील",
+      "एडवोकेट"
+    ],
+    "heroTitles": [
+      "Law Firm And Advocate Without The Jargon",
+      "Civil Matters, Family Law And Criminal Defence",
+      "Clear Advice On Civil Matters"
+    ],
+    "heroSubtitles": [
+      "Looking for help with law firm and advocate? {brand} listens first, explains the options in plain words and tells you the cost upfront.",
+      "From civil matters to family law, {brand} keeps it simple: a short call, honest advice and a clear way forward.",
+      "{brand} handles civil matters and cheque bounce cases. We explain what is needed, what it costs and how long it takes."
+    ],
+    "button": "Book A Legal Chat",
+    "featureTitle": "Law Firm And Advocate Services We Offer",
+    "features": [
+      {
+        "title": "Civil Matters",
+        "text": "Civil Matters explained without jargon, so you know what applies to you and why."
+      },
+      {
+        "title": "Family Law",
+        "text": "Questions about family law? Message us and we will answer before you commit."
+      },
+      {
+        "title": "Criminal Defence",
+        "text": "We explain criminal defence in plain words, with the steps, the papers needed and the cost upfront."
+      },
+      {
+        "title": "Cheque Bounce Cases",
+        "text": "Cheque Bounce Cases handled with care, with a clear next step after every conversation."
+      },
+      {
+        "title": "Property Documents",
+        "text": "Ask about property documents; we describe the options simply and let you decide at your own pace."
+      },
+      {
+        "title": "Legal Notices",
+        "text": "For legal notices, we start by listening to your situation and then outline a clear plan."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Plain",
+        "label": "Language, no jargon"
+      },
+      {
+        "value": "Private",
+        "label": "Details kept private"
+      },
+      {
+        "value": "Easy",
+        "label": "Booking a call"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us Your Situation",
+          "text": "Share your law firm and advocate question by call or message, with any papers you have."
+        },
+        {
+          "title": "We Explain The Options",
+          "text": "You hear what civil matters involves, what it costs and how long it takes."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We confirm the steps for family law and what we need from you."
+        },
+        {
+          "title": "We Handle And Update",
+          "text": "We take care of criminal defence and keep you updated until it is complete."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Do you help small cases in law firm and advocate?",
+        "a": "Yes. Every case gets the same clear explanation and the same careful handling. This applies to civil matters, family law and the rest of our law firm and advocate work."
+      },
+      {
+        "q": "Can I get updates on property documents?",
+        "a": "Yes. Tell us how you prefer to be updated and we will keep to it. It is the same for family law as it is for civil matters."
+      },
+      {
+        "q": "How do I start with civil matters?",
+        "a": "Call or message us with a short description of your situation and we will reply with the next step. That goes for criminal defence and cheque bounce cases too."
+      },
+      {
+        "q": "What documents do I need for family law?",
+        "a": "We tell you the exact list once we know your case, so you only gather what is needed. Ask us about property documents or legal notices and the answer is the same."
+      },
+      {
+        "q": "Do you explain the fees for law firm and advocate?",
+        "a": "Yes. We tell you the fee and what it covers before you decide to go ahead. The same approach applies to civil matters and legal notices."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Talk About Law Firm And Advocate?",
+      "button": "Book A Legal Chat"
+    },
+    "about": {
+      "title": "About Our Law Firm And Advocate Practice",
+      "paragraphs": [
+        "{brand} is a local law firm and advocate practice. We listen to your situation, explain the options plainly and handle the work step by step.",
+        "We help with civil matters, family law and criminal defence, and we are glad to talk it through before you decide on anything."
+      ],
+      "points": [
+        "Clear Next Steps",
+        "Friendly Team",
+        "Honest Advice"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Law Firm And Advocate",
+      "plans": [
+        {
+          "name": "First Step",
+          "price": "$0",
+          "period": "/consultation",
+          "perks": [
+            "Civil Matters Discussion",
+            "Written Next Steps",
+            "Fees Explained"
+          ]
+        },
+        {
+          "name": "Standard Help",
+          "price": "$40",
+          "period": "/document review",
+          "perks": [
+            "Civil Matters And Family Law",
+            "Progress Updates",
+            "Document Checklist"
+          ]
+        },
+        {
+          "name": "Full Support",
+          "price": "$150",
+          "period": "/case support",
+          "perks": [
+            "Civil Matters Plus Family Law And Criminal Defence",
+            "Extended Support",
+            "Priority Replies"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Law Firm And Advocate Practice",
+      "captions": [
+        "Civil Matters",
+        "Family Law",
+        "Criminal Defence",
+        "Cheque Bounce Cases",
+        "Property Documents",
+        "Legal Notices"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Advocate",
+        "Legal Associate",
+        "Client Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "I liked that civil matters was broken into simple steps with a clear list.",
+        "role": "Family client"
+      },
+      {
+        "quote": "Quick reply about cheque bounce cases and a straight answer.",
+        "role": "Client"
+      },
+      {
+        "quote": "They explained civil matters in plain words and told me the fee first.",
+        "role": "Client"
+      }
+    ],
+    "blog": {
+      "title": "Law Firm And Advocate Notes And Guides",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "What To Know About Civil Matters"
+        },
+        {
+          "tag": "Documents",
+          "title": "Papers To Gather For Family Law"
+        },
+        {
+          "tag": "Questions",
+          "title": "Questions To Ask About Criminal Defence"
+        }
+      ]
+    },
+    "marquee": [
+      "Civil Matters",
+      "Family Law",
+      "Criminal Defence",
+      "Cheque Bounce",
+      "Property",
+      "Plain Advice",
+      "Fees Upfront",
+      "Private"
+    ],
+    "contactText": "Message {brand} about civil matters or family law. We reply with a short list of questions and the next step."
+  },
+  {
+    "id": "hotel_guesthouse",
+    "label": "Hotel and guest house",
+    "theme": "travel_tourism",
+    "keywords": [
+      "guest house",
+      "budget hotel",
+      "hotel rooms",
+      "hotel booking",
+      "lodge rooms",
+      "resort stay",
+      "hotel",
+      "होटल",
+      "गेस्ट हाउस"
+    ],
+    "heroTitles": [
+      "Relax With Hotel And Guest House",
+      "Standard Rooms, Deluxe Rooms And Family Rooms",
+      "A Simple Way To Book Hotel And Guest House"
+    ],
+    "heroSubtitles": [
+      "Planning standard rooms or travel desk? {brand} will tell you what is included and how to book.",
+      "{brand} offers standard rooms, deluxe rooms and family rooms. Tell us your dates and we will confirm what is available and the price.",
+      "Looking for help with hotel and guest house? {brand} keeps booking simple: clear details, honest descriptions and a quick reply."
+    ],
+    "button": "Check Room Dates",
+    "featureTitle": "Hotel And Guest House Options We Offer",
+    "features": [
+      {
+        "title": "Standard Rooms",
+        "text": "Ask about standard rooms and we will tell you what is included, the price and how to book."
+      },
+      {
+        "title": "Deluxe Rooms",
+        "text": "Deluxe Rooms described honestly, with the details you need to decide."
+      },
+      {
+        "title": "Family Rooms",
+        "text": "Planning family rooms? Share your dates and group size and we will suggest what fits."
+      },
+      {
+        "title": "Restaurant And Room Service",
+        "text": "For restaurant and room service, we explain the options simply and confirm what is available."
+      },
+      {
+        "title": "Travel Desk",
+        "text": "Travel Desk confirmed in writing, so you know what to expect when you arrive."
+      },
+      {
+        "title": "Parking And Reception",
+        "text": "Questions about parking and reception? Message us and we will answer before you book."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Honest",
+        "label": "Descriptions"
+      },
+      {
+        "value": "Friendly",
+        "label": "Welcome on arrival"
+      },
+      {
+        "value": "Flexible",
+        "label": "Plans on request"
+      }
+    ],
+    "steps": {
+      "title": "How Booking Works",
+      "items": [
+        {
+          "title": "Send Your Dates",
+          "text": "Message or call with your dates, group size and the hotel and guest house option you like."
+        },
+        {
+          "title": "We Confirm Availability",
+          "text": "We reply with what is available for standard rooms and the price."
+        },
+        {
+          "title": "Confirm Your Booking",
+          "text": "Agree the details of deluxe rooms and we confirm everything in writing."
+        },
+        {
+          "title": "Arrive And Enjoy",
+          "text": "We help with family rooms on arrival, and you can ask us for anything during your stay."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I book standard rooms?",
+        "a": "Message or call with your dates and group size, and we will confirm availability and the price. This applies to standard rooms, deluxe rooms and the rest of our hotel and guest house work."
+      },
+      {
+        "q": "What is included in deluxe rooms?",
+        "a": "We list what is included when you ask, so there are no surprises on arrival. It is the same for deluxe rooms as it is for standard rooms."
+      },
+      {
+        "q": "Can I ask about family rooms before booking?",
+        "a": "Of course. Message us your questions and we will answer plainly. That goes for family rooms and restaurant and room service too."
+      },
+      {
+        "q": "Can you suggest options for hotel and guest house?",
+        "a": "Yes. Tell us your plans and budget and we will suggest what fits. Ask us about travel desk or parking and reception and the answer is the same."
+      },
+      {
+        "q": "Can I change my dates for standard rooms?",
+        "a": "Tell us as early as you can and we will explain what is possible. The same approach applies to standard rooms and parking and reception."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Book Hotel And Guest House?",
+      "button": "Check Room Dates"
+    },
+    "about": {
+      "title": "About Our Hotel And Guest House",
+      "paragraphs": [
+        "At {brand} good hotel and guest house begins with clear information. You know what is included and what it costs before you book.",
+        "Our options include standard rooms and deluxe rooms. Ask about restaurant and room service or travel desk too and we will say plainly what is possible."
+      ],
+      "points": [
+        "Honest Descriptions",
+        "Prices Told Upfront",
+        "Friendly Welcome"
+      ]
+    },
+    "pricing": {
+      "title": "Hotel And Guest House Rates",
+      "plans": [
+        {
+          "name": "Basic Stay",
+          "price": "$20",
+          "period": "/night",
+          "perks": [
+            "Standard Rooms Option",
+            "Price Told First",
+            "Written Confirmation"
+          ]
+        },
+        {
+          "name": "Comfort Stay",
+          "price": "$35",
+          "period": "/night",
+          "perks": [
+            "Standard Rooms And Deluxe Rooms",
+            "Flexible Timing",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Extended Stay",
+          "price": "$55",
+          "period": "/night",
+          "perks": [
+            "Standard Rooms Plus Deluxe Rooms And Family Rooms",
+            "Extended Support",
+            "Special Requests Noted"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Hotel And Guest House",
+      "captions": [
+        "Standard Rooms",
+        "Deluxe Rooms",
+        "Family Rooms",
+        "Restaurant And Room Service",
+        "Travel Desk",
+        "Parking And Reception"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Guest Manager",
+        "Housekeeping Lead",
+        "Front Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "I liked that standard rooms came with clear directions and no surprises.",
+        "role": "Guest"
+      },
+      {
+        "quote": "Quick reply about restaurant and room service and an honest answer.",
+        "role": "Traveller"
+      },
+      {
+        "quote": "Standard Rooms was described honestly and everything matched when we arrived.",
+        "role": "Guest"
+      }
+    ],
+    "blog": {
+      "title": "From The Hotel And Guest House Desk",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "How To Choose Standard Rooms"
+        },
+        {
+          "tag": "Planning",
+          "title": "Planning Your Dates For Deluxe Rooms"
+        },
+        {
+          "tag": "Checklist",
+          "title": "A Simple Checklist For Family Rooms"
+        }
+      ]
+    },
+    "marquee": [
+      "Standard Rooms",
+      "Deluxe Rooms",
+      "Family Rooms",
+      "Room Service",
+      "Travel Desk",
+      "Easy Booking",
+      "Honest Details",
+      "Friendly Welcome"
+    ],
+    "contactText": "Message {brand} with your dates to ask about standard rooms or deluxe rooms. We reply with availability and the price."
+  },
+  {
+    "id": "school_preschool",
+    "label": "School and preschool",
+    "theme": "education",
+    "keywords": [
+      "preschool",
+      "playschool",
+      "play school",
+      "nursery school",
+      "day care",
+      "kindergarten",
+      "school admission",
+      "primary school",
+      "pre primary",
+      "प्ले स्कूल",
+      "प्री स्कूल"
+    ],
+    "heroTitles": [
+      "Welcome To School And Preschool",
+      "Play Group And Nursery And Lower KG Made Clear",
+      "School And Preschool That Builds Confidence"
+    ],
+    "heroSubtitles": [
+      "{brand} offers play group and activity time. Tell us the level and the goal and we will suggest a suitable batch.",
+      "Want to learn play group or outdoor play? {brand} will explain how classes run, what to bring and how progress is shared.",
+      "{brand} teaches play group, nursery and lower KG and upper KG. Visit a demo class, ask your questions and choose the batch that suits you."
+    ],
+    "button": "Ask About Admission",
+    "featureTitle": "School And Preschool Courses We Offer",
+    "features": [
+      {
+        "title": "Play Group",
+        "text": "For play group, we start from where you are and build up at a comfortable pace."
+      },
+      {
+        "title": "Nursery And Lower KG",
+        "text": "Nursery And Lower KG with simple feedback after each class, so you know what to improve."
+      },
+      {
+        "title": "Upper KG",
+        "text": "Questions about upper KG? Message us and we will answer before you enrol."
+      },
+      {
+        "title": "Activity Time",
+        "text": "We explain how activity time is taught, what to practise and how progress is shared."
+      },
+      {
+        "title": "Outdoor Play",
+        "text": "Outdoor Play taught step by step, with time for questions and regular practice."
+      },
+      {
+        "title": "Day Care",
+        "text": "Ask about day care; we describe the batch, the timings and what suits your level."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "Demo class"
+      },
+      {
+        "value": "Small",
+        "label": "Batches for attention"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Visit A Demo Class",
+          "text": "Message or call to join a school and preschool demo class and meet the teacher."
+        },
+        {
+          "title": "Choose Your Batch",
+          "text": "We suggest a batch for play group that fits your level and your timings."
+        },
+        {
+          "title": "Learn And Practise",
+          "text": "Attend classes for nursery and lower KG, practise between sessions and ask questions freely."
+        },
+        {
+          "title": "Review Progress",
+          "text": "We share simple feedback on upper KG and plan the next steps with you."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I change my batch for outdoor play?",
+        "a": "Tell us as early as you can and we will see what is available. The same approach applies to play group and day care."
+      },
+      {
+        "q": "Can I try a class for play group first?",
+        "a": "Yes. Ask for a demo class and see how the teaching works before you decide. This applies to play group, nursery and lower KG and the rest of our school and preschool work."
+      },
+      {
+        "q": "How do I choose a batch for school and preschool?",
+        "a": "Tell us your level, your goal and your free timings and we will suggest the best fit. It is the same for nursery and lower KG as it is for play group."
+      },
+      {
+        "q": "What should a beginner expect in nursery and lower KG?",
+        "a": "A calm start from the basics, with practice and time for questions at every step. That goes for upper KG and activity time too."
+      },
+      {
+        "q": "Can I ask doubts after upper KG classes?",
+        "a": "Yes. Doubts are welcome in class and by message afterwards. Ask us about outdoor play or day care and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Want To Learn Play Group?",
+      "button": "Ask About Admission"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local school and preschool centre. We teach step by step, keep batches manageable and leave room for every question.",
+        "We teach play group, nursery and lower KG and upper KG, and we are glad to talk through your goals before you enrol."
+      ],
+      "points": [
+        "Simple Feedback",
+        "Friendly Teachers",
+        "Flexible Batches"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Fees For School And Preschool",
+      "plans": [
+        {
+          "name": "Trial",
+          "price": "$12",
+          "period": "/month daycare",
+          "perks": [
+            "Play Group Demo Class",
+            "Meet The Teacher",
+            "Batch Advice"
+          ]
+        },
+        {
+          "name": "Monthly",
+          "price": "$25",
+          "period": "/month preschool",
+          "perks": [
+            "Play Group And Nursery And Lower KG",
+            "Regular Feedback",
+            "Doubt Sessions"
+          ]
+        },
+        {
+          "name": "Full Course",
+          "price": "$40",
+          "period": "/month full day",
+          "perks": [
+            "Play Group Plus Nursery And Lower KG And Upper KG",
+            "Extended Practice",
+            "Progress Reviews"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Our School And Preschool Classes",
+      "captions": [
+        "Play Group",
+        "Nursery And Lower KG",
+        "Upper KG",
+        "Activity Time",
+        "Outdoor Play",
+        "Day Care"
+      ]
+    },
+    "team": {
+      "title": "Meet The Teachers",
+      "roles": [
+        "Lead Teacher",
+        "Activity Coordinator",
+        "Admissions Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Quick reply about activity time and a batch that suited our timings.",
+        "role": "Parent"
+      },
+      {
+        "quote": "The play group class was clear and the teacher gave time for every doubt.",
+        "role": "Parent"
+      },
+      {
+        "quote": "Easy to join nursery and lower KG, and the feedback was simple to follow.",
+        "role": "Student"
+      }
+    ],
+    "blog": {
+      "title": "School And Preschool Study Tips",
+      "posts": [
+        {
+          "tag": "Planning",
+          "title": "Planning Your Time For Activity Time"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Outdoor Play"
+        },
+        {
+          "tag": "Mistakes",
+          "title": "Common Slips In Day Care"
+        }
+      ]
+    },
+    "marquee": [
+      "Play Group",
+      "Lower KG",
+      "Upper KG",
+      "Activity Time",
+      "Outdoor Play",
+      "Demo Class",
+      "Small Batches",
+      "Doubts Welcome"
+    ],
+    "contactText": "Tell {brand} what you want to learn: play group, upper KG or something close. We will answer with a batch and a time to visit."
+  },
+  {
+    "id": "photography_studio",
+    "label": "Photography studio",
+    "theme": "creative_studio",
+    "keywords": [
+      "photography studio",
+      "photographer",
+      "wedding photographer",
+      "photo studio",
+      "portrait shoot",
+      "pre wedding shoot",
+      "photo shoot",
+      "फोटोग्राफर",
+      "फोटो स्टूडियो"
+    ],
+    "heroTitles": [
+      "Photography Studio Done The Careful Way",
+      "Wedding Photography And Pre Wedding Shoot With Care",
+      "Photography Studio That Starts With A Brief"
+    ],
+    "heroSubtitles": [
+      "From wedding photography to pre wedding shoot, {brand} keeps each project simple: a brief, a draft you can react to and a finish you approve.",
+      "{brand} creates wedding photography and family and baby shoots. We listen to the idea first, agree the scope and keep you informed along the way.",
+      "Need wedding photography or product and business shoots? {brand} sets out the scope and the cost first, then delivers in clear stages."
+    ],
+    "button": "Book A Shoot",
+    "featureTitle": "Our Photography Studio Services",
+    "features": [
+      {
+        "title": "Wedding Photography",
+        "text": "For wedding photography, we work in clear stages and check each one with you."
+      },
+      {
+        "title": "Pre Wedding Shoot",
+        "text": "Pre Wedding Shoot delivered in the format you need, with a final review before handover."
+      },
+      {
+        "title": "Portrait Sessions",
+        "text": "Questions about portrait sessions? Message us and we will walk you through the process."
+      },
+      {
+        "title": "Family And Baby Shoots",
+        "text": "We start family and baby shoots with a short brief, so the scope, timing and cost are clear from day one."
+      },
+      {
+        "title": "Product And Business Shoots",
+        "text": "Product And Business Shoots shaped around your idea, with a draft you can comment on before it is final."
+      },
+      {
+        "title": "Photo Albums And Prints",
+        "text": "Ask about photo albums and prints; we explain the options, show examples and agree what is included."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First consultation"
+      },
+      {
+        "value": "Clear",
+        "label": "Scope and timeline"
+      },
+      {
+        "value": "Written",
+        "label": "Quote before work"
+      }
+    ],
+    "steps": {
+      "title": "How A Project Runs",
+      "items": [
+        {
+          "title": "Share Your Brief",
+          "text": "Tell us about your photography studio idea, the purpose and any references you like."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We outline the scope for wedding photography, the timeline and the cost, and confirm them with you."
+        },
+        {
+          "title": "Review The Draft",
+          "text": "You see the first version of the pre wedding shoot work and tell us what to change."
+        },
+        {
+          "title": "Approve And Deliver",
+          "text": "We finalise portrait sessions, hand it over in the format you need and stay available for questions."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What do you need from me for portrait sessions?",
+        "a": "A clear idea of the purpose, any references and the date you need it; we will ask for the rest. Ask us about product and business shoots or photo albums and prints and the answer is the same."
+      },
+      {
+        "q": "Can I ask for changes during photography studio work?",
+        "a": "Yes. Feedback is part of the process and we tell you upfront how revisions are handled. The same approach applies to wedding photography and photo albums and prints."
+      },
+      {
+        "q": "What formats do you deliver wedding photography in?",
+        "a": "Tell us where it will be used and we will deliver in the formats that suit that purpose. This applies to wedding photography, pre wedding shoot and the rest of our photography studio work."
+      },
+      {
+        "q": "Do you take small photography studio jobs?",
+        "a": "Yes. Small projects follow the same clear steps, with a quote and a plan first. It is the same for pre wedding shoot as it is for wedding photography."
+      },
+      {
+        "q": "How long does family and baby shoots take?",
+        "a": "It depends on the scope; we give a timeline with the quote and update you if anything changes. That goes for portrait sessions and family and baby shoots too."
+      }
+    ],
+    "cta": {
+      "title": "Have An Idea For Photography Studio?",
+      "button": "Book A Shoot"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good photography studio begins with listening. You hear the plan and the cost first, and the work follows in clear stages.",
+        "Our work includes wedding photography and pre wedding shoot. Ask about family and baby shoots or product and business shoots too and we will say plainly what is possible."
+      ],
+      "points": [
+        "Brief Before Work",
+        "Drafts You Can Review",
+        "Plain Language"
+      ]
+    },
+    "pricing": {
+      "title": "Photography Studio Pricing",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$60",
+          "period": "/portrait shoot",
+          "perks": [
+            "Wedding Photography Only",
+            "Written Quote First",
+            "One Round Of Feedback"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$250",
+          "period": "/event",
+          "perks": [
+            "Wedding Photography And Pre Wedding Shoot",
+            "Two Rounds Of Feedback",
+            "Priority Scheduling"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$600",
+          "period": "/wedding",
+          "perks": [
+            "Wedding Photography Plus Pre Wedding Shoot And Portrait Sessions",
+            "Extended Feedback",
+            "Handover Support"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Photography Studio Work",
+      "captions": [
+        "Wedding Photography",
+        "Pre Wedding Shoot",
+        "Portrait Sessions",
+        "Family And Baby Shoots",
+        "Product And Business Shoots",
+        "Photo Albums And Prints"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Lead Photographer",
+        "Photo Editor",
+        "Booking Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Friendly team, and the photography studio work matched what we discussed.",
+        "role": "Customer"
+      },
+      {
+        "quote": "I liked that wedding photography was planned in stages and I could comment on each.",
+        "role": "Startup founder"
+      },
+      {
+        "quote": "Straight answers about family and baby shoots and no surprises in the final cost.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "From The Photography Studio Desk",
+      "posts": [
+        {
+          "tag": "Planning",
+          "title": "Getting Ready For Portrait Sessions"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Simple Ways To Plan Family And Baby Shoots"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Product And Business Shoots"
+        }
+      ]
+    },
+    "marquee": [
+      "Wedding",
+      "Pre Wedding",
+      "Portrait",
+      "Baby Shoots",
+      "Business Shoots",
+      "Clear Scope",
+      "Open Feedback",
+      "Plain Quotes"
+    ],
+    "contactText": "Tell {brand} about your idea: wedding photography, portrait sessions or something close. We will answer with a plan and an honest quote."
+  },
+  {
+    "id": "plumber_electrician",
+    "label": "Plumber and electrician",
+    "theme": "home_services",
+    "keywords": [
+      "plumber",
+      "electrician",
+      "plumbing repair",
+      "electrical wiring",
+      "handyman",
+      "bijli mistri",
+      "पलम्बर",
+      "प्लंबर"
+    ],
+    "heroTitles": [
+      "Plumber And Electrician That Respects Your Time",
+      "Plain Answers On Tap And Pipe Repair",
+      "Plumber And Electrician Without The Runaround"
+    ],
+    "heroSubtitles": [
+      "{brand} handles tap and pipe repair, drain blockage and water tank and motor. Tell us what you need and get a clear plan and price before we start.",
+      "Looking for help with plumber and electrician? {brand} explains the work, the cost and the timing first, then does the job tidily.",
+      "From tap and pipe repair to drain blockage, {brand} keeps things simple: a short chat, a fair quote and a visit at a time that suits you."
+    ],
+    "button": "Book A Home Visit",
+    "featureTitle": "Our Plumber And Electrician Services",
+    "features": [
+      {
+        "title": "Tap And Pipe Repair",
+        "text": "Ask about tap and pipe repair and get a clear quote, a time that suits you and a tidy finish."
+      },
+      {
+        "title": "Drain Blockage",
+        "text": "For drain blockage, we look at the place first, then suggest the simplest fix that lasts."
+      },
+      {
+        "title": "Water Tank And Motor",
+        "text": "Need water tank and motor? Tell us what is wrong and we will say what can be done and when."
+      },
+      {
+        "title": "Switch And Socket Repair",
+        "text": "Switch And Socket Repair with a short check at the end, so you know the job is finished properly."
+      },
+      {
+        "title": "Fan, Light And Geyser Fitting",
+        "text": "We explain what fan, light and geyser fitting involves, the options and the cost before any work begins."
+      },
+      {
+        "title": "MCB And Wiring Work",
+        "text": "MCB And Wiring Work by a local team, with the price and timing agreed with you first."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First quote"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Local",
+        "label": "Team near you"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Describe the plumber and electrician job by call or message, with a photo if that helps."
+        },
+        {
+          "title": "Get A Clear Quote",
+          "text": "We explain the options for tap and pipe repair and give you the price before anything starts."
+        },
+        {
+          "title": "We Do The Work",
+          "text": "Our team arrives at the agreed time and completes the drain blockage work with care."
+        },
+        {
+          "title": "Check And Follow Up",
+          "text": "We go through the result with you and stay reachable for questions on water tank and motor afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I ask questions after water tank and motor?",
+        "a": "Yes. Message us any time after the job and we will answer or come back to check. Ask us about fan, light and geyser fitting or MCB and wiring work and the answer is the same."
+      },
+      {
+        "q": "Do you handle small plumber and electrician jobs too?",
+        "a": "Yes. Small and large jobs get the same care, and we quote both in the same clear way. The same approach applies to tap and pipe repair and MCB and wiring work."
+      },
+      {
+        "q": "How do you charge for switch and socket repair?",
+        "a": "We quote by the job and tell you what is included, so the final bill matches what we agreed. This applies to tap and pipe repair, drain blockage and the rest of our plumber and electrician work."
+      },
+      {
+        "q": "How do I get a quote for tap and pipe repair?",
+        "a": "Send a message or call with a few details and we will reply with a clear price before any work starts. It is the same for drain blockage as it is for tap and pipe repair."
+      },
+      {
+        "q": "Is there a charge to look at a plumber and electrician job?",
+        "a": "Ask us when you book; any visit charge is told upfront, so there are no surprises later. That goes for water tank and motor and switch and socket repair too."
+      }
+    ],
+    "cta": {
+      "title": "Need Plumber And Electrician At Your Place?",
+      "button": "Book A Home Visit"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local team for plumber and electrician. We keep our work simple: listen to the problem, explain the options and do the job properly.",
+        "We cover tap and pipe repair, drain blockage and water tank and motor, and we are happy to talk it through with you before you decide on anything."
+      ],
+      "points": [
+        "Plain Explanations",
+        "Fixed Visit Times",
+        "Follow-Up On Request"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Plumber And Electrician",
+      "plans": [
+        {
+          "name": "Single Visit",
+          "price": "$6",
+          "period": "/visit",
+          "perks": [
+            "Tap And Pipe Repair Only",
+            "Written Quote First",
+            "Time Slot You Choose"
+          ]
+        },
+        {
+          "name": "Regular Care",
+          "price": "$20",
+          "period": "/repair job",
+          "perks": [
+            "Tap And Pipe Repair And Drain Blockage",
+            "Follow-Up Check",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Service",
+          "price": "$60",
+          "period": "/installation job",
+          "perks": [
+            "Tap And Pipe Repair Plus Drain Blockage And Water Tank And Motor",
+            "Extended Follow-Up",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Plumber And Electrician At Work",
+      "captions": [
+        "Tap And Pipe Repair",
+        "Drain Blockage",
+        "Water Tank And Motor",
+        "Switch And Socket Repair",
+        "Fan Light And Geyser",
+        "MCB And Wiring Work"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Plumber And Electrician Technician",
+        "Tap And Pipe Repair Lead",
+        "Plumber And Electrician Support Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Clear quote for drain blockage, no pressure, and the place was left tidy.",
+        "role": "Shop owner"
+      },
+      {
+        "quote": "They answered every question about water tank and motor before starting.",
+        "role": "Flat resident"
+      },
+      {
+        "quote": "Easy to book, on time, and the plumber and electrician work looked neat at the end.",
+        "role": "Home owner"
+      }
+    ],
+    "blog": {
+      "title": "Plumber And Electrician Tips And Guides",
+      "posts": [
+        {
+          "tag": "Cost",
+          "title": "What Affects The Cost Of Tap And Pipe Repair"
+        },
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask Before Drain Blockage"
+        },
+        {
+          "tag": "Planning",
+          "title": "Preparing Your Place For Water Tank And Motor"
+        }
+      ]
+    },
+    "marquee": [
+      "Pipe Repair",
+      "Drain Blockage",
+      "Water Tank",
+      "Socket Repair",
+      "Fan Light",
+      "Free Quote",
+      "Local Team",
+      "Clear Pricing"
+    ],
+    "contactText": "Tell {brand} what you need: tap and pipe repair, water tank and motor or anything close to it. We will answer with the next step and a clear quote."
+  },
+  {
+    "id": "car_wash_detailing",
+    "label": "Car wash and detailing",
+    "theme": "automotive",
+    "keywords": [
+      "car wash",
+      "car detailing",
+      "ceramic coating",
+      "car spa",
+      "car polish",
+      "car cleaning",
+      "car interior cleaning",
+      "कार वॉश",
+      "कार डिटेलिंग"
+    ],
+    "heroTitles": [
+      "Straight Talk On Exterior Foam Wash",
+      "Car Wash And Detailing Without The Waiting Around",
+      "Simple Car Wash And Detailing For Every Day"
+    ],
+    "heroSubtitles": [
+      "Looking for help with car wash and detailing? {brand} explains the work and the cost first, then gets on with it.",
+      "From exterior foam wash to ceramic coating, {brand} keeps it simple: a short chat, a clear price and a booking that fits your day.",
+      "{brand} takes care of exterior foam wash and interior vacuum cleaning, tells you what is needed and what is not, and keeps you updated."
+    ],
+    "button": "Book A Car Wash",
+    "featureTitle": "Car Wash And Detailing Services We Offer",
+    "features": [
+      {
+        "title": "Exterior Foam Wash",
+        "text": "Questions about exterior foam wash? Message us and we will answer before you book."
+      },
+      {
+        "title": "Interior Vacuum Cleaning",
+        "text": "We tell you what interior vacuum cleaning involves, how long it takes and the cost before we start."
+      },
+      {
+        "title": "Machine Polishing",
+        "text": "Machine Polishing with the price and timing agreed up front, so there are no surprises."
+      },
+      {
+        "title": "Ceramic Coating",
+        "text": "Ask about ceramic coating; we explain the options in plain words and let you decide."
+      },
+      {
+        "title": "Interior Detailing",
+        "text": "For interior detailing, we check the basics first and suggest only what is actually needed."
+      },
+      {
+        "title": "Underbody And Engine Wash",
+        "text": "Underbody And Engine Wash booked at a time that suits you, with an update when it is done."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Price before work"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Free",
+        "label": "Quote on request"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Share the car wash and detailing requirement by call or message, with the vehicle details."
+        },
+        {
+          "title": "Get A Clear Price",
+          "text": "We explain exterior foam wash and the options, and tell you the cost before we begin."
+        },
+        {
+          "title": "Pick A Time",
+          "text": "Choose a slot that suits you and we confirm it, so the interior vacuum cleaning work fits your day."
+        },
+        {
+          "title": "Collect And Review",
+          "text": "We go through what was done on machine polishing and answer any questions afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What details do you need for car wash and detailing?",
+        "a": "The vehicle type, what you need done and a day that suits you; we will ask for anything else. Ask us about interior detailing or underbody and engine wash and the answer is the same."
+      },
+      {
+        "q": "Can you work to my timings for exterior foam wash?",
+        "a": "Tell us what suits you and we will offer the nearest slot that fits. The same approach applies to exterior foam wash and underbody and engine wash."
+      },
+      {
+        "q": "How do you explain ceramic coating?",
+        "a": "We say what it is, why it matters and what it costs, then leave the decision to you. This applies to exterior foam wash, interior vacuum cleaning and the rest of our car wash and detailing work."
+      },
+      {
+        "q": "Is there a charge to ask about car wash and detailing?",
+        "a": "No. Asking and getting a rough idea of cost is free. It is the same for interior vacuum cleaning as it is for exterior foam wash."
+      },
+      {
+        "q": "What if I need more than exterior foam wash?",
+        "a": "Tell us at booking or on the day; we will say what else is worth doing and what can wait. That goes for machine polishing and ceramic coating too."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Book Car Wash And Detailing Today?",
+      "button": "Book A Car Wash"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local business for car wash and detailing. We keep it simple: listen, explain the work and the cost, and do it properly.",
+        "We handle exterior foam wash, interior vacuum cleaning and machine polishing, and we are happy to talk through what you need before you decide."
+      ],
+      "points": [
+        "Clear Updates",
+        "Friendly Team",
+        "Honest Advice"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Car Wash And Detailing",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "$4",
+          "period": "/wash",
+          "perks": [
+            "Exterior Foam Wash Only",
+            "Price Told First",
+            "Slot You Choose"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$12",
+          "period": "/detailing",
+          "perks": [
+            "Exterior Foam Wash And Interior Vacuum Cleaning",
+            "Update When Done",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$45",
+          "period": "/ceramic coating",
+          "perks": [
+            "Exterior Foam Wash Plus Interior Vacuum Cleaning And Machine Polishing",
+            "Follow-Up Check",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Car Wash And Detailing At Work",
+      "captions": [
+        "Exterior Foam Wash",
+        "Interior Vacuum Cleaning",
+        "Machine Polishing",
+        "Ceramic Coating",
+        "Interior Detailing",
+        "Underbody And Engine Wash"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Car Wash And Detailing Specialist",
+        "Exterior Foam Wash Lead",
+        "Car Wash And Detailing Support Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Friendly people and a clear explanation of ceramic coating.",
+        "role": "Customer"
+      },
+      {
+        "quote": "Exterior Foam Wash was explained first, priced clearly and finished when promised.",
+        "role": "Car owner"
+      },
+      {
+        "quote": "Easy to book, and they told me what interior vacuum cleaning really needed.",
+        "role": "Bike owner"
+      }
+    ],
+    "blog": {
+      "title": "Car Wash And Detailing Tips And Guides",
+      "posts": [
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Interior Detailing"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Choose A Car Wash And Detailing Provider"
+        },
+        {
+          "tag": "Cost",
+          "title": "What Affects The Cost Of Exterior Foam Wash"
+        }
+      ]
+    },
+    "marquee": [
+      "Exterior Foam",
+      "Interior Vacuum",
+      "Machine",
+      "Ceramic Coating",
+      "Interior",
+      "Free Quote",
+      "Clear Pricing",
+      "Local Team"
+    ],
+    "contactText": "Tell {brand} what you need: exterior foam wash, machine polishing or something close. We will answer with the next step and a clear price."
+  },
+  {
+    "id": "used_car_dealer",
+    "label": "Used car dealer",
+    "theme": "automotive",
+    "keywords": [
+      "used cars",
+      "second hand car",
+      "pre owned car",
+      "used car dealer",
+      "car showroom",
+      "purani car",
+      "sell my old car",
+      "सेकंड हैंड कार",
+      "पुरानी कार"
+    ],
+    "heroTitles": [
+      "Hatchbacks, Sedans And SUVs And Test Drive",
+      "Straight Talk On Hatchbacks",
+      "Used Car Dealer Without The Waiting Around"
+    ],
+    "heroSubtitles": [
+      "Looking for help with used car dealer? {brand} explains the work and the cost first, then gets on with it.",
+      "From hatchbacks to service history, {brand} keeps it simple: a short chat, a clear price and a booking that fits your day.",
+      "{brand} takes care of hatchbacks and sedans and suvs, tells you what is needed and what is not, and keeps you updated."
+    ],
+    "button": "Book A Test Drive",
+    "featureTitle": "Our Used Car Dealer Services",
+    "features": [
+      {
+        "title": "Hatchbacks",
+        "text": "We tell you what hatchbacks involves, how long it takes and the cost before we start."
+      },
+      {
+        "title": "Sedans And SUVs",
+        "text": "Sedans And SUVs with the price and timing agreed up front, so there are no surprises."
+      },
+      {
+        "title": "Test Drive",
+        "text": "Ask about test drive; we explain the options in plain words and let you decide."
+      },
+      {
+        "title": "Service History",
+        "text": "For service history, we check the basics first and suggest only what is actually needed."
+      },
+      {
+        "title": "Sell Your Car",
+        "text": "Sell Your Car booked at a time that suits you, with an update when it is done."
+      },
+      {
+        "title": "Finance And Transfer",
+        "text": "Questions about finance and transfer? Message us and we will answer before you book."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Booked",
+        "label": "Slot that suits you"
+      },
+      {
+        "value": "Plain",
+        "label": "Explanations"
+      },
+      {
+        "value": "Local",
+        "label": "Team near you"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Share the used car dealer requirement by call or message, with the vehicle details."
+        },
+        {
+          "title": "Get A Clear Price",
+          "text": "We explain hatchbacks and the options, and tell you the cost before we begin."
+        },
+        {
+          "title": "Pick A Time",
+          "text": "Choose a slot that suits you and we confirm it, so the sedans and suvs work fits your day."
+        },
+        {
+          "title": "Collect And Review",
+          "text": "We go through what was done on test drive and answer any questions afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can you work to my timings for hatchbacks?",
+        "a": "Tell us what suits you and we will offer the nearest slot that fits. The same approach applies to hatchbacks and finance and transfer."
+      },
+      {
+        "q": "How do you explain service history?",
+        "a": "We say what it is, why it matters and what it costs, then leave the decision to you. This applies to hatchbacks, sedans and suvs and the rest of our used car dealer work."
+      },
+      {
+        "q": "Is there a charge to ask about used car dealer?",
+        "a": "No. Asking and getting a rough idea of cost is free. It is the same for sedans and suvs as it is for hatchbacks."
+      },
+      {
+        "q": "What if I need more than hatchbacks?",
+        "a": "Tell us at booking or on the day; we will say what else is worth doing and what can wait. That goes for test drive and service history too."
+      },
+      {
+        "q": "How do I book hatchbacks?",
+        "a": "Call or message with your vehicle details and the day you prefer, and we will confirm a slot. Ask us about sell your car or finance and transfer and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Want A Clear Price For Hatchbacks?",
+      "button": "Book A Test Drive"
+    },
+    "about": {
+      "title": "About Our Used Car Dealer Team",
+      "paragraphs": [
+        "{brand} is a local business for used car dealer. We keep it simple: listen, explain the work and the cost, and do it properly.",
+        "We handle hatchbacks, sedans and suvs and test drive, and we are happy to talk through what you need before you decide."
+      ],
+      "points": [
+        "Clear Updates",
+        "Friendly Team",
+        "Honest Advice"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Used Car Dealer",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "$0",
+          "period": "/test drive",
+          "perks": [
+            "Hatchbacks Only",
+            "Price Told First",
+            "Slot You Choose"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$25",
+          "period": "/inspection",
+          "perks": [
+            "Hatchbacks And Sedans And SUVs",
+            "Update When Done",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$60",
+          "period": "/paperwork support",
+          "perks": [
+            "Hatchbacks Plus Sedans And SUVs And Test Drive",
+            "Follow-Up Check",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Used Car Dealer Work",
+      "captions": [
+        "Hatchbacks Work",
+        "Sedans And SUVs",
+        "Test Drive",
+        "Service History",
+        "Sell Your Car",
+        "Finance And Transfer"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Used Car Dealer Specialist",
+        "Hatchbacks Lead",
+        "Used Car Dealer Support Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Hatchbacks was explained first, priced clearly and finished when promised.",
+        "role": "Car owner"
+      },
+      {
+        "quote": "Easy to book, and they told me what sedans and suvs really needed.",
+        "role": "Bike owner"
+      },
+      {
+        "quote": "No pressure, just a straight answer on test drive.",
+        "role": "Daily commuter"
+      }
+    ],
+    "blog": {
+      "title": "Used Car Dealer Tips And Guides",
+      "posts": [
+        {
+          "tag": "Advice",
+          "title": "Small Signs You Need Service History"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Sell Your Car"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Choose A Used Car Dealer Provider"
+        }
+      ]
+    },
+    "marquee": [
+      "Hatchbacks",
+      "Sedans",
+      "Test Drive",
+      "Service History",
+      "Sell Your",
+      "Free Quote",
+      "Clear Pricing",
+      "Local Team"
+    ],
+    "contactText": "Call or message {brand} to talk about hatchbacks or sedans and suvs. We reply with a clear price and a slot that works for you."
+  }
+]

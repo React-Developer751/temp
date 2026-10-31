@@ -1,0 +1,316 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PixelMath Studio</title>
+<link rel="stylesheet" href="/ui/style.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%234f46e5'/%3E%3Cpath d='M7 22l6-12 5 8 3-4 4 8z' fill='%23fff'/%3E%3C/svg%3E">
+</head>
+<body>
+<header class="top">
+  <div class="brand"><span class="logo" aria-hidden="true"></span><strong>PixelMath</strong><span class="muted"> Studio</span></div>
+  <nav class="tabs" role="tablist" aria-label="Sections">
+    <button class="tab active" role="tab" data-tab="create" aria-selected="true">Create</button>
+    <button class="tab" role="tab" data-tab="studio" aria-selected="false">Studio</button>
+    <button class="tab" role="tab" data-tab="gallery" aria-selected="false">Gallery</button>
+    <button class="tab" role="tab" data-tab="train" aria-selected="false">Train</button>
+    <button class="tab" role="tab" data-tab="dataset" aria-selected="false">Dataset</button>
+    <button class="tab" role="tab" data-tab="model" aria-selected="false">Model</button>
+  </nav>
+  <div class="status">
+    <span id="status-pill" class="pill">connecting&hellip;</span>
+    <button id="key-btn" class="ghost small" hidden>API key</button>
+  </div>
+</header>
+
+<div id="banner" class="banner" role="alert" hidden></div>
+
+<main>
+<!-- ============================================================== CREATE -->
+<section id="tab-create" class="panel active">
+  <div class="grid two">
+    <div class="card controls">
+      <label for="prompt" class="lbl">What should it draw?</label>
+      <textarea id="prompt" rows="3" maxlength="2000" placeholder="e.g. laptop and coffee cup &mdash; or: red house near a lake at sunset &mdash; or: mandelbrot complementary">laptop and coffee cup</textarea>
+      <div id="chips" class="chips" aria-label="Examples"></div>
+
+      <div class="lbl">Mode</div>
+      <div class="seg" id="mode-seg" role="radiogroup" aria-label="Mode">
+        <button type="button" role="radio" data-mode="plain" class="on" aria-checked="true" title="Exactly what the prompt says. Same prompt + seed = same picture.">Plain</button>
+        <button type="button" role="radio" data-mode="creative" aria-checked="false" title="Proposes variations, a critic judges them, the best is kept.">Creative</button>
+        <button type="button" role="radio" data-mode="imagine" aria-checked="false" title="Mashes two random ideas (your prompt is kept as one of them).">Mash-up</button>
+      </div>
+      <p id="mode-help" class="hint"></p>
+
+      <div id="creative-opts" class="opts" hidden>
+        <label>Temperature <output id="temp-out">0.8</output>
+          <input type="range" id="temp" min="0" max="1" step="0.05" value="0.8"></label>
+        <div class="row3">
+          <label>Population <input type="number" id="pop" min="2" max="16" value="8"></label>
+          <label>Generations <input type="number" id="gen" min="0" max="6" value="3"></label>
+          <label title="Judge this many extra random ideas at thumbnail size first">Explore <input type="number" id="explore" min="0" max="500" value="0"></label>
+        </div>
+      </div>
+
+      <div class="row3">
+        <label>Size
+          <select id="size"><option>256</option><option>384</option><option selected>512</option><option>768</option><option>1024</option></select></label>
+        <label>Seed
+          <span class="inline"><input type="number" id="seed" min="0" max="2147483647" value="0"><button type="button" id="dice" class="ghost icon" title="Random seed" aria-label="Random seed">&#127922;</button></span></label>
+        <label id="learned-wrap" title="How the trained model is used">Trained model
+          <select id="learned"><option value="auto">auto</option><option value="always">always</option><option value="blend">blend</option><option value="off">off</option></select></label>
+      </div>
+
+      <label id="save-wrap" class="check inline-check" hidden title="Keep every picture in the Gallery tab (stored in the database next to your model)">
+        <input type="checkbox" id="save" checked> Save pictures to the gallery</label>
+      <div class="actions">
+        <button id="go" class="primary">Generate</button>
+        <button id="cancel" class="ghost" hidden>Cancel</button>
+        <span id="busy" class="muted" aria-live="polite"></span>
+      </div>
+    </div>
+
+    <div class="card result">
+      <div id="empty" class="empty">Your picture will appear here.</div>
+      <figure id="figure" hidden>
+        <img id="out" alt="Generated image">
+        <figcaption id="meta" class="meta"></figcaption>
+      </figure>
+      <div id="result-actions" class="actions" hidden>
+        <a id="download" class="btn" download="pixelmath.png">Download PNG</a>
+        <button id="reuse" class="ghost">Use this prompt &amp; seed</button>
+        <button id="copy-curl" class="ghost">Copy API call</button>
+      </div>
+      <ul id="warnings" class="warn"></ul>
+    </div>
+  </div>
+
+  <div id="creation" class="card" hidden>
+    <h2>What it thought</h2>
+    <div class="grid two">
+      <div>
+        <ul id="thinking" class="thinking"></ul>
+        <div id="alts-wrap" hidden><h3>Other good ones</h3><div id="alts" class="alts"></div></div>
+      </div>
+      <div>
+        <h3>Critic scores</h3>
+        <div id="scores" class="scores"></div>
+        <h3>Generations</h3>
+        <div id="gens" class="gens" aria-label="Best score per generation"></div>
+      </div>
+    </div>
+  </div>
+
+  <details id="parse-box" class="card" hidden>
+    <summary>How the prompt was understood</summary>
+    <div id="parse-body"></div>
+  </details>
+
+  <div id="history-wrap" class="card" hidden>
+    <h2>This session</h2>
+    <div id="history" class="history"></div>
+  </div>
+</section>
+
+<!-- ============================================================== TRAIN -->
+<section id="tab-train" class="panel">
+  <div class="card">
+    <h2>Teach it with your own images</h2>
+    <p class="hint">Pick images (or a folder), type what each one shows, press Train. The engine learns which words go with which colours and layout, in a coarse 16&times;16 colour grid. It does not learn to draw new objects. Captions of 2&ndash;6 words work best, and a few dozen images already show an effect. You can train again later: new images are added to what it already knows.</p>
+    <div class="actions wrap">
+      <label class="btn file">Pick images<input type="file" id="pick-images" accept="image/png,image/jpeg,image/bmp" multiple hidden></label>
+      <label class="btn file">Pick a folder<input type="file" id="pick-folder" webkitdirectory multiple hidden></label>
+      <label class="btn file ghost">Use a ready zip<input type="file" id="pick-zip" accept=".zip,application/zip" hidden></label>
+      <button id="clear-items" class="ghost" hidden>Clear</button>
+    </div>
+    <p id="zip-note" class="hint" hidden></p>
+    <div id="items" class="items"></div>
+    <div id="bulk" class="bulk" hidden>
+      <label>Fill empty captions with <input type="text" id="bulk-text" placeholder="e.g. red logo"></label>
+      <button id="bulk-go" class="ghost small">Apply</button>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="row3">
+      <label>Epochs <input type="number" id="epochs" min="1" max="500" value="80"></label>
+      <label class="check"><input type="checkbox" id="fresh"> Start fresh (forget old training)</label>
+      <label class="check"><input type="checkbox" id="refit" checked> Refit on all data</label>
+    </div>
+    <details class="adv"><summary>Advanced</summary>
+      <div class="row3">
+        <label>Learning rate <input type="number" id="lr" step="0.05" min="0.01" max="5" value="0.3"></label>
+        <label>Validation share <input type="number" id="valfrac" step="0.05" min="0" max="0.49" value="0.15"></label>
+        <label>Grid (new model) <input type="number" id="grid" min="4" max="64" value="16"></label>
+      </div>
+    </details>
+    <div class="actions">
+      <button id="train-go" class="primary" disabled>Train</button>
+      <span id="train-busy" class="muted" aria-live="polite"></span>
+    </div>
+    <div id="job" class="job" hidden>
+      <div class="bar"><span id="job-bar"></span></div>
+      <div id="job-text" class="muted"></div>
+      <div id="job-result"></div>
+    </div>
+  </div>
+  <div class="card" id="history-card" hidden>
+    <h3>Training history</h3>
+    <div id="job-history" class="jobs"></div>
+  </div>
+</section>
+
+<!-- ============================================================== STUDIO -->
+<section id="tab-studio" class="panel">
+  <div class="grid two">
+    <div class="card controls">
+      <h2>Website pictures</h2>
+      <p class="hint">Premium scenes for a business website: first screen (hero), About and gallery. The niche is read from your words; if none fits you get a neutral abstract and a clear "fallback" note, never a wrong picture.</p>
+      <label for="st-prompt" class="lbl">Describe the business</label>
+      <textarea id="st-prompt" rows="2" maxlength="2000" placeholder="e.g. wood fired pizza on a board, gym with dumbbells in red light, dental clinic reception calm blue">wood fired pizza on a board</textarea>
+      <div id="st-chips" class="chips"></div>
+
+      <div class="lbl">What to make</div>
+      <div class="seg" id="st-kind" role="radiogroup" aria-label="What to make">
+        <button type="button" role="radio" data-kind="one" class="on" aria-checked="true">One picture</button>
+        <button type="button" role="radio" data-kind="set" aria-checked="false">Site set</button>
+      </div>
+      <div class="row3">
+        <label id="st-size-wrap">Picture
+          <select id="st-size"><option value="1280x640" selected>Hero 1280&times;640</option><option value="640x600">About 640&times;600</option><option value="640x400">Tile 640&times;400</option><option value="480x480">Square 480&times;480</option></select></label>
+        <label id="st-count-wrap" hidden>Pictures in the set
+          <select id="st-count"><option>3</option><option>4</option><option>5</option><option selected>6</option><option>7</option><option>8</option></select></label>
+        <label>Seed <input type="number" id="st-seed" min="0" max="2147483647" value="1"></label>
+        <label>Text area
+          <select id="st-zone"><option value="left" selected>left</option><option value="center">center</option><option value="bottom">bottom</option><option value="none">none</option></select></label>
+      </div>
+      <div class="row3">
+        <label>Niche
+          <select id="st-niche"><option value="">auto (from the words)</option></select></label>
+        <label>Mood
+          <select id="st-mood"><option value="">auto</option><option>warm</option><option>cool</option><option>dark</option><option>light</option></select></label>
+        <label>Accent colour
+          <span class="inline"><input type="color" id="st-accent" value="#c0392b" aria-label="Accent colour"><label class="check mini"><input type="checkbox" id="st-accent-on"> use</label></span></label>
+      </div>
+      <div class="actions">
+        <button id="st-go" class="primary">Create</button>
+        <button id="st-cancel" class="ghost" hidden>Cancel</button>
+        <span id="st-busy" class="muted" aria-live="polite"></span>
+      </div>
+    </div>
+
+    <div class="card result">
+      <div id="st-empty" class="empty">Your website pictures appear here.</div>
+      <div id="st-out" hidden>
+        <div id="st-banner" class="notice" hidden></div>
+        <div id="st-main" class="stage-wrap"><img id="st-img" alt="Generated website picture"><div id="st-overlay" class="st-overlay" hidden><b>Your headline here</b><span>Sample text: it uses the text colour the judge recommends.</span></div></div>
+        <div id="st-meta" class="meta"></div>
+        <div class="actions wrap"><a id="st-dl" class="btn" download="picture.jpg">Download JPEG</a>
+          <button id="st-toggle" class="ghost" type="button">Hide sample text</button>
+          <button id="st-zip" class="ghost" type="button" hidden>Download all (zip)</button></div>
+        <div id="st-report"></div>
+        <div id="st-set" class="st-set" hidden></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================== GALLERY -->
+<section id="tab-gallery" class="panel">
+  <div class="card">
+    <h2>Gallery</h2>
+    <p id="gallery-off" class="hint" hidden>This server was started without a database, so pictures are not kept. Start it with <code>python3 app.py</code> (database on by default) or <code>--db FILE</code>.</p>
+    <div id="gallery-tools" class="toolbar">
+      <div class="seg" id="gal-filter" role="radiogroup" aria-label="Filter">
+        <button type="button" role="radio" data-fav="0" class="on" aria-checked="true">All</button>
+        <button type="button" role="radio" data-fav="1" aria-checked="false">&#9733; Favourites</button>
+      </div>
+      <input type="search" id="gal-q" placeholder="search prompts" aria-label="Search prompts">
+      <span id="gal-count" class="muted"></span>
+      <button id="gal-clear" class="ghost small" title="Delete every picture that is not a favourite">Clear (keep favourites)</button>
+    </div>
+    <div id="gal-grid" class="tiles"></div>
+    <div class="actions"><button id="gal-more" class="ghost" hidden>Load more</button></div>
+    <div id="gal-empty" class="empty" hidden>No pictures yet. Generate something on the Create tab.</div>
+  </div>
+</section>
+
+<!-- ============================================================== DATASET -->
+<section id="tab-dataset" class="panel">
+  <div class="card">
+    <h2>Trained images</h2>
+    <p class="hint">Everything the model currently learns from. Remove a wrong image or fix a caption: the model is retrained on what is left (usually a few seconds). Images trained before the database existed only show their coarse colour grid.</p>
+    <div class="toolbar">
+      <input type="search" id="ds-q" placeholder="search captions or file names" aria-label="Search trained images">
+      <span id="ds-count" class="muted"></span>
+      <button id="ds-all" class="ghost small">Select all shown</button>
+      <button id="ds-delete" class="ghost small danger" disabled>Delete selected</button>
+    </div>
+    <div id="ds-job" class="job" hidden>
+      <div class="bar"><span id="ds-bar"></span></div>
+      <div id="ds-text" class="muted"></div>
+    </div>
+    <div id="ds-grid" class="tiles ds"></div>
+    <div class="actions"><button id="ds-more" class="ghost" hidden>Load more</button></div>
+    <div id="ds-empty" class="empty" hidden>The model has no trained images yet. Use the Train tab.</div>
+  </div>
+</section>
+
+<!-- ============================================================== MODEL -->
+<section id="tab-model" class="panel">
+  <div class="card">
+    <h2>What it knows</h2>
+    <div id="model-empty" class="empty" hidden>No trained model yet. Train it on the Train tab.</div>
+    <div id="model-body" hidden>
+      <div id="model-stats" class="stats"></div>
+      <h3>Most common words</h3>
+      <div id="top-words" class="words"></div>
+    </div>
+  </div>
+  <div class="card">
+    <h3>Does it know these words?</h3>
+    <div class="actions">
+      <input type="text" id="probe" placeholder="type a prompt, e.g. aqua mossy">
+      <button id="probe-go" class="ghost">Check</button>
+    </div>
+    <div id="probe-out" class="chips"></div>
+  </div>
+  <div class="card">
+    <h3>Use it from another project</h3>
+    <p class="hint">The same server is a normal HTTP API. Import <code>api/postman_collection.json</code> into Postman or call it directly:</p>
+    <pre id="curl-sample" class="code"></pre>
+  </div>
+</section>
+</main>
+
+<dialog id="gal-dialog" class="wide">
+  <div class="dlg-body">
+    <img id="gd-img" alt="">
+    <div class="dlg-side">
+      <h3 id="gd-title"></h3>
+      <div id="gd-meta" class="hint"></div>
+      <ul id="gd-think" class="thinking"></ul>
+      <div class="actions wrap">
+        <button id="gd-fav" class="ghost" type="button">&#9734; Favourite</button>
+        <a id="gd-dl" class="btn" download="pixelmath.png">Download</a>
+        <button id="gd-use" class="ghost" type="button">Use prompt &amp; seed</button>
+        <button id="gd-del" class="ghost danger" type="button">Delete</button>
+        <button id="gd-close" class="ghost" type="button">Close</button>
+      </div>
+    </div>
+  </div>
+</dialog>
+
+<dialog id="key-dialog">
+  <form method="dialog">
+    <h3>API key</h3>
+    <p class="hint">This server was started with an API key. It is kept in this browser only.</p>
+    <input type="password" id="key-input" autocomplete="off" placeholder="X-API-Key">
+    <div class="actions"><button value="ok" class="primary">Save</button><button value="cancel" class="ghost">Cancel</button></div>
+  </form>
+</dialog>
+
+<script src="/ui/app.js"></script>
+</body>
+</html>

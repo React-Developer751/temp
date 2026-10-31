@@ -1,0 +1,180 @@
+{
+  "brand": "Mehendi & Bridal Artist, Udaipur",
+  "niche": "care",
+  "kind": "beauty",
+  "profile": "",
+  "business_type": "mehendi",
+  "type_label": "Mehendi & Bridal Artist",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "playful",
+  "keywords": [
+    "care"
+  ],
+  "eyebrow": "Mehendi & Bridal Artist · Udaipur",
+  "location": "Udaipur",
+  "audience": "",
+  "hero_heading": "Mehendi & Bridal Artist in Udaipur",
+  "tagline": "Take a seat; we'll start with a chat.",
+  "about_title": "About us",
+  "about": [
+    "Tell us what matters most to you.",
+    "You'll find us in Udaipur. Send a short message and we'll take it from there."
+  ],
+  "features_title": "Services",
+  "features": [
+    {
+      "title": "Consultations",
+      "text": "Consultations: ask for details before you make up your mind."
+    },
+    {
+      "title": "Trials",
+      "text": "Ask what to expect from Trials before you book."
+    },
+    {
+      "title": "Saree-drapes",
+      "text": "Tell us what you want from Saree-drapes; we'll suggest what suits you."
+    },
+    {
+      "title": "Bridal-looks",
+      "text": "Curious about Bridal-looks? Ask us anything."
+    },
+    {
+      "title": "Makeovers",
+      "text": "Not sure about Makeovers? Ask for a consultation first."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Clear next steps",
+      "text": "You'll know what comes next."
+    },
+    {
+      "title": "Planned around you",
+      "text": "Not a template."
+    },
+    {
+      "title": "Details explained",
+      "text": "Before anything begins."
+    }
+  ],
+  "stats_title": "Quick facts",
+  "stats": [
+    {
+      "value": "Udaipur",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "What happens next",
+  "steps": [
+    {
+      "title": "Book a time",
+      "text": "Call or message us to book, and tell us what you'd like done."
+    },
+    {
+      "title": "Consultation",
+      "text": "We discuss and agree on the plan."
+    },
+    {
+      "title": "Get started",
+      "text": "We begin when you're ready."
+    }
+  ],
+  "faq_title": "Frequently asked questions",
+  "faq": [
+    {
+      "q": "How do I book an appointment?",
+      "a": "Use the contact details on this page and say which service you want."
+    },
+    {
+      "q": "Do you offer home visits?",
+      "a": "Message us your location and we'll tell you what we can do."
+    },
+    {
+      "q": "Where are you?",
+      "a": "Find us in Udaipur. Message us and we'll send directions."
+    },
+    {
+      "q": "Is there anything I should prepare?",
+      "a": "We'll tell you what to bring or prepare when you get in touch."
+    }
+  ],
+  "blog_title": "From the journal",
+  "blog": [
+    {
+      "title": "Small things that make a difference",
+      "excerpt": "Notes from everyday experience."
+    },
+    {
+      "title": "How long things really take",
+      "excerpt": "Setting expectations on both sides."
+    },
+    {
+      "title": "Planning ahead",
+      "excerpt": "How to give yourself time."
+    }
+  ],
+  "contact": {
+    "place": "Udaipur"
+  },
+  "cta_primary": "Book an appointment",
+  "cta_secondary": "Call the salon",
+  "cta_text": "Tell us the occasion.",
+  "cta_title": "Say hello",
+  "footer": "© Mehendi & Bridal Artist, Udaipur. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Udaipur",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "mehendi (confidence high)",
+    "items_from_prompt": [],
+    "place": "Udaipur",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "beauty"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Mehendi & Bridal Artist, Udaipur' (not a name). Add your business name to replace it.",
+    "Typical mehendi & bridal artist offerings were used for: Consultations, Trials, Saree-drapes, Bridal-looks, Makeovers. List your real services (3 or more) to replace them."
+  ]
+}

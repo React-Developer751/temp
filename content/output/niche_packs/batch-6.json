@@ -1,0 +1,2233 @@
+[
+  {
+    "id": "video_editing_studio",
+    "label": "Video editing studio",
+    "theme": "modern_tech",
+    "keywords": [
+      "video editing",
+      "video editor",
+      "reel editing",
+      "youtube video editing",
+      "wedding video editing",
+      "video editing service",
+      "short video editing",
+      "वीडियो एडिटर",
+      "रील एडिटिंग"
+    ],
+    "heroTitles": [
+      "Video Editing Studio Planned Around You",
+      "Clear Steps For Your Video Editing Studio",
+      "Video Editing Studio Done The Careful Way"
+    ],
+    "heroSubtitles": [
+      "Looking for help with video editing studio? {brand} starts with a short brief, shows you the plan and works with your feedback.",
+      "From YouTube video editing to reels and shorts, {brand} keeps each project simple: a brief, a draft you can react to and a finish you approve.",
+      "{brand} creates YouTube video editing and subtitles and captions. We listen to the idea first, agree the scope and keep you informed along the way."
+    ],
+    "button": "Send Your Footage",
+    "featureTitle": "Our Video Editing Studio Services",
+    "features": [
+      {
+        "title": "YouTube Video Editing",
+        "text": "YouTube Video Editing delivered in the format you need, with a final review before handover."
+      },
+      {
+        "title": "Reels And Shorts",
+        "text": "Questions about reels and shorts? Message us and we will walk you through the process."
+      },
+      {
+        "title": "Wedding Film Edits",
+        "text": "We start wedding film edits with a short brief, so the scope, timing and cost are clear from day one."
+      },
+      {
+        "title": "Subtitles And Captions",
+        "text": "Subtitles And Captions shaped around your idea, with a draft you can comment on before it is final."
+      },
+      {
+        "title": "Colour And Sound Cleanup",
+        "text": "Ask about colour and sound cleanup; we explain the options, show examples and agree what is included."
+      },
+      {
+        "title": "Motion Graphics And Intros",
+        "text": "For motion graphics and intros, we work in clear stages and check each one with you."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Stage",
+        "label": "By stage reviews"
+      },
+      {
+        "value": "Open",
+        "label": "Feedback welcome"
+      },
+      {
+        "value": "Plain",
+        "label": "Language, no jargon"
+      }
+    ],
+    "steps": {
+      "title": "How A Project Runs",
+      "items": [
+        {
+          "title": "Share Your Brief",
+          "text": "Tell us about your video editing studio idea, the purpose and any references you like."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We outline the scope for YouTube video editing, the timeline and the cost, and confirm them with you."
+        },
+        {
+          "title": "Review The Draft",
+          "text": "You see the first version of the reels and shorts work and tell us what to change."
+        },
+        {
+          "title": "Approve And Deliver",
+          "text": "We finalise wedding film edits, hand it over in the format you need and stay available for questions."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I ask for changes during video editing studio work?",
+        "a": "Yes. Feedback is part of the process and we tell you upfront how revisions are handled. Ask us about colour and sound cleanup or motion graphics and intros and the answer is the same."
+      },
+      {
+        "q": "What formats do you deliver YouTube video editing in?",
+        "a": "Tell us where it will be used and we will deliver in the formats that suit that purpose. The same approach applies to YouTube video editing and motion graphics and intros."
+      },
+      {
+        "q": "Do you take small video editing studio jobs?",
+        "a": "Yes. Small projects follow the same clear steps, with a quote and a plan first. This applies to YouTube video editing, reels and shorts and the rest of our video editing studio work."
+      },
+      {
+        "q": "How long does subtitles and captions take?",
+        "a": "It depends on the scope; we give a timeline with the quote and update you if anything changes. It is the same for reels and shorts as it is for YouTube video editing."
+      },
+      {
+        "q": "How do I start a video editing studio project?",
+        "a": "Send us a short brief by message or call, and we will reply with questions and a first outline. That goes for wedding film edits and subtitles and captions too."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Start Your Video Editing Studio Project?",
+      "button": "Send Your Footage"
+    },
+    "about": {
+      "title": "About Our Video Editing Studio Studio",
+      "paragraphs": [
+        "At {brand} good video editing studio begins with listening. You hear the plan and the cost first, and the work follows in clear stages.",
+        "Our work includes YouTube video editing and reels and shorts. Ask about subtitles and captions or colour and sound cleanup too and we will say plainly what is possible."
+      ],
+      "points": [
+        "Brief Before Work",
+        "Drafts You Can Review",
+        "Plain Language"
+      ]
+    },
+    "pricing": {
+      "title": "Video Editing Studio Pricing",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "$12",
+          "period": "/reel",
+          "perks": [
+            "YouTube Video Editing Only",
+            "Written Quote First",
+            "One Round Of Feedback"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$45",
+          "period": "/video",
+          "perks": [
+            "YouTube Video Editing And Reels And Shorts",
+            "Two Rounds Of Feedback",
+            "Priority Scheduling"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$150",
+          "period": "/project",
+          "perks": [
+            "YouTube Video Editing Plus Reels And Shorts And Wedding Film Edits",
+            "Extended Feedback",
+            "Handover Support"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Video Editing Studio Work",
+      "captions": [
+        "YouTube Video Editing",
+        "Reels And Shorts",
+        "Wedding Film Edits",
+        "Subtitles And Captions",
+        "Colour And Sound Cleanup",
+        "Motion Graphics And Intros"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Video Editing Studio Lead",
+        "YouTube Video Editing Specialist",
+        "Video Editing Studio Client Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "They listened to the brief for YouTube video editing and the first draft was close to what I imagined.",
+        "role": "Small business owner"
+      },
+      {
+        "quote": "Clear quote for reels and shorts, with feedback built into the plan.",
+        "role": "Customer"
+      },
+      {
+        "quote": "The process for wedding film edits was explained simply and kept to the timeline we agreed.",
+        "role": "Family client"
+      }
+    ],
+    "blog": {
+      "title": "From The Video Editing Studio Desk",
+      "posts": [
+        {
+          "tag": "Ideas",
+          "title": "Simple Ways To Plan Subtitles And Captions"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Colour And Sound Cleanup"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Brief A Video Editing Studio Provider"
+        }
+      ]
+    },
+    "marquee": [
+      "YouTube Video",
+      "Reels",
+      "Wedding Film",
+      "Subtitles",
+      "Sound Cleanup",
+      "Clear Scope",
+      "Open Feedback",
+      "Plain Quotes"
+    ],
+    "contactText": "Message {brand} with your brief for YouTube video editing or reels and shorts. We reply with a few questions and a clear outline of the next step."
+  },
+  {
+    "id": "funeral_services",
+    "label": "Funeral services",
+    "theme": "professional_services",
+    "keywords": [
+      "funeral services",
+      "antim sanskar",
+      "last rites",
+      "cremation services",
+      "funeral arrangements",
+      "death certificate help",
+      "shav vahan",
+      "अंतिम संस्कार सेवा",
+      "दाह संस्कार"
+    ],
+    "heroTitles": [
+      "Straight Answers On Immediate Assistance",
+      "Funeral Services In Plain Words",
+      "Funeral Services Without The Jargon"
+    ],
+    "heroSubtitles": [
+      "Looking for help with funeral services? {brand} listens first, explains the options in plain words and tells you the cost upfront.",
+      "From immediate assistance to respectful transport, {brand} keeps it simple: a short call, honest advice and a clear way forward.",
+      "{brand} handles immediate assistance and cremation and burial. We explain what is needed, what it costs and how long it takes."
+    ],
+    "button": "Speak To Our Team",
+    "featureTitle": "Funeral Services Services We Offer",
+    "features": [
+      {
+        "title": "Immediate Assistance",
+        "text": "Immediate Assistance handled with care, with a clear next step after every conversation."
+      },
+      {
+        "title": "Respectful Transport",
+        "text": "Ask about respectful transport; we describe the options simply and let you decide at your own pace."
+      },
+      {
+        "title": "Ceremony Arrangements",
+        "text": "For ceremony arrangements, we start by listening to your situation and then outline a clear plan."
+      },
+      {
+        "title": "Cremation And Burial",
+        "text": "Cremation And Burial explained without jargon, so you know what applies to you and why."
+      },
+      {
+        "title": "Documents And Certificates",
+        "text": "Questions about documents and certificates? Message us and we will answer before you commit."
+      },
+      {
+        "title": "Ashes And Final Rites",
+        "text": "We explain ashes and final rites in plain words, with the steps, the papers needed and the cost upfront."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Plain",
+        "label": "Language, no jargon"
+      },
+      {
+        "value": "Private",
+        "label": "Details kept private"
+      },
+      {
+        "value": "Easy",
+        "label": "Booking a call"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us Your Situation",
+          "text": "Share your funeral services question by call or message, with any papers you have."
+        },
+        {
+          "title": "We Explain The Options",
+          "text": "You hear what immediate assistance involves, what it costs and how long it takes."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We confirm the steps for respectful transport and what we need from you."
+        },
+        {
+          "title": "We Handle And Update",
+          "text": "We take care of ceremony arrangements and keep you updated until it is complete."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I start with immediate assistance?",
+        "a": "Call or message us with a short description of your situation and we will reply with the next step. Ask us about documents and certificates or ashes and final rites and the answer is the same."
+      },
+      {
+        "q": "What documents do I need for respectful transport?",
+        "a": "We tell you the exact list once we know your case, so you only gather what is needed. The same approach applies to immediate assistance and ashes and final rites."
+      },
+      {
+        "q": "Do you explain the fees for funeral services?",
+        "a": "Yes. We tell you the fee and what it covers before you decide to go ahead. This applies to immediate assistance, respectful transport and the rest of our funeral services work."
+      },
+      {
+        "q": "Is my information kept private for ceremony arrangements?",
+        "a": "We keep your details confidential and use them only for your work. It is the same for respectful transport as it is for immediate assistance."
+      },
+      {
+        "q": "Can I ask a question before hiring you for immediate assistance?",
+        "a": "Of course. A first conversation is the right place to ask anything. That goes for ceremony arrangements and cremation and burial too."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Talk About Funeral Services?",
+      "button": "Speak To Our Team"
+    },
+    "about": {
+      "title": "About Our Funeral Services Practice",
+      "paragraphs": [
+        "{brand} is a local funeral services practice. We listen to your situation, explain the options plainly and handle the work step by step.",
+        "We help with immediate assistance, respectful transport and ceremony arrangements, and we are glad to talk it through before you decide on anything."
+      ],
+      "points": [
+        "Clear Next Steps",
+        "Friendly Team",
+        "Honest Advice"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Funeral Services",
+      "plans": [
+        {
+          "name": "First Step",
+          "price": "$0",
+          "period": "/consultation",
+          "perks": [
+            "Immediate Assistance Discussion",
+            "Written Next Steps",
+            "Fees Explained"
+          ]
+        },
+        {
+          "name": "Standard Help",
+          "price": "$50",
+          "period": "/basic arrangement",
+          "perks": [
+            "Immediate Assistance And Respectful Transport",
+            "Progress Updates",
+            "Document Checklist"
+          ]
+        },
+        {
+          "name": "Full Support",
+          "price": "$150",
+          "period": "/full arrangement",
+          "perks": [
+            "Immediate Assistance Plus Respectful Transport And Ceremony Arrangements",
+            "Extended Support",
+            "Priority Replies"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Funeral Services Practice",
+      "captions": [
+        "Immediate Assistance",
+        "Respectful Transport",
+        "Ceremony Arrangements",
+        "Cremation And Burial",
+        "Documents And Certificates",
+        "Ashes And Final Rites"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Funeral Services Advisor",
+        "Immediate Assistance Specialist",
+        "Client Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "They explained immediate assistance in plain words and told me the fee first.",
+        "role": "Client"
+      },
+      {
+        "quote": "Clear steps for respectful transport, and updates without having to chase.",
+        "role": "Small business owner"
+      },
+      {
+        "quote": "Patient answers about ceremony arrangements, with no pressure.",
+        "role": "Client"
+      }
+    ],
+    "blog": {
+      "title": "Funeral Services Notes And Guides",
+      "posts": [
+        {
+          "tag": "Questions",
+          "title": "Questions To Ask About Ceremony Arrangements"
+        },
+        {
+          "tag": "Planning",
+          "title": "Planning Ahead For Cremation And Burial"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Documents And Certificates"
+        }
+      ]
+    },
+    "marquee": [
+      "Immediate",
+      "Respectful",
+      "Ceremony",
+      "Cremation",
+      "Documents",
+      "Plain Advice",
+      "Fees Upfront",
+      "Private"
+    ],
+    "contactText": "Message {brand} about immediate assistance or respectful transport. We reply with a short list of questions and the next step."
+  },
+  {
+    "id": "scrap_recycling",
+    "label": "Scrap and recycling",
+    "theme": "organic_nature",
+    "keywords": [
+      "scrap dealer",
+      "kabadi",
+      "kabadiwala",
+      "scrap buyer",
+      "scrap pickup",
+      "old newspaper buyer",
+      "e-waste recycling",
+      "कबाड़ी",
+      "कबाड़ वाला"
+    ],
+    "heroTitles": [
+      "Plain Answers On Metal Scrap",
+      "Scrap And Recycling Without The Runaround",
+      "Metal Scrap And Paper And Cardboard Done Properly"
+    ],
+    "heroSubtitles": [
+      "From metal scrap to paper and cardboard, {brand} keeps things simple: a short chat, a fair quote and a visit at a time that suits you.",
+      "{brand} offers metal scrap, plastic and bottles and more. We listen first, quote clearly and leave the place as we found it.",
+      "Need metal scrap or bulk and industrial scrap? {brand} sends a local team, explains each step and keeps you informed until the job is done."
+    ],
+    "button": "Book A Pickup",
+    "featureTitle": "Our Scrap And Recycling Services",
+    "features": [
+      {
+        "title": "Metal Scrap",
+        "text": "Need metal scrap? Tell us what is wrong and we will say what can be done and when."
+      },
+      {
+        "title": "Paper And Cardboard",
+        "text": "Paper And Cardboard with a short check at the end, so you know the job is finished properly."
+      },
+      {
+        "title": "E-Waste Collection",
+        "text": "We explain what e-waste collection involves, the options and the cost before any work begins."
+      },
+      {
+        "title": "Plastic And Bottles",
+        "text": "Plastic And Bottles by a local team, with the price and timing agreed with you first."
+      },
+      {
+        "title": "Bulk And Industrial Scrap",
+        "text": "Ask about bulk and industrial scrap and get a clear quote, a time that suits you and a tidy finish."
+      },
+      {
+        "title": "Home And Office Clearance",
+        "text": "For home and office clearance, we look at the place first, then suggest the simplest fix that lasts."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Price before work"
+      },
+      {
+        "value": "Fixed",
+        "label": "Visit time you choose"
+      },
+      {
+        "value": "Tidy",
+        "label": "Finish every time"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Describe the scrap and recycling job by call or message, with a photo if that helps."
+        },
+        {
+          "title": "Get A Clear Quote",
+          "text": "We explain the options for metal scrap and give you the price before anything starts."
+        },
+        {
+          "title": "We Do The Work",
+          "text": "Our team arrives at the agreed time and completes the paper and cardboard work with care."
+        },
+        {
+          "title": "Check And Follow Up",
+          "text": "We go through the result with you and stay reachable for questions on e-waste collection afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Do you handle small scrap and recycling jobs too?",
+        "a": "Yes. Small and large jobs get the same care, and we quote both in the same clear way. It is the same for paper and cardboard as it is for metal scrap."
+      },
+      {
+        "q": "How do you charge for plastic and bottles?",
+        "a": "We quote by the job and tell you what is included, so the final bill matches what we agreed. That goes for e-waste collection and plastic and bottles too."
+      },
+      {
+        "q": "How do I get a quote for metal scrap?",
+        "a": "Send a message or call with a few details and we will reply with a clear price before any work starts. Ask us about bulk and industrial scrap or home and office clearance and the answer is the same."
+      },
+      {
+        "q": "Is there a charge to look at a scrap and recycling job?",
+        "a": "Ask us when you book; any visit charge is told upfront, so there are no surprises later. The same approach applies to metal scrap and home and office clearance."
+      },
+      {
+        "q": "Can you work around my timings for paper and cardboard?",
+        "a": "Yes. Tell us the days and times that suit you and we will fix a slot within them. This applies to metal scrap, paper and cardboard and the rest of our scrap and recycling work."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Book Scrap And Recycling Today?",
+      "button": "Book A Pickup"
+    },
+    "about": {
+      "title": "About Our Scrap And Recycling Team",
+      "paragraphs": [
+        "{brand} is a local team for scrap and recycling. We keep our work simple: listen to the problem, explain the options and do the job properly.",
+        "We cover metal scrap, paper and cardboard and e-waste collection, and we are happy to talk it through with you before you decide on anything."
+      ],
+      "points": [
+        "Plain Explanations",
+        "Fixed Visit Times",
+        "Follow-Up On Request"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Scrap And Recycling",
+      "plans": [
+        {
+          "name": "Single Visit",
+          "price": "$0",
+          "period": "/pickup",
+          "perks": [
+            "Metal Scrap Only",
+            "Written Quote First",
+            "Time Slot You Choose"
+          ]
+        },
+        {
+          "name": "Regular Care",
+          "price": "$10",
+          "period": "/bulk pickup",
+          "perks": [
+            "Metal Scrap And Paper And Cardboard",
+            "Follow-Up Check",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Full Service",
+          "price": "$30",
+          "period": "/office clearance",
+          "perks": [
+            "Metal Scrap Plus Paper And Cardboard And E-Waste Collection",
+            "Extended Follow-Up",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Recent Scrap And Recycling Work",
+      "captions": [
+        "Metal Scrap",
+        "Paper And Cardboard",
+        "E-Waste Collection",
+        "Plastic And Bottles",
+        "Bulk And Industrial Scrap",
+        "Home And Office Clearance"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Scrap And Recycling Technician",
+        "Metal Scrap Lead",
+        "Scrap And Recycling Support Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "The metal scrap work was explained first and finished on the day we agreed.",
+        "role": "Home owner"
+      },
+      {
+        "quote": "Clear quote for paper and cardboard, no pressure, and the place was left tidy.",
+        "role": "Shop owner"
+      },
+      {
+        "quote": "They answered every question about e-waste collection before starting.",
+        "role": "Flat resident"
+      }
+    ],
+    "blog": {
+      "title": "Scrap And Recycling Tips And Guides",
+      "posts": [
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask Before Paper And Cardboard"
+        },
+        {
+          "tag": "Planning",
+          "title": "Preparing Your Place For E-Waste Collection"
+        },
+        {
+          "tag": "Advice",
+          "title": "Small Signs You Need Plastic And Bottles"
+        }
+      ]
+    },
+    "marquee": [
+      "Metal Scrap",
+      "Paper",
+      "E-Waste",
+      "Plastic",
+      "Industrial Scrap",
+      "Free Quote",
+      "Local Team",
+      "Clear Pricing"
+    ],
+    "contactText": "Call or message {brand} to talk about metal scrap or paper and cardboard. We reply with a clear price and a time that works for you."
+  },
+  {
+    "id": "coworking_space",
+    "label": "Coworking space",
+    "theme": "modern_tech",
+    "keywords": [
+      "coworking space",
+      "co-working space",
+      "shared office",
+      "hot desk",
+      "private cabin office",
+      "meeting room rental",
+      "office space for rent",
+      "को-वर्किंग स्पेस",
+      "शेयर्ड ऑफिस"
+    ],
+    "heroTitles": [
+      "Coworking Space That Feels Like Home",
+      "Relax With Coworking Space",
+      "Hot Desks, Dedicated Desks And Private Cabins"
+    ],
+    "heroSubtitles": [
+      "{brand} offers hot desks, dedicated desks and private cabins. Tell us your dates and we will confirm what is available and the price.",
+      "Looking for help with coworking space? {brand} keeps booking simple: clear details, honest descriptions and a quick reply.",
+      "From hot desks to dedicated desks, {brand} looks after the details so you can focus on the trip."
+    ],
+    "button": "Book A Desk Tour",
+    "featureTitle": "Our Coworking Space Choices",
+    "features": [
+      {
+        "title": "Hot Desks",
+        "text": "Ask about hot desks and we will tell you what is included, the price and how to book."
+      },
+      {
+        "title": "Dedicated Desks",
+        "text": "Dedicated Desks described honestly, with the details you need to decide."
+      },
+      {
+        "title": "Private Cabins",
+        "text": "Planning private cabins? Share your dates and group size and we will suggest what fits."
+      },
+      {
+        "title": "Meeting And Training Rooms",
+        "text": "For meeting and training rooms, we explain the options simply and confirm what is available."
+      },
+      {
+        "title": "Fast Wi-Fi And Backup",
+        "text": "Fast Wi-Fi And Backup confirmed in writing, so you know what to expect when you arrive."
+      },
+      {
+        "title": "Business Address",
+        "text": "Questions about business address? Message us and we will answer before you book."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Honest",
+        "label": "Descriptions"
+      },
+      {
+        "value": "Friendly",
+        "label": "Welcome on arrival"
+      },
+      {
+        "value": "Flexible",
+        "label": "Plans on request"
+      }
+    ],
+    "steps": {
+      "title": "How Booking Works",
+      "items": [
+        {
+          "title": "Send Your Dates",
+          "text": "Message or call with your dates, group size and the coworking space option you like."
+        },
+        {
+          "title": "We Confirm Availability",
+          "text": "We reply with what is available for hot desks and the price."
+        },
+        {
+          "title": "Confirm Your Booking",
+          "text": "Agree the details of dedicated desks and we confirm everything in writing."
+        },
+        {
+          "title": "Arrive And Enjoy",
+          "text": "We help with private cabins on arrival, and you can ask us for anything during your stay."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I book hot desks?",
+        "a": "Message or call with your dates and group size, and we will confirm availability and the price. That goes for private cabins and meeting and training rooms too."
+      },
+      {
+        "q": "What is included in dedicated desks?",
+        "a": "We list what is included when you ask, so there are no surprises on arrival. Ask us about fast wi-fi and backup or business address and the answer is the same."
+      },
+      {
+        "q": "Can I ask about private cabins before booking?",
+        "a": "Of course. Message us your questions and we will answer plainly. The same approach applies to hot desks and business address."
+      },
+      {
+        "q": "Can you suggest options for coworking space?",
+        "a": "Yes. Tell us your plans and budget and we will suggest what fits. This applies to hot desks, dedicated desks and the rest of our coworking space work."
+      },
+      {
+        "q": "Can I change my dates for hot desks?",
+        "a": "Tell us as early as you can and we will explain what is possible. It is the same for dedicated desks as it is for hot desks."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Book Coworking Space?",
+      "button": "Book A Desk Tour"
+    },
+    "about": {
+      "title": "About Our Coworking Space",
+      "paragraphs": [
+        "At {brand} good coworking space begins with clear information. You know what is included and what it costs before you book.",
+        "Our options include hot desks and dedicated desks. Ask about meeting and training rooms or fast wi-fi and backup too and we will say plainly what is possible."
+      ],
+      "points": [
+        "Honest Descriptions",
+        "Prices Told Upfront",
+        "Friendly Welcome"
+      ]
+    },
+    "pricing": {
+      "title": "Coworking Space Rates",
+      "plans": [
+        {
+          "name": "Basic Stay",
+          "price": "$3",
+          "period": "/hot desk day",
+          "perks": [
+            "Hot Desks Option",
+            "Price Told First",
+            "Written Confirmation"
+          ]
+        },
+        {
+          "name": "Comfort Stay",
+          "price": "$40",
+          "period": "/hot desk month",
+          "perks": [
+            "Hot Desks And Dedicated Desks",
+            "Flexible Timing",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Extended Stay",
+          "price": "$90",
+          "period": "/private cabin month",
+          "perks": [
+            "Hot Desks Plus Dedicated Desks And Private Cabins",
+            "Extended Support",
+            "Special Requests Noted"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Coworking Space",
+      "captions": [
+        "Hot Desks",
+        "Dedicated Desks",
+        "Private Cabins",
+        "Meeting And Training Rooms",
+        "Fast Wi-Fi And Backup",
+        "Business Address"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Coworking Space Host",
+        "Hot Desks Coordinator",
+        "Guest Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Friendly welcome and a clear explanation of private cabins.",
+        "role": "Guest"
+      },
+      {
+        "quote": "A calm place, and the coworking space booking was straightforward.",
+        "role": "Family guest"
+      },
+      {
+        "quote": "I liked that hot desks came with clear directions and no surprises.",
+        "role": "Guest"
+      }
+    ],
+    "blog": {
+      "title": "From The Coworking Space Desk",
+      "posts": [
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Fast Wi-Fi And Backup"
+        },
+        {
+          "tag": "Tips",
+          "title": "Small Tips For Business Address"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Choose Hot Desks"
+        }
+      ]
+    },
+    "marquee": [
+      "Hot Desks",
+      "Dedicated Desks",
+      "Private Cabins",
+      "Training Rooms",
+      "Fast Wi-Fi",
+      "Easy Booking",
+      "Honest Details",
+      "Friendly Welcome"
+    ],
+    "contactText": "Message {brand} with your dates to ask about hot desks or dedicated desks. We reply with availability and the price."
+  },
+  {
+    "id": "yoga_retreat",
+    "label": "Yoga retreat",
+    "theme": "beauty_wellness",
+    "keywords": [
+      "yoga retreat",
+      "yoga teacher training",
+      "yoga ashram",
+      "meditation retreat",
+      "yoga stay",
+      "yoga holiday",
+      "rishikesh yoga",
+      "योग रिट्रीट",
+      "योग शिक्षक प्रशिक्षण"
+    ],
+    "heroTitles": [
+      "A Simple Way To Book Yoga Retreat",
+      "Yoga Retreat That Feels Like Home",
+      "Yoga Retreat Made Simple And Clear"
+    ],
+    "heroSubtitles": [
+      "{brand} provides daily yoga classes and peaceful rooms. Share your plans and we will suggest what suits your group.",
+      "Planning daily yoga classes or teacher training courses? {brand} will tell you what is included and how to book.",
+      "Looking for help with yoga retreat? {brand} keeps booking simple: clear details, honest descriptions and a quick reply."
+    ],
+    "button": "Reserve Your Place",
+    "featureTitle": "Yoga Retreat Options We Offer",
+    "features": [
+      {
+        "title": "Daily Yoga Classes",
+        "text": "Daily Yoga Classes described honestly, with the details you need to decide."
+      },
+      {
+        "title": "Meditation And Pranayama",
+        "text": "Planning meditation and pranayama? Share your dates and group size and we will suggest what fits."
+      },
+      {
+        "title": "Sattvic Vegetarian Meals",
+        "text": "For sattvic vegetarian meals, we explain the options simply and confirm what is available."
+      },
+      {
+        "title": "Peaceful Rooms",
+        "text": "Peaceful Rooms confirmed in writing, so you know what to expect when you arrive."
+      },
+      {
+        "title": "Teacher Training Courses",
+        "text": "Questions about teacher training courses? Message us and we will answer before you book."
+      },
+      {
+        "title": "Nature Walks And Satsang",
+        "text": "Ask about nature walks and satsang and we will tell you what is included, the price and how to book."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Honest",
+        "label": "Descriptions"
+      },
+      {
+        "value": "Friendly",
+        "label": "Welcome on arrival"
+      },
+      {
+        "value": "Flexible",
+        "label": "Plans on request"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Send Your Dates",
+          "text": "Message or call with your dates, group size and the yoga retreat option you like."
+        },
+        {
+          "title": "We Confirm Availability",
+          "text": "We reply with what is available for daily yoga classes and the price."
+        },
+        {
+          "title": "Confirm Your Booking",
+          "text": "Agree the details of meditation and pranayama and we confirm everything in writing."
+        },
+        {
+          "title": "Arrive And Enjoy",
+          "text": "We help with sattvic vegetarian meals on arrival, and you can ask us for anything during your stay."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I change my dates for daily yoga classes?",
+        "a": "Tell us as early as you can and we will explain what is possible. This applies to daily yoga classes, meditation and pranayama and the rest of our yoga retreat work."
+      },
+      {
+        "q": "How do I find you for peaceful rooms?",
+        "a": "We send clear directions when you book, and you can call us on the way. It is the same for meditation and pranayama as it is for daily yoga classes."
+      },
+      {
+        "q": "Do you take group bookings for yoga retreat?",
+        "a": "Yes. Tell us the group size and dates and we will say what we can arrange. That goes for sattvic vegetarian meals and peaceful rooms too."
+      },
+      {
+        "q": "Can I ask for something special with teacher training courses?",
+        "a": "Tell us when you book and we will do what we can, and be honest if we cannot. Ask us about teacher training courses or nature walks and satsang and the answer is the same."
+      },
+      {
+        "q": "How do I book daily yoga classes?",
+        "a": "Message or call with your dates and group size, and we will confirm availability and the price. The same approach applies to daily yoga classes and nature walks and satsang."
+      }
+    ],
+    "cta": {
+      "title": "Planning A Stay With Daily Yoga Classes?",
+      "button": "Reserve Your Place"
+    },
+    "about": {
+      "title": "About Our Yoga Retreat",
+      "paragraphs": [
+        "{brand} is a local yoga retreat business. We describe things honestly, answer quickly and look after the details of your stay.",
+        "We offer daily yoga classes, meditation and pranayama and sattvic vegetarian meals, and we are glad to talk through your plans before you decide."
+      ],
+      "points": [
+        "Quick Replies",
+        "Clear Directions",
+        "Flexible Plans"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Yoga Retreat",
+      "plans": [
+        {
+          "name": "Basic Stay",
+          "price": "$60",
+          "period": "/weekend",
+          "perks": [
+            "Daily Yoga Classes Option",
+            "Price Told First",
+            "Written Confirmation"
+          ]
+        },
+        {
+          "name": "Comfort Stay",
+          "price": "$250",
+          "period": "/week",
+          "perks": [
+            "Daily Yoga Classes And Meditation And Pranayama",
+            "Flexible Timing",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Extended Stay",
+          "price": "$700",
+          "period": "/month",
+          "perks": [
+            "Daily Yoga Classes Plus Meditation And Pranayama And Sattvic Vegetarian Meals",
+            "Extended Support",
+            "Special Requests Noted"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Yoga Retreat",
+      "captions": [
+        "Daily Yoga Classes",
+        "Meditation And Pranayama",
+        "Sattvic Vegetarian Meals",
+        "Peaceful Rooms",
+        "Teacher Training Courses",
+        "Nature Walks And Satsang"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Yoga Retreat Host",
+        "Daily Yoga Classes Coordinator",
+        "Guest Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "I liked that daily yoga classes came with clear directions and no surprises.",
+        "role": "Guest"
+      },
+      {
+        "quote": "Quick reply about peaceful rooms and an honest answer.",
+        "role": "Traveller"
+      },
+      {
+        "quote": "Daily Yoga Classes was described honestly and everything matched when we arrived.",
+        "role": "Guest"
+      }
+    ],
+    "blog": {
+      "title": "Yoga Retreat Guides And Ideas",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "How To Choose Daily Yoga Classes"
+        },
+        {
+          "tag": "Planning",
+          "title": "Planning Your Dates For Meditation And Pranayama"
+        },
+        {
+          "tag": "Checklist",
+          "title": "A Simple Checklist For Sattvic Vegetarian Meals"
+        }
+      ]
+    },
+    "marquee": [
+      "Daily Yoga",
+      "Meditation",
+      "Vegetarian Meals",
+      "Peaceful Rooms",
+      "Teacher Training",
+      "Easy Booking",
+      "Honest Details",
+      "Friendly Welcome"
+    ],
+    "contactText": "Message {brand} with your dates to ask about daily yoga classes or meditation and pranayama. We reply with availability and the price."
+  },
+  {
+    "id": "farm_stay_homestay",
+    "label": "Farm stay and homestay",
+    "theme": "travel_tourism",
+    "keywords": [
+      "farm stay",
+      "homestay",
+      "farmhouse stay",
+      "farm house booking",
+      "village stay",
+      "rural stay",
+      "agri tourism",
+      "होमस्टे",
+      "फार्म स्टे"
+    ],
+    "heroTitles": [
+      "Farm Stay And Homestay Made Easy",
+      "Welcome To Farm Stay And Homestay",
+      "Farm Stay And Homestay That Feels Like Home"
+    ],
+    "heroSubtitles": [
+      "From clean rooms at the farm to home-cooked meals, {brand} looks after the details so you can focus on the trip.",
+      "{brand} provides clean rooms at the farm and bonfire and open sky. Share your plans and we will suggest what suits your group.",
+      "Planning clean rooms at the farm or village walks and cycling? {brand} will tell you what is included and how to book."
+    ],
+    "button": "Check Stay Dates",
+    "featureTitle": "Our Farm Stay And Homestay Choices",
+    "features": [
+      {
+        "title": "Clean Rooms At The Farm",
+        "text": "Planning clean rooms at the farm? Share your dates and group size and we will suggest what fits."
+      },
+      {
+        "title": "Home-Cooked Meals",
+        "text": "For home-cooked meals, we explain the options simply and confirm what is available."
+      },
+      {
+        "title": "Farm Activities",
+        "text": "Farm Activities confirmed in writing, so you know what to expect when you arrive."
+      },
+      {
+        "title": "Bonfire And Open Sky",
+        "text": "Questions about bonfire and open sky? Message us and we will answer before you book."
+      },
+      {
+        "title": "Village Walks And Cycling",
+        "text": "Ask about village walks and cycling and we will tell you what is included, the price and how to book."
+      },
+      {
+        "title": "Family And Group Stays",
+        "text": "Family And Group Stays described honestly, with the details you need to decide."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Prices told upfront"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Easy",
+        "label": "Booking by message"
+      }
+    ],
+    "steps": {
+      "title": "How Booking Works",
+      "items": [
+        {
+          "title": "Send Your Dates",
+          "text": "Message or call with your dates, group size and the farm stay and homestay option you like."
+        },
+        {
+          "title": "We Confirm Availability",
+          "text": "We reply with what is available for clean rooms at the farm and the price."
+        },
+        {
+          "title": "Confirm Your Booking",
+          "text": "Agree the details of home-cooked meals and we confirm everything in writing."
+        },
+        {
+          "title": "Arrive And Enjoy",
+          "text": "We help with farm activities on arrival, and you can ask us for anything during your stay."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I find you for bonfire and open sky?",
+        "a": "We send clear directions when you book, and you can call us on the way. The same approach applies to clean rooms at the farm and family and group stays."
+      },
+      {
+        "q": "Do you take group bookings for farm stay and homestay?",
+        "a": "Yes. Tell us the group size and dates and we will say what we can arrange. This applies to clean rooms at the farm, home-cooked meals and the rest of our farm stay and homestay work."
+      },
+      {
+        "q": "Can I ask for something special with village walks and cycling?",
+        "a": "Tell us when you book and we will do what we can, and be honest if we cannot. It is the same for home-cooked meals as it is for clean rooms at the farm."
+      },
+      {
+        "q": "How do I book clean rooms at the farm?",
+        "a": "Message or call with your dates and group size, and we will confirm availability and the price. That goes for farm activities and bonfire and open sky too."
+      },
+      {
+        "q": "What is included in home-cooked meals?",
+        "a": "We list what is included when you ask, so there are no surprises on arrival. Ask us about village walks and cycling or family and group stays and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Planning A Stay With Clean Rooms At The Farm?",
+      "button": "Check Stay Dates"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good farm stay and homestay begins with clear information. You know what is included and what it costs before you book.",
+        "Our options include clean rooms at the farm and home-cooked meals. Ask about bonfire and open sky or village walks and cycling too and we will say plainly what is possible."
+      ],
+      "points": [
+        "Honest Descriptions",
+        "Prices Told Upfront",
+        "Friendly Welcome"
+      ]
+    },
+    "pricing": {
+      "title": "Farm Stay And Homestay Rates",
+      "plans": [
+        {
+          "name": "Basic Stay",
+          "price": "$35",
+          "period": "/night",
+          "perks": [
+            "Clean Rooms At The Farm Option",
+            "Price Told First",
+            "Written Confirmation"
+          ]
+        },
+        {
+          "name": "Comfort Stay",
+          "price": "$90",
+          "period": "/weekend",
+          "perks": [
+            "Clean Rooms At The Farm And Home-Cooked Meals",
+            "Flexible Timing",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Extended Stay",
+          "price": "$200",
+          "period": "/week",
+          "perks": [
+            "Clean Rooms At The Farm Plus Home-Cooked Meals And Farm Activities",
+            "Extended Support",
+            "Special Requests Noted"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "A Look At Farm Stay And Homestay",
+      "captions": [
+        "Clean Rooms At The",
+        "Home-Cooked Meals",
+        "Farm Activities",
+        "Bonfire And Open Sky",
+        "Village Walks And Cycling",
+        "Family And Group Stays"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Farm Stay And Homestay Host",
+        "Clean Rooms At The Farm Coordinator",
+        "Guest Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "A calm place, and the farm stay and homestay booking was straightforward.",
+        "role": "Family guest"
+      },
+      {
+        "quote": "I liked that clean rooms at the farm came with clear directions and no surprises.",
+        "role": "Guest"
+      },
+      {
+        "quote": "Quick reply about bonfire and open sky and an honest answer.",
+        "role": "Traveller"
+      }
+    ],
+    "blog": {
+      "title": "From The Farm Stay And Homestay Desk",
+      "posts": [
+        {
+          "tag": "Planning",
+          "title": "Planning Your Dates For Home-Cooked Meals"
+        },
+        {
+          "tag": "Checklist",
+          "title": "A Simple Checklist For Farm Activities"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Easy Ideas For Bonfire And Open Sky"
+        }
+      ]
+    },
+    "marquee": [
+      "Clean Rooms",
+      "Home-Cooked",
+      "Farm Activities",
+      "Open Sky",
+      "Village Walks",
+      "Easy Booking",
+      "Honest Details",
+      "Friendly Welcome"
+    ],
+    "contactText": "Tell {brand} your plans: clean rooms at the farm, farm activities or something close. We will answer with options and a clear price."
+  },
+  {
+    "id": "pg_hostel",
+    "label": "PG and hostel",
+    "theme": "real_estate",
+    "keywords": [
+      "pg",
+      "paying guest",
+      "pg accommodation",
+      "hostel",
+      "boys hostel",
+      "girls hostel",
+      "student hostel",
+      "working professional pg",
+      "पीजी",
+      "हॉस्टल"
+    ],
+    "heroTitles": [
+      "A Simple Way To Book PG And Hostel",
+      "Furnished Rooms And Home-Style Meals For A Good Stay",
+      "PG And Hostel That Feels Like Home"
+    ],
+    "heroSubtitles": [
+      "{brand} provides furnished rooms and security and CCTV. Share your plans and we will suggest what suits your group.",
+      "Planning furnished rooms or laundry and housekeeping? {brand} will tell you what is included and how to book.",
+      "{brand} offers furnished rooms, home-style meals and wi-fi and power backup. Tell us your dates and we will confirm what is available and the price."
+    ],
+    "button": "Book A Room Visit",
+    "featureTitle": "Our PG And Hostel Choices",
+    "features": [
+      {
+        "title": "Furnished Rooms",
+        "text": "Furnished Rooms described honestly, with the details you need to decide."
+      },
+      {
+        "title": "Home-Style Meals",
+        "text": "Planning home-style meals? Share your dates and group size and we will suggest what fits."
+      },
+      {
+        "title": "Wi-Fi And Power Backup",
+        "text": "For wi-fi and power backup, we explain the options simply and confirm what is available."
+      },
+      {
+        "title": "Security And CCTV",
+        "text": "Security And CCTV confirmed in writing, so you know what to expect when you arrive."
+      },
+      {
+        "title": "Laundry And Housekeeping",
+        "text": "Questions about laundry and housekeeping? Message us and we will answer before you book."
+      },
+      {
+        "title": "Study And Common Areas",
+        "text": "Ask about study and common areas and we will tell you what is included, the price and how to book."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Honest",
+        "label": "Descriptions"
+      },
+      {
+        "value": "Friendly",
+        "label": "Welcome on arrival"
+      },
+      {
+        "value": "Flexible",
+        "label": "Plans on request"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Send Your Dates",
+          "text": "Message or call with your dates, group size and the PG and hostel option you like."
+        },
+        {
+          "title": "We Confirm Availability",
+          "text": "We reply with what is available for furnished rooms and the price."
+        },
+        {
+          "title": "Confirm Your Booking",
+          "text": "Agree the details of home-style meals and we confirm everything in writing."
+        },
+        {
+          "title": "Arrive And Enjoy",
+          "text": "We help with wi-fi and power backup on arrival, and you can ask us for anything during your stay."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I ask about wi-fi and power backup before booking?",
+        "a": "Of course. Message us your questions and we will answer plainly. It is the same for home-style meals as it is for furnished rooms."
+      },
+      {
+        "q": "Can you suggest options for PG and hostel?",
+        "a": "Yes. Tell us your plans and budget and we will suggest what fits. That goes for wi-fi and power backup and security and CCTV too."
+      },
+      {
+        "q": "Can I change my dates for furnished rooms?",
+        "a": "Tell us as early as you can and we will explain what is possible. Ask us about laundry and housekeeping or study and common areas and the answer is the same."
+      },
+      {
+        "q": "How do I find you for security and CCTV?",
+        "a": "We send clear directions when you book, and you can call us on the way. The same approach applies to furnished rooms and study and common areas."
+      },
+      {
+        "q": "Do you take group bookings for PG and hostel?",
+        "a": "Yes. Tell us the group size and dates and we will say what we can arrange. This applies to furnished rooms, home-style meals and the rest of our PG and hostel work."
+      }
+    ],
+    "cta": {
+      "title": "Want To Check Dates For Home-Style Meals?",
+      "button": "Book A Room Visit"
+    },
+    "about": {
+      "title": "About Our PG And Hostel",
+      "paragraphs": [
+        "{brand} is a local PG and hostel business. We describe things honestly, answer quickly and look after the details of your stay.",
+        "We offer furnished rooms, home-style meals and wi-fi and power backup, and we are glad to talk through your plans before you decide."
+      ],
+      "points": [
+        "Quick Replies",
+        "Clear Directions",
+        "Flexible Plans"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For PG And Hostel",
+      "plans": [
+        {
+          "name": "Basic Stay",
+          "price": "$60",
+          "period": "/month shared room",
+          "perks": [
+            "Furnished Rooms Option",
+            "Price Told First",
+            "Written Confirmation"
+          ]
+        },
+        {
+          "name": "Comfort Stay",
+          "price": "$90",
+          "period": "/month double room",
+          "perks": [
+            "Furnished Rooms And Home-Style Meals",
+            "Flexible Timing",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Extended Stay",
+          "price": "$130",
+          "period": "/month single room",
+          "perks": [
+            "Furnished Rooms Plus Home-Style Meals And Wi-Fi And Power Backup",
+            "Extended Support",
+            "Special Requests Noted"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside PG And Hostel",
+      "captions": [
+        "Furnished Rooms",
+        "Home-Style Meals",
+        "Wi-Fi And Power Backup",
+        "Security And CCTV",
+        "Laundry And Housekeeping",
+        "Study And Common Areas"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "PG And Hostel Host",
+        "Furnished Rooms Coordinator",
+        "Guest Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Furnished Rooms was described honestly and everything matched when we arrived.",
+        "role": "Guest"
+      },
+      {
+        "quote": "Easy to book home-style meals, and they replied quickly with the price.",
+        "role": "Traveller"
+      },
+      {
+        "quote": "Friendly welcome and a clear explanation of wi-fi and power backup.",
+        "role": "Guest"
+      }
+    ],
+    "blog": {
+      "title": "PG And Hostel Guides And Ideas",
+      "posts": [
+        {
+          "tag": "Checklist",
+          "title": "A Simple Checklist For Wi-Fi And Power Backup"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Easy Ideas For Security And CCTV"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Laundry And Housekeeping"
+        }
+      ]
+    },
+    "marquee": [
+      "Furnished Rooms",
+      "Home-Style Meals",
+      "Power Backup",
+      "Security",
+      "Laundry",
+      "Easy Booking",
+      "Honest Details",
+      "Friendly Welcome"
+    ],
+    "contactText": "Message {brand} with your dates to ask about furnished rooms or home-style meals. We reply with availability and the price."
+  },
+  {
+    "id": "temple_trust",
+    "label": "Temple trust",
+    "theme": "nonprofit",
+    "keywords": [
+      "temple trust",
+      "mandir trust",
+      "temple donation",
+      "temple darshan timings",
+      "pooja booking",
+      "dharamshala",
+      "temple seva",
+      "मंदिर ट्रस्ट",
+      "मंदिर दान"
+    ],
+    "heroTitles": [
+      "Temple Trust Built On Care",
+      "Together We Can Help With Daily Darshan And Aarti",
+      "Temple Trust That Welcomes You In"
+    ],
+    "heroSubtitles": [
+      "From daily darshan and aarti to pooja and havan booking, {brand} keeps its work simple and transparent, and welcomes every kind of help.",
+      "{brand} focuses on daily darshan and aarti and annadaan and prasad. Ask us how to volunteer, donate or spread the word.",
+      "Want to help with daily darshan and aarti or dharamshala stay? {brand} will tell you plainly what is needed and how to take part."
+    ],
+    "button": "Offer Seva",
+    "featureTitle": "Our Temple Trust Work",
+    "features": [
+      {
+        "title": "Daily Darshan And Aarti",
+        "text": "We explain how daily darshan and aarti works, what is needed and how you can take part."
+      },
+      {
+        "title": "Pooja And Havan Booking",
+        "text": "Pooja And Havan Booking carried out with care, and we share plain updates on what is done."
+      },
+      {
+        "title": "Festival Celebrations",
+        "text": "Ask about festival celebrations; we describe the need simply and show ways to help."
+      },
+      {
+        "title": "Annadaan And Prasad",
+        "text": "For annadaan and prasad, we work with the community and keep our methods open and clear."
+      },
+      {
+        "title": "Dharamshala Stay",
+        "text": "Dharamshala Stay supported by volunteers and donors, with updates you can ask for any time."
+      },
+      {
+        "title": "Donations And Seva",
+        "text": "Questions about donations and seva? Message us and we will answer openly."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Open",
+        "label": "Doors for volunteers"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Clear",
+        "label": "Updates on our work"
+      }
+    ],
+    "steps": {
+      "title": "How To Take Part",
+      "items": [
+        {
+          "title": "Get In Touch",
+          "text": "Message or call to ask how you can help with temple trust and what is needed now."
+        },
+        {
+          "title": "Choose How To Help",
+          "text": "Give time, items or funds for daily darshan and aarti, whichever suits you."
+        },
+        {
+          "title": "Take Part",
+          "text": "Join an activity for pooja and havan booking or send your support, and we will guide you through it."
+        },
+        {
+          "title": "See The Result",
+          "text": "We share simple updates on festival celebrations so you can see what your help made possible."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I volunteer for pooja and havan booking?",
+        "a": "Yes. Tell us your availability and skills and we will find a suitable role. That goes for festival celebrations and annadaan and prasad too."
+      },
+      {
+        "q": "How is support for temple trust used?",
+        "a": "We tell you plainly what the support is used for and share updates when you ask. Ask us about dharamshala stay or donations and seva and the answer is the same."
+      },
+      {
+        "q": "Can I donate items for festival celebrations?",
+        "a": "Ask us what is needed right now and we will explain how to send or hand it over. The same approach applies to daily darshan and aarti and donations and seva."
+      },
+      {
+        "q": "Can I visit and see daily darshan and aarti first?",
+        "a": "Message us and we will arrange a time when it is convenient to visit. This applies to daily darshan and aarti, pooja and havan booking and the rest of our temple trust work."
+      },
+      {
+        "q": "How do I stay informed about annadaan and prasad?",
+        "a": "Tell us how you prefer to hear from us and we will keep you updated. It is the same for pooja and havan booking as it is for daily darshan and aarti."
+      }
+    ],
+    "cta": {
+      "title": "Can You Spare Time For Pooja And Havan Booking?",
+      "button": "Offer Seva"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good temple trust work starts with listening. You can ask us anything about how we work and how support is used.",
+        "Our work includes daily darshan and aarti and pooja and havan booking. Ask about annadaan and prasad or dharamshala stay too and we will say plainly what is needed."
+      ],
+      "points": [
+        "Open About Our Work",
+        "Every Help Welcome",
+        "Plain Updates"
+      ]
+    },
+    "pricing": {
+      "title": "Temple Trust Giving Options",
+      "plans": [
+        {
+          "name": "Small Gift",
+          "price": "$1",
+          "period": "/offering",
+          "perks": [
+            "A Gift Towards Daily Darshan And Aarti",
+            "Plain Update",
+            "Thank You Note"
+          ]
+        },
+        {
+          "name": "Regular Gift",
+          "price": "$10",
+          "period": "/seva",
+          "perks": [
+            "Daily Darshan And Aarti And Pooja And Havan Booking",
+            "Regular Updates",
+            "Invitation To Events"
+          ]
+        },
+        {
+          "name": "Major Gift",
+          "price": "$50",
+          "period": "/annual seva",
+          "perks": [
+            "Daily Darshan And Aarti Plus Pooja And Havan Booking And Festival Celebrations",
+            "Personal Briefing",
+            "Visit Our Work"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Moments From Temple Trust",
+      "captions": [
+        "Daily Darshan And Aarti",
+        "Pooja And Havan Booking",
+        "Festival Celebrations",
+        "Annadaan And Prasad",
+        "Dharamshala Stay",
+        "Donations And Seva"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Trust Secretary",
+        "Seva Coordinator",
+        "Visitor Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Quick reply about annadaan and prasad and a clear answer.",
+        "role": "Supporter"
+      },
+      {
+        "quote": "I asked how daily darshan and aarti works and they answered openly and kindly.",
+        "role": "Volunteer"
+      },
+      {
+        "quote": "Easy to take part in pooja and havan booking, and the team guided me through it.",
+        "role": "Supporter"
+      }
+    ],
+    "blog": {
+      "title": "From The Temple Trust Team",
+      "posts": [
+        {
+          "tag": "Thanks",
+          "title": "A Thank You For Donations And Seva"
+        },
+        {
+          "tag": "Story",
+          "title": "How Daily Darshan And Aarti Began"
+        },
+        {
+          "tag": "Update",
+          "title": "What Support For Pooja And Havan Booking Makes Possible"
+        }
+      ]
+    },
+    "marquee": [
+      "Daily Darshan",
+      "Havan Booking",
+      "Festival",
+      "Annadaan",
+      "Dharamshala Stay",
+      "Volunteer",
+      "Give Time",
+      "Plain Updates"
+    ],
+    "contactText": "Tell {brand} how you would like to help: daily darshan and aarti, festival celebrations or something else. We will answer with the next step."
+  },
+  {
+    "id": "travel_cab_taxi",
+    "label": "Cab and taxi service",
+    "theme": "travel_tourism",
+    "keywords": [
+      "taxi service",
+      "cab booking",
+      "outstation cab",
+      "airport taxi",
+      "car rental with driver",
+      "cab service",
+      "tempo traveller",
+      "टैक्सी सर्विस",
+      "कैब बुकिंग"
+    ],
+    "heroTitles": [
+      "Cab And Taxi Service With Clear Prices",
+      "Straight Talk On Airport Pickup And Drop",
+      "Cab And Taxi Service Without The Waiting Around"
+    ],
+    "heroSubtitles": [
+      "From airport pickup and drop to sedans, suvs and tempo vans, {brand} keeps it simple: a short chat, a clear price and a booking that fits your day.",
+      "{brand} takes care of airport pickup and drop and outstation taxi, tells you what is needed and what is not, and keeps you updated.",
+      "Need airport pickup and drop? {brand} will say what it involves, how long it takes and what it costs before you commit."
+    ],
+    "button": "Book A Cab",
+    "featureTitle": "What Cab And Taxi Service Covers Here",
+    "features": [
+      {
+        "title": "Airport Pickup And Drop",
+        "text": "Ask about airport pickup and drop; we explain the options in plain words and let you decide."
+      },
+      {
+        "title": "Outstation Taxi",
+        "text": "For outstation taxi, we check the basics first and suggest only what is actually needed."
+      },
+      {
+        "title": "Local City Rides",
+        "text": "Local City Rides booked at a time that suits you, with an update when it is done."
+      },
+      {
+        "title": "Sedans, SUVs And Tempo Vans",
+        "text": "Questions about sedans, suvs and tempo vans? Message us and we will answer before you book."
+      },
+      {
+        "title": "Wedding And Event Cars",
+        "text": "We tell you what wedding and event cars involves, how long it takes and the cost before we start."
+      },
+      {
+        "title": "Corporate Travel",
+        "text": "Corporate Travel with the price and timing agreed up front, so there are no surprises."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Price before work"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Free",
+        "label": "Quote on request"
+      }
+    ],
+    "steps": {
+      "title": "How Booking Works",
+      "items": [
+        {
+          "title": "Tell Us What You Need",
+          "text": "Share the cab and taxi service requirement by call or message, with the vehicle details."
+        },
+        {
+          "title": "Get A Clear Price",
+          "text": "We explain airport pickup and drop and the options, and tell you the cost before we begin."
+        },
+        {
+          "title": "Pick A Time",
+          "text": "Choose a slot that suits you and we confirm it, so the outstation taxi work fits your day."
+        },
+        {
+          "title": "Collect And Review",
+          "text": "We go through what was done on local city rides and answer any questions afterwards."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do you explain sedans, suvs and tempo vans?",
+        "a": "We say what it is, why it matters and what it costs, then leave the decision to you. That goes for local city rides and sedans, suvs and tempo vans too."
+      },
+      {
+        "q": "Is there a charge to ask about cab and taxi service?",
+        "a": "No. Asking and getting a rough idea of cost is free. Ask us about wedding and event cars or corporate travel and the answer is the same."
+      },
+      {
+        "q": "What if I need more than airport pickup and drop?",
+        "a": "Tell us at booking or on the day; we will say what else is worth doing and what can wait. The same approach applies to airport pickup and drop and corporate travel."
+      },
+      {
+        "q": "How do I book airport pickup and drop?",
+        "a": "Call or message with your vehicle details and the day you prefer, and we will confirm a slot. This applies to airport pickup and drop, outstation taxi and the rest of our cab and taxi service work."
+      },
+      {
+        "q": "Do you tell me the cost of outstation taxi first?",
+        "a": "Yes. We explain what is needed and what it costs before any work begins. It is the same for outstation taxi as it is for airport pickup and drop."
+      }
+    ],
+    "cta": {
+      "title": "Want A Clear Price For Airport Pickup And Drop?",
+      "button": "Book A Cab"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} a good cab and taxi service experience starts with a clear conversation, and the work follows from what we agreed.",
+        "Our work includes airport pickup and drop and outstation taxi. Ask about sedans, suvs and tempo vans or wedding and event cars too and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Price Before Work",
+        "Plain Explanations",
+        "Slots That Fit You"
+      ]
+    },
+    "pricing": {
+      "title": "Cab And Taxi Service Pricing",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "$8",
+          "period": "/local ride",
+          "perks": [
+            "Airport Pickup And Drop Only",
+            "Price Told First",
+            "Slot You Choose"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$35",
+          "period": "/airport trip",
+          "perks": [
+            "Airport Pickup And Drop And Outstation Taxi",
+            "Update When Done",
+            "Priority Booking"
+          ]
+        },
+        {
+          "name": "Complete",
+          "price": "$90",
+          "period": "/outstation day",
+          "perks": [
+            "Airport Pickup And Drop Plus Outstation Taxi And Local City Rides",
+            "Follow-Up Check",
+            "Reminders When Due"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Cab And Taxi Service At Work",
+      "captions": [
+        "Airport Pickup And Drop",
+        "Outstation Taxi",
+        "Local City Rides",
+        "Sedans SUVs And Tempo",
+        "Wedding And Event Cars",
+        "Corporate Travel"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Cab And Taxi Service Specialist",
+        "Airport Pickup And Drop Lead",
+        "Cab And Taxi Service Support Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "The team kept me updated while the cab and taxi service work was going on.",
+        "role": "Customer"
+      },
+      {
+        "quote": "I liked that airport pickup and drop came with a price upfront and nothing extra later.",
+        "role": "Business owner"
+      },
+      {
+        "quote": "Friendly people and a clear explanation of sedans, suvs and tempo vans.",
+        "role": "Customer"
+      }
+    ],
+    "blog": {
+      "title": "From The Cab And Taxi Service Desk",
+      "posts": [
+        {
+          "tag": "Cost",
+          "title": "What Affects The Cost Of Airport Pickup And Drop"
+        },
+        {
+          "tag": "Checklist",
+          "title": "Questions To Ask Before Outstation Taxi"
+        },
+        {
+          "tag": "Planning",
+          "title": "Getting Ready For Local City Rides"
+        }
+      ]
+    },
+    "marquee": [
+      "Airport Pickup",
+      "Outstation Taxi",
+      "Local City",
+      "Sedans SUVs",
+      "Event Cars",
+      "Free Quote",
+      "Clear Pricing",
+      "Local Team"
+    ],
+    "contactText": "Tell {brand} what you need: airport pickup and drop, local city rides or something close. We will answer with the next step and a clear price."
+  },
+  {
+    "id": "security_guard_agency",
+    "label": "Security guard agency",
+    "theme": "professional_services",
+    "keywords": [
+      "security guard agency",
+      "security guard service",
+      "security agency",
+      "guard services",
+      "bouncer services",
+      "society security guard",
+      "gunman service",
+      "सिक्योरिटी गार्ड सर्विस",
+      "गार्ड एजेंसी"
+    ],
+    "heroTitles": [
+      "Security Guard Agency In Plain Words",
+      "Security Guard Agency Without The Jargon",
+      "Clear Advice On Residential Society Guards"
+    ],
+    "heroSubtitles": [
+      "{brand} handles residential society guards and event security and bouncers. We explain what is needed, what it costs and how long it takes.",
+      "Need help with residential society guards or trained and briefed staff? {brand} will say what applies to you and what to prepare first.",
+      "Looking for help with security guard agency? {brand} listens first, explains the options in plain words and tells you the cost upfront."
+    ],
+    "button": "Get A Guard Quote",
+    "featureTitle": "Security Guard Agency Services We Offer",
+    "features": [
+      {
+        "title": "Residential Society Guards",
+        "text": "For residential society guards, we start by listening to your situation and then outline a clear plan."
+      },
+      {
+        "title": "Office And Corporate Security",
+        "text": "Office And Corporate Security explained without jargon, so you know what applies to you and why."
+      },
+      {
+        "title": "Factory And Warehouse Guards",
+        "text": "Questions about factory and warehouse guards? Message us and we will answer before you commit."
+      },
+      {
+        "title": "Event Security And Bouncers",
+        "text": "We explain event security and bouncers in plain words, with the steps, the papers needed and the cost upfront."
+      },
+      {
+        "title": "Trained And Briefed Staff",
+        "text": "Trained And Briefed Staff handled with care, with a clear next step after every conversation."
+      },
+      {
+        "title": "Supervisors And Replacements",
+        "text": "Ask about supervisors and replacements; we describe the options simply and let you decide at your own pace."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First conversation"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Clear",
+        "label": "Fees told upfront"
+      }
+    ],
+    "steps": {
+      "title": "How We Work With You",
+      "items": [
+        {
+          "title": "Tell Us Your Situation",
+          "text": "Share your security guard agency question by call or message, with any papers you have."
+        },
+        {
+          "title": "We Explain The Options",
+          "text": "You hear what residential society guards involves, what it costs and how long it takes."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We confirm the steps for office and corporate security and what we need from you."
+        },
+        {
+          "title": "We Handle And Update",
+          "text": "We take care of factory and warehouse guards and keep you updated until it is complete."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Is my information kept private for factory and warehouse guards?",
+        "a": "We keep your details confidential and use them only for your work. Ask us about trained and briefed staff or supervisors and replacements and the answer is the same."
+      },
+      {
+        "q": "Can I ask a question before hiring you for residential society guards?",
+        "a": "Of course. A first conversation is the right place to ask anything. The same approach applies to residential society guards and supervisors and replacements."
+      },
+      {
+        "q": "How long does event security and bouncers take?",
+        "a": "It depends on the case; we give an honest estimate and update you if anything changes. This applies to residential society guards, office and corporate security and the rest of our security guard agency work."
+      },
+      {
+        "q": "Do you help small cases in security guard agency?",
+        "a": "Yes. Every case gets the same clear explanation and the same careful handling. It is the same for office and corporate security as it is for residential society guards."
+      },
+      {
+        "q": "Can I get updates on trained and briefed staff?",
+        "a": "Yes. Tell us how you prefer to be updated and we will keep to it. That goes for factory and warehouse guards and event security and bouncers too."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Talk About Security Guard Agency?",
+      "button": "Get A Guard Quote"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good security guard agency begins with a clear conversation. You hear the plan and the cost first, and the work follows.",
+        "Our work includes residential society guards and office and corporate security. Ask about event security and bouncers or trained and briefed staff too and we will say plainly what we can do."
+      ],
+      "points": [
+        "Plain Explanations",
+        "Fees Told Upfront",
+        "Private Handling"
+      ]
+    },
+    "pricing": {
+      "title": "Security Guard Agency Fees",
+      "plans": [
+        {
+          "name": "First Step",
+          "price": "$350",
+          "period": "/guard month",
+          "perks": [
+            "Residential Society Guards Discussion",
+            "Written Next Steps",
+            "Fees Explained"
+          ]
+        },
+        {
+          "name": "Standard Help",
+          "price": "$650",
+          "period": "/2 guards month",
+          "perks": [
+            "Residential Society Guards And Office And Corporate Security",
+            "Progress Updates",
+            "Document Checklist"
+          ]
+        },
+        {
+          "name": "Full Support",
+          "price": "$1200",
+          "period": "/4 guards month",
+          "perks": [
+            "Residential Society Guards Plus Office And Corporate Security And Factory And Warehouse Guards",
+            "Extended Support",
+            "Priority Replies"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Our Security Guard Agency Office",
+      "captions": [
+        "Residential Society Guards",
+        "Office And Corporate Security",
+        "Factory And Warehouse Guards",
+        "Event Security And Bouncers",
+        "Trained And Briefed Staff",
+        "Supervisors And Replacements"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Security Guard Agency Advisor",
+        "Residential Society Guards Specialist",
+        "Client Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Friendly team, and the security guard agency advice was easy to follow.",
+        "role": "Client"
+      },
+      {
+        "quote": "I liked that residential society guards was broken into simple steps with a clear list.",
+        "role": "Family client"
+      },
+      {
+        "quote": "Quick reply about event security and bouncers and a straight answer.",
+        "role": "Client"
+      }
+    ],
+    "blog": {
+      "title": "From The Security Guard Agency Desk",
+      "posts": [
+        {
+          "tag": "Documents",
+          "title": "Papers To Gather For Office And Corporate Security"
+        },
+        {
+          "tag": "Questions",
+          "title": "Questions To Ask About Factory And Warehouse Guards"
+        },
+        {
+          "tag": "Planning",
+          "title": "Planning Ahead For Event Security And Bouncers"
+        }
+      ]
+    },
+    "marquee": [
+      "Society Guards",
+      "Office",
+      "Warehouse Guards",
+      "Event Security",
+      "Briefed Staff",
+      "Plain Advice",
+      "Fees Upfront",
+      "Private"
+    ],
+    "contactText": "Tell {brand} your situation: residential society guards, factory and warehouse guards or something close. We will answer with a clear plan and the fee."
+  }
+]

@@ -1,0 +1,2241 @@
+[
+  {
+    "id": "chartered_accountant",
+    "label": "Chartered accountant",
+    "theme": "professional_services",
+    "keywords": [
+      "chartered accountant",
+      "ca firm",
+      "gst filing",
+      "itr filing",
+      "income tax return",
+      "tax consultant",
+      "company registration",
+      "ca near me",
+      "चार्टर्ड अकाउंटेंट",
+      "जीएसटी रिटर्न"
+    ],
+    "heroTitles": [
+      "Chartered Accountant In Plain Words",
+      "Chartered Accountant Without The Jargon",
+      "Clear Advice On GST Registration And Returns"
+    ],
+    "heroSubtitles": [
+      "Need help with GST registration and returns or audit and assurance? {brand} will say what applies to you and what to prepare first.",
+      "Looking for help with chartered accountant? {brand} listens first, explains the options in plain words and tells you the cost upfront.",
+      "From GST registration and returns to income tax filing, {brand} keeps it simple: a short call, honest advice and a clear way forward."
+    ],
+    "button": "Book A Tax Chat",
+    "featureTitle": "Chartered Accountant Services We Offer",
+    "features": [
+      {
+        "title": "GST Registration And Returns",
+        "text": "For GST registration and returns, we start by listening to your situation and then outline a clear plan."
+      },
+      {
+        "title": "Income Tax Filing",
+        "text": "Income Tax Filing explained without jargon, so you know what applies to you and why."
+      },
+      {
+        "title": "Bookkeeping And Accounts",
+        "text": "Questions about bookkeeping and accounts? Message us and we will answer before you commit."
+      },
+      {
+        "title": "Company Incorporation",
+        "text": "We explain company incorporation in plain words, with the steps, the papers needed and the cost upfront."
+      },
+      {
+        "title": "Audit And Assurance",
+        "text": "Audit And Assurance handled with care, with a clear next step after every conversation."
+      },
+      {
+        "title": "Notices And Assessments",
+        "text": "Ask about notices and assessments; we describe the options simply and let you decide at your own pace."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Plain",
+        "label": "Language, no jargon"
+      },
+      {
+        "value": "Private",
+        "label": "Details kept private"
+      },
+      {
+        "value": "Easy",
+        "label": "Booking a call"
+      }
+    ],
+    "steps": {
+      "title": "How We Work With You",
+      "items": [
+        {
+          "title": "Tell Us Your Situation",
+          "text": "Share your chartered accountant question by call or message, with any papers you have."
+        },
+        {
+          "title": "We Explain The Options",
+          "text": "You hear what GST registration and returns involves, what it costs and how long it takes."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We confirm the steps for income tax filing and what we need from you."
+        },
+        {
+          "title": "We Handle And Update",
+          "text": "We take care of bookkeeping and accounts and keep you updated until it is complete."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I start with GST registration and returns?",
+        "a": "Call or message us with a short description of your situation and we will reply with the next step. That goes for bookkeeping and accounts and company incorporation too."
+      },
+      {
+        "q": "What documents do I need for income tax filing?",
+        "a": "We tell you the exact list once we know your case, so you only gather what is needed. Ask us about audit and assurance or notices and assessments and the answer is the same."
+      },
+      {
+        "q": "Do you explain the fees for chartered accountant?",
+        "a": "Yes. We tell you the fee and what it covers before you decide to go ahead. The same approach applies to GST registration and returns and notices and assessments."
+      },
+      {
+        "q": "Is my information kept private for bookkeeping and accounts?",
+        "a": "We keep your details confidential and use them only for your work. This applies to GST registration and returns, income tax filing and the rest of our chartered accountant work."
+      },
+      {
+        "q": "Can I ask a question before hiring you for GST registration and returns?",
+        "a": "Of course. A first conversation is the right place to ask anything. It is the same for income tax filing as it is for GST registration and returns."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Talk About Chartered Accountant?",
+      "button": "Book A Tax Chat"
+    },
+    "about": {
+      "title": "About Our Chartered Accountant Practice",
+      "paragraphs": [
+        "At {brand} good chartered accountant begins with a clear conversation. You hear the plan and the cost first, and the work follows.",
+        "Our work includes GST registration and returns and income tax filing. Ask about company incorporation or audit and assurance too and we will say plainly what we can do."
+      ],
+      "points": [
+        "Plain Explanations",
+        "Fees Told Upfront",
+        "Private Handling"
+      ]
+    },
+    "pricing": {
+      "title": "Chartered Accountant Fees",
+      "plans": [
+        {
+          "name": "First Step",
+          "price": "$0",
+          "period": "/consultation",
+          "perks": [
+            "GST Registration And Returns Discussion",
+            "Written Next Steps",
+            "Fees Explained"
+          ]
+        },
+        {
+          "name": "Standard Help",
+          "price": "$25",
+          "period": "/return filing",
+          "perks": [
+            "GST Registration And Returns And Income Tax Filing",
+            "Progress Updates",
+            "Document Checklist"
+          ]
+        },
+        {
+          "name": "Full Support",
+          "price": "$140",
+          "period": "/annual package",
+          "perks": [
+            "GST Registration And Returns Plus Income Tax Filing And Bookkeeping And Accounts",
+            "Extended Support",
+            "Priority Replies"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Chartered Accountant Practice",
+      "captions": [
+        "GST Registration And Returns",
+        "Income Tax Filing",
+        "Bookkeeping And Accounts",
+        "Company Incorporation",
+        "Audit And Assurance",
+        "Notices And Assessments"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Chartered Accountant",
+        "Tax Associate",
+        "Client Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "I liked that GST registration and returns was broken into simple steps with a clear list.",
+        "role": "Family client"
+      },
+      {
+        "quote": "Quick reply about company incorporation and a straight answer.",
+        "role": "Client"
+      },
+      {
+        "quote": "They explained GST registration and returns in plain words and told me the fee first.",
+        "role": "Client"
+      }
+    ],
+    "blog": {
+      "title": "From The Chartered Accountant Desk",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "What To Know About GST Registration And Returns"
+        },
+        {
+          "tag": "Documents",
+          "title": "Papers To Gather For Income Tax Filing"
+        },
+        {
+          "tag": "Questions",
+          "title": "Questions To Ask About Bookkeeping And Accounts"
+        }
+      ]
+    },
+    "marquee": [
+      "GST Registration",
+      "Income Tax",
+      "Bookkeeping",
+      "Company",
+      "Audit",
+      "Plain Advice",
+      "Fees Upfront",
+      "Private"
+    ],
+    "contactText": "Message {brand} about GST registration and returns or income tax filing. We reply with a short list of questions and the next step."
+  },
+  {
+    "id": "insurance_agent",
+    "label": "Insurance agent",
+    "theme": "professional_services",
+    "keywords": [
+      "insurance agent",
+      "life insurance",
+      "health insurance",
+      "term insurance",
+      "motor insurance",
+      "insurance advisor",
+      "bima",
+      "policy renewal",
+      "बीमा",
+      "बीमा एजेंट"
+    ],
+    "heroTitles": [
+      "Insurance Agent That Starts With Listening",
+      "Straight Answers On Health Insurance",
+      "Health Insurance And Term Life Cover Explained Clearly"
+    ],
+    "heroSubtitles": [
+      "Need help with health insurance or claim assistance? {brand} will say what applies to you and what to prepare first.",
+      "{brand} helps with health insurance, term life cover and motor insurance. Tell us your situation and get a clear explanation and a next step.",
+      "Looking for help with insurance agent? {brand} listens first, explains the options in plain words and tells you the cost upfront."
+    ],
+    "button": "Book A Policy Chat",
+    "featureTitle": "Our Insurance Agent Services",
+    "features": [
+      {
+        "title": "Health Insurance",
+        "text": "Health Insurance explained without jargon, so you know what applies to you and why."
+      },
+      {
+        "title": "Term Life Cover",
+        "text": "Questions about term life cover? Message us and we will answer before you commit."
+      },
+      {
+        "title": "Motor Insurance",
+        "text": "We explain motor insurance in plain words, with the steps, the papers needed and the cost upfront."
+      },
+      {
+        "title": "Travel And Home Cover",
+        "text": "Travel And Home Cover handled with care, with a clear next step after every conversation."
+      },
+      {
+        "title": "Claim Assistance",
+        "text": "Ask about claim assistance; we describe the options simply and let you decide at your own pace."
+      },
+      {
+        "title": "Renewal Tracking",
+        "text": "For renewal tracking, we start by listening to your situation and then outline a clear plan."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Plain",
+        "label": "Language, no jargon"
+      },
+      {
+        "value": "Private",
+        "label": "Details kept private"
+      },
+      {
+        "value": "Easy",
+        "label": "Booking a call"
+      }
+    ],
+    "steps": {
+      "title": "How We Work With You",
+      "items": [
+        {
+          "title": "Tell Us Your Situation",
+          "text": "Share your insurance agent question by call or message, with any papers you have."
+        },
+        {
+          "title": "We Explain The Options",
+          "text": "You hear what health insurance involves, what it costs and how long it takes."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We confirm the steps for term life cover and what we need from you."
+        },
+        {
+          "title": "We Handle And Update",
+          "text": "We take care of motor insurance and keep you updated until it is complete."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Do you explain the fees for insurance agent?",
+        "a": "Yes. We tell you the fee and what it covers before you decide to go ahead. It is the same for term life cover as it is for health insurance."
+      },
+      {
+        "q": "Is my information kept private for motor insurance?",
+        "a": "We keep your details confidential and use them only for your work. That goes for motor insurance and travel and home cover too."
+      },
+      {
+        "q": "Can I ask a question before hiring you for health insurance?",
+        "a": "Of course. A first conversation is the right place to ask anything. Ask us about claim assistance or renewal tracking and the answer is the same."
+      },
+      {
+        "q": "How long does travel and home cover take?",
+        "a": "It depends on the case; we give an honest estimate and update you if anything changes. The same approach applies to health insurance and renewal tracking."
+      },
+      {
+        "q": "Do you help small cases in insurance agent?",
+        "a": "Yes. Every case gets the same clear explanation and the same careful handling. This applies to health insurance, term life cover and the rest of our insurance agent work."
+      }
+    ],
+    "cta": {
+      "title": "Need Help With Health Insurance?",
+      "button": "Book A Policy Chat"
+    },
+    "about": {
+      "title": "About Our Insurance Agent Practice",
+      "paragraphs": [
+        "At {brand} good insurance agent begins with a clear conversation. You hear the plan and the cost first, and the work follows.",
+        "Our work includes health insurance and term life cover. Ask about travel and home cover or claim assistance too and we will say plainly what we can do."
+      ],
+      "points": [
+        "Plain Explanations",
+        "Fees Told Upfront",
+        "Private Handling"
+      ]
+    },
+    "pricing": {
+      "title": "Insurance Agent Fees",
+      "plans": [
+        {
+          "name": "First Step",
+          "price": "$0",
+          "period": "/consultation",
+          "perks": [
+            "Health Insurance Discussion",
+            "Written Next Steps",
+            "Fees Explained"
+          ]
+        },
+        {
+          "name": "Standard Help",
+          "price": "$20",
+          "period": "/policy review",
+          "perks": [
+            "Health Insurance And Term Life Cover",
+            "Progress Updates",
+            "Document Checklist"
+          ]
+        },
+        {
+          "name": "Full Support",
+          "price": "$60",
+          "period": "/family plan advice",
+          "perks": [
+            "Health Insurance Plus Term Life Cover And Motor Insurance",
+            "Extended Support",
+            "Priority Replies"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Insurance Agent Practice",
+      "captions": [
+        "Health Insurance",
+        "Term Life Cover",
+        "Motor Insurance",
+        "Travel And Home Cover",
+        "Claim Assistance",
+        "Renewal Tracking"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Insurance Agent Advisor",
+        "Health Insurance Specialist",
+        "Client Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "I liked that health insurance was broken into simple steps with a clear list.",
+        "role": "Family client"
+      },
+      {
+        "quote": "Quick reply about travel and home cover and a straight answer.",
+        "role": "Client"
+      },
+      {
+        "quote": "They explained health insurance in plain words and told me the fee first.",
+        "role": "Client"
+      }
+    ],
+    "blog": {
+      "title": "From The Insurance Agent Desk",
+      "posts": [
+        {
+          "tag": "Questions",
+          "title": "Questions To Ask About Motor Insurance"
+        },
+        {
+          "tag": "Planning",
+          "title": "Planning Ahead For Travel And Home Cover"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Claim Assistance"
+        }
+      ]
+    },
+    "marquee": [
+      "Health Insurance",
+      "Term Life",
+      "Motor Insurance",
+      "Home Cover",
+      "Claim Assistance",
+      "Plain Advice",
+      "Fees Upfront",
+      "Private"
+    ],
+    "contactText": "Message {brand} about health insurance or term life cover. We reply with a short list of questions and the next step."
+  },
+  {
+    "id": "loan_finance_agent",
+    "label": "Loan and finance agent",
+    "theme": "professional_services",
+    "keywords": [
+      "loan agent",
+      "home loan",
+      "personal loan",
+      "business loan",
+      "loan against property",
+      "loan consultant",
+      "finance agent",
+      "loan dsa",
+      "लोन एजेंट",
+      "होम लोन"
+    ],
+    "heroTitles": [
+      "Clear Advice On Home Loans",
+      "Loan And Finance Agent That Starts With Listening",
+      "Straight Answers On Home Loans"
+    ],
+    "heroSubtitles": [
+      "From home loans to personal loans, {brand} keeps it simple: a short call, honest advice and a clear way forward.",
+      "{brand} handles home loans and loan against property. We explain what is needed, what it costs and how long it takes.",
+      "Need help with home loans or vehicle loans? {brand} will say what applies to you and what to prepare first."
+    ],
+    "button": "Check Loan Options",
+    "featureTitle": "Loan And Finance Agent Services We Offer",
+    "features": [
+      {
+        "title": "Home Loans",
+        "text": "Questions about home loans? Message us and we will answer before you commit."
+      },
+      {
+        "title": "Personal Loans",
+        "text": "We explain personal loans in plain words, with the steps, the papers needed and the cost upfront."
+      },
+      {
+        "title": "Business Loans",
+        "text": "Business Loans handled with care, with a clear next step after every conversation."
+      },
+      {
+        "title": "Loan Against Property",
+        "text": "Ask about loan against property; we describe the options simply and let you decide at your own pace."
+      },
+      {
+        "title": "Vehicle Loans",
+        "text": "For vehicle loans, we start by listening to your situation and then outline a clear plan."
+      },
+      {
+        "title": "Credit Report Guidance",
+        "text": "Credit Report Guidance explained without jargon, so you know what applies to you and why."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First conversation"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Clear",
+        "label": "Fees told upfront"
+      }
+    ],
+    "steps": {
+      "title": "How We Work With You",
+      "items": [
+        {
+          "title": "Tell Us Your Situation",
+          "text": "Share your loan and finance agent question by call or message, with any papers you have."
+        },
+        {
+          "title": "We Explain The Options",
+          "text": "You hear what home loans involves, what it costs and how long it takes."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We confirm the steps for personal loans and what we need from you."
+        },
+        {
+          "title": "We Handle And Update",
+          "text": "We take care of business loans and keep you updated until it is complete."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I get updates on vehicle loans?",
+        "a": "Yes. Tell us how you prefer to be updated and we will keep to it. It is the same for personal loans as it is for home loans."
+      },
+      {
+        "q": "How do I start with home loans?",
+        "a": "Call or message us with a short description of your situation and we will reply with the next step. That goes for business loans and loan against property too."
+      },
+      {
+        "q": "What documents do I need for personal loans?",
+        "a": "We tell you the exact list once we know your case, so you only gather what is needed. Ask us about vehicle loans or credit report guidance and the answer is the same."
+      },
+      {
+        "q": "Do you explain the fees for loan and finance agent?",
+        "a": "Yes. We tell you the fee and what it covers before you decide to go ahead. The same approach applies to home loans and credit report guidance."
+      },
+      {
+        "q": "Is my information kept private for business loans?",
+        "a": "We keep your details confidential and use them only for your work. This applies to home loans, personal loans and the rest of our loan and finance agent work."
+      }
+    ],
+    "cta": {
+      "title": "Want A Clear Answer On Personal Loans?",
+      "button": "Check Loan Options"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good loan and finance agent begins with a clear conversation. You hear the plan and the cost first, and the work follows.",
+        "Our work includes home loans and personal loans. Ask about loan against property or vehicle loans too and we will say plainly what we can do."
+      ],
+      "points": [
+        "Plain Explanations",
+        "Fees Told Upfront",
+        "Private Handling"
+      ]
+    },
+    "pricing": {
+      "title": "Loan And Finance Agent Fees",
+      "plans": [
+        {
+          "name": "First Step",
+          "price": "$0",
+          "period": "/consultation",
+          "perks": [
+            "Home Loans Discussion",
+            "Written Next Steps",
+            "Fees Explained"
+          ]
+        },
+        {
+          "name": "Standard Help",
+          "price": "$25",
+          "period": "/application help",
+          "perks": [
+            "Home Loans And Personal Loans",
+            "Progress Updates",
+            "Document Checklist"
+          ]
+        },
+        {
+          "name": "Full Support",
+          "price": "$70",
+          "period": "/full processing",
+          "perks": [
+            "Home Loans Plus Personal Loans And Business Loans",
+            "Extended Support",
+            "Priority Replies"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Our Loan And Finance Agent Office",
+      "captions": [
+        "Home Loans",
+        "Personal Loans",
+        "Business Loans",
+        "Loan Against Property",
+        "Vehicle Loans",
+        "Credit Report Guidance"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Loan And Finance Agent Advisor",
+        "Home Loans Specialist",
+        "Client Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Friendly team, and the loan and finance agent advice was easy to follow.",
+        "role": "Client"
+      },
+      {
+        "quote": "I liked that home loans was broken into simple steps with a clear list.",
+        "role": "Family client"
+      },
+      {
+        "quote": "Quick reply about loan against property and a straight answer.",
+        "role": "Client"
+      }
+    ],
+    "blog": {
+      "title": "From The Loan And Finance Agent Desk",
+      "posts": [
+        {
+          "tag": "Planning",
+          "title": "Planning Ahead For Loan Against Property"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Vehicle Loans"
+        },
+        {
+          "tag": "Mistakes",
+          "title": "Common Slips With Credit Report Guidance"
+        }
+      ]
+    },
+    "marquee": [
+      "Home Loans",
+      "Personal Loans",
+      "Business Loans",
+      "Loan Against",
+      "Vehicle Loans",
+      "Plain Advice",
+      "Fees Upfront",
+      "Private"
+    ],
+    "contactText": "Tell {brand} your situation: home loans, business loans or something close. We will answer with a clear plan and the fee."
+  },
+  {
+    "id": "astrologer_vastu",
+    "label": "Astrologer and Vastu consultant",
+    "theme": "general_business",
+    "keywords": [
+      "astrologer",
+      "jyotish",
+      "kundli",
+      "vastu consultant",
+      "vastu shastra",
+      "horoscope",
+      "kundali matching",
+      "ज्योतिषी",
+      "वास्तु सलाहकार"
+    ],
+    "heroTitles": [
+      "Astrologer And Vastu Consultant That Starts With Listening",
+      "Straight Answers On Kundli Reading",
+      "Kundli Reading And Kundli Matching Explained Clearly"
+    ],
+    "heroSubtitles": [
+      "Looking for help with astrologer and vastu consultant? {brand} listens first, explains the options in plain words and tells you the cost upfront.",
+      "From kundli reading to kundli matching, {brand} keeps it simple: a short call, honest advice and a clear way forward.",
+      "{brand} handles kundli reading and vastu for homes. We explain what is needed, what it costs and how long it takes."
+    ],
+    "button": "Book A Reading",
+    "featureTitle": "Astrologer And Vastu Consultant Services We Offer",
+    "features": [
+      {
+        "title": "Kundli Reading",
+        "text": "Kundli Reading handled with care, with a clear next step after every conversation."
+      },
+      {
+        "title": "Kundli Matching",
+        "text": "Ask about kundli matching; we describe the options simply and let you decide at your own pace."
+      },
+      {
+        "title": "Muhurat Selection",
+        "text": "For muhurat selection, we start by listening to your situation and then outline a clear plan."
+      },
+      {
+        "title": "Vastu For Homes",
+        "text": "Vastu For Homes explained without jargon, so you know what applies to you and why."
+      },
+      {
+        "title": "Vastu For Shops",
+        "text": "Questions about vastu for shops? Message us and we will answer before you commit."
+      },
+      {
+        "title": "Remedy Guidance",
+        "text": "We explain remedy guidance in plain words, with the steps, the papers needed and the cost upfront."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "First conversation"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Clear",
+        "label": "Fees told upfront"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Tell Us Your Situation",
+          "text": "Share your astrologer and vastu consultant question by call or message, with any papers you have."
+        },
+        {
+          "title": "We Explain The Options",
+          "text": "You hear what kundli reading involves, what it costs and how long it takes."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We confirm the steps for kundli matching and what we need from you."
+        },
+        {
+          "title": "We Handle And Update",
+          "text": "We take care of muhurat selection and keep you updated until it is complete."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I get updates on vastu for shops?",
+        "a": "Yes. Tell us how you prefer to be updated and we will keep to it. It is the same for kundli matching as it is for kundli reading."
+      },
+      {
+        "q": "How do I start with kundli reading?",
+        "a": "Call or message us with a short description of your situation and we will reply with the next step. That goes for muhurat selection and vastu for homes too."
+      },
+      {
+        "q": "What documents do I need for kundli matching?",
+        "a": "We tell you the exact list once we know your case, so you only gather what is needed. Ask us about vastu for shops or remedy guidance and the answer is the same."
+      },
+      {
+        "q": "Do you explain the fees for astrologer and vastu consultant?",
+        "a": "Yes. We tell you the fee and what it covers before you decide to go ahead. The same approach applies to kundli reading and remedy guidance."
+      },
+      {
+        "q": "Is my information kept private for muhurat selection?",
+        "a": "We keep your details confidential and use them only for your work. This applies to kundli reading, kundli matching and the rest of our astrologer and vastu consultant work."
+      }
+    ],
+    "cta": {
+      "title": "Need Help With Kundli Reading?",
+      "button": "Book A Reading"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "{brand} is a local astrologer and vastu consultant practice. We listen to your situation, explain the options plainly and handle the work step by step.",
+        "We help with kundli reading, kundli matching and muhurat selection, and we are glad to talk it through before you decide on anything."
+      ],
+      "points": [
+        "Clear Next Steps",
+        "Friendly Team",
+        "Honest Advice"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Astrologer And Vastu Consultant",
+      "plans": [
+        {
+          "name": "First Step",
+          "price": "$8",
+          "period": "/question",
+          "perks": [
+            "Kundli Reading Discussion",
+            "Written Next Steps",
+            "Fees Explained"
+          ]
+        },
+        {
+          "name": "Standard Help",
+          "price": "$25",
+          "period": "/kundli reading",
+          "perks": [
+            "Kundli Reading And Kundli Matching",
+            "Progress Updates",
+            "Document Checklist"
+          ]
+        },
+        {
+          "name": "Full Support",
+          "price": "$60",
+          "period": "/full consultation",
+          "perks": [
+            "Kundli Reading Plus Kundli Matching And Muhurat Selection",
+            "Extended Support",
+            "Priority Replies"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Our Astrologer And Vastu Consultant Office",
+      "captions": [
+        "Kundli Reading",
+        "Kundli Matching",
+        "Muhurat Selection",
+        "Vastu For Homes",
+        "Vastu For Shops",
+        "Remedy Guidance"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Astrologer And Vastu Consultant Advisor",
+        "Kundli Reading Specialist",
+        "Client Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Quick reply about vastu for homes and a straight answer.",
+        "role": "Client"
+      },
+      {
+        "quote": "They explained kundli reading in plain words and told me the fee first.",
+        "role": "Client"
+      },
+      {
+        "quote": "Clear steps for kundli matching, and updates without having to chase.",
+        "role": "Small business owner"
+      }
+    ],
+    "blog": {
+      "title": "Astrologer And Vastu Consultant Notes And Guides",
+      "posts": [
+        {
+          "tag": "Mistakes",
+          "title": "Common Slips With Remedy Guidance"
+        },
+        {
+          "tag": "Guide",
+          "title": "What To Know About Kundli Reading"
+        },
+        {
+          "tag": "Documents",
+          "title": "Papers To Gather For Kundli Matching"
+        }
+      ]
+    },
+    "marquee": [
+      "Kundli Reading",
+      "Kundli Matching",
+      "Muhurat",
+      "Vastu",
+      "Plain Advice",
+      "Fees Upfront",
+      "Private",
+      "Clear Steps"
+    ],
+    "contactText": "Tell {brand} your situation: kundli reading, muhurat selection or something close. We will answer with a clear plan and the fee."
+  },
+  {
+    "id": "ielts_language_coaching",
+    "label": "IELTS and language coaching",
+    "theme": "education",
+    "keywords": [
+      "ielts coaching",
+      "ielts classes",
+      "pte coaching",
+      "toefl coaching",
+      "spoken english classes",
+      "english speaking course",
+      "german language classes",
+      "आईईएलटीएस कोचिंग",
+      "स्पोकन इंग्लिश क्लास"
+    ],
+    "heroTitles": [
+      "IELTS And Language Coaching That Builds Confidence",
+      "Learn IELTS Academic And General Step By Step",
+      "IELTS And Language Coaching With Time For Questions"
+    ],
+    "heroSubtitles": [
+      "From IELTS academic and general to PTE and TOEFL prep, {brand} helps learners move one step at a time, with feedback they can use.",
+      "{brand} offers IELTS academic and general and writing feedback. Tell us the level and the goal and we will suggest a suitable batch.",
+      "Want to learn IELTS academic and general or mock speaking interviews? {brand} will explain how classes run, what to bring and how progress is shared."
+    ],
+    "button": "Book A Demo Class",
+    "featureTitle": "IELTS And Language Coaching Courses We Offer",
+    "features": [
+      {
+        "title": "IELTS Academic And General",
+        "text": "Questions about IELTS academic and general? Message us and we will answer before you enrol."
+      },
+      {
+        "title": "PTE And TOEFL Prep",
+        "text": "We explain how PTE and TOEFL prep is taught, what to practise and how progress is shared."
+      },
+      {
+        "title": "Spoken English",
+        "text": "Spoken English taught step by step, with time for questions and regular practice."
+      },
+      {
+        "title": "Writing Feedback",
+        "text": "Ask about writing feedback; we describe the batch, the timings and what suits your level."
+      },
+      {
+        "title": "Mock Speaking Interviews",
+        "text": "For mock speaking interviews, we start from where you are and build up at a comfortable pace."
+      },
+      {
+        "title": "German And French Basics",
+        "text": "German And French Basics with simple feedback after each class, so you know what to improve."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Step",
+        "label": "By step teaching"
+      },
+      {
+        "value": "Open",
+        "label": "Doubts welcome"
+      },
+      {
+        "value": "Flexible",
+        "label": "Batch timings"
+      }
+    ],
+    "steps": {
+      "title": "How To Join",
+      "items": [
+        {
+          "title": "Visit A Demo Class",
+          "text": "Message or call to join a IELTS and language coaching demo class and meet the teacher."
+        },
+        {
+          "title": "Choose Your Batch",
+          "text": "We suggest a batch for IELTS academic and general that fits your level and your timings."
+        },
+        {
+          "title": "Learn And Practise",
+          "text": "Attend classes for PTE and TOEFL prep, practise between sessions and ask questions freely."
+        },
+        {
+          "title": "Review Progress",
+          "text": "We share simple feedback on spoken english and plan the next steps with you."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "What should a beginner expect in PTE and TOEFL prep?",
+        "a": "A calm start from the basics, with practice and time for questions at every step. That goes for spoken english and writing feedback too."
+      },
+      {
+        "q": "Can I ask doubts after spoken english classes?",
+        "a": "Yes. Doubts are welcome in class and by message afterwards. Ask us about mock speaking interviews or german and french basics and the answer is the same."
+      },
+      {
+        "q": "How do you share progress in IELTS academic and general?",
+        "a": "We give simple feedback after classes and talk to you about the next goals. The same approach applies to IELTS academic and general and german and french basics."
+      },
+      {
+        "q": "Are the IELTS and language coaching batches small?",
+        "a": "We keep batches manageable so each learner gets attention; ask us about current timings. This applies to IELTS academic and general, PTE and TOEFL prep and the rest of our IELTS and language coaching work."
+      },
+      {
+        "q": "What do I need to bring for writing feedback?",
+        "a": "We tell you when you enrol, usually a notebook and the materials for that course. It is the same for PTE and TOEFL prep as it is for IELTS academic and general."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Join IELTS And Language Coaching?",
+      "button": "Book A Demo Class"
+    },
+    "about": {
+      "title": "About Our IELTS And Language Coaching Classes",
+      "paragraphs": [
+        "At {brand} good IELTS and language coaching means clear teaching, regular practice and feedback learners can use.",
+        "Our classes include IELTS academic and general and PTE and TOEFL prep. Ask about writing feedback or mock speaking interviews too and we will say plainly what is available."
+      ],
+      "points": [
+        "Step By Step Teaching",
+        "Doubts Welcome",
+        "Regular Practice"
+      ]
+    },
+    "pricing": {
+      "title": "IELTS And Language Coaching Fee Guide",
+      "plans": [
+        {
+          "name": "Trial",
+          "price": "$30",
+          "period": "/month",
+          "perks": [
+            "IELTS Academic And General Demo Class",
+            "Meet The Teacher",
+            "Batch Advice"
+          ]
+        },
+        {
+          "name": "Monthly",
+          "price": "$80",
+          "period": "/course",
+          "perks": [
+            "IELTS Academic And General And PTE And TOEFL Prep",
+            "Regular Feedback",
+            "Doubt Sessions"
+          ]
+        },
+        {
+          "name": "Full Course",
+          "price": "$140",
+          "period": "/premium course",
+          "perks": [
+            "IELTS Academic And General Plus PTE And TOEFL Prep And Spoken English",
+            "Extended Practice",
+            "Progress Reviews"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Learning At IELTS And Language Coaching",
+      "captions": [
+        "IELTS Academic And General",
+        "PTE And TOEFL Prep",
+        "Spoken English",
+        "Writing Feedback",
+        "Mock Speaking Interviews",
+        "German And French Basics"
+      ]
+    },
+    "team": {
+      "title": "Meet The Teachers",
+      "roles": [
+        "IELTS And Language Coaching Teacher",
+        "IELTS Academic And General Mentor",
+        "Admissions Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "A friendly start to spoken english with no pressure.",
+        "role": "Learner"
+      },
+      {
+        "quote": "Small batch, and the IELTS and language coaching teaching matched my level.",
+        "role": "Student"
+      },
+      {
+        "quote": "I liked that IELTS academic and general was taught step by step with regular practice.",
+        "role": "Parent"
+      }
+    ],
+    "blog": {
+      "title": "From The IELTS And Language Coaching Classroom",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "How To Start Learning IELTS Academic And General"
+        },
+        {
+          "tag": "Practice",
+          "title": "Simple Ways To Practise PTE And TOEFL Prep"
+        },
+        {
+          "tag": "Habits",
+          "title": "Study Habits That Help With Spoken English"
+        }
+      ]
+    },
+    "marquee": [
+      "IELTS Academic",
+      "TOEFL Prep",
+      "Spoken English",
+      "Writing Feedback",
+      "Mock Speaking",
+      "Demo Class",
+      "Small Batches",
+      "Doubts Welcome"
+    ],
+    "contactText": "Message {brand} to ask about IELTS academic and general or PTE and TOEFL prep, or to book a demo class. We reply with batch timings and what to bring."
+  },
+  {
+    "id": "tuition_centre",
+    "label": "Tuition centre",
+    "theme": "education",
+    "keywords": [
+      "tuition centre",
+      "tuition classes",
+      "coaching classes",
+      "home tuition",
+      "maths tuition",
+      "science tuition",
+      "board exam coaching",
+      "tuition near me",
+      "ट्यूशन सेंटर",
+      "कोचिंग क्लास"
+    ],
+    "heroTitles": [
+      "Class-Wise Batches, Maths And Science And Doubt Classes",
+      "Tuition Centre With Time For Questions",
+      "Small Steps Towards Class-Wise Batches"
+    ],
+    "heroSubtitles": [
+      "{brand} teaches class-wise batches, maths and science and doubt classes. Visit a demo class, ask your questions and choose the batch that suits you.",
+      "Looking for help with tuition centre? {brand} keeps learning simple: clear teaching, regular practice and time for doubts.",
+      "From class-wise batches to maths and science, {brand} helps learners move one step at a time, with feedback they can use."
+    ],
+    "button": "Book A Demo Class",
+    "featureTitle": "Tuition Centre Courses We Offer",
+    "features": [
+      {
+        "title": "Class-Wise Batches",
+        "text": "Class-Wise Batches with simple feedback after each class, so you know what to improve."
+      },
+      {
+        "title": "Maths And Science",
+        "text": "Questions about maths and science? Message us and we will answer before you enrol."
+      },
+      {
+        "title": "Doubt Classes",
+        "text": "We explain how doubt classes is taught, what to practise and how progress is shared."
+      },
+      {
+        "title": "Weekly Tests",
+        "text": "Weekly Tests taught step by step, with time for questions and regular practice."
+      },
+      {
+        "title": "Board Exam Revision",
+        "text": "Ask about board exam revision; we describe the batch, the timings and what suits your level."
+      },
+      {
+        "title": "Parent Updates",
+        "text": "For parent updates, we start from where you are and build up at a comfortable pace."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Free",
+        "label": "Demo class"
+      },
+      {
+        "value": "Small",
+        "label": "Batches for attention"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      }
+    ],
+    "steps": {
+      "title": "How To Join",
+      "items": [
+        {
+          "title": "Visit A Demo Class",
+          "text": "Message or call to join a tuition centre demo class and meet the teacher."
+        },
+        {
+          "title": "Choose Your Batch",
+          "text": "We suggest a batch for class-wise batches that fits your level and your timings."
+        },
+        {
+          "title": "Learn And Practise",
+          "text": "Attend classes for maths and science, practise between sessions and ask questions freely."
+        },
+        {
+          "title": "Review Progress",
+          "text": "We share simple feedback on doubt classes and plan the next steps with you."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I choose a batch for tuition centre?",
+        "a": "Tell us your level, your goal and your free timings and we will suggest the best fit. That goes for doubt classes and weekly tests too."
+      },
+      {
+        "q": "What should a beginner expect in maths and science?",
+        "a": "A calm start from the basics, with practice and time for questions at every step. Ask us about board exam revision or parent updates and the answer is the same."
+      },
+      {
+        "q": "Can I ask doubts after doubt classes classes?",
+        "a": "Yes. Doubts are welcome in class and by message afterwards. The same approach applies to class-wise batches and parent updates."
+      },
+      {
+        "q": "How do you share progress in class-wise batches?",
+        "a": "We give simple feedback after classes and talk to you about the next goals. This applies to class-wise batches, maths and science and the rest of our tuition centre work."
+      },
+      {
+        "q": "Are the tuition centre batches small?",
+        "a": "We keep batches manageable so each learner gets attention; ask us about current timings. It is the same for maths and science as it is for class-wise batches."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Join Tuition Centre?",
+      "button": "Book A Demo Class"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good tuition centre means clear teaching, regular practice and feedback learners can use.",
+        "Our classes include class-wise batches and maths and science. Ask about weekly tests or board exam revision too and we will say plainly what is available."
+      ],
+      "points": [
+        "Step By Step Teaching",
+        "Doubts Welcome",
+        "Regular Practice"
+      ]
+    },
+    "pricing": {
+      "title": "Tuition Centre Fee Guide",
+      "plans": [
+        {
+          "name": "Trial",
+          "price": "$12",
+          "period": "/month",
+          "perks": [
+            "Class-Wise Batches Demo Class",
+            "Meet The Teacher",
+            "Batch Advice"
+          ]
+        },
+        {
+          "name": "Monthly",
+          "price": "$30",
+          "period": "/month group",
+          "perks": [
+            "Class-Wise Batches And Maths And Science",
+            "Regular Feedback",
+            "Doubt Sessions"
+          ]
+        },
+        {
+          "name": "Full Course",
+          "price": "$60",
+          "period": "/month personal",
+          "perks": [
+            "Class-Wise Batches Plus Maths And Science And Doubt Classes",
+            "Extended Practice",
+            "Progress Reviews"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Our Tuition Centre Classes",
+      "captions": [
+        "Class-Wise Batches",
+        "Maths And Science",
+        "Doubt Classes",
+        "Weekly Tests",
+        "Board Exam Revision",
+        "Parent Updates"
+      ]
+    },
+    "team": {
+      "title": "Meet The Teachers",
+      "roles": [
+        "Senior Teacher",
+        "Subject Mentor",
+        "Admissions Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Small batch, and the tuition centre teaching matched my level.",
+        "role": "Student"
+      },
+      {
+        "quote": "I liked that class-wise batches was taught step by step with regular practice.",
+        "role": "Parent"
+      },
+      {
+        "quote": "Quick reply about weekly tests and a batch that suited our timings.",
+        "role": "Parent"
+      }
+    ],
+    "blog": {
+      "title": "From The Tuition Centre Classroom",
+      "posts": [
+        {
+          "tag": "Mistakes",
+          "title": "Common Slips In Parent Updates"
+        },
+        {
+          "tag": "Guide",
+          "title": "How To Start Learning Class-Wise Batches"
+        },
+        {
+          "tag": "Practice",
+          "title": "Simple Ways To Practise Maths And Science"
+        }
+      ]
+    },
+    "marquee": [
+      "Class-Wise",
+      "Maths",
+      "Doubt Classes",
+      "Weekly Tests",
+      "Board Exam",
+      "Demo Class",
+      "Small Batches",
+      "Doubts Welcome"
+    ],
+    "contactText": "Tell {brand} what you want to learn: class-wise batches, doubt classes or something close. We will answer with a batch and a time to visit."
+  },
+  {
+    "id": "music_dance_classes",
+    "label": "Music and dance classes",
+    "theme": "creative_studio",
+    "keywords": [
+      "music classes",
+      "dance classes",
+      "guitar classes",
+      "singing classes",
+      "classical dance",
+      "tabla classes",
+      "bharatanatyam",
+      "dance academy",
+      "संगीत क्लास",
+      "डांस क्लास"
+    ],
+    "heroTitles": [
+      "Music And Dance Classes With Time For Questions",
+      "Small Steps Towards Vocal Training",
+      "Welcome To Music And Dance Classes"
+    ],
+    "heroSubtitles": [
+      "From vocal training to guitar and keyboard, {brand} helps learners move one step at a time, with feedback they can use.",
+      "{brand} offers vocal training and classical dance. Tell us the level and the goal and we will suggest a suitable batch.",
+      "Want to learn vocal training or western and bollywood dance? {brand} will explain how classes run, what to bring and how progress is shared."
+    ],
+    "button": "Book A Trial Class",
+    "featureTitle": "Our Music And Dance Classes Programmes",
+    "features": [
+      {
+        "title": "Vocal Training",
+        "text": "Ask about vocal training; we describe the batch, the timings and what suits your level."
+      },
+      {
+        "title": "Guitar And Keyboard",
+        "text": "For guitar and keyboard, we start from where you are and build up at a comfortable pace."
+      },
+      {
+        "title": "Tabla And Percussion",
+        "text": "Tabla And Percussion with simple feedback after each class, so you know what to improve."
+      },
+      {
+        "title": "Classical Dance",
+        "text": "Questions about classical dance? Message us and we will answer before you enrol."
+      },
+      {
+        "title": "Western And Bollywood Dance",
+        "text": "We explain how western and bollywood dance is taught, what to practise and how progress is shared."
+      },
+      {
+        "title": "Exam Preparation",
+        "text": "Exam Preparation taught step by step, with time for questions and regular practice."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Step",
+        "label": "By step teaching"
+      },
+      {
+        "value": "Open",
+        "label": "Doubts welcome"
+      },
+      {
+        "value": "Flexible",
+        "label": "Batch timings"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Visit A Demo Class",
+          "text": "Message or call to join a music and dance classes demo class and meet the teacher."
+        },
+        {
+          "title": "Choose Your Batch",
+          "text": "We suggest a batch for vocal training that fits your level and your timings."
+        },
+        {
+          "title": "Learn And Practise",
+          "text": "Attend classes for guitar and keyboard, practise between sessions and ask questions freely."
+        },
+        {
+          "title": "Review Progress",
+          "text": "We share simple feedback on tabla and percussion and plan the next steps with you."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I try a class for vocal training first?",
+        "a": "Yes. Ask for a demo class and see how the teaching works before you decide. It is the same for guitar and keyboard as it is for vocal training."
+      },
+      {
+        "q": "How do I choose a batch for music and dance classes?",
+        "a": "Tell us your level, your goal and your free timings and we will suggest the best fit. That goes for tabla and percussion and classical dance too."
+      },
+      {
+        "q": "What should a beginner expect in guitar and keyboard?",
+        "a": "A calm start from the basics, with practice and time for questions at every step. Ask us about western and bollywood dance or exam preparation and the answer is the same."
+      },
+      {
+        "q": "Can I ask doubts after tabla and percussion classes?",
+        "a": "Yes. Doubts are welcome in class and by message afterwards. The same approach applies to vocal training and exam preparation."
+      },
+      {
+        "q": "How do you share progress in vocal training?",
+        "a": "We give simple feedback after classes and talk to you about the next goals. This applies to vocal training, guitar and keyboard and the rest of our music and dance classes work."
+      }
+    ],
+    "cta": {
+      "title": "Curious About Guitar And Keyboard?",
+      "button": "Book A Trial Class"
+    },
+    "about": {
+      "title": "About Our Music And Dance Classes Classes",
+      "paragraphs": [
+        "{brand} is a local music and dance classes centre. We teach step by step, keep batches manageable and leave room for every question.",
+        "We teach vocal training, guitar and keyboard and tabla and percussion, and we are glad to talk through your goals before you enrol."
+      ],
+      "points": [
+        "Simple Feedback",
+        "Friendly Teachers",
+        "Flexible Batches"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Fees For Music And Dance Classes",
+      "plans": [
+        {
+          "name": "Trial",
+          "price": "$10",
+          "period": "/class",
+          "perks": [
+            "Vocal Training Demo Class",
+            "Meet The Teacher",
+            "Batch Advice"
+          ]
+        },
+        {
+          "name": "Monthly",
+          "price": "$30",
+          "period": "/month",
+          "perks": [
+            "Vocal Training And Guitar And Keyboard",
+            "Regular Feedback",
+            "Doubt Sessions"
+          ]
+        },
+        {
+          "name": "Full Course",
+          "price": "$80",
+          "period": "/term",
+          "perks": [
+            "Vocal Training Plus Guitar And Keyboard And Tabla And Percussion",
+            "Extended Practice",
+            "Progress Reviews"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Learning At Music And Dance Classes",
+      "captions": [
+        "Vocal Training",
+        "Guitar And Keyboard",
+        "Tabla And Percussion",
+        "Classical Dance",
+        "Western And Bollywood Dance",
+        "Exam Preparation"
+      ]
+    },
+    "team": {
+      "title": "Meet The Teachers",
+      "roles": [
+        "Music And Dance Classes Teacher",
+        "Vocal Training Mentor",
+        "Admissions Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "A friendly start to tabla and percussion with no pressure.",
+        "role": "Learner"
+      },
+      {
+        "quote": "Small batch, and the music and dance classes teaching matched my level.",
+        "role": "Student"
+      },
+      {
+        "quote": "I liked that vocal training was taught step by step with regular practice.",
+        "role": "Parent"
+      }
+    ],
+    "blog": {
+      "title": "Music And Dance Classes Study Tips",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "How To Start Learning Vocal Training"
+        },
+        {
+          "tag": "Practice",
+          "title": "Simple Ways To Practise Guitar And Keyboard"
+        },
+        {
+          "tag": "Habits",
+          "title": "Study Habits That Help With Tabla And Percussion"
+        }
+      ]
+    },
+    "marquee": [
+      "Vocal Training",
+      "Guitar",
+      "Tabla",
+      "Classical Dance",
+      "Bollywood Dance",
+      "Demo Class",
+      "Small Batches",
+      "Doubts Welcome"
+    ],
+    "contactText": "Message {brand} to ask about vocal training or guitar and keyboard, or to book a demo class. We reply with batch timings and what to bring."
+  },
+  {
+    "id": "ayurveda_panchakarma",
+    "label": "Ayurveda and Panchakarma clinic",
+    "theme": "beauty_wellness",
+    "keywords": [
+      "panchakarma",
+      "ayurvedic doctor",
+      "vaidya",
+      "ayurvedic clinic",
+      "abhyanga",
+      "shirodhara",
+      "ayurveda clinic",
+      "ayurveda centre",
+      "ayurvedic hospital",
+      "पंचकर्म",
+      "आयुर्वेदिक डॉक्टर"
+    ],
+    "heroTitles": [
+      "Calm And Clear Ayurveda And Panchakarma Clinic",
+      "Ayurveda And Panchakarma Clinic In A Welcoming Space",
+      "Clear Answers On Prakriti Consultation"
+    ],
+    "heroSubtitles": [
+      "Looking for help with ayurveda and panchakarma clinic? {brand} listens first, explains the options and lets you decide at your own pace.",
+      "From prakriti consultation to panchakarma therapies, {brand} keeps care simple: a short chat, a clear plan and time for your questions.",
+      "{brand} provides prakriti consultation and shirodhara. We explain what to expect, what it involves and how to prepare."
+    ],
+    "button": "Book A Consultation",
+    "featureTitle": "Our Ayurveda And Panchakarma Clinic Services",
+    "features": [
+      {
+        "title": "Prakriti Consultation",
+        "text": "For prakriti consultation, we start by listening to your concern and then suggest a clear plan."
+      },
+      {
+        "title": "Panchakarma Therapies",
+        "text": "Panchakarma Therapies booked at a time that suits you, with guidance on how to prepare."
+      },
+      {
+        "title": "Abhyanga And Swedana",
+        "text": "Questions about abhyanga and swedana? Message us and we will answer before you book."
+      },
+      {
+        "title": "Shirodhara",
+        "text": "We explain what shirodhara involves, how it is done and what to expect before we begin."
+      },
+      {
+        "title": "Herbal Medicines",
+        "text": "Herbal Medicines with time for your questions, and a plain explanation of the next step."
+      },
+      {
+        "title": "Diet And Routine Advice",
+        "text": "Ask about diet and routine advice; we describe the options simply and let you decide at your own pace."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Clear",
+        "label": "Explanations"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Booked",
+        "label": "Time that suits you"
+      }
+    ],
+    "steps": {
+      "title": "How A Visit Works",
+      "items": [
+        {
+          "title": "Book A Visit",
+          "text": "Message or call to book your ayurveda and panchakarma clinic appointment and tell us your main concern."
+        },
+        {
+          "title": "Talk It Through",
+          "text": "We listen, ask questions and explain the options for prakriti consultation in plain words."
+        },
+        {
+          "title": "Get A Clear Plan",
+          "text": "You hear what panchakarma therapies involves, how long it takes and what to expect."
+        },
+        {
+          "title": "Follow Up",
+          "text": "We answer questions after abhyanga and swedana and tell you when to come back, if needed."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I ask questions before abhyanga and swedana?",
+        "a": "Of course. Message us any time and we will answer in plain words. That goes for abhyanga and swedana and shirodhara too."
+      },
+      {
+        "q": "Do I need an appointment for ayurveda and panchakarma clinic?",
+        "a": "Booking ahead helps us give you time. Message us and we will find a slot that suits you. Ask us about herbal medicines or diet and routine advice and the answer is the same."
+      },
+      {
+        "q": "How do I prepare for shirodhara?",
+        "a": "We tell you what to do when you book, so you arrive knowing what to expect. The same approach applies to prakriti consultation and diet and routine advice."
+      },
+      {
+        "q": "Can a family member come with me for prakriti consultation?",
+        "a": "Yes. Tell us when you book and we will make sure there is room. This applies to prakriti consultation, panchakarma therapies and the rest of our ayurveda and panchakarma clinic work."
+      },
+      {
+        "q": "What if I am unsure about herbal medicines?",
+        "a": "Ask us. We explain the options calmly and never rush your decision. It is the same for panchakarma therapies as it is for prakriti consultation."
+      }
+    ],
+    "cta": {
+      "title": "Need Ayurveda And Panchakarma Clinic Advice?",
+      "button": "Book A Consultation"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "At {brand} good ayurveda and panchakarma clinic begins with a conversation. You hear the plan in plain words before anything is done.",
+        "Our care includes prakriti consultation and panchakarma therapies. Ask about shirodhara or herbal medicines too and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Time For Questions",
+        "Plain Explanations",
+        "Calm Welcome"
+      ]
+    },
+    "pricing": {
+      "title": "Ayurveda And Panchakarma Clinic Fees",
+      "plans": [
+        {
+          "name": "First Visit",
+          "price": "$8",
+          "period": "/consultation",
+          "perks": [
+            "Prakriti Consultation Discussion",
+            "Plain Explanation",
+            "Time For Questions"
+          ]
+        },
+        {
+          "name": "Care Plan",
+          "price": "$35",
+          "period": "/therapy session",
+          "perks": [
+            "Prakriti Consultation And Panchakarma Therapies",
+            "Follow-Up Check",
+            "Reminders When Due"
+          ]
+        },
+        {
+          "name": "Extended Care",
+          "price": "$180",
+          "period": "/programme",
+          "perks": [
+            "Prakriti Consultation Plus Panchakarma Therapies And Abhyanga And Swedana",
+            "Extended Follow-Up",
+            "Priority Booking"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Inside Our Ayurveda And Panchakarma Clinic Space",
+      "captions": [
+        "Prakriti Consultation",
+        "Panchakarma Therapies",
+        "Abhyanga And Swedana",
+        "Shirodhara Work",
+        "Herbal Medicines",
+        "Diet And Routine Advice"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Ayurveda And Panchakarma Clinic Practitioner",
+        "Prakriti Consultation Specialist",
+        "Patient Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Quick reply about shirodhara and a clear answer.",
+        "role": "Patient"
+      },
+      {
+        "quote": "They explained prakriti consultation calmly and gave me time to ask everything.",
+        "role": "Patient"
+      },
+      {
+        "quote": "Easy booking for panchakarma therapies, and a clear plan afterwards.",
+        "role": "Patient"
+      }
+    ],
+    "blog": {
+      "title": "From The Ayurveda And Panchakarma Clinic Desk",
+      "posts": [
+        {
+          "tag": "Aftercare",
+          "title": "Looking After Yourself After Shirodhara"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Herbal Medicines"
+        },
+        {
+          "tag": "Habits",
+          "title": "Small Habits That Support Diet And Routine Advice"
+        }
+      ]
+    },
+    "marquee": [
+      "Prakriti",
+      "Panchakarma",
+      "Abhyanga",
+      "Shirodhara",
+      "Herbal Medicines",
+      "Plain Answers",
+      "Calm Visits",
+      "Easy Booking"
+    ],
+    "contactText": "Tell {brand} about your concern: prakriti consultation, abhyanga and swedana or something close. We will answer with the next step and a time."
+  },
+  {
+    "id": "physiotherapy",
+    "label": "Physiotherapy clinic",
+    "theme": "healthcare",
+    "keywords": [
+      "physiotherapy",
+      "physiotherapist",
+      "physio clinic",
+      "back pain treatment",
+      "knee pain physiotherapy",
+      "sports injury rehab",
+      "home physiotherapy",
+      "neck pain exercises",
+      "फिजियोथेरेपी",
+      "फिजियोथेरेपिस्ट"
+    ],
+    "heroTitles": [
+      "Physiotherapy Clinic Care That Starts By Listening",
+      "Physiotherapy Clinic In A Welcoming Space",
+      "Clear Answers On Back And Neck Care"
+    ],
+    "heroSubtitles": [
+      "{brand} provides back and neck care and post-surgery rehabilitation. We explain what to expect, what it involves and how to prepare.",
+      "Need back and neck care or neuro rehabilitation? {brand} will tell you what the visit involves and what to bring before you come.",
+      "Looking for help with physiotherapy clinic? {brand} listens first, explains the options and lets you decide at your own pace."
+    ],
+    "button": "Book A Physio Session",
+    "featureTitle": "Physiotherapy Clinic Services We Offer",
+    "features": [
+      {
+        "title": "Back And Neck Care",
+        "text": "Back And Neck Care with time for your questions, and a plain explanation of the next step."
+      },
+      {
+        "title": "Knee And Joint Rehab",
+        "text": "Ask about knee and joint rehab; we describe the options simply and let you decide at your own pace."
+      },
+      {
+        "title": "Sports Injury Care",
+        "text": "For sports injury care, we start by listening to your concern and then suggest a clear plan."
+      },
+      {
+        "title": "Post-Surgery Rehabilitation",
+        "text": "Post-Surgery Rehabilitation booked at a time that suits you, with guidance on how to prepare."
+      },
+      {
+        "title": "Neuro Rehabilitation",
+        "text": "Questions about neuro rehabilitation? Message us and we will answer before you book."
+      },
+      {
+        "title": "Home Visits",
+        "text": "We explain what home visits involves, how it is done and what to expect before we begin."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Calm",
+        "label": "Unhurried visits"
+      },
+      {
+        "value": "Plain",
+        "label": "Language, no jargon"
+      },
+      {
+        "value": "Easy",
+        "label": "Appointment booking"
+      }
+    ],
+    "steps": {
+      "title": "How A Visit Works",
+      "items": [
+        {
+          "title": "Book A Visit",
+          "text": "Message or call to book your physiotherapy clinic appointment and tell us your main concern."
+        },
+        {
+          "title": "Talk It Through",
+          "text": "We listen, ask questions and explain the options for back and neck care in plain words."
+        },
+        {
+          "title": "Get A Clear Plan",
+          "text": "You hear what knee and joint rehab involves, how long it takes and what to expect."
+        },
+        {
+          "title": "Follow Up",
+          "text": "We answer questions after sports injury care and tell you when to come back, if needed."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Do I need an appointment for physiotherapy clinic?",
+        "a": "Booking ahead helps us give you time. Message us and we will find a slot that suits you. It is the same for knee and joint rehab as it is for back and neck care."
+      },
+      {
+        "q": "How do I prepare for post-surgery rehabilitation?",
+        "a": "We tell you what to do when you book, so you arrive knowing what to expect. That goes for sports injury care and post-surgery rehabilitation too."
+      },
+      {
+        "q": "Can a family member come with me for back and neck care?",
+        "a": "Yes. Tell us when you book and we will make sure there is room. Ask us about neuro rehabilitation or home visits and the answer is the same."
+      },
+      {
+        "q": "What if I am unsure about neuro rehabilitation?",
+        "a": "Ask us. We explain the options calmly and never rush your decision. The same approach applies to back and neck care and home visits."
+      },
+      {
+        "q": "How do I book back and neck care?",
+        "a": "Call or message us, say what you need and choose a time that suits you. This applies to back and neck care, knee and joint rehab and the rest of our physiotherapy clinic work."
+      }
+    ],
+    "cta": {
+      "title": "Need Physiotherapy Clinic Advice?",
+      "button": "Book A Physio Session"
+    },
+    "about": {
+      "title": "About Our Physiotherapy Clinic Care",
+      "paragraphs": [
+        "At {brand} good physiotherapy clinic begins with a conversation. You hear the plan in plain words before anything is done.",
+        "Our care includes back and neck care and knee and joint rehab. Ask about post-surgery rehabilitation or neuro rehabilitation too and we will tell you plainly what is possible."
+      ],
+      "points": [
+        "Time For Questions",
+        "Plain Explanations",
+        "Calm Welcome"
+      ]
+    },
+    "pricing": {
+      "title": "Physiotherapy Clinic Fees",
+      "plans": [
+        {
+          "name": "First Visit",
+          "price": "$10",
+          "period": "/session",
+          "perks": [
+            "Back And Neck Care Discussion",
+            "Plain Explanation",
+            "Time For Questions"
+          ]
+        },
+        {
+          "name": "Care Plan",
+          "price": "$80",
+          "period": "/10 sessions",
+          "perks": [
+            "Back And Neck Care And Knee And Joint Rehab",
+            "Follow-Up Check",
+            "Reminders When Due"
+          ]
+        },
+        {
+          "name": "Extended Care",
+          "price": "$180",
+          "period": "/20 sessions",
+          "perks": [
+            "Back And Neck Care Plus Knee And Joint Rehab And Sports Injury Care",
+            "Extended Follow-Up",
+            "Priority Booking"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Physiotherapy Clinic Practice",
+      "captions": [
+        "Back And Neck Care",
+        "Knee And Joint Rehab",
+        "Sports Injury Care",
+        "Post-Surgery Rehabilitation",
+        "Neuro Rehabilitation",
+        "Home Visits"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Physiotherapist",
+        "Rehab Assistant",
+        "Reception Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "They explained back and neck care calmly and gave me time to ask everything.",
+        "role": "Patient"
+      },
+      {
+        "quote": "Easy booking for knee and joint rehab, and a clear plan afterwards.",
+        "role": "Patient"
+      },
+      {
+        "quote": "Friendly team who made sports injury care feel straightforward.",
+        "role": "Family member"
+      }
+    ],
+    "blog": {
+      "title": "From The Physiotherapy Clinic Desk",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "What To Expect From Back And Neck Care"
+        },
+        {
+          "tag": "Prepare",
+          "title": "How To Prepare For Knee And Joint Rehab"
+        },
+        {
+          "tag": "Questions",
+          "title": "Questions To Ask About Sports Injury Care"
+        }
+      ]
+    },
+    "marquee": [
+      "Neck Care",
+      "Joint Rehab",
+      "Sports Injury",
+      "Post-Surgery",
+      "Neuro",
+      "Plain Answers",
+      "Calm Visits",
+      "Easy Booking"
+    ],
+    "contactText": "Message {brand} to book back and neck care or ask about knee and joint rehab. We reply with a time that suits you and what to bring."
+  },
+  {
+    "id": "diagnostic_lab",
+    "label": "Diagnostic lab",
+    "theme": "healthcare",
+    "keywords": [
+      "diagnostic lab",
+      "pathology lab",
+      "blood test",
+      "health checkup",
+      "home sample collection",
+      "lab test",
+      "thyroid test",
+      "blood test near me",
+      "पैथोलॉजी लैब",
+      "ब्लड टेस्ट"
+    ],
+    "heroTitles": [
+      "Clear Answers On Routine Blood Tests",
+      "Diagnostic Lab That Listens First",
+      "Calm And Clear Diagnostic Lab"
+    ],
+    "heroSubtitles": [
+      "Need routine blood tests or urine and stool tests? {brand} will tell you what the visit involves and what to bring before you come.",
+      "Looking for help with diagnostic lab? {brand} listens first, explains the options and lets you decide at your own pace.",
+      "From routine blood tests to thyroid and vitamin tests, {brand} keeps care simple: a short chat, a clear plan and time for your questions."
+    ],
+    "button": "Book A Lab Test",
+    "featureTitle": "Diagnostic Lab Services We Offer",
+    "features": [
+      {
+        "title": "Routine Blood Tests",
+        "text": "Questions about routine blood tests? Message us and we will answer before you book."
+      },
+      {
+        "title": "Thyroid And Vitamin Tests",
+        "text": "We explain what thyroid and vitamin tests involves, how it is done and what to expect before we begin."
+      },
+      {
+        "title": "Home Sample Collection",
+        "text": "Home Sample Collection with time for your questions, and a plain explanation of the next step."
+      },
+      {
+        "title": "Health Check-Up Packages",
+        "text": "Ask about health check-up packages; we describe the options simply and let you decide at your own pace."
+      },
+      {
+        "title": "Urine And Stool Tests",
+        "text": "For urine and stool tests, we start by listening to your concern and then suggest a clear plan."
+      },
+      {
+        "title": "Report Delivery",
+        "text": "Report Delivery booked at a time that suits you, with guidance on how to prepare."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Calm",
+        "label": "Unhurried visits"
+      },
+      {
+        "value": "Plain",
+        "label": "Language, no jargon"
+      },
+      {
+        "value": "Easy",
+        "label": "Appointment booking"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Book A Visit",
+          "text": "Message or call to book your diagnostic lab appointment and tell us your main concern."
+        },
+        {
+          "title": "Talk It Through",
+          "text": "We listen, ask questions and explain the options for routine blood tests in plain words."
+        },
+        {
+          "title": "Get A Clear Plan",
+          "text": "You hear what thyroid and vitamin tests involves, how long it takes and what to expect."
+        },
+        {
+          "title": "Follow Up",
+          "text": "We answer questions after home sample collection and tell you when to come back, if needed."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I book routine blood tests?",
+        "a": "Call or message us, say what you need and choose a time that suits you. The same approach applies to routine blood tests and report delivery."
+      },
+      {
+        "q": "What should I bring to a diagnostic lab visit?",
+        "a": "Any earlier reports or notes, and a list of your questions; we will tell you if anything else is needed. This applies to routine blood tests, thyroid and vitamin tests and the rest of our diagnostic lab work."
+      },
+      {
+        "q": "Will you explain thyroid and vitamin tests first?",
+        "a": "Yes. We describe what is involved and what to expect, and begin only when you are comfortable. It is the same for thyroid and vitamin tests as it is for routine blood tests."
+      },
+      {
+        "q": "Can I ask questions before home sample collection?",
+        "a": "Of course. Message us any time and we will answer in plain words. That goes for home sample collection and health check-up packages too."
+      },
+      {
+        "q": "Do I need an appointment for diagnostic lab?",
+        "a": "Booking ahead helps us give you time. Message us and we will find a slot that suits you. Ask us about urine and stool tests or report delivery and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Book Your Diagnostic Lab Visit?",
+      "button": "Book A Lab Test"
+    },
+    "about": {
+      "title": "About Our Diagnostic Lab Care",
+      "paragraphs": [
+        "{brand} is a local diagnostic lab practice. We listen first, explain clearly and give you time to ask questions at every step.",
+        "We provide routine blood tests, thyroid and vitamin tests and home sample collection, and we are happy to talk through your concern before you decide."
+      ],
+      "points": [
+        "Clear Plans",
+        "Friendly Team",
+        "Booking That Fits You"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Diagnostic Lab",
+      "plans": [
+        {
+          "name": "First Visit",
+          "price": "$5",
+          "period": "/basic test",
+          "perks": [
+            "Routine Blood Tests Discussion",
+            "Plain Explanation",
+            "Time For Questions"
+          ]
+        },
+        {
+          "name": "Care Plan",
+          "price": "$25",
+          "period": "/health checkup",
+          "perks": [
+            "Routine Blood Tests And Thyroid And Vitamin Tests",
+            "Follow-Up Check",
+            "Reminders When Due"
+          ]
+        },
+        {
+          "name": "Extended Care",
+          "price": "$60",
+          "period": "/full body checkup",
+          "perks": [
+            "Routine Blood Tests Plus Thyroid And Vitamin Tests And Home Sample Collection",
+            "Extended Follow-Up",
+            "Priority Booking"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Diagnostic Lab Practice",
+      "captions": [
+        "Routine Blood Tests",
+        "Thyroid And Vitamin Tests",
+        "Home Sample Collection",
+        "Health Check-Up Packages",
+        "Urine And Stool Tests",
+        "Report Delivery"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Lab Technician",
+        "Sample Collector",
+        "Reports Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Friendly team who made home sample collection feel straightforward.",
+        "role": "Family member"
+      },
+      {
+        "quote": "A welcoming place, and the diagnostic lab visit was unhurried.",
+        "role": "Patient"
+      },
+      {
+        "quote": "I liked that routine blood tests was described in plain words with no pressure.",
+        "role": "Patient"
+      }
+    ],
+    "blog": {
+      "title": "Diagnostic Lab Notes And Guides",
+      "posts": [
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Urine And Stool Tests"
+        },
+        {
+          "tag": "Habits",
+          "title": "Small Habits That Support Report Delivery"
+        },
+        {
+          "tag": "Guide",
+          "title": "What To Expect From Routine Blood Tests"
+        }
+      ]
+    },
+    "marquee": [
+      "Routine Blood",
+      "Vitamin Tests",
+      "Home Sample",
+      "Health Check-Up",
+      "Stool Tests",
+      "Plain Answers",
+      "Calm Visits",
+      "Easy Booking"
+    ],
+    "contactText": "Message {brand} to book routine blood tests or ask about thyroid and vitamin tests. We reply with a time that suits you and what to bring."
+  }
+]

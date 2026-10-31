@@ -1,0 +1,203 @@
+{
+  "brand": "Bakery, Pune",
+  "niche": "restaurant",
+  "kind": "food",
+  "profile": "bakery",
+  "business_type": "bakery",
+  "type_label": "Bakery",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "warm",
+  "keywords": [
+    "cakes",
+    "cookies",
+    "open",
+    "am",
+    "pm"
+  ],
+  "eyebrow": "Bakery · Pune",
+  "location": "Pune",
+  "audience": "",
+  "hero_heading": "Cakes in Pune",
+  "tagline": "We bake cookies in Pune.",
+  "about_title": "About us",
+  "about": [
+    "We bake cakes and cookies in Pune. Message first if you prefer.",
+    "You will find us in Pune, open 9am to 9pm. Share the day you need it and we will confirm what's possible."
+  ],
+  "features_title": "From the kitchen",
+  "features": [
+    {
+      "title": "Cakes",
+      "text": "Sponges layered with cream, fruit or chocolate, for any occasion. If cakes is why you came, say so when you order."
+    },
+    {
+      "title": "Cookies",
+      "text": "Tell us the date and we'll say what we can do with cookies."
+    },
+    {
+      "title": "Breads",
+      "text": "Loaves baked for sandwiches and the breakfast table."
+    },
+    {
+      "title": "Cupcakes",
+      "text": "We will explain Cupcakes in plain words."
+    },
+    {
+      "title": "Doughnuts",
+      "text": "Soft rings of fried dough, glazed or filled."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Opening hours",
+      "text": "Hours: 9am to 9pm. Drop by or send a message."
+    },
+    {
+      "title": "Clear next steps",
+      "text": "You'll know what comes next."
+    },
+    {
+      "title": "Made to order",
+      "text": "Tell us the occasion and we'll plan around it."
+    }
+  ],
+  "stats_title": "Quick facts",
+  "stats": [
+    {
+      "value": "Pune",
+      "label": "Where we work"
+    },
+    {
+      "value": "9am to 9pm",
+      "label": "Open"
+    }
+  ],
+  "steps_title": "Getting started",
+  "steps": [
+    {
+      "title": "Say hello",
+      "text": "Let us know what you have in mind."
+    },
+    {
+      "title": "We talk it through",
+      "text": "We explain the options in plain words."
+    },
+    {
+      "title": "Celebrate",
+      "text": "Slice, share and enjoy."
+    }
+  ],
+  "faq_title": "Quick answers",
+  "faq": [
+    {
+      "q": "How can I order something?",
+      "a": "Message us to place an order, and tell us the date."
+    },
+    {
+      "q": "When are you open?",
+      "a": "Our hours are 9am to 9pm."
+    },
+    {
+      "q": "Where are you?",
+      "a": "Find us in Pune. Message us and we will send directions."
+    },
+    {
+      "q": "Can I ask about cakes?",
+      "a": "Certainly; ask us what goes into it and how to order it."
+    }
+  ],
+  "blog_title": "From the journal",
+  "blog": [
+    {
+      "title": "Sweet or savoury first? A debate",
+      "excerpt": "On starting with cookies or finishing with it."
+    },
+    {
+      "title": "Pairing cookies with the rest of the bakery",
+      "excerpt": "A few simple combinations to try."
+    },
+    {
+      "title": "How long things really take",
+      "excerpt": "Setting expectations on both sides."
+    }
+  ],
+  "contact": {
+    "place": "Pune",
+    "hours": [
+      "9am to 9pm"
+    ]
+  },
+  "cta_primary": "Place an order",
+  "cta_secondary": "See what's baked",
+  "cta_text": "Your order is one message away.",
+  "cta_title": "Ready when you are",
+  "footer": "© Bakery, Pune. All rights reserved.",
+  "offers": [],
+  "hours": "9am to 9pm",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Pune",
+      "source": "prompt"
+    },
+    "services": {
+      "value": [
+        "cakes",
+        "cookies"
+      ],
+      "source": "prompt"
+    },
+    "hours": {
+      "value": "9am to 9pm",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "offers",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "bakery (confidence high)",
+    "items_from_prompt": [
+      "cakes",
+      "cookies"
+    ],
+    "place": "Pune",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "bakery",
+    "kind": "food"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Bakery, Pune' (not a name). Add your business name to replace it.",
+    "Typical bakery offerings were used for: Breads, Cupcakes, Doughnuts. List your real services (3 or more) to replace them."
+  ]
+}

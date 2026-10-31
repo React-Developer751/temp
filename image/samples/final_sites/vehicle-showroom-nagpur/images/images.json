@@ -1,0 +1,106 @@
+{
+  "niche": "bike-showroom",
+  "requested_niche": "bike-showroom",
+  "fallback": false,
+  "reason": "sub-niche autosales",
+  "mood": "dark",
+  "accent": "#d55b2f",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Vehicle Showroom, Nagpur Vehicle Showroom bike Motorcycles Jackets Helmets Riding Gear Servicing",
+    "niche": "bike-showroom",
+    "title": "Motorcycle / two-wheeler showroom",
+    "fallback": false,
+    "mood": "dark",
+    "accent": "#d55b2f",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 22,
+    "palette_family": 0.946,
+    "text_zone": "left",
+    "hero_contrast": 4.96,
+    "seconds": 7.62,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.946
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 37632,
+      "alt": "Illustration for Vehicle Showroom, Nagpur: Motorcycle / two-wheeler showroom",
+      "text_color": "#ffffff",
+      "contrast": 4.96,
+      "role": "hero",
+      "seed": 5
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 29295,
+      "alt": "About Vehicle Showroom, Nagpur: Motorcycle / two-wheeler showroom",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1018
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 22777,
+        "alt": "Vehicle Showroom, Nagpur gallery picture: Motorcycle / two-wheeler showroom",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2031
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 20372,
+        "alt": "Vehicle Showroom, Nagpur gallery picture: Motorcycle / two-wheeler showroom",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3044
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 22981,
+        "alt": "Vehicle Showroom, Nagpur gallery picture: Motorcycle / two-wheeler showroom",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4057
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 23105,
+        "alt": "Vehicle Showroom, Nagpur gallery picture: Motorcycle / two-wheeler showroom",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5070
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "niches": 123,
+  "matching_keywords_only": {
+    "correct": 466,
+    "fallback": 197,
+    "wrong": 49,
+    "total": 712,
+    "off_niche_wrong": 0,
+    "wrong_examples": [
+      [
+        "luxury bedroom decor in deep green and gold, elegant mood",
+        "interior-design",
+        "jewellery"
+      ],
+      [
+        "सूरज की रोशनी से बिजली बनाने वाले पैनल",
+        "solar-energy",
+        "electrician"
+      ],
+      [
+        "therapist helping someone recover from back injury on a treatment bed",
+        "physio",
+        "counselling"
+      ],
+      [
+        "aankhon ke hospital ke liye doctor jo aankh check kar raha ho",
+        "eye-clinic",
+        "clinic-doctor"
+      ],
+      [
+        "playful cheerful colours, happy dog with toys, leashes and bowls on shelves",
+        "petshop",
+        "toy-store"
+      ],
+      [
+        "clean minimalist concrete and glass, sunlit modern building facade, neutral greys",
+        "architect",
+        "cleaning"
+      ],
+      [
+        "trustworthy navy and gold, advisor explaining protection plan to happy family",
+        "insurance",
+        "jewellery"
+      ],
+      [
+        "mystical deep purple and gold, zodiac wheel, candles and star charts",
+        "astrology",
+        "jewellery"
+      ]
+    ]
+  },
+  "matching_with_model": {
+    "correct": 623,
+    "fallback": 69,
+    "wrong": 20,
+    "total": 712,
+    "off_niche_wrong": 2,
+    "wrong_examples": [
+      [
+        "car rental with driver",
+        "taxi",
+        "car-rental"
+      ],
+      [
+        "Shoe And Bag Cleaning: Sneakers and leather bags cleaned and freshened, with stain treatment where needed",
+        "laundry",
+        "shoe-store"
+      ],
+      [
+        "wrench and tap",
+        "water-purifier",
+        "plumbing"
+      ],
+      [
+        "Leak And Low Flow Repair: Fixing leaking tubes, weak pumps, faulty valves and low water flow from the tap",
+        "water-purifier",
+        "plumbing"
+      ],
+      [
+        "Software And Data Help: Hang, boot loop, update trouble and data backup or recovery wherever it is possible",
+        "mobile-repair",
+        "saas"
+      ],
+      [
+        "mechanic with a bicycle",
+        "bike-garage",
+        "car-repair"
+      ],
+      [
+        "Electrical And Battery: Self start, lights, horn, wiring faults and battery testing or replacement",
+        "bike-garage",
+        "electrician"
+      ],
+      [
+        "delivery van with food",
+        "cloud-kitchen",
+        "logistics"
+      ]
+    ]
+  },
+  "pictures": {
+    "right": 345,
+    "fallback": 24,
+    "wrong": 0,
+    "total": 369,
+    "off_niche_fallback": 102,
+    "off_niche_wrong": 6,
+    "wrong_examples": [
+      [
+        "floodlit cricket stadium during a match",
+        null,
+        "sports-academy"
+      ],
+      [
+        "floodlit cricket stadium during a match",
+        null,
+        "sports-academy"
+      ],
+      [
+        "floodlit cricket stadium during a match",
+        null,
+        "sports-academy"
+      ],
+      [
+        "robot arm in a futuristic laboratory",
+        null,
+        "robotics-lab"
+      ],
+      [
+        "robot arm in a futuristic laboratory",
+        null,
+        "robotics-lab"
+      ],
+      [
+        "robot arm in a futuristic laboratory",
+        null,
+        "robotics-lab"
+      ]
+    ]
+  },
+  "colour_holdout": {
+    "images": 123,
+    "trained_rmse": 33.3,
+    "average_image_rmse": 56.9,
+    "untrained_rmse": 60.0
+  },
+  "sets": [
+    {
+      "niche": "restaurant-italian",
+      "seconds": 8.01,
+      "min_distance": 18,
+      "palette_family": 0.961,
+      "hero_contrast": 4.78,
+      "hero_bytes": 37007,
+      "max_tile_bytes": 24683,
+      "redrawn": 0,
+      "judge_ok": true
+    },
+    {
+      "niche": "gym",
+      "seconds": 8.09,
+      "min_distance": 22,
+      "palette_family": 0.902,
+      "hero_contrast": 4.75,
+      "hero_bytes": 33961,
+      "max_tile_bytes": 21614,
+      "redrawn": 0,
+      "judge_ok": true
+    },
+    {
+      "niche": "dental",
+      "seconds": 7.0,
+      "min_distance": 22,
+      "palette_family": 0.926,
+      "hero_contrast": 4.86,
+      "hero_bytes": 35595,
+      "max_tile_bytes": 18035,
+      "redrawn": 0,
+      "judge_ok": true
+    },
+    {
+      "niche": "saas",
+      "seconds": 7.41,
+      "min_distance": 16,
+      "palette_family": 0.888,
+      "hero_contrast": 6.26,
+      "hero_bytes": 39876,
+      "max_tile_bytes": 21677,
+      "redrawn": 0,
+      "judge_ok": true
+    },
+    {
+      "niche": "kurti-store",
+      "seconds": 7.56,
+      "min_distance": 18,
+      "palette_family": 0.883,
+      "hero_contrast": 4.92,
+      "hero_bytes": 51125,
+      "max_tile_bytes": 23955,
+      "redrawn": 0,
+      "judge_ok": true
+    },
+    {
+      "niche": "salon",
+      "seconds": 6.72,
+      "min_distance": 22,
+      "palette_family": 0.923,
+      "hero_contrast": 4.88,
+      "hero_bytes": 38863,
+      "max_tile_bytes": 21375,
+      "redrawn": 0,
+      "judge_ok": true
+    },
+    {
+      "niche": "bakery",
+      "seconds": 8.62,
+      "min_distance": 14,
+      "palette_family": 0.939,
+      "hero_contrast": 4.85,
+      "hero_bytes": 47694,
+      "max_tile_bytes": 24022,
+      "redrawn": 0,
+      "judge_ok": true
+    },
+    {
+      "niche": "yoga",
+      "seconds": 7.85,
+      "min_distance": 18,
+      "palette_family": 0.904,
+      "hero_contrast": 4.73,
+      "hero_bytes": 31395,
+      "max_tile_bytes": 16428,
+      "redrawn": 0,
+      "judge_ok": true
+    },
+    {
+      "niche": "real-estate",
+      "seconds": 7.41,
+      "min_distance": 14,
+      "palette_family": 0.877,
+      "hero_contrast": 4.85,
+      "hero_bytes": 38073,
+      "max_tile_bytes": 23381,
+      "redrawn": 0,
+      "judge_ok": true
+    },
+    {
+      "niche": "school",
+      "seconds": 6.58,
+      "min_distance": 20,
+      "palette_family": 0.77,
+      "hero_contrast": 4.83,
+      "hero_bytes": 45548,
+      "max_tile_bytes": 22722,
+      "redrawn": 0,
+      "judge_ok": true
+    }
+  ]
+}

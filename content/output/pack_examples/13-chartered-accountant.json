@@ -1,0 +1,238 @@
+{
+  "request": "CA firm website for GST and ITR filing",
+  "source": "niche pack",
+  "understood": {
+    "niche": "chartered_accountant",
+    "type_theme": null,
+    "brand": null,
+    "city": null,
+    "lang": "en",
+    "confidence": 0.869
+  },
+  "notes": [],
+  "problems": [],
+  "pack": {
+    "id": "chartered_accountant",
+    "label": "Chartered accountant",
+    "theme": "professional_services",
+    "keywords": [
+      "chartered accountant",
+      "ca firm",
+      "gst filing",
+      "itr filing",
+      "income tax return",
+      "tax consultant",
+      "company registration",
+      "ca near me",
+      "चार्टर्ड अकाउंटेंट",
+      "जीएसटी रिटर्न"
+    ],
+    "heroTitles": [
+      "Chartered Accountant In Plain Words",
+      "Chartered Accountant Without The Jargon",
+      "Clear Advice On GST Registration And Returns"
+    ],
+    "heroSubtitles": [
+      "Need help with GST registration and returns or audit and assurance? {brand} will say what applies to you and what to prepare first.",
+      "Looking for help with chartered accountant? {brand} listens first, explains the options in plain words and tells you the cost upfront.",
+      "From GST registration and returns to income tax filing, {brand} keeps it simple: a short call, honest advice and a clear way forward."
+    ],
+    "button": "Book A Tax Chat",
+    "featureTitle": "Chartered Accountant Services We Offer",
+    "features": [
+      {
+        "title": "GST Registration And Returns",
+        "text": "For GST registration and returns, we start by listening to your situation and then outline a clear plan."
+      },
+      {
+        "title": "Income Tax Filing",
+        "text": "Income Tax Filing explained without jargon, so you know what applies to you and why."
+      },
+      {
+        "title": "Bookkeeping And Accounts",
+        "text": "Questions about bookkeeping and accounts? Message us and we will answer before you commit."
+      },
+      {
+        "title": "Company Incorporation",
+        "text": "We explain company incorporation in plain words, with the steps, the papers needed and the cost upfront."
+      },
+      {
+        "title": "Audit And Assurance",
+        "text": "Audit And Assurance handled with care, with a clear next step after every conversation."
+      },
+      {
+        "title": "Notices And Assessments",
+        "text": "Ask about notices and assessments; we describe the options simply and let you decide at your own pace."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Plain",
+        "label": "Language, no jargon"
+      },
+      {
+        "value": "Private",
+        "label": "Details kept private"
+      },
+      {
+        "value": "Easy",
+        "label": "Booking a call"
+      }
+    ],
+    "steps": {
+      "title": "How We Work With You",
+      "items": [
+        {
+          "title": "Tell Us Your Situation",
+          "text": "Share your chartered accountant question by call or message, with any papers you have."
+        },
+        {
+          "title": "We Explain The Options",
+          "text": "You hear what GST registration and returns involves, what it costs and how long it takes."
+        },
+        {
+          "title": "Agree The Plan",
+          "text": "We confirm the steps for income tax filing and what we need from you."
+        },
+        {
+          "title": "We Handle And Update",
+          "text": "We take care of bookkeeping and accounts and keep you updated until it is complete."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "How do I start with GST registration and returns?",
+        "a": "Call or message us with a short description of your situation and we will reply with the next step. That goes for bookkeeping and accounts and company incorporation too."
+      },
+      {
+        "q": "What documents do I need for income tax filing?",
+        "a": "We tell you the exact list once we know your case, so you only gather what is needed. Ask us about audit and assurance or notices and assessments and the answer is the same."
+      },
+      {
+        "q": "Do you explain the fees for chartered accountant?",
+        "a": "Yes. We tell you the fee and what it covers before you decide to go ahead. The same approach applies to GST registration and returns and notices and assessments."
+      },
+      {
+        "q": "Is my information kept private for bookkeeping and accounts?",
+        "a": "We keep your details confidential and use them only for your work. This applies to GST registration and returns, income tax filing and the rest of our chartered accountant work."
+      },
+      {
+        "q": "Can I ask a question before hiring you for GST registration and returns?",
+        "a": "Of course. A first conversation is the right place to ask anything. It is the same for income tax filing as it is for GST registration and returns."
+      }
+    ],
+    "cta": {
+      "title": "Ready To Talk About Chartered Accountant?",
+      "button": "Book A Tax Chat"
+    },
+    "about": {
+      "title": "About Our Chartered Accountant Practice",
+      "paragraphs": [
+        "At {brand} good chartered accountant begins with a clear conversation. You hear the plan and the cost first, and the work follows.",
+        "Our work includes GST registration and returns and income tax filing. Ask about company incorporation or audit and assurance too and we will say plainly what we can do."
+      ],
+      "points": [
+        "Plain Explanations",
+        "Fees Told Upfront",
+        "Private Handling"
+      ]
+    },
+    "pricing": {
+      "title": "Chartered Accountant Fees",
+      "plans": [
+        {
+          "name": "First Step",
+          "price": "$0",
+          "period": "/consultation",
+          "perks": [
+            "GST Registration And Returns Discussion",
+            "Written Next Steps",
+            "Fees Explained"
+          ]
+        },
+        {
+          "name": "Standard Help",
+          "price": "$25",
+          "period": "/return filing",
+          "perks": [
+            "GST Registration And Returns And Income Tax Filing",
+            "Progress Updates",
+            "Document Checklist"
+          ]
+        },
+        {
+          "name": "Full Support",
+          "price": "$140",
+          "period": "/annual package",
+          "perks": [
+            "GST Registration And Returns Plus Income Tax Filing And Bookkeeping And Accounts",
+            "Extended Support",
+            "Priority Replies"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Our Chartered Accountant Practice",
+      "captions": [
+        "GST Registration And Returns",
+        "Income Tax Filing",
+        "Bookkeeping And Accounts",
+        "Company Incorporation",
+        "Audit And Assurance",
+        "Notices And Assessments"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Chartered Accountant",
+        "Tax Associate",
+        "Client Care Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "I liked that GST registration and returns was broken into simple steps with a clear list.",
+        "role": "Family client"
+      },
+      {
+        "quote": "Quick reply about company incorporation and a straight answer.",
+        "role": "Client"
+      },
+      {
+        "quote": "They explained GST registration and returns in plain words and told me the fee first.",
+        "role": "Client"
+      }
+    ],
+    "blog": {
+      "title": "From The Chartered Accountant Desk",
+      "posts": [
+        {
+          "tag": "Guide",
+          "title": "What To Know About GST Registration And Returns"
+        },
+        {
+          "tag": "Documents",
+          "title": "Papers To Gather For Income Tax Filing"
+        },
+        {
+          "tag": "Questions",
+          "title": "Questions To Ask About Bookkeeping And Accounts"
+        }
+      ]
+    },
+    "marquee": [
+      "GST Registration",
+      "Income Tax",
+      "Bookkeeping",
+      "Company",
+      "Audit",
+      "Plain Advice",
+      "Fees Upfront",
+      "Private"
+    ],
+    "contactText": "Message {brand} about GST registration and returns or income tax filing. We reply with a short list of questions and the next step."
+  }
+}

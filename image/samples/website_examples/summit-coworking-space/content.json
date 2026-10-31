@@ -1,0 +1,180 @@
+{
+  "brand": "Summit Coworking Space",
+  "niche": "pro",
+  "kind": "pro",
+  "profile": "",
+  "business_type": "coworking",
+  "type_label": "Coworking Space",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "cool",
+  "keywords": [
+    "gurgaon"
+  ],
+  "eyebrow": "Coworking Space · Gurgaon",
+  "location": "Gurgaon",
+  "audience": "",
+  "hero_heading": "Coworking Space in Gurgaon",
+  "tagline": "Fees are explained before work begins.",
+  "about_title": "About us",
+  "about": [
+    "We'd rather you knew exactly what to expect.",
+    "You will find us in Gurgaon. Let us know who it is for and we'll suggest options."
+  ],
+  "features_title": "Areas we advise on",
+  "features": [
+    {
+      "title": "Rooms",
+      "text": "Ask us about Rooms; we will explain the steps in plain words."
+    },
+    {
+      "title": "Tours",
+      "text": "Tell us what you need from Tours and we will suggest where to start."
+    },
+    {
+      "title": "Lockers",
+      "text": "We explain the fees for Lockers before work begins."
+    },
+    {
+      "title": "Events",
+      "text": "Message us about Events; we reply to every enquiry."
+    },
+    {
+      "title": "Passes",
+      "text": "Passes: ask for details before you make up your mind."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Handled by people who know it",
+      "text": "Your matter, not a template."
+    },
+    {
+      "title": "Straight answers",
+      "text": "Ask and we'll say it plainly."
+    },
+    {
+      "title": "A clear next step",
+      "text": "After every call."
+    }
+  ],
+  "stats_title": "In short",
+  "stats": [
+    {
+      "value": "Gurgaon",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "From first message to finish",
+  "steps": [
+    {
+      "title": "Get in touch",
+      "text": "Send a message or call and let us know what you need."
+    },
+    {
+      "title": "Get a clear plan",
+      "text": "We explain the steps for and what they cost."
+    },
+    {
+      "title": "Decide and proceed",
+      "text": "Only when you're ready."
+    }
+  ],
+  "faq_title": "Quick answers",
+  "faq": [
+    {
+      "q": "What should I bring?",
+      "a": "Bring what you have; we will tell you what else is needed."
+    },
+    {
+      "q": "Where are you based?",
+      "a": "We're in Gurgaon; reach out."
+    },
+    {
+      "q": "Can I ask questions before I decide?",
+      "a": "Yes; ask as many as you like."
+    },
+    {
+      "q": "How do I pay?",
+      "a": "Send us a message and we'll tell you how payment works."
+    }
+  ],
+  "blog_title": "Our notes",
+  "blog": [
+    {
+      "title": "When to ask for a second opinion",
+      "excerpt": "And how to do it politely."
+    },
+    {
+      "title": "What a good first conversation covers",
+      "excerpt": "And what to expect afterwards."
+    },
+    {
+      "title": "How long things really take",
+      "excerpt": "Setting expectations on both sides."
+    }
+  ],
+  "contact": {
+    "place": "Gurgaon"
+  },
+  "cta_primary": "Book a consultation",
+  "cta_secondary": "Call the office",
+  "cta_text": "Book a consultation, and tell us the situation.",
+  "cta_title": "Ready when you are",
+  "footer": "© Summit Coworking Space. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Gurgaon",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "coworking (confidence high)",
+    "items_from_prompt": [],
+    "place": "Gurgaon",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "pro"
+  },
+  "needs_review": [
+    "No business name was given; 'Summit Coworking Space' is a placeholder.",
+    "Typical coworking space offerings were used for: Rooms, Tours, Lockers, Events, Passes. List your real services (3 or more) to replace them."
+  ]
+}

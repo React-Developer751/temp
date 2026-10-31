@@ -1,0 +1,579 @@
+[
+ {
+  "n": 1,
+  "prompt": "veterinary clinic with a dog and a cat",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "dog",
+   "cat",
+   "hospital",
+   "dog",
+   "cat"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 2,
+  "prompt": "goldfish aquarium shop",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "fish",
+   "fish",
+   "shop"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 3,
+  "prompt": "horse riding school",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "horse"
+  ],
+  "ignored": [
+   "riding",
+   "school"
+  ],
+  "texts": []
+ },
+ {
+  "n": 4,
+  "prompt": "dairy farm with cows",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "cow",
+   "tractor",
+   "cow",
+   "sheep",
+   "cow"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 5,
+  "prompt": "sheep grazing on a green hill",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "sheep",
+   "hill"
+  ],
+  "ignored": [
+   "grazing"
+  ],
+  "texts": []
+ },
+ {
+  "n": 6,
+  "prompt": "safari wildlife elephant",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "elephant",
+   "parrot",
+   "elephant",
+   "parrot",
+   "elephant"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 7,
+  "prompt": "construction site with a crane and excavator",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "crane",
+   "excavator",
+   "worker",
+   "hardhat",
+   "crane",
+   "excavator"
+  ],
+  "ignored": [
+   "site"
+  ],
+  "texts": []
+ },
+ {
+  "n": 8,
+  "prompt": "tractor ploughing a field",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "tractor",
+   "grass"
+  ],
+  "ignored": [
+   "ploughing"
+  ],
+  "texts": []
+ },
+ {
+  "n": 9,
+  "prompt": "solar energy company with solar panels",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "solarpanel",
+   "solarpanel",
+   "windmill",
+   "solarpanel"
+  ],
+  "ignored": [
+   "company",
+   "panels"
+  ],
+  "texts": []
+ },
+ {
+  "n": 10,
+  "prompt": "wind turbines on a hill at sunset",
+  "mode": "landscape",
+  "time": "sunset",
+  "flags": [],
+  "recognised": [
+   "windmill",
+   "windmill",
+   "hill"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 11,
+  "prompt": "warehouse forklift logistics",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "forklift",
+   "forklift",
+   "truck"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 12,
+  "prompt": "factory manufacturing",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "factory",
+   "factory"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 13,
+  "prompt": "plumber fixing a leaking tap",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "worker",
+   "faucet",
+   "wrench",
+   "toolbox",
+   "faucet"
+  ],
+  "ignored": [
+   "fixing",
+   "leaking"
+  ],
+  "texts": []
+ },
+ {
+  "n": 14,
+  "prompt": "carpenter workshop with saw and hammer",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "saw",
+   "hammer",
+   "toolbox",
+   "toolbox",
+   "wrench",
+   "hammer",
+   "screwdriver",
+   "drill",
+   "saw",
+   "hammer"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 15,
+  "prompt": "electrician wiring a house",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "worker",
+   "plug",
+   "lightbulb",
+   "worker",
+   "plug",
+   "lightbulb",
+   "house"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 16,
+  "prompt": "house painting services",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "paintroller",
+   "bucket",
+   "ladder",
+   "house"
+  ],
+  "ignored": [
+   "services"
+  ],
+  "texts": []
+ },
+ {
+  "n": 17,
+  "prompt": "tailor shop with sewing machine",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "sewingmachine",
+   "spool",
+   "tshirt",
+   "scissors",
+   "shop",
+   "sewingmachine"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 18,
+  "prompt": "hair salon scissors and comb",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "scissors",
+   "comb",
+   "plant",
+   "scissors",
+   "comb"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 19,
+  "prompt": "home cleaning service",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "house",
+   "broom",
+   "bucket"
+  ],
+  "ignored": [
+   "service"
+  ],
+  "texts": []
+ },
+ {
+  "n": 20,
+  "prompt": "car repair garage",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "car",
+   "toolbox",
+   "wrench",
+   "hammer",
+   "screwdriver",
+   "drill",
+   "wrench",
+   "gear",
+   "toolbox",
+   "screwdriver"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 21,
+  "prompt": "kids playground with swings and slide",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "child",
+   "swing",
+   "slide",
+   "seesaw",
+   "child",
+   "swing",
+   "slide"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 22,
+  "prompt": "cricket academy",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "cricket",
+   "university"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 23,
+  "prompt": "football tournament trophy",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "football",
+   "football",
+   "cricket",
+   "trophy",
+   "trophy"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 24,
+  "prompt": "kindergarten children playing",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "swing",
+   "slide",
+   "seesaw",
+   "child",
+   "child"
+  ],
+  "ignored": [
+   "playing"
+  ],
+  "texts": []
+ },
+ {
+  "n": 25,
+  "prompt": "coffee shop sign \"COFFEE HOUSE\"",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "cafe"
+  ],
+  "ignored": [
+   "sign"
+  ],
+  "texts": [
+   "COFFEE HOUSE"
+  ]
+ },
+ {
+  "n": 26,
+  "prompt": "grand opening poster \"GRAND OPENING\" \"FREE COFFEE FOR ALL\"",
+  "mode": "abstract",
+  "time": null,
+  "flags": [],
+  "recognised": [],
+  "ignored": [
+   "grand",
+   "opening",
+   "poster"
+  ],
+  "texts": [
+   "GRAND OPENING",
+   "FREE COFFEE FOR ALL"
+  ]
+ },
+ {
+  "n": 27,
+  "prompt": "logo for \"GREEN LEAF\" organic store",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "plant",
+   "shop"
+  ],
+  "ignored": [
+   "logo"
+  ],
+  "texts": [
+   "GREEN LEAF"
+  ]
+ },
+ {
+  "n": 28,
+  "prompt": "sale banner \"FLAT 50% OFF\" red background",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "tag"
+  ],
+  "ignored": [
+   "banner"
+  ],
+  "texts": [
+   "FLAT 50% OFF"
+  ]
+ },
+ {
+  "n": 29,
+  "prompt": "bakery \"FRESH BREAD DAILY\" sign",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "bakery"
+  ],
+  "ignored": [
+   "sign"
+  ],
+  "texts": [
+   "FRESH BREAD DAILY"
+  ]
+ },
+ {
+  "n": 30,
+  "prompt": "price tag \"\u20b9499\"",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "tag"
+  ],
+  "ignored": [],
+  "texts": [
+   "\u20b9499"
+  ]
+ },
+ {
+  "n": 31,
+  "prompt": "hotel \"SEA VIEW RESORT\" beach",
+  "mode": "landscape",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "hotel",
+   "beach"
+  ],
+  "ignored": [],
+  "texts": [
+   "SEA VIEW RESORT"
+  ]
+ },
+ {
+  "n": 32,
+  "prompt": "birthday party \"HAPPY BIRTHDAY\"",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "balloons",
+   "cake",
+   "giftbox"
+  ],
+  "ignored": [],
+  "texts": [
+   "HAPPY BIRTHDAY"
+  ]
+ },
+ {
+  "n": 33,
+  "prompt": "fire fighters rescue",
+  "mode": "abstract",
+  "time": null,
+  "flags": [],
+  "recognised": [],
+  "ignored": [
+   "fire",
+   "fighters",
+   "rescue"
+  ],
+  "texts": []
+ },
+ {
+  "n": 34,
+  "prompt": "ambulance",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "doctor",
+   "medicalcross"
+  ],
+  "ignored": [],
+  "texts": []
+ },
+ {
+  "n": 35,
+  "prompt": "dentist tooth",
+  "mode": "scene",
+  "time": null,
+  "flags": [],
+  "recognised": [
+   "doctor"
+  ],
+  "ignored": [
+   "tooth"
+  ],
+  "texts": []
+ },
+ {
+  "n": 36,
+  "prompt": "ice skating rink",
+  "mode": "abstract",
+  "time": null,
+  "flags": [],
+  "recognised": [],
+  "ignored": [
+   "ice",
+   "skating",
+   "rink"
+  ],
+  "texts": []
+ }
+]

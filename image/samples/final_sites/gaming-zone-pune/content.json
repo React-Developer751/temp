@@ -1,0 +1,180 @@
+{
+  "brand": "Gaming Zone, Pune",
+  "niche": "hosting",
+  "kind": "events",
+  "profile": "",
+  "business_type": "gaming",
+  "type_label": "Gaming Zone",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "bold",
+  "keywords": [
+    "hosting"
+  ],
+  "eyebrow": "Gaming Zone · Pune",
+  "location": "Pune",
+  "audience": "",
+  "hero_heading": "Gaming Zone in Pune",
+  "tagline": "A real person replies to every message.",
+  "about_title": "About us",
+  "about": [
+    "We check every detail twice.",
+    "You will find us in Pune. Ask us anything before you make up your mind."
+  ],
+  "features_title": "Our work",
+  "features": [
+    {
+      "title": "Controllers",
+      "text": "Controllers, checked twice before the day."
+    },
+    {
+      "title": "Games",
+      "text": "Curious about Games? Ask us anything."
+    },
+    {
+      "title": "Snacks",
+      "text": "Share a few photos and we'll plan Snacks around them."
+    },
+    {
+      "title": "Tournaments",
+      "text": "Let us know what you need from Tournaments and we'll suggest where to start."
+    },
+    {
+      "title": "Sessions",
+      "text": "Planning Sessions? Let us know the date and the guest count."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Every detail planned",
+      "text": "So you can enjoy the day."
+    },
+    {
+      "title": "Ask early",
+      "text": "Dates fill up."
+    },
+    {
+      "title": "Straight answers",
+      "text": "Ask and we'll say it plainly."
+    }
+  ],
+  "stats_title": "At a glance",
+  "stats": [
+    {
+      "value": "Pune",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "Getting started",
+  "steps": [
+    {
+      "title": "Share your ideas",
+      "text": "Photos, themes, must-haves."
+    },
+    {
+      "title": "Shape the plan",
+      "text": "We sketch ideas for and adjust to your budget."
+    },
+    {
+      "title": "On the day",
+      "text": "We set up, run it and clear up."
+    }
+  ],
+  "faq_title": "Questions we get asked",
+  "faq": [
+    {
+      "q": "Where are you based?",
+      "a": "We're in Pune; get in touch."
+    },
+    {
+      "q": "Do you reply to messages?",
+      "a": "Send a message and you'll hear from us."
+    },
+    {
+      "q": "Is there anything I should prepare?",
+      "a": "Ask us and we'll tell you what to have ready."
+    },
+    {
+      "q": "Can someone else book for me?",
+      "a": "Yes; just let us know who the booking is for."
+    }
+  ],
+  "blog_title": "Our notes",
+  "blog": [
+    {
+      "title": "Small things that make a difference",
+      "excerpt": "Notes from everyday experience."
+    },
+    {
+      "title": "Notes on getting started",
+      "excerpt": "The first steps, without the jargon."
+    },
+    {
+      "title": "The day-of checklist",
+      "excerpt": "What we confirm in the final week."
+    }
+  ],
+  "contact": {
+    "place": "Pune"
+  },
+  "cta_primary": "Plan my event",
+  "cta_secondary": "See our work",
+  "cta_text": "Your date starts with a message.",
+  "cta_title": "We'd like to hear from you",
+  "footer": "© Gaming Zone, Pune. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Pune",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "gaming (confidence high)",
+    "items_from_prompt": [],
+    "place": "Pune",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "events"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Gaming Zone, Pune' (not a name). Add your business name to replace it.",
+    "Typical gaming zone offerings were used for: Controllers, Games, Snacks, Tournaments, Sessions. List your real services (3 or more) to replace them."
+  ]
+}

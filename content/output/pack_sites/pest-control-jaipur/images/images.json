@@ -1,0 +1,106 @@
+{
+  "niche": null,
+  "requested_niche": null,
+  "fallback": true,
+  "reason": "no picture niche for business type 'pest_control'",
+  "mood": "dark",
+  "accent": "#27a5d8",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Pest control, Jaipur Pest control pest control termite treatment cockroach control bed bug treatment rodent control fumigation General Pest Control Termite Treatment Bed Bug Removal Rodent Control Mosquito Control Pre Construction Treatment",
+    "niche": null,
+    "title": "Abstract",
+    "fallback": true,
+    "mood": "dark",
+    "accent": "#27a5d8",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 22,
+    "palette_family": 0.909,
+    "text_zone": "left",
+    "hero_contrast": 4.81,
+    "seconds": 6.53,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.909
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 14807,
+      "alt": "Illustration for Pest control, Jaipur",
+      "text_color": "#ffffff",
+      "contrast": 4.81,
+      "role": "hero",
+      "seed": 1
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 8484,
+      "alt": "About Pest control, Jaipur",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1014
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 6867,
+        "alt": "Pest control, Jaipur gallery picture",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2027
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 5327,
+        "alt": "Pest control, Jaipur gallery picture",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3040
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 6868,
+        "alt": "Pest control, Jaipur gallery picture",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4053
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 6312,
+        "alt": "Pest control, Jaipur gallery picture",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5066
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "prompt": "Authentic Neapolitan pizzeria in Pune, wood fired oven",
+  "niche": "restaurant-italian",
+  "title": "Italian restaurant",
+  "fallback": false,
+  "mood": "warm",
+  "accent": "#c0392b",
+  "count": 6,
+  "redrawn": 0,
+  "min_distance": 16,
+  "palette_family": 0.954,
+  "text_zone": "left",
+  "hero_contrast": 4.79,
+  "seconds": 7.89,
+  "scores": {
+    "subject": 1.0,
+    "text_contrast": 1.0,
+    "duplicate": 1.0,
+    "palette_family": 0.954
+  },
+  "images": [
+    {
+      "niche": "restaurant-italian",
+      "title": "Italian restaurant",
+      "fallback": false,
+      "fallback_reason": null,
+      "match": {
+        "candidates": [
+          [
+            "restaurant-italian",
+            4.0
+          ]
+        ],
+        "reason": "keywords: pizzeria, wood fired",
+        "classifier": [
+          "restaurant-italian",
+          1.0,
+          4
+        ],
+        "accent_source": "argument"
+      },
+      "mood": "warm",
+      "accent": "#c0392b",
+      "text_zone": "left",
+      "text_color": "#0d0d14",
+      "contrast": 4.79,
+      "scrim": 0.37,
+      "redrawn": 0,
+      "scores": {
+        "subject": 1.0,
+        "text_contrast": 1.0,
+        "detail": 1.0,
+        "colors": 1.0,
+        "duplicate": 1.0
+      },
+      "judge_ok": true,
+      "seed": 5,
+      "variant": "fit",
+      "role": "hero",
+      "size": [
+        1280,
+        640
+      ],
+      "seconds": 1.64,
+      "duplicate_distance": 64,
+      "palette_family": 0.964,
+      "size_budget_met": true,
+      "format": "jpeg",
+      "bytes": 32393,
+      "file": "hero.jpg"
+    },
+    {
+      "niche": "restaurant-italian",
+      "title": "Italian restaurant",
+      "fallback": false,
+      "fallback_reason": null,
+      "match": {
+        "candidates": [
+          [
+            "restaurant-italian",
+            4.0
+          ]
+        ],
+        "reason": "keywords: pizzeria, wood fired",
+        "classifier": [
+          "restaurant-italian",
+          1.0,
+          4
+        ],
+        "accent_source": "argument"
+      },
+      "mood": "warm",
+      "accent": "#c0392b",
+      "text_zone": null,
+      "text_color": null,
+      "contrast": null,
+      "scrim": null,
+      "redrawn": 0,
+      "scores": {
+        "subject": 1.0,
+        "text_contrast": 1.0,
+        "detail": 1.0,
+        "colors": 1.0,
+        "duplicate": 1.0
+      },
+      "judge_ok": true,
+      "seed": 1018,
+      "variant": "fit",
+      "role": "about",
+      "size": [
+        640,
+        600
+      ],
+      "seconds": 0.94,
+      "duplicate_distance": 28,
+      "palette_family": 0.989,
+      "size_budget_met": true,
+      "format": "jpeg",
+      "bytes": 23706,
+      "file": "about.jpg"
+    },
+    {
+      "niche": "restaurant-italian",
+      "title": "Italian restaurant",
+      "fallback": false,
+      "fallback_reason": null,
+      "match": {
+        "candidates": [
+          [
+            "restaurant-italian",
+            4.0
+          ]
+        ],
+        "reason": "keywords: pizzeria, wood fired",
+        "classifier": [
+          "restaurant-italian",
+          1.0,
+          4
+        ],
+        "accent_source": "argument"
+      },
+      "mood": "warm",
+      "accent": "#c0392b",
+      "text_zone": null,
+      "text_color": null,
+      "contrast": null,
+      "scrim": null,
+      "redrawn": 0,
+      "scores": {
+        "subject": 1.0,
+        "text_contrast": 1.0,
+        "detail": 1.0,
+        "colors": 1.0,
+        "duplicate": 1.0
+      },
+      "judge_ok": true,
+      "seed": 2031,
+      "variant": "close",
+      "role": "tile",
+      "size": [
+        640,
+        400
+      ],
+      "seconds": 1.39,
+      "duplicate_distance": 26,
+      "palette_family": 0.954,
+      "size_budget_met": true,
+      "format": "jpeg",
+      "bytes": 22470,
+      "file": "tile-1.jpg"
+    },
+    {
+      "niche": "restaurant-italian",
+      "title": "Italian restaurant",
+      "fallback": false,
+      "fallback_reason": null,
+      "match": {
+        "candidates": [
+          [
+            "restaurant-italian",
+            4.0
+          ]
+        ],
+        "reason": "keywords: pizzeria, wood fired",
+        "classifier": [
+          "restaurant-italian",
+          1.0,
+          4
+        ],
+        "accent_source": "argument"
+      },
+      "mood": "warm",
+      "accent": "#c0392b",
+      "text_zone": null,
+      "text_color": null,
+      "contrast": null,
+      "scrim": null,
+      "redrawn": 0,
+      "scores": {
+        "subject": 1.0,
+        "text_contrast": 1.0,
+        "detail": 1.0,
+        "colors": 1.0,
+        "duplicate": 1.0
+      },
+      "judge_ok": true,
+      "seed": 3044,
+      "variant": "detail-flip",
+      "role": "tile",
+      "size": [
+        480,
+        480
+      ],
+      "seconds": 1.0,
+      "duplicate_distance": 24,
+      "palette_family": 0.974,
+      "size_budget_met": true,
+      "format": "jpeg",
+      "bytes": 20038,
+      "file": "tile-2.jpg"
+    },
+    {
+      "niche": "restaurant-italian",
+      "title": "Italian restaurant",
+      "fallback": false,
+      "fallback_reason": null,
+      "match": {
+        "candidates": [
+          [
+            "restaurant-italian",
+            4.0
+          ]
+        ],
+        "reason": "keywords: pizzeria, wood fired",
+        "classifier": [
+          "restaurant-italian",
+          1.0,
+          4
+        ],
+        "accent_source": "argument"
+      },
+      "mood": "warm",
+      "accent": "#c0392b",
+      "text_zone": null,
+      "text_color": null,
+      "contrast": null,
+      "scrim": null,
+      "redrawn": 0,
+      "scores": {
+        "subject": 1.0,
+        "text_contrast": 1.0,
+        "detail": 1.0,
+        "colors": 1.0,
+        "duplicate": 1.0
+      },
+      "judge_ok": true,
+      "seed": 4057,
+      "variant": "wide",
+      "role": "tile",
+      "size": [
+        640,
+        400
+      ],
+      "seconds": 0.63,
+      "duplicate_distance": 16,
+      "palette_family": 0.981,
+      "size_budget_met": true,
+      "format": "jpeg",
+      "bytes": 16793,
+      "file": "tile-3.jpg"
+    },
+    {
+      "niche": "restaurant-italian",
+      "title": "Italian restaurant",
+      "fallback": false,
+      "fallback_reason": null,
+      "match": {
+        "candidates": [
+          [
+            "restaurant-italian",
+            4.0
+          ]
+        ],
+        "reason": "keywords: pizzeria, wood fired",
+        "classifier": [
+          "restaurant-italian",
+          1.0,
+          4
+        ],
+        "accent_source": "argument"
+      },
+      "mood": "warm",
+      "accent": "#c0392b",
+      "text_zone": null,
+      "text_color": null,
+      "contrast": null,
+      "scrim": null,
+      "redrawn": 0,
+      "scores": {
+        "subject": 1.0,
+        "text_contrast": 1.0,
+        "detail": 1.0,
+        "colors": 1.0,
+        "duplicate": 1.0
+      },
+      "judge_ok": true,
+      "seed": 5070,
+      "variant": "fit-flip",
+      "role": "tile",
+      "size": [
+        560,
+        420
+      ],
+      "seconds": 0.7,
+      "duplicate_distance": 26,
+      "palette_family": 0.992,
+      "size_budget_met": true,
+      "format": "jpeg",
+      "bytes": 17400,
+      "file": "tile-4.jpg"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "brand": "Physiotherapy Centre, Surat",
+  "niche": "care",
+  "kind": "health",
+  "profile": "physio",
+  "business_type": "physio",
+  "type_label": "Physiotherapy Centre",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "calm",
+  "keywords": [
+    "clinic"
+  ],
+  "eyebrow": "Physiotherapy Centre · Surat",
+  "location": "Surat",
+  "audience": "",
+  "hero_heading": "Physiotherapy Centre in Surat",
+  "tagline": "A real person replies to every message.",
+  "about_title": "About us",
+  "about": [
+    "Small questions are welcome too.",
+    "You will find us in Surat. Bring any earlier reports or scans to the first visit."
+  ],
+  "features_title": "Treatments",
+  "features": [
+    {
+      "title": "Stretches",
+      "text": "We will explain Stretches in plain words."
+    },
+    {
+      "title": "Taping",
+      "text": "Message us about Taping; we reply to every enquiry."
+    },
+    {
+      "title": "Programs",
+      "text": "If Programs is on your mind, book a visit and we will talk it through."
+    },
+    {
+      "title": "Rehabilitation Plans",
+      "text": "Not sure about Rehabilitation Plans? Start with a short conversation."
+    },
+    {
+      "title": "Treatments",
+      "text": "Treatments begins with a conversation about what you need."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "A plan you agree to",
+      "text": "We recommend; you make up your mind."
+    },
+    {
+      "title": "Gentle approach",
+      "text": "Care at a pace that suits you."
+    },
+    {
+      "title": "Straight answers",
+      "text": "Ask and we will say it plainly."
+    }
+  ],
+  "stats_title": "Where and when",
+  "stats": [
+    {
+      "value": "Surat",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "How it works",
+  "steps": [
+    {
+      "title": "Reserve a time",
+      "text": "Call or message us to book; bring earlier reports if you have them."
+    },
+    {
+      "title": "Agree the plan",
+      "text": "We confirm what happens and when."
+    },
+    {
+      "title": "Exercise plan",
+      "text": "A plan you can follow, reviewed as you improve."
+    }
+  ],
+  "faq_title": "Quick answers",
+  "faq": [
+    {
+      "q": "Where are you?",
+      "a": "We're in Surat; get in touch for directions."
+    },
+    {
+      "q": "Can I change my plans?",
+      "a": "Send us a message and we'll explain the options."
+    },
+    {
+      "q": "How do I pay?",
+      "a": "Feel free to ask us at the time of booking and we will explain the options."
+    },
+    {
+      "q": "Can someone else book for me?",
+      "a": "Certainly; share the details and we'll take it from there."
+    }
+  ],
+  "blog_title": "Worth reading",
+  "blog": [
+    {
+      "title": "What to expect at your first visit",
+      "excerpt": "A walk through the consultation, from the first question to the plan."
+    },
+    {
+      "title": "Keeping track of your plans",
+      "excerpt": "A simple way to stay organised."
+    },
+    {
+      "title": "What a fair price looks like",
+      "excerpt": "Questions that make quotes easier to compare."
+    }
+  ],
+  "contact": {
+    "place": "Surat"
+  },
+  "cta_primary": "Book an appointment",
+  "cta_secondary": "Call the clinic",
+  "cta_text": "A conversation is the best first step.",
+  "cta_title": "Say hello",
+  "footer": "© Physiotherapy Centre, Surat. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Surat",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "physio (confidence high)",
+    "items_from_prompt": [],
+    "place": "Surat",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "physio",
+    "kind": "health"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Physiotherapy Centre, Surat' (not a name). Add your business name to replace it.",
+    "Typical physiotherapy centre offerings were used for: Stretches, Taping, Programs, Rehabilitation Plans, Treatments. List your real services (3 or more) to replace them."
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "brand": "Yoga Studio, Pune",
+  "niche": "fitness",
+  "kind": "fitness",
+  "profile": "yoga",
+  "business_type": "yoga",
+  "type_label": "Yoga Studio",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "friendly",
+  "keywords": [
+    "hatha",
+    "pranayama",
+    "meditation",
+    "weekend",
+    "retreats",
+    "first"
+  ],
+  "eyebrow": "Yoga Studio · Pune",
+  "location": "Pune",
+  "audience": "",
+  "hero_heading": "Hatha yoga and pranayama in Pune",
+  "tagline": "We hold meditation and weekend retreats in Pune. A real person replies to every message.",
+  "about_title": "About us",
+  "about": [
+    "People come to us for pranayama and meditation in Pune. Teachers watch your breath, not the clock.",
+    "You'll find us in Pune. Feel free to ask us which class is best for a beginner."
+  ],
+  "features_title": "Sessions",
+  "features": [
+    {
+      "title": "Hatha Yoga",
+      "text": "Not sure about hatha yoga? Start with a short conversation."
+    },
+    {
+      "title": "Pranayama",
+      "text": "We'll explain pranayama in plain words."
+    },
+    {
+      "title": "Meditation",
+      "text": "New to meditation? Tell the teacher and they'll guide you."
+    },
+    {
+      "title": "Weekend Retreats",
+      "text": "Curious about weekend retreats? Come for a class and see."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Free trial",
+      "text": "Come once for free and see if it suits you."
+    },
+    {
+      "title": "Easy to start",
+      "text": "Come once and see."
+    },
+    {
+      "title": "Straight answers",
+      "text": "Ask and we will say it plainly."
+    }
+  ],
+  "stats_title": "Good to know",
+  "stats": [
+    {
+      "value": "Pune",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "Three simple steps",
+  "steps": [
+    {
+      "title": "Get in touch",
+      "text": "Send a message or call and tell us what you need."
+    },
+    {
+      "title": "Settle in and learn",
+      "text": "The teacher introduces hatha yoga or pranayama and checks your alignment."
+    },
+    {
+      "title": "Get started",
+      "text": "We begin when you're ready."
+    }
+  ],
+  "faq_title": "Frequently asked questions",
+  "faq": [
+    {
+      "q": "Can I try a class first?",
+      "a": "Yes, a free first class is available; feel free to ask us to book it."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Pune; reach out for directions."
+    },
+    {
+      "q": "Can I ask about hatha yoga?",
+      "a": "Certainly; ask what a class looks like."
+    },
+    {
+      "q": "How do I pay?",
+      "a": "Message us and we'll tell you how payment works."
+    }
+  ],
+  "blog_title": "Notes and guides",
+  "blog": [
+    {
+      "title": "Making the most of your first visit",
+      "excerpt": "A short list to bring with you."
+    },
+    {
+      "title": "Reading the small print",
+      "excerpt": "Where to look and what to ask."
+    },
+    {
+      "title": "How long things really take",
+      "excerpt": "Setting expectations on both sides."
+    }
+  ],
+  "contact": {
+    "place": "Pune"
+  },
+  "cta_primary": "Start a free class",
+  "cta_secondary": "Book a class",
+  "cta_text": "Ask which class suits a beginner.",
+  "cta_title": "Let's talk",
+  "footer": "© Yoga Studio, Pune. All rights reserved.",
+  "offers": [
+    {
+      "id": "free_trial",
+      "text": "Free first class"
+    }
+  ],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Pune",
+      "source": "prompt"
+    },
+    "services": {
+      "value": [
+        "hatha yoga",
+        "pranayama",
+        "meditation",
+        "weekend retreats"
+      ],
+      "source": "prompt"
+    },
+    "offers": {
+      "value": [
+        "Free first class"
+      ],
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "yoga (confidence high)",
+    "items_from_prompt": [
+      "hatha yoga",
+      "pranayama",
+      "meditation",
+      "weekend retreats"
+    ],
+    "place": "Pune",
+    "mode": "strict (your phrases only)",
+    "copy": "frames + user phrases",
+    "profile": "yoga",
+    "kind": "fitness"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Yoga Studio, Pune' (not a name). Add your business name to replace it."
+  ]
+}

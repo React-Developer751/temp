@@ -1,0 +1,191 @@
+{
+  "brand": "Bright Dental Clinic",
+  "niche": "care",
+  "kind": "health",
+  "profile": "dental",
+  "business_type": "dental",
+  "type_label": "Dental Clinic",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "calm",
+  "keywords": [
+    "pune",
+    "braces",
+    "implants"
+  ],
+  "eyebrow": "Dental Clinic · Pune",
+  "location": "Pune",
+  "audience": "",
+  "hero_heading": "Braces and implants in Pune",
+  "tagline": "Book an appointment and tell us what you need.",
+  "about_title": "About us",
+  "about": [
+    "Braces and implants: We offer them in Pune. No pressure, no jargon, just a clear plan.",
+    "You will find us in Pune. Tell us what suits you and we will confirm."
+  ],
+  "features_title": "Care we offer",
+  "features": [
+    {
+      "title": "Braces",
+      "text": "Braces: ask for details before you decide."
+    },
+    {
+      "title": "Implants",
+      "text": "We will explain implants in plain words, and answer every question."
+    },
+    {
+      "title": "Fillings",
+      "text": "Bring your questions about Fillings; the clinician will take them one by one."
+    },
+    {
+      "title": "Dentures",
+      "text": "Removable replacement teeth. We will explain Dentures in plain words."
+    },
+    {
+      "title": "Cleanings",
+      "text": "Message us about Cleanings; we reply to every enquiry."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Easy to reach",
+      "text": "Message or call."
+    },
+    {
+      "title": "Gentle approach",
+      "text": "Care at a pace that suits you."
+    },
+    {
+      "title": "A plan you agree to",
+      "text": "We recommend; you make up your mind."
+    }
+  ],
+  "stats_title": "In short",
+  "stats": [
+    {
+      "value": "Pune",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "How it works",
+  "steps": [
+    {
+      "title": "Tell us your concern",
+      "text": "Share what's been bothering you at the time of booking."
+    },
+    {
+      "title": "Get a clear assessment",
+      "text": "We look closely and explain what we find."
+    },
+    {
+      "title": "Start your treatment",
+      "text": "We begin when you are ready, and check in afterwards."
+    }
+  ],
+  "faq_title": "Questions we get asked",
+  "faq": [
+    {
+      "q": "How do I book an appointment?",
+      "a": "Use the contact details on this page and let us know what's troubling you."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Pune; reach out for directions."
+    },
+    {
+      "q": "Can I ask about braces?",
+      "a": "Certainly; ask what it involves and what to expect."
+    },
+    {
+      "q": "What if I'm not sure what I need?",
+      "a": "Let us know what you're trying to achieve and we'll point you in the right direction."
+    }
+  ],
+  "blog_title": "Notes and guides",
+  "blog": [
+    {
+      "title": "Why we answer every message",
+      "excerpt": "Replies are part of the service."
+    },
+    {
+      "title": "Looking after yourself after implants",
+      "excerpt": "Everyday habits that support the treatment."
+    },
+    {
+      "title": "Keeping track of your plans",
+      "excerpt": "A simple way to stay organised."
+    }
+  ],
+  "contact": {
+    "place": "Pune"
+  },
+  "cta_primary": "Book an appointment",
+  "cta_secondary": "Call the clinic",
+  "cta_text": "Tell us what's on your mind.",
+  "cta_title": "Come and see for yourself",
+  "footer": "© Bright Dental Clinic. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Pune",
+      "source": "prompt"
+    },
+    "services": {
+      "value": [
+        "braces",
+        "implants"
+      ],
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "dental (confidence high)",
+    "items_from_prompt": [
+      "braces",
+      "implants"
+    ],
+    "place": "Pune",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "dental",
+    "kind": "health"
+  },
+  "needs_review": [
+    "No business name was given; 'Bright Dental Clinic' is a placeholder.",
+    "Typical dental clinic offerings were used for: Fillings, Dentures, Cleanings. List your real services (3 or more) to replace them."
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "brand": "Medical Clinic, Chandigarh",
+  "niche": "care",
+  "kind": "health",
+  "profile": "",
+  "business_type": "clinic",
+  "type_label": "Medical Clinic",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "calm",
+  "keywords": [
+    "skin",
+    "care"
+  ],
+  "eyebrow": "Medical Clinic · Chandigarh",
+  "location": "Chandigarh",
+  "audience": "",
+  "hero_heading": "Medical Clinic in Chandigarh",
+  "tagline": "You will always know what comes next.",
+  "about_title": "About us",
+  "about": [
+    "Small questions are always welcome too.",
+    "You will find us in Chandigarh. Ask what's included before you make up your mind."
+  ],
+  "features_title": "Services",
+  "features": [
+    {
+      "title": "Treatments",
+      "text": "Curious about Treatments? Ask us anything."
+    },
+    {
+      "title": "Consultations",
+      "text": "Tell us what you need from Consultations and we'll suggest where to start."
+    },
+    {
+      "title": "Screenings",
+      "text": "If Screenings is on your mind, book a visit and we'll talk it through."
+    },
+    {
+      "title": "Reports",
+      "text": "Bring your questions about Reports."
+    },
+    {
+      "title": "Vaccinations",
+      "text": "Vaccinations: we examine first, explain the options, and agree a plan with you."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Time for questions",
+      "text": "Ask as many as you need."
+    },
+    {
+      "title": "Local and personal",
+      "text": "Run by people you can talk to."
+    },
+    {
+      "title": "Gentle approach",
+      "text": "Care at a pace that suits you."
+    }
+  ],
+  "stats_title": "Quick facts",
+  "stats": [
+    {
+      "value": "Chandigarh",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "Getting started",
+  "steps": [
+    {
+      "title": "Tell us your concern",
+      "text": "Share what's been bothering you when you book."
+    },
+    {
+      "title": "We talk it through",
+      "text": "We explain the options in plain words."
+    },
+    {
+      "title": "Start your treatment",
+      "text": "We begin when you are ready, and check in afterwards."
+    }
+  ],
+  "faq_title": "Good questions",
+  "faq": [
+    {
+      "q": "Do you treat children?",
+      "a": "Tell us the age when you contact us and we'll advise."
+    },
+    {
+      "q": "Where are you?",
+      "a": "We're in Chandigarh; get in touch for directions."
+    },
+    {
+      "q": "Do you reply to messages?",
+      "a": "Yes; use the contact information on this page and we'll reply."
+    },
+    {
+      "q": "Can I ask questions before I decide?",
+      "a": "Yes; ask as many as you like."
+    }
+  ],
+  "blog_title": "Worth reading",
+  "blog": [
+    {
+      "title": "Keeping track of your plans",
+      "excerpt": "A simple way to stay organised."
+    },
+    {
+      "title": "Questions to ask before you book",
+      "excerpt": "Plain answers beat long brochures."
+    },
+    {
+      "title": "Small things that make a difference",
+      "excerpt": "Notes from everyday experience."
+    }
+  ],
+  "contact": {
+    "place": "Chandigarh"
+  },
+  "cta_primary": "Book an appointment",
+  "cta_secondary": "Call the clinic",
+  "cta_text": "Start with a consultation.",
+  "cta_title": "Start with a conversation",
+  "footer": "© Medical Clinic, Chandigarh. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Chandigarh",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "clinic (confidence high)",
+    "items_from_prompt": [],
+    "place": "Chandigarh",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "health"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Medical Clinic, Chandigarh' (not a name). Add your business name to replace it.",
+    "Typical medical clinic offerings were used for: Treatments, Consultations, Screenings, Reports, Vaccinations. List your real services (3 or more) to replace them."
+  ]
+}

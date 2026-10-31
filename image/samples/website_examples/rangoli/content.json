@@ -1,0 +1,188 @@
+{
+  "brand": "Rangoli",
+  "niche": "shop",
+  "kind": "retail",
+  "profile": "kurti",
+  "business_type": "clothing",
+  "type_label": "Clothing Boutique",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "playful",
+  "keywords": [
+    "kurti",
+    "store",
+    "jaipur",
+    "anarkali",
+    "palazzo",
+    "chikankari"
+  ],
+  "eyebrow": "Clothing Boutique · Jaipur",
+  "location": "Jaipur",
+  "audience": "",
+  "hero_heading": "Anarkali and palazzo in Jaipur",
+  "tagline": "Shop for chikankari in Jaipur. Ask before you buy; we'd rather you were sure.",
+  "about_title": "About Rangoli",
+  "about": [
+    "Rangoli stocks palazzo, chikankari and anarkali in Jaipur. Take a look around and ask us anything.",
+    "You will find Rangoli in Jaipur. Message us a few notes and we'll reply."
+  ],
+  "features_title": "Browse the range",
+  "features": [
+    {
+      "title": "Anarkali",
+      "text": "A flared, floor-skimming kurti that moves when you do."
+    },
+    {
+      "title": "Palazzo",
+      "text": "A kurti with wide-leg trousers, sold as a set."
+    },
+    {
+      "title": "Chikankari",
+      "text": "Fine hand-embroidered work from Lucknow, light on the skin. Message us about chikankari; we reply to every enquiry."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Questions welcome",
+      "text": "Big or small."
+    },
+    {
+      "title": "A real person replies",
+      "text": "Not a form that goes nowhere."
+    },
+    {
+      "title": "Ask before you buy",
+      "text": "A person answers your questions."
+    }
+  ],
+  "stats_title": "At a glance",
+  "stats": [
+    {
+      "value": "Jaipur",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "What happens next",
+  "steps": [
+    {
+      "title": "Browse",
+      "text": "Look through anarkali or palazzo online or in the store."
+    },
+    {
+      "title": "Choose",
+      "text": "Pick what you like and feel free to ask us anything about it."
+    },
+    {
+      "title": "Order or collect",
+      "text": "Message us to ask about stock."
+    }
+  ],
+  "faq_title": "Before you ask",
+  "faq": [
+    {
+      "q": "Do you have anarkali in stock?",
+      "a": "Message us and we'll check."
+    },
+    {
+      "q": "Where are you?",
+      "a": "Find us in Jaipur. Message us and we will send directions."
+    },
+    {
+      "q": "Can I ask questions before I decide?",
+      "a": "Of course; that's what the first conversation is for."
+    },
+    {
+      "q": "Is there anything I should prepare?",
+      "a": "Ask us and we'll tell you what to have ready."
+    }
+  ],
+  "blog_title": "Notes and guides",
+  "blog": [
+    {
+      "title": "Why we answer every message",
+      "excerpt": "Replies are part of the service."
+    },
+    {
+      "title": "Small things that make a difference",
+      "excerpt": "Notes from everyday experience."
+    },
+    {
+      "title": "Making the most of your first visit",
+      "excerpt": "A short list to bring with you."
+    }
+  ],
+  "contact": {
+    "place": "Jaipur"
+  },
+  "cta_primary": "Shop now",
+  "cta_secondary": "Visit the store",
+  "cta_text": "Come and see anarkali in person.",
+  "cta_title": "Tell us what you need",
+  "footer": "© Rangoli. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "name": {
+      "value": "Rangoli",
+      "source": "prompt"
+    },
+    "city": {
+      "value": "Jaipur",
+      "source": "prompt"
+    },
+    "services": {
+      "value": [
+        "anarkali",
+        "palazzo",
+        "chikankari"
+      ],
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "clothing (confidence high)",
+    "items_from_prompt": [
+      "anarkali",
+      "palazzo",
+      "chikankari"
+    ],
+    "place": "Jaipur",
+    "mode": "strict (your phrases only)",
+    "copy": "frames + user phrases",
+    "profile": "kurti",
+    "kind": "retail"
+  },
+  "needs_review": []
+}

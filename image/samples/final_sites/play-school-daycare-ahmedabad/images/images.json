@@ -1,0 +1,106 @@
+{
+  "niche": "playschool",
+  "requested_niche": "playschool",
+  "fallback": false,
+  "reason": "business type playschool",
+  "mood": "light",
+  "accent": "#d42b4e",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Play School & Daycare, Ahmedabad Play School & Daycare education Games Rhymes Celebrations Outings Activities",
+    "niche": "playschool",
+    "title": "Play school and daycare",
+    "fallback": false,
+    "mood": "light",
+    "accent": "#d42b4e",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 20,
+    "palette_family": 0.913,
+    "text_zone": "left",
+    "hero_contrast": 4.79,
+    "seconds": 8.03,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.913
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 49819,
+      "alt": "Illustration for Play School & Daycare, Ahmedabad: Play school and daycare",
+      "text_color": "#0d0d14",
+      "contrast": 4.79,
+      "role": "hero",
+      "seed": 5
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 35356,
+      "alt": "About Play School & Daycare, Ahmedabad: Play school and daycare",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1018
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 23805,
+        "alt": "Play School & Daycare, Ahmedabad gallery picture: Play school and daycare",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2031
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 24533,
+        "alt": "Play School & Daycare, Ahmedabad gallery picture: Play school and daycare",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3044
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 23523,
+        "alt": "Play School & Daycare, Ahmedabad gallery picture: Play school and daycare",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4057
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 22805,
+        "alt": "Play School & Daycare, Ahmedabad gallery picture: Play school and daycare",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5070
+      }
+    ]
+  }
+}

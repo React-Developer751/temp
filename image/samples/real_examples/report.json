@@ -1,0 +1,375 @@
+[
+ {
+  "prompt": "Authentic Neapolitan pizzeria in Pune, wood fired oven, cozy evening",
+  "request": {
+   "text_zone": "left"
+  },
+  "report": {
+   "niche": "restaurant-italian",
+   "fallback": false,
+   "mood": "warm",
+   "accent": "#c0392b",
+   "text_color": "#0d0d14",
+   "contrast": 4.93,
+   "redrawn": 0,
+   "scores": {
+    "subject": 1.0,
+    "text_contrast": 1.0,
+    "detail": 1.0,
+    "colors": 1.0
+   },
+   "bytes": 32962,
+   "judge_ok": true
+  }
+ },
+ {
+  "prompt": "steps section for an italian restaurant: choose, order, enjoy",
+  "request": {
+   "text_zone": "bottom"
+  },
+  "report": {
+   "niche": "restaurant-italian",
+   "fallback": false,
+   "mood": "warm",
+   "accent": "#c0392b",
+   "text_color": "#ffffff",
+   "contrast": 4.79,
+   "redrawn": 0,
+   "scores": {
+    "subject": 1.0,
+    "text_contrast": 1.0,
+    "detail": 1.0,
+    "colors": 1.0
+   },
+   "bytes": 41252,
+   "judge_ok": true
+  }
+ },
+ {
+  "prompt": "best dentist in Jaipur, painless root canal and braces",
+  "request": {
+   "mood": "cool",
+   "accent": "#1e88e5",
+   "text_zone": "left"
+  },
+  "report": {
+   "niche": "dental",
+   "fallback": false,
+   "mood": "cool",
+   "accent": "#1e88e5",
+   "text_color": "#0d0d14",
+   "contrast": 5.04,
+   "redrawn": 0,
+   "scores": {
+    "subject": 1.0,
+    "text_contrast": 1.0,
+    "detail": 1.0,
+    "colors": 1.0
+   },
+   "bytes": 35145,
+   "judge_ok": true
+  }
+ },
+ {
+  "prompt": "mera gym hai Indore mein, heavy weights aur dumbbells, power wala look",
+  "request": {
+   "text_zone": "left"
+  },
+  "report": {
+   "niche": "gym",
+   "fallback": false,
+   "mood": "dark",
+   "accent": "#e74c3c",
+   "text_color": "#ffffff",
+   "contrast": 4.82,
+   "redrawn": 0,
+   "scores": {
+    "subject": 1.0,
+    "text_contrast": 1.0,
+    "detail": 1.0,
+    "colors": 0.867
+   },
+   "bytes": 29831,
+   "judge_ok": true
+  }
+ },
+ {
+  "prompt": "yoga and meditation retreat in Rishikesh, peaceful morning",
+  "request": {
+   "text_zone": "center"
+  },
+  "report": {
+   "niche": "yoga",
+   "fallback": false,
+   "mood": "cool",
+   "accent": "#6c9a6b",
+   "text_color": "#0d0d14",
+   "contrast": 4.73,
+   "redrawn": 0,
+   "scores": {
+    "subject": 1.0,
+    "text_contrast": 1.0,
+    "detail": 1.0,
+    "colors": 1.0
+   },
+   "bytes": 28695,
+   "judge_ok": true
+  }
+ },
+ {
+  "prompt": "online kurti shopping website, ethnic wear for women",
+  "request": {
+   "accent": "#b03a6f",
+   "text_zone": "left"
+  },
+  "report": {
+   "niche": "kurti-store",
+   "fallback": false,
+   "mood": "light",
+   "accent": "#b03a6f",
+   "text_color": "#0d0d14",
+   "contrast": 4.85,
+   "redrawn": 0,
+   "scores": {
+    "subject": 1.0,
+    "text_contrast": 1.0,
+    "detail": 1.0,
+    "colors": 1.0
+   },
+   "bytes": 43926,
+   "judge_ok": true
+  }
+ },
+ {
+  "prompt": "B2B SaaS analytics dashboard startup",
+  "request": {
+   "mood": "dark",
+   "accent": "#6366f1",
+   "text_zone": "left"
+  },
+  "report": {
+   "niche": "saas",
+   "fallback": false,
+   "mood": "dark",
+   "accent": "#6366f1",
+   "text_color": "#ffffff",
+   "contrast": 6.13,
+   "redrawn": 0,
+   "scores": {
+    "subject": 1.0,
+    "text_contrast": 1.0,
+    "detail": 1.0,
+    "colors": 1.0
+   },
+   "bytes": 33491,
+   "judge_ok": true
+  }
+ },
+ {
+  "prompt": "हमारी मिठाई की दुकान, शुद्ध देसी घी के लड्डू और जलेबी",
+  "request": {
+   "text_zone": "left"
+  },
+  "report": {
+   "niche": "sweet-shop",
+   "fallback": false,
+   "mood": "warm",
+   "accent": "#f39c12",
+   "text_color": "#0d0d14",
+   "contrast": 4.86,
+   "redrawn": 0,
+   "scores": {
+    "subject": 1.0,
+    "text_contrast": 1.0,
+    "detail": 1.0,
+    "colors": 1.0
+   },
+   "bytes": 44311,
+   "judge_ok": true
+  }
+ },
+ {
+  "prompt": "underwater scuba diving school",
+  "request": {
+   "text_zone": "left"
+  },
+  "report": {
+   "niche": null,
+   "fallback": true,
+   "mood": "light",
+   "accent": "#4f6bed",
+   "text_color": "#0d0d14",
+   "contrast": 9.33,
+   "redrawn": 0,
+   "scores": {
+    "subject": 1.0,
+    "text_contrast": 1.0,
+    "detail": 1.0,
+    "colors": 0.433
+   },
+   "bytes": 11534,
+   "judge_ok": true
+  }
+ },
+ {
+  "prompt": "बच्चों का खिलौनों का शोरूम, रंग बिरंगे",
+  "request": {
+   "text_zone": "bottom"
+  },
+  "report": {
+   "niche": "toy-store",
+   "fallback": false,
+   "mood": "light",
+   "accent": "#f1c40f",
+   "text_color": "#0d0d14",
+   "contrast": 4.9,
+   "redrawn": 0,
+   "scores": {
+    "subject": 1.0,
+    "text_contrast": 1.0,
+    "detail": 1.0,
+    "colors": 1.0
+   },
+   "bytes": 48892,
+   "judge_ok": true
+  }
+ },
+ {
+  "prompt": "crypto trading bot for investors",
+  "request": {
+   "text_zone": "left"
+  },
+  "report": {
+   "niche": null,
+   "fallback": true,
+   "mood": "light",
+   "accent": "#4f6bed",
+   "text_color": "#0d0d14",
+   "contrast": 8.28,
+   "redrawn": 0,
+   "scores": {
+    "subject": 1.0,
+    "text_contrast": 1.0,
+    "detail": 1.0,
+    "colors": 0.4
+   },
+   "bytes": 14102,
+   "judge_ok": true
+  }
+ },
+ {
+  "prompt": "furniture showroom with sofas",
+  "request": {
+   "text_zone": "left"
+  },
+  "report": {
+   "niche": "interior-design",
+   "fallback": false,
+   "mood": "warm",
+   "accent": "#b08968",
+   "text_color": "#0d0d14",
+   "contrast": 4.68,
+   "redrawn": 0,
+   "scores": {
+    "subject": 1.0,
+    "text_contrast": 1.0,
+    "detail": 1.0,
+    "colors": 1.0
+   },
+   "bytes": 37697,
+   "judge_ok": true
+  }
+ },
+ {
+  "prompt": "bike showroom with motorcycles",
+  "request": {
+   "text_zone": "left"
+  },
+  "report": {
+   "niche": null,
+   "fallback": true,
+   "mood": "light",
+   "accent": "#4f6bed",
+   "text_color": "#0d0d14",
+   "contrast": 7.04,
+   "redrawn": 0,
+   "scores": {
+    "subject": 1.0,
+    "text_contrast": 1.0,
+    "detail": 1.0,
+    "colors": 0.467
+   },
+   "bytes": 12101,
+   "judge_ok": true
+  }
+ },
+ {
+  "prompt": "premium car showroom in Delhi, spotlight",
+  "request": {
+   "text_zone": "left"
+  },
+  "report": {
+   "niche": "car-showroom",
+   "fallback": false,
+   "mood": "dark",
+   "accent": "#c0392b",
+   "text_color": "#ffffff",
+   "contrast": 4.75,
+   "redrawn": 0,
+   "scores": {
+    "subject": 1.0,
+    "text_contrast": 1.0,
+    "detail": 1.0,
+    "colors": 1.0
+   },
+   "bytes": 34412,
+   "judge_ok": true
+  }
+ },
+ {
+  "prompt": "driving school with learner cars",
+  "request": {
+   "text_zone": "left"
+  },
+  "report": {
+   "niche": null,
+   "fallback": true,
+   "mood": "light",
+   "accent": "#4f6bed",
+   "text_color": "#0d0d14",
+   "contrast": 8.44,
+   "redrawn": 0,
+   "scores": {
+    "subject": 1.0,
+    "text_contrast": 1.0,
+    "detail": 1.0,
+    "colors": 0.467
+   },
+   "bytes": 12823,
+   "judge_ok": true
+  }
+ },
+ {
+  "prompt": "professional wedding photographer, candid moments",
+  "request": {
+   "text_zone": "left"
+  },
+  "report": {
+   "niche": "photography",
+   "fallback": false,
+   "mood": "dark",
+   "accent": "#8e44ad",
+   "text_color": "#ffffff",
+   "contrast": 8.71,
+   "redrawn": 0,
+   "scores": {
+    "subject": 1.0,
+    "text_contrast": 1.0,
+    "detail": 1.0,
+    "colors": 1.0
+   },
+   "bytes": 30503,
+   "judge_ok": true
+  }
+ }
+]

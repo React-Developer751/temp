@@ -1,0 +1,106 @@
+{
+  "niche": "fashion-boutique",
+  "requested_niche": "fashion-boutique",
+  "fallback": false,
+  "reason": "business type clothing",
+  "mood": "light",
+  "accent": "#d42b4e",
+  "text_zone": "left",
+  "report": {
+    "prompt": "कपड़ों का शोरूम, इंदौर कपड़ों का शोरूम की दुकान में विशेषज्ञ सलाह साफ़ जानकारी आसान संपर्क",
+    "niche": "fashion-boutique",
+    "title": "Fashion boutique",
+    "fallback": false,
+    "mood": "light",
+    "accent": "#d42b4e",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 16,
+    "palette_family": 0.919,
+    "text_zone": "left",
+    "hero_contrast": 4.87,
+    "seconds": 7.76,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.919
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 48483,
+      "alt": "Illustration for कपड़ों का शोरूम, इंदौर: Fashion boutique",
+      "text_color": "#0d0d14",
+      "contrast": 4.87,
+      "role": "hero",
+      "seed": 5
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 33664,
+      "alt": "About कपड़ों का शोरूम, इंदौर: Fashion boutique",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1018
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 23758,
+        "alt": "कपड़ों का शोरूम, इंदौर gallery picture: Fashion boutique",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2031
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 20339,
+        "alt": "कपड़ों का शोरूम, इंदौर gallery picture: Fashion boutique",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3044
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 22694,
+        "alt": "कपड़ों का शोरूम, इंदौर gallery picture: Fashion boutique",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4057
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 24810,
+        "alt": "कपड़ों का शोरूम, इंदौर gallery picture: Fashion boutique",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5070
+      }
+    ]
+  }
+}

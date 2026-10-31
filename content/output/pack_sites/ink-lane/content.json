@@ -1,0 +1,215 @@
+{
+  "brand": "Ink Lane",
+  "niche": "tattoo_studio",
+  "kind": "beauty",
+  "profile": "",
+  "business_type": "tattoo_studio",
+  "type_label": "Tattoo studio",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "elegant",
+  "keywords": [
+    "tattoo",
+    "tattoo artist",
+    "tattoo design",
+    "tattoo cover up",
+    "piercing",
+    "permanent tattoo"
+  ],
+  "eyebrow": "Tattoo studio · Goa",
+  "location": "Goa",
+  "audience": "",
+  "hero_heading": "Tattoo Studio In A Friendly Space",
+  "tagline": "Looking for help with tattoo studio? Ink Lane keeps it relaxed: a warm welcome, a clear plan and a session that fits your day in Goa.",
+  "about_title": "About Ink Lane",
+  "about": [
+    "Ink Lane is a friendly tattoo studio space. We listen first, plan the session around you and keep things relaxed from start to finish.",
+    "We offer custom tattoo designs, sterile single-use needles and cover-ups and reworks, and we are happy to talk through your preferences before you decide."
+  ],
+  "features_title": "Tattoo Studio Sessions We Offer",
+  "features": [
+    {
+      "title": "Custom Tattoo Designs",
+      "text": "Questions about custom tattoo designs? Message us and we will answer before you book."
+    },
+    {
+      "title": "Sterile Single-Use Needles",
+      "text": "We talk through sterile single-use needles first, so the session matches what you want and what suits you."
+    },
+    {
+      "title": "Cover-Ups And Reworks",
+      "text": "Cover-Ups And Reworks booked at a time that works for you, in a friendly space and without any rush."
+    },
+    {
+      "title": "Fine Line And Minimal",
+      "text": "Ask about fine line and minimal; we explain the options simply and let you choose."
+    },
+    {
+      "title": "Body Piercing",
+      "text": "For body piercing, we listen to your preferences and plan the session around them."
+    },
+    {
+      "title": "Aftercare Guidance",
+      "text": "Aftercare Guidance delivered with care, with tips on how to keep the results going."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Plain Advice",
+      "text": "Booked: Time that suits you."
+    },
+    {
+      "title": "Friendly Team",
+      "text": "Same day: Replies to messages."
+    },
+    {
+      "title": "Booking That Fits",
+      "text": "Friendly: Welcome for everyone."
+    }
+  ],
+  "stats_title": "At a glance",
+  "stats": [
+    {
+      "value": "Booked",
+      "label": "Time that suits you"
+    },
+    {
+      "value": "Same day",
+      "label": "Replies to messages"
+    },
+    {
+      "value": "Friendly",
+      "label": "Welcome for everyone"
+    }
+  ],
+  "steps_title": "How It Works",
+  "steps": [
+    {
+      "title": "Pick A Time",
+      "text": "Message or call to book your tattoo studio session and tell us what you would like."
+    },
+    {
+      "title": "Talk It Through",
+      "text": "We discuss custom tattoo designs with you, so the plan matches your preferences."
+    },
+    {
+      "title": "Enjoy The Session",
+      "text": "Relax while we take care of sterile single-use needles, with time for your questions."
+    },
+    {
+      "title": "Keep It Going",
+      "text": "We share simple tips for cover-ups and reworks and help you plan the next session."
+    }
+  ],
+  "faq_title": "Good questions",
+  "faq": [
+    {
+      "q": "How do I prepare for fine line and minimal?",
+      "a": "We tell you when you book, so you arrive knowing what to expect. The same approach applies to custom tattoo designs and aftercare guidance."
+    },
+    {
+      "q": "Do you plan tattoo studio sessions around my needs?",
+      "a": "Yes. We listen first and shape the session around what you want and how you feel. This applies to custom tattoo designs, sterile single-use needles and the rest of our tattoo studio work."
+    },
+    {
+      "q": "Can I bring a friend to body piercing?",
+      "a": "Tell us when you book and we will make room, where the session allows. It is the same for sterile single-use needles as it is for custom tattoo designs."
+    },
+    {
+      "q": "How do I book custom tattoo designs?",
+      "a": "Message or call, tell us what you would like and choose a time that suits you. That goes for cover-ups and reworks and fine line and minimal too."
+    },
+    {
+      "q": "Can I ask about sterile single-use needles before booking?",
+      "a": "Of course. Message us and we will explain what is involved and how long it takes. Ask us about body piercing or aftercare guidance and the answer is the same."
+    }
+  ],
+  "blog_title": "Tattoo Studio Tips And Ideas",
+  "blog": [
+    {
+      "title": "Simple Ways To Enjoy Fine Line And Minimal",
+      "excerpt": "Ideas notes for people looking into tattoo studio."
+    },
+    {
+      "title": "A Simple Guide To Body Piercing",
+      "excerpt": "Basics notes for people looking into tattoo studio."
+    },
+    {
+      "title": "Small Habits That Support Aftercare Guidance",
+      "excerpt": "Habits notes for people looking into tattoo studio."
+    }
+  ],
+  "contact": {
+    "place": "Goa"
+  },
+  "cta_primary": "Book A Design Chat",
+  "cta_secondary": "FAQ",
+  "cta_text": "Tell Ink Lane what you would like: custom tattoo designs, cover-ups and reworks or something close. We will answer with options and a time.",
+  "cta_title": "Ready To Try Custom Tattoo Designs?",
+  "footer": "© Ink Lane. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "pricing": [
+    {
+      "name": "Single Session",
+      "price": "Rs 2,000 /small tattoo"
+    },
+    {
+      "name": "Regular Sessions",
+      "price": "Rs 5,600 /medium tattoo"
+    },
+    {
+      "name": "Full Programme",
+      "price": "Rs 16,000 /large piece"
+    }
+  ],
+  "facts_used": {},
+  "missing": [
+    "phone",
+    "email",
+    "address",
+    "hours"
+  ],
+  "generated_by": {
+    "business_type": "tattoo_studio (niche pack)",
+    "items_from_prompt": [
+      "Custom Tattoo Designs",
+      "Sterile Single-Use Needles",
+      "Cover-Ups And Reworks",
+      "Fine Line And Minimal",
+      "Body Piercing",
+      "Aftercare Guidance"
+    ],
+    "place": "Goa",
+    "mode": "niche pack",
+    "copy": "pack text from the training spec"
+  },
+  "needs_review": [
+    "This page uses the tattoo_studio niche pack. Replace the sample prices (USD x 80) and add your real phone, address and hours before publishing.",
+    "No picture style fits this kind of business (no picture niche for business type 'tattoo_studio'): the pictures are a neutral abstract in the brand colour, not a wrong scene."
+  ]
+}

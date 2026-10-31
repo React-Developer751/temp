@@ -1,0 +1,285 @@
+{
+  "request": "Create a website for a bakery called Sweet Crumbs in Pune",
+  "source": "niche pack",
+  "understood": {
+    "niche": "bakery_cakes",
+    "type_theme": null,
+    "brand": "Sweet Crumbs",
+    "city": "Pune",
+    "lang": "en",
+    "confidence": 0.538
+  },
+  "notes": [],
+  "problems": [],
+  "pack": {
+    "id": "bakery_cakes",
+    "label": "Bakery and cake shop",
+    "theme": "food_dining",
+    "keywords": [
+      "custom cakes",
+      "bakery",
+      "cake shop",
+      "birthday cake order",
+      "eggless cake",
+      "pastry shop",
+      "cake order online",
+      "केक शॉप",
+      "बेकरी"
+    ],
+    "heroTitles": [
+      "Fresh Custom Cakes, Ready When You Are",
+      "Simple Bakery And Cake Shop Done Well",
+      "Custom Cakes And Eggless Options Made Fresh"
+    ],
+    "heroSubtitles": [
+      "Craving custom cakes or wedding and party orders? Sweet Crumbs will tell you what is ready, what goes well with it and how to order in Pune.",
+      "Looking for help with bakery and cake shop? Sweet Crumbs keeps it simple: honest food, easy ordering and a menu that is easy to read in Pune.",
+      "From custom cakes to eggless options, Sweet Crumbs makes things with care and takes your order the way a neighbour would in Pune."
+    ],
+    "button": "Order A Cake",
+    "featureTitle": "Bakery And Cake Shop Favourites",
+    "features": [
+      {
+        "title": "Custom Cakes",
+        "text": "For custom cakes, we keep the flavours honest and let the ingredients do the work."
+      },
+      {
+        "title": "Eggless Options",
+        "text": "Eggless Options on offer today; message us to check what is ready before you come."
+      },
+      {
+        "title": "Pastries And Cupcakes",
+        "text": "Questions about pastries and cupcakes? Ask us about ingredients or any dietary need before you order."
+      },
+      {
+        "title": "Breads And Cookies",
+        "text": "Ask about breads and cookies and we will tell you what goes into it and how it is best enjoyed."
+      },
+      {
+        "title": "Wedding And Party Orders",
+        "text": "Wedding And Party Orders prepared fresh, with the team happy to explain the details."
+      },
+      {
+        "title": "Home Delivery",
+        "text": "Craving home delivery? Order ahead or drop in and we will point you to what suits your mood."
+      }
+    ],
+    "stats": [
+      {
+        "value": "Fresh",
+        "label": "Made each day"
+      },
+      {
+        "value": "Same day",
+        "label": "Replies to messages"
+      },
+      {
+        "value": "Easy",
+        "label": "Ordering by message"
+      }
+    ],
+    "steps": {
+      "title": "How It Works",
+      "items": [
+        {
+          "title": "Pick What You Like",
+          "text": "Browse the bakery and cake shop menu and choose custom cakes or anything that catches your eye."
+        },
+        {
+          "title": "Place Your Order",
+          "text": "Order by message or call, or walk in, for eggless options and anything alongside it."
+        },
+        {
+          "title": "We Make It Fresh",
+          "text": "The kitchen prepares pastries and cupcakes so it reaches you at its best."
+        },
+        {
+          "title": "Collect And Enjoy",
+          "text": "Pick it up, enjoy it, and tell us what you liked so we can keep improving breads and cookies."
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Can I place an advance order for bakery and cake shop?",
+        "a": "Yes. Tell us the day and what you need and we will confirm what we can make. The same approach applies to custom cakes and home delivery."
+      },
+      {
+        "q": "Do you cater to dietary needs for eggless options?",
+        "a": "Tell us your needs before you order and the team will explain what is possible. This applies to custom cakes, eggless options and the rest of our bakery and cake shop work."
+      },
+      {
+        "q": "What goes into pastries and cupcakes?",
+        "a": "Ask us when you order. The team is happy to describe ingredients and how it is made. It is the same for eggless options as it is for custom cakes."
+      },
+      {
+        "q": "Can I take custom cakes away?",
+        "a": "Yes. Ask about takeaway when you order and we will pack it carefully. That goes for pastries and cupcakes and breads and cookies too."
+      },
+      {
+        "q": "Do you take large orders for breads and cookies?",
+        "a": "Yes. Tell us the date and numbers and we will say what we can do. Ask us about wedding and party orders or home delivery and the answer is the same."
+      }
+    ],
+    "cta": {
+      "title": "Want Pastries And Cupcakes Today?",
+      "button": "Order A Cake"
+    },
+    "about": {
+      "title": "Who We Are",
+      "paragraphs": [
+        "Sweet Crumbs is a local bakery and cake shop place. We cook with care, keep the menu honest and welcome you the way a neighbour would.",
+        "We serve custom cakes, eggless options and pastries and cupcakes, and we love hearing what you enjoyed and what you would like to see next."
+      ],
+      "points": [
+        "Made With Care",
+        "Easy Ordering",
+        "Friendly Team"
+      ]
+    },
+    "pricing": {
+      "title": "Simple Pricing For Bakery And Cake Shop",
+      "plans": [
+        {
+          "name": "Single Order",
+          "price": "$3",
+          "period": "/pastry box",
+          "perks": [
+            "Custom Cakes Portion",
+            "Made Fresh",
+            "Takeaway On Request"
+          ]
+        },
+        {
+          "name": "Popular Combo",
+          "price": "$12",
+          "period": "/custom cake",
+          "perks": [
+            "Custom Cakes And Eggless Options",
+            "Made Fresh",
+            "Takeaway On Request"
+          ]
+        },
+        {
+          "name": "Large Order",
+          "price": "$30",
+          "period": "/celebration cake",
+          "perks": [
+            "Custom Cakes Plus Eggless Options And Pastries And Cupcakes",
+            "Shared Portions",
+            "Advance Order Welcome"
+          ]
+        }
+      ]
+    },
+    "gallery": {
+      "title": "From Our Bakery And Cake Shop Kitchen",
+      "captions": [
+        "Custom Cakes",
+        "Eggless Options",
+        "Pastries And Cupcakes",
+        "Breads And Cookies",
+        "Wedding And Party Orders",
+        "Home Delivery"
+      ]
+    },
+    "team": {
+      "title": "Meet The Team",
+      "roles": [
+        "Head Baker",
+        "Cake Designer",
+        "Order Desk"
+      ]
+    },
+    "testimonials": [
+      {
+        "quote": "Quick reply about breads and cookies and everything was ready on time.",
+        "role": "Customer"
+      },
+      {
+        "quote": "The custom cakes tasted fresh and the team explained what was in it.",
+        "role": "Regular guest"
+      },
+      {
+        "quote": "Easy to order eggless options by message, and it was ready when they said.",
+        "role": "Office lunch group"
+      }
+    ],
+    "blog": {
+      "title": "Bakery And Cake Shop Notes And Stories",
+      "posts": [
+        {
+          "tag": "Kitchen",
+          "title": "How We Prepare Breads And Cookies"
+        },
+        {
+          "tag": "Ideas",
+          "title": "Simple Ways To Enjoy Wedding And Party Orders"
+        },
+        {
+          "tag": "Basics",
+          "title": "A Simple Guide To Home Delivery"
+        }
+      ]
+    },
+    "marquee": [
+      "Custom Cakes",
+      "Eggless Options",
+      "Pastries",
+      "Breads",
+      "Party Orders",
+      "Fresh Daily",
+      "Takeaway",
+      "Easy Ordering"
+    ],
+    "contactText": "Tell Sweet Crumbs what you fancy: custom cakes, pastries and cupcakes or something else. We will answer with what is ready and how to order.",
+    "menu": {
+      "title": "On The Menu",
+      "lead": "Cakes, pastries and breads baked fresh. Order ahead for birthdays and bigger celebrations.",
+      "categories": [
+        {
+          "name": "Cakes",
+          "items": [
+            "Chocolate truffle | rich and dark",
+            "Black forest",
+            "Butterscotch",
+            "Red velvet | cream cheese frosting",
+            "Fresh fruit cake",
+            "Eggless vanilla"
+          ]
+        },
+        {
+          "name": "Pastries",
+          "items": [
+            "Chocolate pastry",
+            "Pineapple pastry",
+            "Danish pastry",
+            "Cream roll",
+            "Cupcake box",
+            "Brownie"
+          ]
+        },
+        {
+          "name": "Breads",
+          "items": [
+            "Whole wheat bread",
+            "Milk bread",
+            "Garlic bread",
+            "Burger buns",
+            "Pav"
+          ]
+        },
+        {
+          "name": "Cookies",
+          "items": [
+            "Butter cookies",
+            "Oatmeal cookies",
+            "Choco chip cookies",
+            "Jeera biscuits",
+            "Nankhatai"
+          ]
+        }
+      ]
+    }
+  }
+}

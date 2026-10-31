@@ -1,0 +1,180 @@
+{
+  "brand": "Fabrication & Welding, Rajkot",
+  "niche": "business",
+  "kind": "trades",
+  "profile": "",
+  "business_type": "welding",
+  "type_label": "Fabrication & Welding",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "bold",
+  "keywords": [
+    "workshop"
+  ],
+  "eyebrow": "Fabrication & Welding · Rajkot",
+  "location": "Rajkot",
+  "audience": "",
+  "hero_heading": "Fabrication & Welding in Rajkot",
+  "tagline": "We'd rather you knew exactly what to expect.",
+  "about_title": "About us",
+  "about": [
+    "Small questions are always welcome too.",
+    "You will find us in Rajkot. Ask for details before you commit."
+  ],
+  "features_title": "Repairs and installs",
+  "features": [
+    {
+      "title": "Frames",
+      "text": "Tell us what you need from Frames and we will suggest where to start."
+    },
+    {
+      "title": "Gates",
+      "text": "We'll explain Gates in plain words."
+    },
+    {
+      "title": "Staircases",
+      "text": "Ask what parts Staircases involves and what they do."
+    },
+    {
+      "title": "Sheds",
+      "text": "Sheds: ask for details before you decide."
+    },
+    {
+      "title": "Installations",
+      "text": "Ask us how Installations works and what to expect."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Straight answers",
+      "text": "Even when the answer is 'not needed'."
+    },
+    {
+      "title": "Local and personal",
+      "text": "Run by people you can talk to."
+    },
+    {
+      "title": "Straight answers",
+      "text": "Ask and we will say it plainly."
+    }
+  ],
+  "stats_title": "At a glance",
+  "stats": [
+    {
+      "value": "Rajkot",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "From first message to finish",
+  "steps": [
+    {
+      "title": "Get in touch",
+      "text": "Send a message or call and tell us what you need."
+    },
+    {
+      "title": "Get a clear price",
+      "text": "We explain what involves before we start."
+    },
+    {
+      "title": "Check the result",
+      "text": "We show you the work and test it."
+    }
+  ],
+  "faq_title": "Good questions",
+  "faq": [
+    {
+      "q": "Will I get a price before work starts?",
+      "a": "Let us know the problem and we'll explain how we price it."
+    },
+    {
+      "q": "Where are you based?",
+      "a": "We're in Rajkot; get in touch."
+    },
+    {
+      "q": "How do I pay?",
+      "a": "Message us and we'll tell you how payment works."
+    },
+    {
+      "q": "What if I'm not sure what I need?",
+      "a": "Describe the situation and we'll suggest where to start."
+    }
+  ],
+  "blog_title": "Our notes",
+  "blog": [
+    {
+      "title": "Small things that make a difference",
+      "excerpt": "Notes from everyday experience."
+    },
+    {
+      "title": "Why local matters",
+      "excerpt": "A few reasons to choose someone nearby."
+    },
+    {
+      "title": "When to ask for a second opinion",
+      "excerpt": "And how to do it politely."
+    }
+  ],
+  "contact": {
+    "place": "Rajkot"
+  },
+  "cta_primary": "Get a free quote",
+  "cta_secondary": "Call now",
+  "cta_text": "A message is the easy first step.",
+  "cta_title": "Ready when you are",
+  "footer": "© Fabrication & Welding, Rajkot. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Rajkot",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "welding (confidence high)",
+    "items_from_prompt": [],
+    "place": "Rajkot",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "trades"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'Fabrication & Welding, Rajkot' (not a name). Add your business name to replace it.",
+    "Typical fabrication & welding offerings were used for: Frames, Gates, Staircases, Sheds, Installations. List your real services (3 or more) to replace them."
+  ]
+}

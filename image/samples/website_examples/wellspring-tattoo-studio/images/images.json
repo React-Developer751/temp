@@ -1,0 +1,106 @@
+{
+  "niche": "tattoo",
+  "requested_niche": "tattoo",
+  "fallback": false,
+  "reason": "business type tattoo",
+  "mood": "dark",
+  "accent": "#d73123",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Wellspring Tattoo Studio Tattoo Studio mumbai Tattoos Cover-ups Aftercare-kits Consultations Flash-sheets",
+    "niche": "tattoo",
+    "title": "Tattoo studio",
+    "fallback": false,
+    "mood": "dark",
+    "accent": "#d73123",
+    "count": 6,
+    "redrawn": 0,
+    "min_distance": 18,
+    "palette_family": 0.937,
+    "text_zone": "left",
+    "hero_contrast": 13.24,
+    "seconds": 7.8,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.937
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 36976,
+      "alt": "Illustration for Wellspring Tattoo Studio: Tattoo studio",
+      "text_color": "#ffffff",
+      "contrast": 13.24,
+      "role": "hero",
+      "seed": 3
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 29251,
+      "alt": "About Wellspring Tattoo Studio: Tattoo studio",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1016
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 23209,
+        "alt": "Wellspring Tattoo Studio gallery picture: Tattoo studio",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2029
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 18275,
+        "alt": "Wellspring Tattoo Studio gallery picture: Tattoo studio",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3042
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 22015,
+        "alt": "Wellspring Tattoo Studio gallery picture: Tattoo studio",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 4055
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 21664,
+        "alt": "Wellspring Tattoo Studio gallery picture: Tattoo studio",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5068
+      }
+    ]
+  }
+}

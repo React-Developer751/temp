@@ -1,0 +1,106 @@
+{
+  "niche": "south-indian",
+  "requested_niche": "south-indian",
+  "fallback": false,
+  "reason": "sub-niche south_indian",
+  "mood": "dark",
+  "accent": "#d89927",
+  "text_zone": "left",
+  "report": {
+    "prompt": "Spice Route Kitchen South Indian restaurant south indian restaurant chennai masala dosa Masala Dosa Idli Sambar Filter Coffee Pongal Meals",
+    "niche": "south-indian",
+    "title": "South Indian restaurant",
+    "fallback": false,
+    "mood": "dark",
+    "accent": "#d89927",
+    "count": 6,
+    "redrawn": 1,
+    "min_distance": 20,
+    "palette_family": 0.953,
+    "text_zone": "left",
+    "hero_contrast": 4.8,
+    "seconds": 10.04,
+    "scores": {
+      "subject": 1.0,
+      "text_contrast": 1.0,
+      "duplicate": 1.0,
+      "palette_family": 0.953
+    }
+  },
+  "images": {
+    "hero": {
+      "file": "hero.jpg",
+      "src": "images/hero.jpg",
+      "width": 1280,
+      "height": 640,
+      "bytes": 40738,
+      "alt": "Illustration for Spice Route Kitchen: South Indian restaurant",
+      "text_color": "#ffffff",
+      "contrast": 4.8,
+      "role": "hero",
+      "seed": 1
+    },
+    "about": {
+      "file": "about.jpg",
+      "src": "images/about.jpg",
+      "width": 640,
+      "height": 600,
+      "bytes": 28918,
+      "alt": "About Spice Route Kitchen: South Indian restaurant",
+      "text_color": null,
+      "contrast": null,
+      "role": "about",
+      "seed": 1014
+    },
+    "tiles": [
+      {
+        "file": "tile-1.jpg",
+        "src": "images/tile-1.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 22799,
+        "alt": "Spice Route Kitchen gallery picture: South Indian restaurant",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 2027
+      },
+      {
+        "file": "tile-2.jpg",
+        "src": "images/tile-2.jpg",
+        "width": 480,
+        "height": 480,
+        "bytes": 21569,
+        "alt": "Spice Route Kitchen gallery picture: South Indian restaurant",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 3040
+      },
+      {
+        "file": "tile-3.jpg",
+        "src": "images/tile-3.jpg",
+        "width": 640,
+        "height": 400,
+        "bytes": 23176,
+        "alt": "Spice Route Kitchen gallery picture: South Indian restaurant",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 9052
+      },
+      {
+        "file": "tile-4.jpg",
+        "src": "images/tile-4.jpg",
+        "width": 560,
+        "height": 420,
+        "bytes": 22315,
+        "alt": "Spice Route Kitchen gallery picture: South Indian restaurant",
+        "text_color": null,
+        "contrast": null,
+        "role": "tile",
+        "seed": 5066
+      }
+    ]
+  }
+}

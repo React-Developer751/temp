@@ -1,0 +1,6 @@
+# sdist: the package, its runtime data, README, LICENSE and pyproject only (repo-only folders and files stay out)
+prune data
+prune output
+prune training
+exclude main.py webui.py test_*.py
+global-exclude __pycache__ *.py[cod]

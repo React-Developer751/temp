@@ -1,0 +1,177 @@
+{
+  "brand": "South Indian restaurant, Bangalore",
+  "niche": "restaurant",
+  "kind": "food",
+  "profile": "south_indian",
+  "business_type": "restaurant",
+  "type_label": "South Indian restaurant",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "warm",
+  "keywords": [
+    "tiffin",
+    "centre"
+  ],
+  "eyebrow": "South Indian restaurant · Bangalore",
+  "location": "Bangalore",
+  "audience": "",
+  "hero_heading": "South Indian restaurant in Bangalore",
+  "tagline": "Book a table and tell us what you need.",
+  "about_title": "About us",
+  "about": [
+    "Tell us what matters most to you.",
+    "You will find us in Bangalore. Tell us if anyone at the table has a dietary need."
+  ],
+  "features_title": "On the menu",
+  "features": [
+    {
+      "title": "Starters",
+      "text": "Not sure about Starters? Start with a short conversation."
+    },
+    {
+      "title": "Mains",
+      "text": "Curious about Mains? Ask, and we'll talk you through it."
+    },
+    {
+      "title": "Desserts",
+      "text": "A good place to start if you like Desserts."
+    },
+    {
+      "title": "Drinks",
+      "text": "Curious about Drinks? Feel free to ask us anything."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "A real person replies",
+      "text": "Not a form that goes nowhere."
+    },
+    {
+      "title": "Easy to reach",
+      "text": "Message or call."
+    },
+    {
+      "title": "Clear next steps",
+      "text": "You will know what comes next."
+    }
+  ],
+  "stats_title": "Quick facts",
+  "stats": [
+    {
+      "value": "Bangalore",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "From first message to finish",
+  "steps": [
+    {
+      "title": "Book a table",
+      "text": "Call or message us to reserve a table, and let us know how many are coming."
+    },
+    {
+      "title": "Order from the menu",
+      "text": "Choose, share, or let us suggest."
+    },
+    {
+      "title": "Enjoy the meal",
+      "text": "Stay for coffee if the conversation is good."
+    }
+  ],
+  "faq_title": "Before you ask",
+  "faq": [
+    {
+      "q": "Do you take group or party bookings?",
+      "a": "Let us know the date and numbers, and we will say what we can do."
+    },
+    {
+      "q": "Where are you?",
+      "a": "Find us in Bangalore. Message us and we'll send directions."
+    },
+    {
+      "q": "Can I ask questions before I decide?",
+      "a": "Yes; ask as many as you like."
+    },
+    {
+      "q": "Is there anything I should prepare?",
+      "a": "We will tell you what to bring or prepare when you get in touch."
+    }
+  ],
+  "blog_title": "Short guides",
+  "blog": [
+    {
+      "title": "Eating out with a crowd",
+      "excerpt": "Seating, sharing plates and ordering without chaos."
+    },
+    {
+      "title": "Planning ahead",
+      "excerpt": "How to give yourself time."
+    },
+    {
+      "title": "How long things really take",
+      "excerpt": "Setting expectations on both sides."
+    }
+  ],
+  "contact": {
+    "place": "Bangalore"
+  },
+  "cta_primary": "Book a table",
+  "cta_secondary": "See the menu",
+  "cta_text": "Your table is one message away.",
+  "cta_title": "Your next step is one message away",
+  "footer": "© South Indian restaurant, Bangalore. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Bangalore",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "restaurant (confidence high)",
+    "items_from_prompt": [],
+    "place": "Bangalore",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "south_indian",
+    "kind": "food"
+  },
+  "needs_review": [
+    "No business name was given, so the heading is 'South Indian restaurant, Bangalore' (not a name). Add your business name to replace it.",
+    "Typical south indian restaurant offerings were used for: Starters, Mains, Desserts, Drinks. List your real services (3 or more) to replace them."
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "brand": "Summit Plumbing Service",
+  "niche": "business",
+  "kind": "trades",
+  "profile": "",
+  "business_type": "plumbing",
+  "type_label": "Plumbing Service",
+  "lang": "en",
+  "ui": {
+    "lang": "en",
+    "about": "About",
+    "gallery": "Gallery",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "call": "Call",
+    "email": "Email",
+    "based_in": "Based in",
+    "pricing": "Pricing",
+    "testimonials": "What customers say",
+    "team": "Our team",
+    "hours": "Opening hours",
+    "address": "Address",
+    "where": "Where we work",
+    "years": "Years of experience",
+    "since": "Serving since",
+    "features_title": "What We Offer",
+    "steps_title": "How It Works",
+    "faq_title": "Frequently Asked Questions",
+    "rights": "All rights reserved.",
+    "about_title": "About %s",
+    "about_us": "About us"
+  },
+  "mood": "calm",
+  "keywords": [
+    "plumber",
+    "nagpur"
+  ],
+  "eyebrow": "Plumbing Service · Nagpur",
+  "location": "Nagpur",
+  "audience": "",
+  "hero_heading": "Plumbing Service in Nagpur",
+  "tagline": "Message first if you prefer.",
+  "about_title": "About us",
+  "about": [
+    "A real person replies to every message.",
+    "You'll find us in Nagpur. Let us know how urgent it is."
+  ],
+  "features_title": "Our work",
+  "features": [
+    {
+      "title": "Fixtures",
+      "text": "We explain Fixtures before we start and check it with you at the end."
+    },
+    {
+      "title": "Pipes",
+      "text": "Tell us what you need from Pipes and we will suggest where to start."
+    },
+    {
+      "title": "Upgrades",
+      "text": "Book Upgrades for a time that suits you."
+    },
+    {
+      "title": "Repairs",
+      "text": "Describe the Repairs problem and we'll tell you what we think it needs."
+    },
+    {
+      "title": "Inspections",
+      "text": "We'll explain Inspections in plain words."
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Local and personal",
+      "text": "Run by people you can talk to."
+    },
+    {
+      "title": "Clear next steps",
+      "text": "You will know what comes next."
+    },
+    {
+      "title": "Price before work",
+      "text": "No guessing."
+    }
+  ],
+  "stats_title": "Where and when",
+  "stats": [
+    {
+      "value": "Nagpur",
+      "label": "Where we work"
+    }
+  ],
+  "steps_title": "How it works",
+  "steps": [
+    {
+      "title": "Send details",
+      "text": "A photo or a short note helps."
+    },
+    {
+      "title": "We talk it through",
+      "text": "We explain the options in plain words."
+    },
+    {
+      "title": "We fix it",
+      "text": "Then we test it with you."
+    }
+  ],
+  "faq_title": "Frequently asked questions",
+  "faq": [
+    {
+      "q": "Do you offer a warranty?",
+      "a": "Message us the work and we will explain what comes with it."
+    },
+    {
+      "q": "Do you cover my area?",
+      "a": "Tell us your area and we will confirm."
+    },
+    {
+      "q": "Where are you based?",
+      "a": "We're in Nagpur; reach out."
+    },
+    {
+      "q": "What if I'm not sure what I need?",
+      "a": "Let us know what you're trying to achieve and we'll point you in the right direction."
+    }
+  ],
+  "blog_title": "Notes and guides",
+  "blog": [
+    {
+      "title": "What a good first conversation covers",
+      "excerpt": "And what to expect afterwards."
+    },
+    {
+      "title": "Why a quote matters",
+      "excerpt": "What a good one includes."
+    },
+    {
+      "title": "Why local matters",
+      "excerpt": "A few reasons to choose someone nearby."
+    }
+  ],
+  "contact": {
+    "place": "Nagpur"
+  },
+  "cta_primary": "Get a free quote",
+  "cta_secondary": "Call now",
+  "cta_text": "A message is the easy first step.",
+  "cta_title": "Ready when you are",
+  "footer": "© Summit Plumbing Service. All rights reserved.",
+  "offers": [],
+  "hours": "",
+  "prices": [],
+  "facts_used": {
+    "city": {
+      "value": "Nagpur",
+      "source": "prompt"
+    }
+  },
+  "missing": [
+    "name",
+    "services",
+    "offers",
+    "hours",
+    "prices",
+    "phone",
+    "email",
+    "address"
+  ],
+  "generated_by": {
+    "business_type": "plumbing (confidence high)",
+    "items_from_prompt": [],
+    "place": "Nagpur",
+    "mode": "typical offerings fill gaps",
+    "copy": "frames + user phrases",
+    "profile": "",
+    "kind": "trades"
+  },
+  "needs_review": [
+    "No business name was given; 'Summit Plumbing Service' is a placeholder.",
+    "Typical plumbing service offerings were used for: Fixtures, Pipes, Upgrades, Repairs, Inspections. List your real services (3 or more) to replace them."
+  ]
+}

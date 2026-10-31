@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pixelmath-engine"
+version = "1.6.0"
+description = "Text-to-image from pure maths, trainable on your own images. Zero runtime dependencies."
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT AND OFL-1.1"
+license-files = ["LICENSE", "LICENSES/*"]
+dependencies = []
+
+[project.scripts]
+pixelmath = "pixelmath.__main__:main"
+pixelmath-train = "pixelmath.trainer:main"
+pixelmath-serve = "pixelmath.server:main"
+pixelmath-app = "pixelmath.app:main"
+
+[tool.setuptools]
+# web/ and LICENSES/ hold data files only; they are listed so setuptools ships them as package data
+packages = ["pixelmath", "pixelmath.props", "pixelmath.studio", "pixelmath.studio.niches", "pixelmath.web", "pixelmath.LICENSES"]
+
+[tool.setuptools.package-data]
+"pixelmath.web" = ["*.html", "*.js", "*.css"]
+"pixelmath.LICENSES" = ["*.txt"]
+"pixelmath.studio" = ["niche_nb.json", "spec_data.json", "spec_prompts.json"]      # niche classifier + the owner's picture spec (tools/build_spec_data.py)
