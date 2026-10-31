@@ -1,6 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { qrMatrix, qrSvg, qrDataUrl, rsDivisor, rsRemainder } from '../src/qr.js';
+import { qrMatrix, qrSvg, qrDataUrl } from '../src/qr.js';
+import { rsDivisor, rsRemainder } from '../src/rs.js';
 
 // A small independent reader: format bits -> unmask -> zigzag read -> de-interleave -> RS syndromes -> byte mode.
 const EC_BITS = { 1: 'L', 0: 'M', 3: 'Q', 2: 'H' };
@@ -141,6 +142,8 @@ test('bad options throw', () => {
   assert.throws(() => qrMatrix('a', { mask: 8 }), RangeError);
   assert.throws(() => qrMatrix('a', { minVersion: 5, maxVersion: 2 }), RangeError);
   assert.throws(() => qrSvg('a', { border: -1 }), RangeError);
+  assert.throws(() => qrSvg('a', { size: 'abc' }), RangeError);
+  assert.throws(() => qrSvg('a', { size: 0 }), RangeError);
 });
 
 // The unmasked data region must reproduce the exact codeword stream the encoder computed: read it back

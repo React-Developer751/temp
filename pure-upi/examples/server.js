@@ -44,7 +44,14 @@ http.createServer(async (req, res) => {
   if (pathname === '/api/login' && req.method === 'POST') {
     let body = '';
     for await (const c of req) body += c;
-    const name = String(JSON.parse(body || '{}').user || '').replace(/[^a-zA-Z0-9_-]/g, '').slice(0, 30);
+    let data;
+    try {
+      data = JSON.parse(body || '{}');
+    } catch {
+      res.statusCode = 400;
+      return res.end(JSON.stringify({ error: 'BAD_REQUEST', message: 'Body must be JSON, e.g. {"user":"ravi"}' }));
+    }
+    const name = String(data?.user || '').replace(/[^a-zA-Z0-9_-]/g, '').slice(0, 30);
     res.setHeader('Set-Cookie', `user=${encodeURIComponent(name)}; Path=/; HttpOnly; SameSite=Lax`);
     return res.end(JSON.stringify({ user: name }));
   }

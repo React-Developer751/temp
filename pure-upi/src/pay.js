@@ -16,7 +16,7 @@ function normalizePlans(plans) {
   if (!plans || typeof plans !== 'object' || !Object.keys(plans).length) {
     throw new TypeError('pure-upi: `plans` is required, e.g. { monthly: { price: 99 } }');
   }
-  const out = {};
+  const out = Object.create(null); // plan ids like "__proto__" stay plain keys
   for (const [id, plan] of Object.entries(plans)) {
     const p = typeof plan === 'object' && plan !== null ? plan : { price: plan };
     out[id] = { ...p, id, name: p.name ?? id, pricePaise: toPaise(p.price), price: formatPaise(toPaise(p.price)) };
@@ -42,6 +42,9 @@ export function createUpiPay({
 } = {}) {
   if (!isValidVpa(upiId)) throw new TypeError(`pure-upi: invalid upiId ${JSON.stringify(upiId)}`);
   if (!name) throw new TypeError('pure-upi: `name` (payee name) is required');
+  if (typeof holdMs !== 'number' || !Number.isFinite(holdMs) || holdMs < 0) {
+    throw new RangeError(`pure-upi: holdMs must be a non-negative number of ms (got ${holdMs})`);
+  }
   const planMap = normalizePlans(plans);
 
   const linkFor = (order) => upiLink({ upiId, name, amount: order.amount, note: `${notePrefix} ${order.id}` });
@@ -82,8 +85,13 @@ export function createUpiPay({
       if (userId === undefined || userId === null || userId === '') throw new UpiPayError('UNAUTHORIZED', 'userId is required');
       const p = Object.hasOwn(planMap, plan) ? planMap[plan] : null;
       if (!p) throw new UpiPayError('INVALID_PLAN', `Unknown plan ${JSON.stringify(plan)}`);
-      const amountPaise = await pickAmount(p.pricePaise);
       const t = now();
+      // Same user, same plan, still inside its hold window: return that order instead of reserving another
+      // amount (reloads and double clicks don't pile up orders or use up the 99 amount slots).
+      const open = (await store.list({ userId: String(userId), status: 'pending', limit: 20 }))
+        .find((o) => o.plan === p.id && o.holdUntil > t);
+      if (open) return { order: open, link: linkFor(open) };
+      const amountPaise = await pickAmount(p.pricePaise);
       const order = {
         id: newId(),
         userId: String(userId),

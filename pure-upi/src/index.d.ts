@@ -178,6 +178,7 @@ export interface UpiPay {
   plans(): Plan[];
   linkFor(order: UpiOrder): string;
   qrFor(order: UpiOrder, options?: QrSvgOptions): string;
+  /** Returns the user's existing pending order for this plan while its hold lasts, otherwise a new one. */
   createOrder(input: { userId: string | number; plan: string; meta?: unknown }): Promise<{ order: UpiOrder; link: string }>;
   getOrder(orderId: string): Promise<UpiOrder>;
   submitUtr(input: { orderId: string; userId?: string | number; utr: string }): Promise<UpiOrder>;

@@ -1,6 +1,8 @@
 // Zero-dependency QR Code encoder (ISO/IEC 18004), byte mode, versions 1-40.
 // Works in Node and in the browser: no Node built-ins are used.
 
+import { rsDivisor, rsRemainder } from './rs.js';
+
 const ECL = {
   L: { index: 0, formatBits: 1 },
   M: { index: 1, formatBits: 0 },
@@ -55,41 +57,6 @@ function alignmentPositions(ver, size) {
   const step = ver === 32 ? 26 : Math.ceil((ver * 4 + 4) / (count * 2 - 2)) * 2;
   const result = [6];
   for (let pos = size - 7; result.length < count; pos -= step) result.splice(1, 0, pos);
-  return result;
-}
-
-// ---- Reed-Solomon over GF(256), polynomial 0x11D ----
-
-function gfMul(x, y) {
-  let z = 0;
-  for (let i = 7; i >= 0; i--) {
-    z = (z << 1) ^ ((z >>> 7) * 0x11d);
-    z ^= ((y >>> i) & 1) * x;
-  }
-  return z;
-}
-
-export function rsDivisor(degree) {
-  const result = new Array(degree).fill(0);
-  result[degree - 1] = 1;
-  let root = 1;
-  for (let i = 0; i < degree; i++) {
-    for (let j = 0; j < degree; j++) {
-      result[j] = gfMul(result[j], root);
-      if (j + 1 < degree) result[j] ^= result[j + 1];
-    }
-    root = gfMul(root, 0x02);
-  }
-  return result;
-}
-
-export function rsRemainder(data, divisor) {
-  const result = new Array(divisor.length).fill(0);
-  for (const b of data) {
-    const factor = b ^ result.shift();
-    result.push(0);
-    for (let i = 0; i < divisor.length; i++) result[i] ^= gfMul(divisor[i], factor);
-  }
   return result;
 }
 
@@ -356,6 +323,9 @@ export function qrSvg(text, { border = 4, dark = '#000', light = '#fff', size, t
       d += `M${x + border},${y + border}h${run}v1h-${run}z`;
       x += run - 1;
     }
+  }
+  if (size !== undefined && !(Number(size) > 0 && Number.isFinite(Number(size)))) {
+    throw new RangeError(`pure-upi: size must be a positive number of px (got ${size})`);
   }
   const px = size === undefined ? '' : ` width="${Number(size)}" height="${Number(size)}"`;
   const label = title === undefined ? '' : `<title>${escapeXml(title)}</title>`;

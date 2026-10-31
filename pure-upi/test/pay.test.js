@@ -43,11 +43,11 @@ test('expired pending orders free their amount; submitted ones keep it', async (
   let t = 1_000_000;
   const pay = make({ now: () => t, holdMs: 1000 });
   const first = [];
-  for (let i = 0; i < 99; i++) first.push((await pay.createOrder({ userId: 'u', plan: 'monthly' })).order);
+  for (let i = 0; i < 99; i++) first.push((await pay.createOrder({ userId: `u${i}`, plan: 'monthly' })).order);
   await pay.submitUtr({ orderId: first[0].id, utr: '400000000001' });
   t += 2000;
   const seen = new Set();
-  for (let i = 0; i < 98; i++) seen.add((await pay.createOrder({ userId: 'v', plan: 'monthly' })).order.amountPaise);
+  for (let i = 0; i < 98; i++) seen.add((await pay.createOrder({ userId: `v${i}`, plan: 'monthly' })).order.amountPaise);
   assert.equal(seen.size, 98);
   assert.ok(!seen.has(first[0].amountPaise), 'submitted order still holds its amount');
 });
@@ -159,4 +159,30 @@ test('unknown plan / missing user', async () => {
   await assert.rejects(pay.createOrder({ userId: 'u', plan: 'lifetime' }), code('INVALID_PLAN'));
   await assert.rejects(pay.createOrder({ userId: 'u', plan: 'toString' }), code('INVALID_PLAN'));
   await assert.rejects(pay.createOrder({ plan: 'monthly' }), code('UNAUTHORIZED'));
+});
+
+test('same user + plan while the hold lasts gets the same order back (no order spam)', async () => {
+  let t = 0;
+  const pay = make({ now: () => t, holdMs: 1000 });
+  const a = (await pay.createOrder({ userId: 'u1', plan: 'monthly' })).order;
+  for (let i = 0; i < 50; i++) assert.equal((await pay.createOrder({ userId: 'u1', plan: 'monthly' })).order.id, a.id);
+  assert.equal((await pay.list({ userId: 'u1' })).length, 1);
+  const y = (await pay.createOrder({ userId: 'u1', plan: 'yearly' })).order;
+  assert.notEqual(y.id, a.id, 'other plan -> new order');
+  assert.notEqual((await pay.createOrder({ userId: 'u2', plan: 'monthly' })).order.id, a.id, 'other user -> new order');
+  t = 2000;
+  assert.notEqual((await pay.createOrder({ userId: 'u1', plan: 'monthly' })).order.id, a.id, 'after the hold -> new order');
+  const s = (await pay.createOrder({ userId: 'u3', plan: 'monthly' })).order;
+  await pay.submitUtr({ orderId: s.id, utr: '412345678901' });
+  assert.notEqual((await pay.createOrder({ userId: 'u3', plan: 'monthly' })).order.id, s.id, 'submitted -> new order');
+});
+
+test('option validation', async () => {
+  assert.throws(() => make({ holdMs: 'abc' }), RangeError);
+  assert.throws(() => make({ holdMs: -1 }), RangeError);
+  assert.throws(() => make({ holdMs: Infinity }), RangeError);
+  assert.equal(make({ holdMs: 0 }).plans().length, 2);
+  const pay = make({ plans: JSON.parse('{"__proto__": 50, "toString": 10}') });
+  assert.deepEqual(pay.plans().map((p) => p.id).sort(), ['__proto__', 'toString']);
+  assert.equal((await pay.createOrder({ userId: 'u', plan: '__proto__' })).order.amountPaise > 5000, true);
 });

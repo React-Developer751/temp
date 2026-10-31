@@ -122,6 +122,10 @@ Methods: `plans()`, `createOrder({ userId, plan, meta? })`, `getOrder(id)`, `sub
 `approve(id, { utr?, by? })`, `reject(id, { reason?, by? })`, `list({ status?, userId?, amount?, limit? })`,
 `linkFor(order)`, `qrFor(order, svgOptions?)`.
 
+`createOrder` returns the user's existing pending order for the same plan while its hold (`holdMs`) lasts, so
+reloads and double clicks don't create piles of orders or use up the unique amounts. Rate-limit the endpoint in
+your app as you would any other.
+
 Guarantees: amounts are integer paise (no float errors). A UTR can be attached to only one order (unique index in
 MongoDB). Rejecting frees the UTR again. State changes are atomic (`pending -> submitted -> approved|rejected`), so
 two admins clicking Approve at once run `onApproved` only once.
