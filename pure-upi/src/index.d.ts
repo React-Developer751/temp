@@ -149,7 +149,7 @@ export function memoryStore(): UpiStore;
 export function mongoStore(collection: unknown): UpiStore & { init(): Promise<void> };
 
 export interface UpiPayOptions {
-  /** Your UPI ID (VPA). A merchant/business UPI ID is recommended. */
+  /** Your UPI ID (VPA). Only the format is checked: send yourself a ₹1 test first. A merchant/business UPI ID is recommended. */
   upiId: string;
   /** Payee name shown in the UPI app. */
   name: string;
@@ -157,7 +157,7 @@ export interface UpiPayOptions {
   plans: Record<string, PlanInput | number | string>;
   /** Default memoryStore() (lost on restart). */
   store?: UpiStore;
-  /** Add 1-99 paise so each pending order has a distinct amount. Default true. */
+  /** Add 1-99 paise (paid by the buyer) so each pending order has a distinct amount. Default true; false charges the exact price. */
   uniqueAmount?: boolean;
   /** How long a pending order keeps its unique amount, ms. Default 30 minutes. */
   holdMs?: number;

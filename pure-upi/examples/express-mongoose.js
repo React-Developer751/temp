@@ -38,4 +38,4 @@ app.use('/api/upi', requireLogin, upiHandler(pay, {
   isAdmin: (req) => req.user?.role === 'admin',
 }));
 
-app.listen(5000);
+app.listen(process.env.PORT || 4000); // not 5000: macOS AirPlay uses it
