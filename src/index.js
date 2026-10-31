@@ -14,11 +14,16 @@ const DEFAULTS = {
  * If constructed from an Error, `retry()` rejects with that original error.
  */
 export class AbortError extends Error {
-  /** @param {string | Error} messageOrError */
+  /** @param {string | Error} [messageOrError] */
   constructor(messageOrError) {
-    super(messageOrError instanceof Error ? messageOrError.message : messageOrError);
+    const isError = messageOrError instanceof Error;
+    const message = isError ? messageOrError.message
+      : typeof messageOrError === 'string' ? messageOrError
+        : messageOrError === undefined ? 'Retrying was stopped' : String(messageOrError);
+    // Anything that isn't a string is kept as `cause`, so no information is lost.
+    super(message, typeof messageOrError === 'string' || messageOrError === undefined ? undefined : { cause: messageOrError });
     this.name = 'AbortError';
-    this.originalError = messageOrError instanceof Error ? messageOrError : undefined;
+    this.originalError = isError ? messageOrError : undefined;
   }
 }
 
@@ -63,10 +68,19 @@ function resolveOptions(options) {
   if (![true, false, 'equal', 'full'].includes(opts.jitter)) {
     throw new TypeError('pure-retry: "jitter" must be true, false, "equal" or "full"');
   }
-  if (opts.timeout !== undefined) assertNumber('timeout', opts.timeout, { min: 1 });
+  if (opts.timeout !== undefined) {
+    assertNumber('timeout', opts.timeout, { min: 1, allowInfinity: true });
+    // A finite value past the timer limit would fire after ~1ms instead of never.
+    if (Number.isFinite(opts.timeout) && opts.timeout > MAX_TIMER_MS) {
+      throw new TypeError(`pure-retry: "timeout" must be at most ${MAX_TIMER_MS} ms (or Infinity for none), got ${opts.timeout}`);
+    }
+    if (opts.timeout === Infinity) opts.timeout = undefined;
+  }
   if (opts.maxRetryTime !== undefined) assertNumber('maxRetryTime', opts.maxRetryTime, { allowInfinity: true });
+  if (opts.maxRetryTime === Infinity) opts.maxRetryTime = undefined;
   assertFunction('shouldRetry', opts.shouldRetry);
   assertFunction('onRetry', opts.onRetry);
+  if (opts.signal === null) opts.signal = undefined;
   if (opts.signal !== undefined && typeof opts.signal?.aborted !== 'boolean') {
     throw new TypeError('pure-retry: "signal" must be an AbortSignal');
   }
@@ -80,6 +94,9 @@ function resolveOptions(options) {
  *   jitter "full": random * base                                    -> maximum spread
  */
 export function computeDelay(retryIndex, options = {}, random = Math.random) {
+  if (!Number.isInteger(retryIndex) || retryIndex < 0) {
+    throw new TypeError(`pure-retry: "retryIndex" must be an integer >= 0, got ${String(retryIndex)}`);
+  }
   const { factor, minTimeout, maxTimeout, jitter } = resolveOptions(options);
   // Clamp the multiplier first so 0 * Infinity can never produce NaN.
   const growth = Math.min(factor ** retryIndex, MAX_TIMER_MS);
@@ -164,19 +181,30 @@ export async function retry(fn, options = {}) {
   const { retries, signal, shouldRetry, onRetry, maxRetryTime } = opts;
   const startedAt = performance.now();
 
+  const elapsed = () => performance.now() - startedAt;
+
   for (let attempt = 1; ; attempt++) {
     if (signal?.aborted) throw abortReason(signal);
 
+    // With a total budget, an attempt may only use what is left of it (and never more than `timeout`).
+    let timeout = opts.timeout;
+    if (maxRetryTime !== undefined) {
+      const left = Math.max(1, Math.ceil(maxRetryTime - elapsed()));
+      if (left <= MAX_TIMER_MS && (timeout === undefined || left < timeout)) timeout = left;
+    }
+
     try {
-      return await runAttempt(fn, attempt, opts);
+      return await runAttempt(fn, attempt, { timeout, signal });
     } catch (error) {
       if (error instanceof AbortError) throw error.originalError ?? error;
-      if (attempt > retries) throw error;
       if (signal?.aborted) throw abortReason(signal);
+      if (attempt > retries) throw error;
       if (shouldRetry && !(await shouldRetry(error, attempt))) throw error;
+      // The hooks may be async: the caller can abort while they run.
+      if (signal?.aborted) throw abortReason(signal);
 
       const delay = computeDelay(attempt - 1, opts);
-      if (maxRetryTime !== undefined && performance.now() - startedAt + delay > maxRetryTime) throw error;
+      if (maxRetryTime !== undefined && elapsed() + delay >= maxRetryTime) throw error;
       if (onRetry) await onRetry(error, attempt, delay);
       await sleep(delay, signal);
     }

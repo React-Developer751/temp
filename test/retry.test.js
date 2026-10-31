@@ -258,3 +258,48 @@ test('package is usable via require() (CommonJS consumers)', async () => {
   assert.equal(typeof cjs.retry, 'function');
   assert.equal(await cjs.retry(() => 7, { minTimeout: 1 }), 7);
 });
+
+test('timeout past the 32-bit timer limit is rejected; Infinity means no timeout', async () => {
+  await assert.rejects(retry(() => 1, { timeout: 2 ** 31 }), TypeError);
+  const slow = () => new Promise((r) => setTimeout(() => r('done'), 20));
+  assert.equal(await retry(slow, { retries: 0, timeout: Infinity }), 'done');
+});
+
+test('maxRetryTime also cuts off an attempt that is still running', async () => {
+  const started = performance.now();
+  const hang = () => new Promise((_, reject) => setTimeout(() => reject(new Error('slow')), 500));
+  await assert.rejects(retry(hang, { ...fast, retries: 5, maxRetryTime: 80 }), TimeoutError);
+  assert.ok(performance.now() - started < 300, 'stopped near the budget, not after the slow attempt');
+});
+
+test('abort while an async shouldRetry runs: onRetry is skipped and signal.reason wins', async () => {
+  const ac = new AbortController();
+  const reason = new Error('ABORT');
+  let onRetryCalled = false;
+  await assert.rejects(
+    retry(() => { throw new Error('fn'); }, {
+      ...fast,
+      signal: ac.signal,
+      shouldRetry: async () => { ac.abort(reason); return true; },
+      onRetry: () => { onRetryCalled = true; },
+    }),
+    (e) => e === reason,
+  );
+  assert.equal(onRetryCalled, false);
+});
+
+test('computeDelay rejects a bad retryIndex', () => {
+  for (const bad of [NaN, -1, 0.5, '1']) assert.throws(() => computeDelay(bad, fast), TypeError);
+});
+
+test('AbortError keeps non-Error input as cause and has a message', () => {
+  assert.equal(new AbortError().message, 'Retrying was stopped');
+  const detail = { status: 404 };
+  const e = new AbortError(detail);
+  assert.equal(e.cause, detail);
+  assert.equal(e.originalError, undefined);
+});
+
+test('signal: null is treated as no signal', async () => {
+  assert.equal(await retry(() => 'ok', { signal: null }), 'ok');
+});

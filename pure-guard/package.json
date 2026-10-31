@@ -1,0 +1,54 @@
+{
+  "name": "pure-guard",
+  "version": "0.2.0",
+  "description": "Zero-dependency scanner for JavaScript/TypeScript: hardcoded secrets, injection, silent crashes and AI-generated text-handling bugs",
+  "author": "ayushmishra950",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushmishra950/multiple-tools.git",
+    "directory": "pure-guard"
+  },
+  "homepage": "https://github.com/ayushmishra950/multiple-tools/tree/main/pure-guard#readme",
+  "bugs": {
+    "url": "https://github.com/ayushmishra950/multiple-tools/issues"
+  },
+  "type": "module",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "default": "./src/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "bin": {
+    "pure-guard": "./bin/pure-guard.js"
+  },
+  "files": [
+    "src",
+    "bin",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "scripts": {
+    "test": "node --test",
+    "scan": "node bin/pure-guard.js src bin",
+    "prepublishOnly": "npm test"
+  },
+  "keywords": [
+    "security",
+    "secrets",
+    "sast",
+    "linter",
+    "xss",
+    "sql-injection",
+    "zero-dependency"
+  ]
+}

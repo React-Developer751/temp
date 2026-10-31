@@ -1,7 +1,17 @@
 {
   "name": "pure-retry",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Zero-dependency retry with exponential backoff and jitter for Node.js",
+  "author": "ayushmishra950",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushmishra950/multiple-tools.git"
+  },
+  "homepage": "https://github.com/ayushmishra950/multiple-tools#readme",
+  "bugs": {
+    "url": "https://github.com/ayushmishra950/multiple-tools/issues"
+  },
   "type": "module",
   "main": "./src/index.js",
   "types": "./src/index.d.ts",
@@ -9,7 +19,8 @@
     ".": {
       "types": "./src/index.d.ts",
       "default": "./src/index.js"
-    }
+    },
+    "./package.json": "./package.json"
   },
   "files": [
     "src",
@@ -31,6 +42,5 @@
     "exponential-backoff",
     "jitter",
     "zero-dependency"
-  ],
-  "license": "MIT"
+  ]
 }

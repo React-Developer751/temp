@@ -1,0 +1,47 @@
+{
+  "name": "pure-cron",
+  "version": "0.3.0",
+  "description": "Zero-dependency cron parser and scheduler: computes the next run and arms a single setTimeout, no polling",
+  "author": "ayushmishra950",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushmishra950/multiple-tools.git",
+    "directory": "pure-cron"
+  },
+  "homepage": "https://github.com/ayushmishra950/multiple-tools/tree/main/pure-cron#readme",
+  "bugs": {
+    "url": "https://github.com/ayushmishra950/multiple-tools/issues"
+  },
+  "type": "module",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "default": "./src/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "scripts": {
+    "test": "node --test",
+    "prepublishOnly": "npm test"
+  },
+  "keywords": [
+    "cron",
+    "scheduler",
+    "cron-parser",
+    "timezone",
+    "zero-dependency"
+  ]
+}
